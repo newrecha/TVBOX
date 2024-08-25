@@ -5,7 +5,7 @@
   "logo": "http://img.fongmi.eu.org/fongmi.jpg",
   "sites": [
    {
-	  key":"drpy_js_豆瓣",
+	  "key":"drpy_js_豆瓣",
 	  "name":"🐮【老王私人使用】🐮",
 	  "type": 3, 
 	  "api":"./lib/drpy2.min.js",
