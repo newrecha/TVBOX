@@ -33,78 +33,6 @@
       "changeable": 0,
 	  "indexs": 0
     },
-{
-    "key": "avge",
-    "name": "🔞avge",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./jar/XBPQ.jar",
-    "style": {
-        "type": "rect",
-        "ratio": 1.5
-    },
-    "ext": {
-        "主页url": "https://avgle.to",
-        "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-        "图片": "data-src=\"&&\"",
-        "标题": "class=\"title\"><a*>&&</a>",
-        "链接": "<a href=\"&&\"",
-        "直接播放": "1",
-        "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-        "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-    }
-}, {
-    "key": "RJAV",
-    "name": "💗┃💋RJAV┃💠",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./jar/XBPQ.jar",
-    "style": {
-        "type": "rect",
-        "ratio": 1.77
-    },
-    "ext": {
-        "主页url": "https://rjav.tv/zh/",
-        "直接播放": "1",
-        "数组": "class=\"mb15\"&&</li>",
-        "图片": "src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "简介": "title>&&</title",
-        "主演": "name=\"keywords\" content=\"&&\"",
-        "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
-        "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
-    }
-}, {
-    "key": "JAVSB",
-    "name": "🔞JAVSB",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./jar/XBPQ.jar",
-    "ext": {
-        "主页url": "https://jav.sb/",
-        "直接播放": "1",
-        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
-        "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
-    }
-}, {
-    "key": "13AV",
-    "name": "🔞13AV",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./jar/XBPQ.jar",
-    "ext": {
-        "直接播放": "1",
-        "嗅探词": "index.m3u8",
-        "简介": "name=\"description\" content=\"&&\"/>",
-        "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
-        "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
-    }
-},    
     {
             "key": "T4-heimuer",
             "name": "黑木耳(T4)",
@@ -115,7 +43,9 @@
             "filterable": 1,
             "changeable": 0
         },
-	{
+{"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/达达龟.js"},
+{"key":"drpy_js_蛋蛋赞","name":"影视 | 蛋蛋赞[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/main/newrecha/js/drpy2.min.js","searchable": 0,"changeable": 0,"ext":"https://raw.githubusercontent.com/qist/tvbox/main/newrecha/js/蛋蛋赞.js"},
+	  {
 	"key":"api_黑木耳","name":"影视 | 黑木耳[直连]",
 	"type":3,
 	"api":"csp_XBPQ","searchable":1,
@@ -294,8 +224,6 @@
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/TVB云播.js"},
 {"key":"drpy_js_北川影视","name":"影视 | 北川影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/北川影视.js"},
 {"key":"drpy_js_尘落影视","name":"影视 | 尘落影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/尘落影视.js"},
-{"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/达达龟.js"},
-{"key":"drpy_js_蛋蛋赞","name":"影视 | 蛋蛋赞[js]","type":3,"api":"./js/drpy2.min.js","searchable": 0,"changeable": 0,"ext":"./js/蛋蛋赞.js"},
 {"key":"drpy_js_蓝光影院","name":"影视 | 蓝光影院[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/蓝光影院.js"},
 {"key":"drpy_js_首播影院","name":"影视 | 首播影院[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/首播影院.js"},
 {"key":"drpy_js_小白菜电影","name":"影视 | 小白菜电影[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/小白菜电影.js"},
@@ -404,6 +332,78 @@
 {"key":"drpy_js_MP4US","name":"磁力 | MP4电影[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_电影港","name":"磁力 | 电影港[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_xb6v","name":"磁力 | 新版6v[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{
+    "key": "avge",
+    "name": "🔞avge",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jar/XBPQ.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "主页url": "https://avgle.to",
+        "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "class=\"title\"><a*>&&</a>",
+        "链接": "<a href=\"&&\"",
+        "直接播放": "1",
+        "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
+        "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+    }
+}, {
+    "key": "RJAV",
+    "name": "💗┃💋RJAV┃💠",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jar/XBPQ.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.77
+    },
+    "ext": {
+        "主页url": "https://rjav.tv/zh/",
+        "直接播放": "1",
+        "数组": "class=\"mb15\"&&</li>",
+        "图片": "src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "title>&&</title",
+        "主演": "name=\"keywords\" content=\"&&\"",
+        "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
+        "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
+    }
+}, {
+    "key": "JAVSB",
+    "name": "🔞JAVSB",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jar/XBPQ.jar",
+    "ext": {
+        "主页url": "https://jav.sb/",
+        "直接播放": "1",
+        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "href=\"&&\"",
+        "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+        "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
+    }
+}, {
+    "key": "13AV",
+    "name": "🔞13AV",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./jar/XBPQ.jar",
+    "ext": {
+        "直接播放": "1",
+        "嗅探词": "index.m3u8",
+        "简介": "name=\"description\" content=\"&&\"/>",
+        "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
+        "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
+    }
+},    
 {"key":"php_madou","name":"🔞 麻豆","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"py_liushoushaofu","name":"🔞 留守少妇","type":4,"api":"https://py.doube.eu.org/api?site=liushoushaofu","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"py_aidouchuanmei","name":"🔞 爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
