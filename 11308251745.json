@@ -295,7 +295,7 @@
 {"key":"drpy_js_北川影视","name":"影视 | 北川影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/北川影视.js"},
 {"key":"drpy_js_尘落影视","name":"影视 | 尘落影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/尘落影视.js"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/达达龟.js"},
-{"key":"drpy_js_蛋蛋赞","name":"影视 | 蛋蛋赞[js]","type":3,"api":"./js/drpy2.min.js.","searchable": 0,"changeable": 0,"ext":"./js/蛋蛋赞.js"},
+{"key":"drpy_js_蛋蛋赞","name":"影视 | 蛋蛋赞[js]","type":3,"api":"./js/drpy2.min.js","searchable": 0,"changeable": 0,"ext":"./js/蛋蛋赞.js"},
 {"key":"drpy_js_蓝光影院","name":"影视 | 蓝光影院[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/蓝光影院.js"},
 {"key":"drpy_js_首播影院","name":"影视 | 首播影院[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/首播影院.js"},
 {"key":"drpy_js_小白菜电影","name":"影视 | 小白菜电影[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/小白菜电影.js"},
@@ -313,7 +313,6 @@
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/菜狗.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/优酷.js"},
 {"key":"drpy_js_ddys","name":"影视 | 低端影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/ddys.js", "quickSearch":1, "changeable":1, "timeout":30},
-
 {"key":"drpy_js_tzfile","name":"影视 | 团长影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/tzfile.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_97tvs","name":"影视 | 97tvs[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/97tvs.js", "quickSearch":1, "changeable":1, "timeout":30}, 
 {"key":"drpy_js_rrdyw","name":"影视 | rrdyw[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/rrdyw.js", "quickSearch":1, "changeable":1, "timeout":30}, 
