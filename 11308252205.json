@@ -3,35 +3,6 @@
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "http://img.fongmi.eu.org/fongmi.jpg",
   "sites": [
-    {
-	  "key":"Douban",
-	  "name":"🐮【老王私人使用】🐮",
-	  "type": 3, 
-	  "api": "csp_Douban",
-	  "searchable": 0,
-	  "quickSearch": 0,
-	  "filterable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
-	},
-    {
-	  "key":"Doubana",
-	  "name":"⬇️【网盘类先扫码】⬇️",
-	  "type": 3, 
-	  "api": "csp_Douban",
-	  "searchable": 0,
-	  "quickSearch": 0,
-	  "filterable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
-	},
-	{
-      "key": "Wexconfig",
-      "name": "🐮配置┃中心🐮",
-      "type": 3,
-      "api": "csp_Wexconfig",
-      "searchable": 0,
-      "changeable": 0,
-	  "indexs": 0
-    },
 {
 	"key": "avge",
 	"name": "🔞avge",
