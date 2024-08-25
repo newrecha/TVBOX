@@ -38,8 +38,7 @@
 	"key":"drpy_js_小宝影院[飞]",
 	"name":"起飞 | 小宝影院[js]","type":3,
 	"api":"https://raw.githubusercontent.com/newrecha/TVBOX/main/js/drpy2.min.js",
-	"ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/小宝影院[飞].js"	
-	},
+	"ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/小宝影院[飞].js},
 	{
 	"key":"drpy_js_看了么","name":"影视 | 看了么[js]","type":3,
 	"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
