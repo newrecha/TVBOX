@@ -437,7 +437,6 @@
 {"key":"csp_xBPQ_天天直播直播","name":"🔞天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/天天直播.json","jar":"./lib/xb.jar"},
 {"key":"drpy_js_色色","name":"涩涩🔞直播","type":3,"api":"./lib/drpy.min.js","ext":"./lib/ss直播.js","playerType":"1"}, 
 {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"./lib/直转点.js","ext":"./lib/直转点.txt"},
-{"key":"csp_Alist1_lhg","name":"🔞罗汉果","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"./lib/lhg.txt","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/❤罗汉果.png"},
 {"key":"花都影视","name":"🔞花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"富二代","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"夜色资源","name":"🔞夜色资源","type":1,"api":"https://www.yszy02.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
