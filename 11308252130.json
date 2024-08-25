@@ -43,26 +43,6 @@
             "filterable": 1,
             "changeable": 0
         },
-	{
-	"key":"api_黑木耳","name":"影视 | 黑木耳[直连]",
-	"type":3,
-	"api":"csp_XBPQ","searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"playerType":2,
-	"ext":"./json/api黑木耳.json",
-	"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
-	{
-	"key":"drpy_js_小宝影院[飞]",
-	"name":"起飞 | 小宝影院[js]","type":3,
-	"api":"./lib/drpy2.min.js",
-	"ext":"./js/小宝影院[飞].js"	
-	},
-	{
-	"key":"drpy_js_看了么","name":"影视 | 看了么[js]","type":3,
-	"api":"./lib/drpy2.min.js",
-	"ext":"./js/看了么.js"
-	},
 	{"key":"drpy_js_素白白","name":"影视 | 素白白[js]",
 	"type":3,"api":"./lib/drpy2.min.js",
 	"ext":"./js/素白白.js"
@@ -76,8 +56,7 @@
       "changeable": 0
     }
   ],
-  
-	    "parses": [
+  	    "parses": [
         {
             "name": "王",
             "type": 1,
@@ -244,26 +223,5 @@
   "ads": [
     "mozai.4gtv.tv",
 	"pv.vipwm.cc"
-  ],
-"lives": [
-       {
-	    "name": "UPLive安博(大街源)",
-	    "type": 0,
-	    "url": "https://files.catbox.moe/g4zbng.json",
-	    "ua": "okhttp/4.1.2.0",
-	    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-	    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	},
-        {
-            "name": "安博(唐三)",
-            "url": "https://tang.hz.cz/zb/anbo?token=e04750e2",
-            "ua": "okhttp/4.12.0"
-        },
-        {
-            "name": "ETH(唐三)",
-            "api": "https://tang.hz.cz/js/ethtv.js",
-            "type": 3,
-            "ua": "okhttp/4.12.0"
-        }
-    ]
+  ]
 }
