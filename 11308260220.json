@@ -138,7 +138,7 @@
 			"key": "hipy_js_4K-AV",
 			"name": "4K-AV",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
