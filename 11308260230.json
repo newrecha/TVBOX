@@ -479,7 +479,7 @@
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13",
 "分类url":"https://10gaokk.com/vodtype/{cateId}-{catePg}.html"}}
 
-{"key": "push_agent","name": "推送","type": 3,api": "csp_Push","searchable": 1,"changeable": 0}
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","searchable": 1,"changeable": 0}
   ],
   
 	    "parses": [
