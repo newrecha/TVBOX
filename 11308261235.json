@@ -1,5 +1,5 @@
 {
- "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724244129122/wex.txt;md5;c4126da2e761faad2804452c3fee0653",
+ "spider": "./fty.jar;md5;6adeb73add2066fe62257d2337084da2",
 
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "http://img.fongmi.eu.org/fongmi.jpg",
@@ -32,8 +32,8 @@
 	"quickSearch":1,
 	"filterable":1,
 	"playerType":2,
-	"ext":"https://raw.githubusercontent.com/qist/tvbox/master/json/api黑木耳.json",
-	"jar": "https://raw.githubusercontent.com/qist/tvbox/master/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
+	"ext":"./json/api黑木耳.json",
+	"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 	{
 	"key":"drpy_js_小宝影院[飞]",
 	"name":"起飞 | 小宝影院[js]","type":3,
