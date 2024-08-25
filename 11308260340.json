@@ -434,7 +434,7 @@
 {"key": "apilsbzy1.com","name": "🔞大地资源(php)","api": "https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"drpy_js_色色","name":"涩涩🔞直播","type":3,"api":"./lib/drpy.min.js","ext":"./lib/ss直播.js","playerType":"1","searchable":0,"quickSearch":0}, 
 {"key":"花都影视","name":"🔞花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"富二代","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"富二代","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"gdlsp","name":"🔞老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"kxgav","name":"🔞开心果AV","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","searchable": 1,"changeable": 0}
