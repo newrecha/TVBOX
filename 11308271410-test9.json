@@ -236,7 +236,7 @@
 	{"key":"csp_xBPQ_色花堂","name":"🔞色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/色花堂.json","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_GAOAA","name":"🔞GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GAOAA.json","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_Jable","name":"🔞Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Jable.json","jar":"./jar/XBPQ.jar"},
-	{"key":"drpy_js_玩偶姐姐","name":"🔞玩偶姐姐","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/玩偶姐姐.js",,"jar":"./jar/XBPQ.jar"},
+	{"key":"drpy_js_玩偶姐姐","name":"🔞玩偶姐姐","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/玩偶姐姐.js","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_NOWAV","name":"🔞NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/NOWAV.json","jar":"./jar/Yoursmile2.jar"},
 	{"key":"csp_xBPQ_女优","name":"🔞女优〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/女优.json","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_XYQHiker_香蕉","name":"🔞香蕉(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/香蕉.json","jar":"./jar/XBPQ.jar"},
