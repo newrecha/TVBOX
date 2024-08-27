@@ -2,7 +2,7 @@
 	"spider":"./fty.jar;md5;6adeb73add2066fe62257d2337084da2",
 	"wallpaper":"https://牛逼.王二小放牛娃.xyz/",
 	"logo":"http://img.fongmi.eu.org/fongmi.jpg",
-	"notice":"歡迎光臨！這是一大堆亂七八糟的源整合在一起的垃圾"
+	"notice":"歡迎光臨！這是一大堆亂七八糟的源整合在一起的垃圾",
 
 "sites":[
 	{"key":"drpy_js_豆瓣","name":"🐮【老王私人使用】🐮","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
