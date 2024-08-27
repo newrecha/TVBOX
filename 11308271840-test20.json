@@ -331,7 +331,8 @@
 	{"key":"白嫖资源","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"changeable":0,"filterable":1},
 	{"key":"番号资源","name":"🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"changeable":0,"filterable":1},
 	{"key":"鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"filterable":1},
-	{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0}],
+	{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0}
+],
 
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
