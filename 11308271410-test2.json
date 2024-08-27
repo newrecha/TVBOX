@@ -6,15 +6,6 @@
 
 "sites":[
 	{"key":"drpy_js_豆瓣","name":"🐮【老王私人使用】🐮","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
-	{
-      "key": "Wexkoukou",
-      "name": "🌺扣扣┃4K🌺",
-      "type": 3,
-      "api": "csp_Wexkoukou",
-      "searchable": 1,
-      "changeable": 1
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt;md5;5907b996eba16b0a76f50980a2b6bf44"
-    },
 	{"key":"api_黑木耳","name":"影视|黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./json/api黑木耳.json","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 	{"key":"drpy_js_小宝影院[飞]","name":"起飞|小宝影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"},
 	{"key":"drpy_js_素白白","name":"影视|素白白[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
