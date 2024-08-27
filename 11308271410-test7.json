@@ -231,7 +231,7 @@
 	{"key":"csp_xBPQ_爱污传媒","name":"🔞爱污传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱污传媒.json","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_麻豆映画","name":"🔞麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/麻豆映画.json","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_性欲轮回","name":"🔞性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/性欲轮回.json","jar":"./jar/XBPQ.jar"},
-	{"key":"csp_xBPQ_性欲轮回[分类]","name":"🔞性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/性欲轮回[分类].json","jar":"./jar/XBPQ.jar"},
+	{"key":"csp_xBPQ_性欲轮回[分类]","name":"🔞性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.jar","ext":"./json/性欲轮回[分类].json"},
 	{"key":"csp_xBPQ_右手影院","name":"🔞右手影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/右手影院.json",,"jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_色花堂","name":"🔞色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/色花堂.json","jar":"./jar/XBPQ.jar"},
 	{"key":"csp_xBPQ_GAOAA","name":"🔞GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GAOAA.json","jar":"./jar/XBPQ.jar"},
