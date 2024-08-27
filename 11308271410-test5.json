@@ -117,6 +117,7 @@
 	{"key":"直播转点播","name":"🐼️电视┃直播","type":3,"searchable":0,"timeout":60,"api":"https://zhangqun1818.serv00.net/zq/cat/live2vod.js","style":{"type":"list","ratio":1.1},"ext":"https://zhangqun1818.serv00.net/zq/cat/feimaolive.json"},
 	{"key":"drpy_js_哔哩直播","name":"弹幕|哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
 	{"key":"drpy_js_哔哩影视","name":"弹幕|哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩影视.js"},
+	
 	{"key":"drpy_js_58动漫","name":"动漫|58动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
 	{"key":"drpy_js_AGE动漫","name":"动漫|AGE动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
 	{"key":"drpy_js_AnFuns","name":"动漫|AnFuns[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
@@ -132,6 +133,259 @@
 	{"key":"drpy_js_曲奇动漫","name":"动漫|曲奇动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/曲奇动漫.js"},
 	{"key":"drpy_js_异世界动漫漫","name":"动漫|异世界动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
 	{"key":"drpy_js_怡萱动漫","name":"动漫|怡萱动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱动漫.js"},
+        {
+            "key": "动漫岛",
+            "name": "动漫岛｜动漫",
+            "type": 3,            "api": "./lib/drpy2.min.js","ext": "./JS/动漫岛.js"},
+        {
+            "key": "去看吧",
+            "name": "去看吧｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/去看吧.js"
+        },
+        {
+            "key": "爱弹幕",
+            "name": "爱弹幕｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/爱弹幕.js"
+        },
+        {
+            "key": "异世界",
+            "name": "异世界｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/异世界.js"
+        },
+        {
+            "key": "次元城",
+            "name": "次元城｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/次元城.js"
+        },
+        {
+            "key": "喵物次元",
+            "name": "喵物｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/喵物次元.js"
+        },
+        {
+            "key": "妮可动漫",
+            "name": "妮可｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/妮可动漫.js"
+        },
+        {
+            "key": "奇米动漫",
+            "name": "奇米｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/奇米动漫.js"
+        },
+        {
+            "key": "怡萱动漫",
+            "name": "怡萱｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/怡萱动漫.js"
+        },
+        {
+            "key": "花子动漫",
+            "name": "花子｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/花子动漫.js"
+        },
+        {
+            "key": "驴番动漫",
+            "name": "驴番｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/驴番动漫.js"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/动漫巴士.js"
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/樱花动漫.js"
+        },
+        {
+            "key": "大米动漫",
+            "name": "大米｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/大米动漫.js"
+        },
+        {
+            "key": "维奇动漫",
+            "name": "维奇｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/维奇动漫.js"
+        },
+        {
+            "key": "暮暮动漫",
+            "name": "暮暮｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/暮暮动漫.js"
+        },
+        {
+            "key": "南瓜弹幕",
+            "name": "南瓜｜弹幕",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "酷看弹幕",
+            "name": "酷看｜弹幕",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "厂长弹幕",
+            "name": "厂长｜弹幕",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "天天弹幕",
+            "name": "天天｜弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar//danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "文才弹幕",
+            "name": "文才｜弹幕",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "三六零弹幕",
+            "name": "三六零｜弹幕",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "机器人｜弹幕",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "小苹果弹幕",
+            "name": "小苹果｜弹幕",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "一起看弹幕",
+            "name": "一起看｜弹幕",
+            "type": 3,
+            "api": "csp_Yqk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "JOJO弹幕",
+            "name": "JOJO｜弹幕",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "荐片弹幕",
+            "name": "荐片｜弹幕",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },	
 	{"key":"drpy_js_采集","name":"搜索|多站点采集[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/caiji.js"},
 	{"key":"drpy_js_技术派搜索","name":"搜索|技术派[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jsp.js"},
 	{"key":"drpy_js_磁力熊搜索","name":"搜索|磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
@@ -140,6 +394,7 @@
 	{"key":"drpy_js_MP4US","name":"磁力|MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 	{"key":"drpy_js_电影港","name":"磁力|电影港[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 	{"key":"drpy_js_xb6v","name":"磁力|新版6v[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
+	
 	{"key":"avge","name":"🔞avge","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://avgle.to","数组":"col-6col-sm-4col-lg-3\">&&class=\"sub-title&&</div>","图片":"data-src=\"&&\"","标题":"class=\"title\"><a*>&&</a>","链接":"<ahref=\"&&\"","直接播放":"1","分类url":"http://avgle.to/zh/vtype/{cateId}-{catePg}.html","分类":"日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"}},
 	{"key":"RJAV","name":"💗┃💋RJAV┃💠","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","style":{"type":"rect","ratio":1.77},"ext":{"主页url":"https://rjav.tv/zh/","直接播放":"1","数组":"class=\"mb15\"&&</li>","图片":"src=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","简介":"title>&&</title","主演":"name=\"keywords\"content=\"&&\"","分类url":"https://rjav.tv/zh/videotype/{cateId}-{catePg}/","分类":"FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人Western_Porn#KoreanBJDance$Korean_BJ_Dance#寫真$Adult_IDOL"}},	
 	{"key":"JAVSB","name":"🔞JAVSB","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext":{"主页url":"https://jav.sb/","直接播放":"1","数组":"class=\"relativeaspect-w-16aspect-h-9roundedoverflow-hiddenshadow-lg\"&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","分类url":"https://jav.sb/javtype/{cateId}-{catePg}.html","分类":"日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"}},
