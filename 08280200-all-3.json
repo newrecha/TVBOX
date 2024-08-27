@@ -211,7 +211,7 @@
 
 
 
-{"key":"csp_Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","jar":"./jar/pg.jar;;md5;4aeb22cbba4494058b33e85675f415b4",""searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+{"key":"csp_Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","jar":"./jar/pg.jar;;md5;4aeb22cbba4494058b33e85675f415b4","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 {"key":"Cable","name":"🔞CableAV","type":3,"api":"csp_Cable","jar":"./jar/pg.jar;;md5;4aeb22cbba4494058b33e85675f415b4","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 {"key": "Top888","name": "🔞Top888","type": 3,"api": "csp_Top888","jar":"./jar/pg.jar;;md5;4aeb22cbba4494058b33e85675f415b4","searchable": 1,"changeable": 0},
 {"key":"玩偶","name":"🔞玩偶","type":3,"api":"csp_Doll","jar":"./jar/pg.jar;;md5;4aeb22cbba4494058b33e85675f415b4","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
