@@ -22,7 +22,7 @@ OK影视、TVBox、猫影视配置文件。所有资源均来自于各路大神�
 
 （6）0827.json  jar包和配置来源于fongmi；
 
-（7）0828.json  jar包和配置来源于唐三；
+（7）9918.json  是高山流水的18禁內容，網路已絕版；
 
 （8）js.json  jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库 添加 YouTube 直播；
 
@@ -32,7 +32,9 @@ OK影视、TVBox、猫影视配置文件。所有资源均来自于各路大神�
 
 （11）cat.json  cat源，资源来源于网络各路大佬。/cat/js配合猫影视可直接食用；
 
-（12） jsm.json 来自js.json + 0826.json 合集 家庭电视可用 删除YouTube 直播，OK影视 可用 电视建议使用OK影视 https://github.com/FongMi/Release 支持多直播选择。
+（12） jsm.json 来自js.json + 0826.json 合集 家庭电视可用 删除YouTube 直播，OK影视 可用 电视建议使用OK影视 https://github.com/FongMi/Release 支持多直播选择;
+
+（13） 0828.json 是我自己做的合體接口包 家庭电视可用(包含直播)，OK影视可用 电视建议使用OK影视，裡面包含18禁的內容。
  
 
 猫影视使用github 配置
