@@ -1,0 +1,44 @@
+{
+  "spider": "./custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723776411507/logo.gif",
+  "warningText": "软件接口完全免费，请勿贩卖和购买",
+  "sites": [
+	{"key":"api_黑木耳","name":"黑木耳|[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./json/api黑木耳.json","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
+	{"key":"drpy_js_小宝影院[飞]","name":"小宝|影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"},
+	{"key":"drpy_js_素白白","name":"素白白|影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
+	{"key":"T4-heimuer","name":"黑木耳｜(T4)","type":4,"api":"https://tang.hz.cz/power/hme?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	{"key":"T4-欧乐","name":"欧乐｜(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	{"key":"T4-安博","name":"安博｜(T4)","type":4,"api":"https://tang.hz.cz/power/ub18?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	{"key":"php2_del_ads_hmezy","name":"黑木耳｜(无广)","type":4,"api":"https://t4.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+	{"key":"php_huaweiba","name":"华为吧|影视","type":4,"api":"https://t4.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+	{"key":"黑木耳克隆","name":"黑木耳｜克隆","type":4,"api":"http://zhangqun1818.serv00.net/225.php","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"金鹰克隆","name":"金鹰｜克隆","type":4,"api":"http://zhangqun1818.serv00.net/jy.php","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"华为吧克隆","name":"华为吧｜克隆","type":4,"api":"http://zhangqun1818.serv00.net/hwb.php","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"索尼克隆","name":"索尼｜克隆","type":4,"api":"http://zhangqun1818.serv00.net/sn.php","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"采集集合","name":"采集｜集合","type":1,"api":"http://zhangqun1818.serv00.net/cjjh.php","searchable":1,"changeable":1},
+	{"key":"低端影视","name":"低端┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/ddys.js"},
+	{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0}
+],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "TV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    }
+  ] 
+}
