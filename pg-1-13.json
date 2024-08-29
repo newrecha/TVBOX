@@ -179,7 +179,7 @@
         {"key":"gdlsp","name":"🔞老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
         {"key":"kxgav","name":"🔞开心果AV","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
         {"key":"MissAV","name":"🔞MissAV1","type":1,"searchable":1,"quickSearch":1,"api":"csp_Miss","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","style":{"type":"rect","ratio":1.78}},   
-        {"key":"drpy_js_Missav","name":"🔞Missav2","type":1,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/Missav.js"},
+        {"key":"drpy_js_Missav","name":"🔞Missav2","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/Missav.js"},
         {"key":"CK资源","name":"🔞CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"changeable":0,"filterable":1},
         {"key":"乐播资源","name":"🔞乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"changeable":0,"filterable":1},
         {"key":"白嫖资源","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"changeable":0,"filterable":1},
