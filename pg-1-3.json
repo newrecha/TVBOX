@@ -167,12 +167,12 @@
         {"key":"Jable","name":"🔞Jable","type":3,"searchable":0,"quickSearch":0,"api":"csp_Jable","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","style":{"type":"rect","ratio":1.77}},
         {"key":"MissAV","name":"🔞MissAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Miss","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","style":{"type":"rect","ratio":1.78}},
         {"key":"Hanime","name":"🔞Hanime","type":3,"searchable":0,"quickSearch":0,"api":"csp_Hanime","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","style":{"type":"rect","ratio":0.68}},
-        
-        {"key":"semaozy.com","name":"🔞色猫(FQ)","type":1,"searchable":0,"quickSearch":0,"filterable":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4"},
-        {"key":"lajiaozy.com","name":"🔞辣椒(FQ)","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/?ac=list","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","searchable":0},
-        {"key":"php_madou","name":"🔞麻豆","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
-        {"key":"py_aidouchuanmei","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+        {"key":"semaozy.com","name":"🔞色猫(FQ)","type":1,"searchable":0,"quickSearch":0,"filterable":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php"},
+		{"key":"lajiaozy.com","name":"🔞辣椒(FQ)","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/?ac=list","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","searchable":0,"filterable":1},
+		{"key":"php_madou","name":"🔞麻豆","type":4,"api":"https://t4.doube.eu.org/madou.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+		{"key":"py_aidouchuanmei","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.5}}, 
         {"key":"155zy.com","name":"🔞155(直连)","type":1,"api":"https://155api.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
+
         {"key":"tantanzy.com","name":"🔞探探(直连)","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
         {"key":"jkunzy.com","name":"🔞jkun(直连)","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
         {"key":"lebozy.com","name":"🔞乐播(直连)","type":1,"api":"https://lbapi9.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
@@ -214,7 +214,8 @@
         {"key":"www.kxgav.com","name":"🔞白嫖资源(php)","api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
         {"key":"dadiapi.com","name":"🔞大地资源","api":"https://dadiapi.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},
         {"key":"dadiapi.com-j","name":"🔞大地资源(json)","api":"https://dadiapi.com/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
-
+        
+        {"key":"drpy_js_色色","name":"🔞涩涩直播","type":3,"api":"./lib/drpy.min.js","ext":"./lib/ss直播.js","playerType":1,"searchable":0,"quickSearch":0},
         {"key":"花都影视","name":"🔞花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"富二代","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":0,"quickSearch":0,"filterable":0},
         {"key":"gdlsp","name":"🔞老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
