@@ -184,12 +184,7 @@
         {"key":"白嫖资源","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"changeable":0,"filterable":1},
         {"key":"番号资源","name":"🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"changeable":0,"filterable":1},
         {"key":"鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"changeable":0,"filterable":1},
-        {"key":"Naixxzy.com","name":"🔞奶香资源","api":"https://Naixxzy.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 
-  
-  
-  
-  
         {"key":"apilj.com","name":"🔞成人06","type":1,"searchable":0,"quickSearch":0,"api":"http://apilj.com/api.php/provide/vod/at/json/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
         {"key":"llzxcj.com","name":"🔞成人11","type":0,"searchable":0,"quickSearch":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
         {"key":"api.maozyapi.com","name":"🔞成人16","type":1,"searchable":0,"quickSearch":0,"api":"https://api.maozyapi.com/inc/apijson_vod.php","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
