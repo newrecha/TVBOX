@@ -151,67 +151,6 @@
 		{"key":"新6V","name":"🛩️新6V┃P2P🛩","type":3,"api":"csp_WexXb6v","searchable":1,"changeable":0},
 		{"key":"360","name":"🛝360┃采集🛝","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 		{"key":"爱坤","name":"🛝爱坤┃采集🛝","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]},
-		{
-			"key": "avge",
-			"name": "🔞avge",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./jar/XBPQ.jar",
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-					 },
-			"ext": {
-				"主页url": "https://avgle.to",
-				"数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-				"图片": "data-src=\"&&\"",
-				"标题": "class=\"title\"><a*>&&</a>",
-				"链接": "<a href=\"&&\"",
-				"直接播放": "1",
-				"分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-				"分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-					}
-			}, 
-			{
-			"key": "RJAV",
-			"name": "💗┃💋RJAV┃💠",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./jar/XBPQ.jar",
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-					 },
-			"ext": {
-				"主页url": "https://rjav.tv/zh/",
-				"直接播放": "1",
-				"数组": "class=\"mb15\"&&</li>",
-				"图片": "src=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"简介": "title>&&</title",
-				"主演": "name=\"keywords\" content=\"&&\"",
-				"分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
-				"分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
-					}
-			},
-			{
-			"key": "JAVSB",
-			"name": "🔞JAVSB",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./jar/XBPQ.jar",
-			"ext": {
-				"主页url": "https://jav.sb/",
-				"直接播放": "1",
-				"数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
-				"图片": "data-src=\"&&\"",
-				"标题": "alt=\"&&\"",
-				"链接": "href=\"&&\"",
-				"分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
-				"分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
-					}
-			},
 			{"key":"csp_Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","searchable":0,"quickSearch":0,"jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","changeable":1,"filterable":0,"timeout":60},
 			{"key":"Cable","name":"🔞CableAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Cable","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","timeout":60},
 			{"key":"Top888","name":"🔞Top888","type":3,"api":"csp_Top888","jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4","searchable":0,"changeable":0},
