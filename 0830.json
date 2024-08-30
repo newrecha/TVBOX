@@ -136,7 +136,6 @@
 		{"key":"暮暮动漫","name":"动漫｜暮暮｜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/暮暮动漫.js"},
 		
 		{"key":"采集集合","name":"搜索｜采集","type":4,"api":"http://zhangqun1818.serv00.net/cjjh.php","searchable":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
-		{"key":"drpy_js_采集","name":"搜索｜多站点采集","type":3,"api":"./lib/drpy2.min.js","ext":"./js/caiji.js"},
 		{"key":"drpy_js_技术派搜索","name":"搜索｜技术派","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jsp.js"},
 		{"key":"drpy_js_磁力熊搜索","name":"搜索｜磁力熊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":1,"quickSearch":1,"changeable":1},
 		{"key":"drpy_js_4KHDR","name":"磁力｜4KHDR","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1","searchable":1},
