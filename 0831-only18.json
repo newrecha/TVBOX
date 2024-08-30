@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/fan.jar",
+	"spider":"./pg.jar",
 	"sites":[
 	    {"key":"csp_Netflav","name":"🔞【18禁專區】🔞","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":0,"changeable":1,"filterable":0,"timeout":60},
         {"key":"Cable","name":"🔞CableAV","type":3,"searchable":1,"quickSearch":0,"api":"csp_Cable","timeout":60},
