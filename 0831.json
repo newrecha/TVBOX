@@ -308,8 +308,7 @@
 		{"name":"YanG","type":0,"url":"https://tv.iill.top/m3u/Adult"},
 		{"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
 		{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
-		{"name":"AV","type":0,"url":"./livex.m3u"},
-		{"name":"直播","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"}    
+		{"name":"AV","type":0,"url":"./livex.m3u"}
 		],
 
   "ads":["mozai.4gtv.tv","pv.vipwm.cc"]
