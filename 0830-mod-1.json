@@ -259,6 +259,9 @@
 		{"key":"18AV","name":"🔞18AV","type":3,"api":"csp_Eighteen","searchable":0,"recordable":0,"style":{"type":"rect","ratio":1.485}},
 		{"key":"kuaiavzy.com","name":"🔞快av(FQ)","type":1,"api":"https://kuaiavzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 		{"key":"草帽资源","name":"草帽","type":1,"api":"https://cmzy.top/api.php/provide/vod/?ac=list","searchable":1,"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
+        {"key":"csp_zhazhiji","name":"🔞女榨汁姬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/榨汁姬.json"},
+        {"key":"csp_xBPQ_91色","name":"🔞91色","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/91色.json","jar":"./lib/xb.jar"},
+        
 
 
 
