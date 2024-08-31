@@ -151,13 +151,11 @@
 		{"key":"盤搜","name":"🎠盤搜┃综合🎠","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0},
 		{"key":"Wexyingso","name":"🎠影子┃综合🎠","type":3,"api":"csp_Wexyingso","searchable":1,"changeable":0},
 
-		{"key":"实验直播1","name":"㊙︎｜直播1","type":4,"api":"http://zhangqun1818.serv00.net/zh/224.php","searchable":1,"changeable":0,"ext":"1"},
-		{"key":"实验直播2","name":"㊙︎｜直播2","type":4,"api":"http://zhangqun1818.serv00.net/zh/224.php","searchable":1,"changeable":0,"ext":"2"},
-		{"key":"实验直播3","name":"㊙︎｜直播3","type":4,"api":"http://zhangqun1818.serv00.net/zh/2241.php","searchable":1,"changeable":0,"ext":"1,2,3"},
-		{"key":"服务器油管","name":"㊙︎｜服务器油管","type":4,"api":"http://zhangqun1818.serv00.net/yt/yt001.php","searchable":1,"changeable":1,"ext": "海賊王#最新歌曲#動漫#新聞直播#有声穿越小说#影视解说#动物#风光#放松#4K#HDR#movie#documentary#bbc documentary"},
+		{"key":"直播轉點播,"name":"㊙︎｜直播轉點播[V1]","type":4,"api":"http://zhangqun1818.serv00.net/zh/2241.php","searchable":1,"changeable":0,"ext":"1,2,3,4"},
+		{"key":"直播转点播","name":"㊙︎｜直播轉點播[V2]","type":3,"searchable":1,"timeout":60,"api":"https://zhangqun1818.serv00.net/zq/cat/live2vod.js","style":{"type":"list","ratio":1.1},"ext":"https://zhangqun1818.serv00.net/zq/cat/feimaolive.json"},
+		{"key":"服务器油管","name":"㊙︎｜YOUTUBE","type":4,"api":"http://zhangqun1818.serv00.net/yt/yt001.php","searchable":1,"changeable":1,"ext": "海賊王#最新歌曲#動漫#新聞直播#卡提諾#追劇#爆笑#喜劇#新聞#旅遊#HDR#movie#documentary#bbc documentary"},
 		{"key":"油管播放列表","name":"㊙︎｜油管播放列表","type":4,"api":"http://zhangqun1818.serv00.net/ytlb.php","searchable":1,"changeable":1},
 		{"key":"超级影视","name":"㊙︎｜超级影视","type":1,"api":"http://cjvip.free.hr/api.php/provide/vod/?ac=list","searchable":1,"changeable":0},
-		{"key":"直播转点播","name":"㊙︎｜电视直播","type":3,"searchable":1,"timeout":60,"api":"https://zhangqun1818.serv00.net/zq/cat/live2vod.js","style":{"type":"list","ratio":1.1},"ext":"https://zhangqun1818.serv00.net/zq/cat/feimaolive.json"},
 	
         {"key":"csp_Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","searchable":0,"quickSearch":0,"changeable":1,"filterable":0,"timeout":60},
         {"key":"Cable","name":"🔞CableAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Cable","timeout":60},
