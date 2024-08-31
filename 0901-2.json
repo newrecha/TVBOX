@@ -31,6 +31,7 @@
 		{"key":"华为吧克隆","name":"⚡｜华为吧｜克隆","type":4,"api":"http://zhangqun66.xyz/hwb.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 		{"key":"索尼克隆","name":"⚡｜索尼｜克隆","type":4,"api":"http://zhangqun66.xyz/sn.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"api_黑木耳","name":"🎥｜黑木耳｜直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./json/api黑木耳.json","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
+        
         {"key":"低端影视","name":"🎥｜低端","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/ddys.js"},
 		{"key":"drpy_js_骚火电影","name":"🎥｜骚火","type":3,"api":"./lib/drpy2.min.js","ext":"./js/骚火电影.js"},
 		{"key":"量子","name":"🎥｜量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"],"jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
