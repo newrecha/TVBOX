@@ -8,55 +8,7 @@
 👉👉享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 
 🔰VIP测试_8688,#genre#
-【港】,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
-星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
-星空国际,http://13457610200.8866.org:2018/live/星空国际/index.m3u8
-私人影院,http://13457610200.8866.org:2018/live/影视频道HD/index.m3u8
-中国电影,http://13457610200.8866.org:2018/live/中国电影/index.m3u8
-TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
-TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://113.64.147.87:8081/hls/38/index.m3u8
-鳳凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-无线新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-https://ali.hlspull.yximgs.com/live/12344.flv
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-NHK,http://61.221.215.25:8800/hls/51/index.m3u8
-
-
-
-【奥苔】,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+【灣灣】,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
 
 寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
 台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
@@ -98,7 +50,6 @@ SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3
 东森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
 ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
 东森美洲戏剧,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
-
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
@@ -121,7 +72,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育备,https://bsex.serv00.net/Smart.php?id=videolandsport
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
-
 
 【港奥苔P2P】,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 
