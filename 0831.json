@@ -15,6 +15,7 @@
 		{"key":"华为吧克隆","name":"⚡｜华为吧｜克隆","type":4,"api":"http://zhangqun66.xyz/hwb.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 		{"key":"索尼克隆","name":"⚡｜索尼｜克隆","type":4,"api":"http://zhangqun66.xyz/sn.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"drpy_js_小宝影院[飞]","name":"⚡｜小宝","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"},
+        {"key":"文才弹幕","name":"弹幕｜文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
 		{"key":"低端影视","name":"🎥｜低端","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/ddys.js"},
 		{"key":"drpy_js_骚火电影","name":"🎥｜骚火","type":3,"api":"./lib/drpy2.min.js","ext":"./js/骚火电影.js"},
 		{"key":"奇优","name":"🎥｜️奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优.json","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
@@ -99,7 +100,6 @@
 		
 		{"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
 		{"key":"天天弹幕","name":"弹幕｜天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar//danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
-		{"key":"文才弹幕","name":"弹幕｜文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
 		{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
 		{"key":"机器人弹幕","name":"弹幕｜机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
 		{"key":"小苹果弹幕","name":"弹幕｜小苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
