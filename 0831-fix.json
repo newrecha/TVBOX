@@ -71,6 +71,7 @@
 		{"key":"drpy_js_免费看","name":"🎥｜免费看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/免费看.js"},
 		{"key":"drpy_js_在线之家","name":"🎥｜在线之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线之家.js"},
 		{"key":"ikun资源","name":"🎥｜ikun资源","type":1,"api":"https://www.ikunzy.com/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","国产动漫","日本动漫","欧美","海外动漫","电影解说","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+		{"key": "优质资源","name": "🎥｜飞龙优质","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,"playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","纪录片","动画片","海外剧","伦理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影视","汽车","短剧大全"]},
 		{"key":"csp_XYQ电影牛","name":"🎥｜电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQH.jar","ext":"./json/电影牛.json"},
 		{"key":"BT天堂","name":"🎥｜BT天堂","type":3,"api":"csp_XBPQ","searchable":1,"timeout":60,"ext":"./json/bttt.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
 		{"key":"XBPQ_电影先生","name":"🎥｜电影先生","jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","type": 3,"api": "csp_XBPQ","ext": "./json/电影先生.json"},
@@ -96,6 +97,10 @@
 		{"key":"drpy_js_看了么","name":"🎥｜看了么","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看了么.js"},
 		{"key":"drpy_js_大米星球","name":"❌｜大米","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 		{"key":"drpy_js_大米星球[V2]","name":"❌｜大米[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球[V2].js"},
+
+	
+	
+
 
 		{"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
 		{"key":"天天弹幕","name":"弹幕｜天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar//danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
