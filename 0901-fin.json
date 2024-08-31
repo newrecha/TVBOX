@@ -9,7 +9,6 @@
 		{"key":"drpy_js_素白白","name":"💯｜素白白","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
 		{"key":"T4-欧乐","name":"💯｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 		{"key":"T4-安博","name":"💯｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-		{"key":"php_huaweiba","name":"💯｜华为吧","type":4,"api":"https://cjhwba.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 		{"key":"黑木耳克隆","name":"⚡｜黑木耳｜克隆","type":4,"api":"http://zhangqun66.xyz/225.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 		{"key":"金鹰克隆","name":"⚡｜金鹰｜克隆","type":4,"api":"http://zhangqun66.xyz/jy.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 		{"key":"华为吧克隆","name":"⚡｜华为吧｜克隆","type":4,"api":"http://zhangqun66.xyz/hwb.php","jar":"./jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
@@ -95,7 +94,8 @@
 		{"key":"drpy_js_北极狐[V2]","name":"🎥｜北极狐[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/北极狐[V2].js"},
 		{"key":"drpy_js_KUBO影视[飞]","name":"🎥｜KUBO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KUBO影视[飞].js"},
 		{"key":"drpy_js_看了么","name":"🎥｜看了么","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看了么.js"},
-		{"key":"drpy_js_大米星球","name":"❌｜大米","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
+		{"key":"php_huaweiba","name":"🎥｜华为吧","type":4,"api":"https://cjhwba.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+        {"key":"drpy_js_大米星球","name":"❌｜大米","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 		{"key":"drpy_js_大米星球[V2]","name":"❌｜大米[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球[V2].js"},
 
 	
@@ -160,7 +160,7 @@
 		{"key":"油管播放列表","name":"㊙︎｜油管播放列表","type":4,"api":"http://zhangqun66.xyz/ytlb.php","jar":"./jar/fm.jar","searchable":1,"changeable":1},
 		{"key":"超级影视","name":"㊙︎｜超级影视","type":1,"api":"http://cjvip.free.hr/api.php/provide/vod/?ac=list","jar":"./jar/fm.jar","searchable":1,"changeable":0},
 	
-        {"key":"J91","name": "🔞91珍惜","type":3,"api": "csp_J91","searchable": 1,"filterable": 1,"jar": "./jar/XBPQ.jar"},
+        {"key":"J91","name": "🔞91珍惜","type":3,"api": "csp_J91","searchable": 1,"filterable": 1,"jar":"./jar/pg.jar;md5;4aeb22cbba4494058b33e85675f415b4"},
         {"key":"csp_Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","searchable":0,"quickSearch":0,"changeable":1,"filterable":0,"timeout":60},
         {"key":"Cable","name":"🔞CableAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Cable","timeout":60},
         {"key":"Top888","name":"🔞Top888","type":3,"api":"csp_Top888","searchable":0,"changeable":0},
