@@ -8,7 +8,7 @@
 		{"key":"T4-欧乐","name":"💯｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 		{"key":"T4-安博","name":"💯｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=e04750e2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
         {"key":"奇优","name":"⚡｜️奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优.json","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
-        {"key":"文才弹幕","name":"⚡｜文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},
+        {"key":"文才弹幕","name":"⚡｜文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/okpng.txt"},
         {"key":"非凡","name":"⚡｜非凡","type":1,"api":"http://ffzy.tv/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"],"jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 		{"key":"drpy_js_快看","name":"⚡｜快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 		{"key":"csp_黑狐","name":"⚡｜黑狐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/HCCX.jar","ext":"./json/黑狐影视.json"},
