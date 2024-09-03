@@ -370,6 +370,9 @@
 		{"name":"安博","url":"https://tang.hz.cz/zb/anbo?token=334078da","ua":"okhttp/4.12.0"},
         {"name":"ETH(JS)","api":"https://tang.hz.cz/js/ethtv.js","type":3,"ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}","ext":"334078da"},
 		{"name":"寶盒直播","type":0,"url":"https://guot55.serv00.net/zb.php","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"太武山直播","type":0,"url":"http://free.xiptv.x10.bz/p3p.php","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+
+	
 		{"name":"天微直播","type": 0,"url": "./tenwe-live.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
         {"name":"縫合1(大街源)","type":0,"url":"./666-live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 		{"name":"縫合2(大街源)","type":0,"url":"https://files.catbox.moe/yikbnc.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
