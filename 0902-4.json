@@ -101,7 +101,7 @@
 		{"key":"zxzj","name":"🎥｜在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},{"key":"低端","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/cc.jar"},
 		{"key":"可可","name":"🎥｜可可","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/cc.jar"},
 		{"key":"热播","name":"🎥｜热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar/cc.jar"},
-		{"key":"萌米","name":"🎥｜萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},"jar":"./jar/cc.jar",
+		{"key":"萌米","name":"🎥｜萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/cc.jar"},
 		{"key":"快看","name":"🎥｜快看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},{"key":"新6V","name":"新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/","jar":"./jar/cc.jar"},
 
 		{"key":"drpy_js_tzfile","name":"❌｜团长","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tzfile.js","jar":"./jar/fan.txt;md5;cca6aff85e364046abad5fc1de1ed8e6"},
