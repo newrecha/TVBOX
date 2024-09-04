@@ -2,8 +2,6 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":1,"changeable":0},
-
-
 		{
 			"jar": "./jar/jar0423.jar",
 			"key": "csp_RinHome_ZAL",
@@ -54,18 +52,7 @@
 				"danmu": true
 			},
 			"timeout": 10
-		}, {
-			"key": "南瓜",
-			"name": "🎃南瓜┃蓝光┃纯净",
-			"type": 3,
-			"api": "csp_NanGua",
-			"timeout": 15,
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
-		}, {
+		},{
 			"key": "河狸",
 			"name": "🦛河狸┃蓝光┃纯净",
 			"type": 3,
@@ -77,7 +64,7 @@
 			"name": "🐎小马┃蓝光┃纯净",
 			"type": 3,
 			"api": "csp_AppYsV2",
-			"jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+			"jar": "./jar/danmu.php",
 			"ext": "https://mas.szyyds.cn/api.php/app/"
 		}, {
 			"key": "影馆",
