@@ -99,29 +99,18 @@
 			"name":"🍑桃子┃蓝光┃在线",
 			"type":3,
 			"api":"csp_Oka",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php",
+			"jar":"./jar/danmu.php",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
 			"timeout":10,
 			"ext":"{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\",\"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items.module-tab-itemspan\",\"playUrl\":\".module-list.module-play-list\",\"search\":\"/search/{search}-------------.html\",\"webview\":1}"
 		},{
-			"key":"荐片纯净",
-			"name":"👍️荐片┃蓝光┃纯净",
-			"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-			"type":3,
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1,
-			"playerType":"1",
-			"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
-		},{
 			"key":"荐片弹幕版",
 			"name":"👍️荐片┃蓝光┃弹幕",
 			"type":3,
 			"api":"csp_Jianpian",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php",
+			"jar":"./jar/danmu.jar",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
@@ -134,7 +123,7 @@
 			"name":"😎酷影┃蓝光┃",
 			"type":3,
 			"api":"csp_AppYsV2",
-			"jar":"./jar/xbpq.jar",
+			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
@@ -148,7 +137,7 @@
 			"name":"🙄素白┃秒播┃纯净",
 			"type":3,
 			"api":"csp_Subaibai",
-			"jar":"./jar/xbpq.jar",
+			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
 			"searchable":1,
 			"changeable":1
 		},{
@@ -175,7 +164,7 @@
 			"ext":"AO7TcBkd8I/B5wQc4Qma+pU=",
 			"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
 		},
-        {"key":"动漫巴士","name":"🚌巴士┃动漫┃蓝光","type":3,"api":"csp_Dm84","jar":"./jar/danmu.jar","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+        {"key":"动漫巴士","name":"🚌巴士┃动漫┃蓝光","type":3,"api":"csp_Dm84","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
         {
 			"key":"萌米",
 			"name":"👀萌米┃蓝光┃多线",
@@ -190,7 +179,7 @@
 			"name":"🫣快看┃蓝光┃纯净",
 			"type":3,
 			"api":"csp_Kuaikan",
-			"jar":"./jar/xbpq.jar",
+			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -202,7 +191,7 @@
 			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js",
 			"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
 		},
-        {"key":"网飞影视","name":"🛸网飞┃蓝光┃在线","type":3,"api":"./JS/drpy.min.js","ext":"./JS/网飞TV.js"},
+        {"key":"网飞影视","name":"🛸网飞┃蓝光┃在线","type":3,"api":"./js/drpy.min.js","ext":"./js/网飞TV.js"},
         {
 			"key":"虎牙直播js",
 			"name":"🐯虎牙┃直播┃蓝光",
