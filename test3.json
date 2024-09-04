@@ -51,29 +51,12 @@
 			"ext":"https://www.heli888.cc/api.php/app/",
 			"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
 		},{
-			"key":"小马",
-			"name":"🐎小马┃蓝光┃纯净",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"jar":"./jar/danmu.php",
-			"ext":"https://mas.szyyds.cn/api.php/app/"
-		},{
 			"key":"影馆",
 			"name":"🐔影馆┃蓝光┃纯净",
 			"type":3,
 			"api":"csp_AppYsV2",
 			"jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php",
 			"ext":"https://4kdyg.top/api.php/v1.vod"
-		},{
-			"key":"剧圈圈",
-			"name":"⭕剧圈┃蓝光┃在线",
-			"type":3,
-			"api":"csp_XBPQ",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://我不是.摸鱼儿.top/api/moyu.php?file=剧圈"
 		},{
 			"key":"河马",
 			"name":"🦓河马┃蓝光┃在线",
@@ -85,53 +68,11 @@
 			"filterable":1,
 			"timeout":10,
 			"ext":"{\"cateUrl\":\"https://www.hemahd.com/tags/{cateId}--------{page}---.html\",\"cate\":\"电影$1#电视剧$2#动漫$3#综艺$4\",\"search\":\"/sou/{search}-------------.html\"}"
-		},{
-			"key":"桃子",
-			"name":"🍑桃子┃蓝光┃在线",
-			"type":3,
-			"api":"csp_Oka",
-			"jar":"./jar/danmu.php",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"timeout":10,
-			"ext":"{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\",\"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items.module-tab-itemspan\",\"playUrl\":\".module-list.module-play-list\",\"search\":\"/search/{search}-------------.html\",\"webview\":1}"
-		},{
-			"key":"荐片弹幕版",
-			"name":"👍️荐片┃蓝光┃弹幕",
-			"type":3,
-			"api":"csp_Jianpian",
-			"jar":"./jar/danmu.jar",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":{
-				"danmu":true
-			},
-			"timeout":20
-		},{
-			"key":"dan酷影视",
-			"name":"😎酷影┃蓝光┃",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.tvkuys.xyz/api.php/app/"
 		},{"key":"Lib","name":"🌟立播┃蓝光┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"原创","name":"🍁春秋┃蓝光┃纯净","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"},
 {"key":"文采","name":"💮文采┃蓝光┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"},
 {"key":"可可","name":"👻可可┃蓝光┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"},
 {
-			"key":"素白白",
-			"name":"🙄素白┃秒播┃纯净",
-			"type":3,
-			"api":"csp_Subaibai",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-			"searchable":1,
-			"changeable":1
-		},{
 			"key":"Auete",
 			"name":"🏝奥特┃蓝光┃直连",
 			"type":3,
@@ -165,15 +106,6 @@
 			"playerType":1,
 			"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==",
 			"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
-		},{
-			"key":"csp_Kuaikan",
-			"name":"🫣快看┃蓝光┃纯净",
-			"type":3,
-			"api":"csp_Kuaikan",
-			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
 		},{
 			"key":"碟调影视",
 			"name":"🏰碟调┃蓝光┃在线",
