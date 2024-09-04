@@ -43,7 +43,7 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./json/威士影视.json",
-"jar":"./0606.jar"
+"jar":"./jar/0606.jar"
 
 },
 {
@@ -55,7 +55,7 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./json/Free影视.json",
-"jar":"./0606.jar"
+"jar":"./jar/0606.jar"
 
 },
 {
