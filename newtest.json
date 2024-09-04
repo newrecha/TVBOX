@@ -536,7 +536,7 @@
         "api": "csp_WexTiantianys",
         "searchable": 1,
         "changeable": 1,
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
+        "jar": "./jar/wex.txt"
     }, {
         "key": "Wexjiohub",
         "name": "🎇啾啾┃秒播🎇",
