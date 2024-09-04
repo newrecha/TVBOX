@@ -114,7 +114,8 @@
 			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js",
 			"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
 		},
-        {"key":"网飞影视","name":"🛸网飞┃蓝光┃在线","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/网飞TV.js"}        {
+        {"key":"网飞影视","name":"🛸网飞┃蓝光┃在线","type":3,"api":"./js/drpy.min.js","ext":"./js/网飞TV.js"},
+        {
 			"key":"虎牙直播js",
 			"name":"🐯虎牙┃直播┃蓝光",
 			"type":3,
@@ -151,7 +152,7 @@
 			"api":"csp_Wexxiongdiys",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wexyuyueys",
 			"name":"💥雨落┃影视💥",
@@ -159,7 +160,7 @@
 			"api":"csp_Wexyuyueys",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wexkukantv",
 			"name":"😁看呗┃影视😁",
@@ -167,7 +168,7 @@
 			"api":"csp_Wexkukantv",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"mingriyingshi",
 			"name":"😁明日┃影视😁",
@@ -175,7 +176,7 @@
 			"api":"csp_WexMingriys",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Fujutv",
 			"name":"😁腐剧┃影视😁",
@@ -183,7 +184,7 @@
 			"api":"csp_WexFujutv",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"WexTiantianys",
 			"name":"🎇明天┃秒播🎇",
@@ -191,7 +192,7 @@
 			"api":"csp_WexTiantianys",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wexjiohub",
 			"name":"🎇啾啾┃秒播🎇",
@@ -199,7 +200,7 @@
 			"api":"csp_Wexjiohub",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wex4Kav",
 			"name":"🎇急速┃秒播🎇",
@@ -207,7 +208,7 @@
 			"api":"csp_Wex4Kav",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Subaibai",
 			"name":"🎇拜拜┃秒播🎇",
@@ -215,7 +216,7 @@
 			"api":"csp_Subaibai",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wexsaohuo",
 			"name":"🎇火火┃秒播🎇",
@@ -223,7 +224,7 @@
 			"api":"csp_Wexsaohuo",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wexzxzj",
 			"name":"🎇外剧┃秒播🎇",
@@ -231,7 +232,7 @@
 			"api":"csp_Wexzxzj",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"csp_Nmys",
 			"name":"🎇伯伯┃秒播🎇",
@@ -239,7 +240,7 @@
 			"api":"csp_WexNmys",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"F4kvm",
 			"name":"🎇纯享┃秒播🎇",
@@ -247,7 +248,7 @@
 			"api":"csp_WexF4kvm",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"Wexbttwo",
 			"name":"🎇大鼻涕┃秒播🎇",
@@ -255,7 +256,7 @@
 			"api":"csp_Wexbttwo",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexkoukou",
@@ -264,7 +265,7 @@
 			"api":"csp_Wexkoukou",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexjiazitv",
@@ -273,7 +274,7 @@
 			"api":"csp_Wexjiazitv",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexwencai",
@@ -282,7 +283,7 @@
 			"api":"csp_Wexwencai",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexxpgtv",
@@ -291,7 +292,7 @@
 			"api":"csp_Wexxpgtv",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexhanjutv",
@@ -300,7 +301,7 @@
 			"api":"csp_Wexhanjutv",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexhanxiaoquan",
@@ -309,7 +310,7 @@
 			"api":"csp_Wexhanxiaoquan",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},
 		{
 			"key":"Wexshandian",
@@ -318,7 +319,7 @@
 			"api":"csp_Wexshandian",
 			"searchable":1,
 			"changeable":1,
-			"jar":"./jar/wex.txt"
+			"jar":".https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720752213419/wex.txt;md5;47b6df5c84e5ed4eff811288252c2310"
 		},{
 			"key":"csp_AppYsV2_爱看剧",
 			"name":"??爱看剧(APP)",
