@@ -78,7 +78,7 @@
 			"name":"⭕剧圈┃蓝光┃在线",
 			"type":3,
 			"api":"csp_XBPQ",
-			"jar":"./jar/xbpq.jar",
+			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
@@ -436,7 +436,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/香蕉影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_奇优影院",
 			"name":"👶奇优☆影院(XHiker)",
@@ -446,7 +446,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/奇优影院.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_可可影视",
 			"name":"👶可可☆影视(XHiker)",
@@ -456,7 +456,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/可可影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_可可影视2",
 			"name":"👶可可☆影视(XHiker)",
@@ -466,7 +466,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/可可影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_子子",
 			"name":"👶子子☆影视(XHiker)",
@@ -476,7 +476,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/子子影视2.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_快看影视",
 			"name":"👶快看☆影视(XHiker)",
@@ -486,7 +486,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/快看影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_华乐影院",
 			"name":"👶华乐☆影院(XHiker)",
@@ -496,7 +496,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/华乐影院.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_白嫖者联盟",
 			"name":"👶嫖者☆联盟(XHiker)",
@@ -506,7 +506,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/白嫖者联盟.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_淘剧猫",
 			"name":"👶淘剧☆猫猫(XHiker)",
@@ -516,7 +516,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/淘剧猫.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_新6V电影",
 			"name":"👶新6V☆电影(XHiker)",
@@ -526,7 +526,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/新6V电影.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_兄弟影视2",
 			"name":"👶兄弟☆影视(XHiker)",
@@ -536,7 +536,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/兄弟影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_爱看剧",
 			"name":"👶爱看☆剧剧(XHiker)",
@@ -546,7 +546,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/爱看剧.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_景云影视",
 			"name":"👶景云☆影视(XHiker)",
@@ -556,7 +556,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/景云影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_蚂蚁影视",
 			"name":"👶蚂蚁☆影视(XHiker)",
@@ -566,7 +566,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/蚂蚁影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_圣城影视",
 			"name":"👶圣城☆影视(XHiker)",
@@ -576,7 +576,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/圣城影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_一起看影院",
 			"name":"👶一起☆影院(XHiker)",
@@ -586,7 +586,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/一起看影院.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_影视大全",
 			"name":"👶影视☆大全(XHiker)",
@@ -596,7 +596,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/影视大全.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_臻品电影网",
 			"name":"👶臻品☆电影(XHiker)",
@@ -606,7 +606,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/臻品电影网.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_乐万家影院",
 			"name":"👶万家☆影院(XHiker)",
@@ -616,7 +616,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/乐万家影院.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_猪泡泡影院",
 			"name":"👶猪泡☆影院(XHiker)",
@@ -626,7 +626,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/猪泡泡影院.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_电影驿站",
 			"name":"👶电影☆驿站(XHiker)",
@@ -636,7 +636,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/电影驿站.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHiker_时代电影网",
 			"name":"👶时代☆电影(XHiker)",
@@ -646,7 +646,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/时代电影网.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_高清MP4",
 			"name":"️🌸高清MP4(XHiker)",
@@ -656,7 +656,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/高清MP4.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_达达龟",
 			"name":"️🌸达达龟(XYQHiker)",
@@ -666,7 +666,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/达达龟.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_臭蛋蛋影视",
 			"name":"🌸臭蛋蛋影视(XYQHiker)",
@@ -676,7 +676,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"./json/臭蛋蛋影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_播视童趣",
 			"name":"️🌸播视童趣(XYQHiker)",
@@ -686,7 +686,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/播视童趣.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_Vidhub视频库",
 			"name":"️🌸Vidhub视频库(XHiker)",
@@ -696,7 +696,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/Vidhub视频库.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_看了么",
 			"name":"️🌸看了么(XHiker)",
@@ -706,7 +706,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/看了么.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_兄弟影视",
 			"name":"️🌸兄弟影视(XHiker)",
@@ -716,7 +716,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/兄弟影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_在线之家",
 			"name":"️🌸在线之家(XHiker)",
@@ -726,7 +726,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/在线之家.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_看一看",
 			"name":"️🌸看一看影(XHiker)",
@@ -736,7 +736,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/看一看影视.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_qiyou",
 			"name":"️🌸奇优影院(XHiker)",
@@ -746,7 +746,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/qiyou.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"XYQHiker_buxiutv",
 			"name":"️🌸不休电视(XHiker)",
@@ -756,7 +756,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"./json/buxiutv.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"key":"csp_XYQHikerAL_4KHDR",
 			"name":"🍬4KHDR(盘/磁)",
@@ -767,7 +767,7 @@
 			"quickSearch":0,
 			"filterable":1,
 			"ext":"./json/4KHDR.json",
-			"jar":"./xkl0525.jar"
+			"jar":"./jar/xkl0525.jar"
 		},{
 			"jar":"./jar/jar0423.jar",
 			"key":"csp_NCat",
@@ -858,7 +858,7 @@
 			"name":"蜜糖动漫",
 			"type":3,
 			"api":"csp_XBPQ",
-			"jar":"./jar/xbpq.jar",
+			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
 			"ext":{
 				"分类url":"https://www.mitang.tv/vodshow/id/{cateId}/page/{catePg}/",
 				"分类":"新番$122A#番剧$T22A#剧场$l22A#极清$m22A#美漫$G22A"
@@ -1342,7 +1342,7 @@
 				"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 				"分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
 			},
-			"jar":"./jar/xyqxbpq.jar"
+			"jar":"http://我不是.摸鱼儿.top/by/jar/xpbq.php"
 		},{
 			"key":"量子资源",
 			"name":"量子资源",
