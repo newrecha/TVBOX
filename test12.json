@@ -85,7 +85,7 @@
 "name":"🌙皮皮影视┃4K",
 "type":3,
 "api":"csp_XBPQ",
-"jar":"./lib/XBPQ.jar",
+"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
 "playerType":"2",
 "ext":{
 "请求头":"",
@@ -122,7 +122,7 @@
 "type":3,
 "searchable":1,
 "changeable":1,
-"jar":"./lib/XBPQ.jar",
+"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
 "api":"csp_XBPQ",
 "ext":"./json/4kys.json"
 },
