@@ -2,6 +2,15 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":1,"changeable":0},
+		[{"key":"php_heimuer","name":"🫐 黑木耳(无广)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+		{"key":"php_huaweiba","name":"🍏 华为吧","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+		{"key":"php_feifanziyuan","name":"🍉 非凡资源","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webfeifanziyuan","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+		{"key":"php_madou","name":"🔞 麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+		{"key":"py_aidouchuanmei","name":"🔞 爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}}],
+		{"name":"爱看咪咕","url":"https://json.doube.eu.org/live/ikanmigu.php"},
+		{"name":"MyTvSuper(翻)","url":"https://json.doube.eu.org/live/MyTvSuper.php"},
+		{"name":"Youtube(翻)","url":"https://json.doube.eu.org/live/youtube.php"},
+		
 		{"key":"hipy_js_4K-AV","name":"👑｜真4K","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./drpy_js/4K-AV.js"},		
 		{"key":"T4-heimuer","name":"💯｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 		{"key":"drpy_js_素白白","name":"💯｜素白白","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
