@@ -1,0 +1,2719 @@
+{
+            "spider":"./pg.jar",
+    "sites": [
+        {
+            "key": "FOX资源",
+            "name": "我免费我光荣",
+            "type": 1,
+            "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "xfcjp_adult",
+            "name": "1",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json"
+        },
+        {
+            "key": "Dong-learn9_18",
+            "name": "2",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json"
+        },
+        {
+            "key": "Dong-learn9_19",
+            "name": "3",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/19.json"
+        },
+        {
+            "key": "Dong-learn9_juyou",
+            "name": "4",
+            "type": 1,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/juyou.json"
+        },
+        {
+            "key": "Dong-learn9_vip",
+            "name": "5",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/vip.json"
+        },
+        {
+            "key": "Dong-learn9_JS",
+            "name": "6",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/js.json"
+        },
+        {
+            "key": "Dong-learn9_tvbox",
+            "name": "7",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox.json"
+        },
+        {
+            "key": "jessic01_11",
+            "name": "8",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jessic01/tv/main/11.json"
+        },
+        {
+            "key": "qaz1371041_18",
+            "name": "9",
+            "type": 1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json"
+        },
+        {
+            "key": "c120487_00tvx1","name": 10,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"
+        },
+        {
+            "key": "c120487_05155","name": 11,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/05155.txt"
+        },
+        {
+            "key": "c120487_00tvx1c","name": 12,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx1c.txt"
+        },
+        {
+            "key": "c120487_00tvx0","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"
+        },
+        {
+            "key": "c120487_vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/vip.json"
+        },
+        {
+            "key": "SSM0415_avnetwork18x","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt"
+        },
+        {
+            "key": "SSM0415_avnetwork18x1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json"
+        },
+        {
+            "key": "SSM0415_h","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvboxcat/H/h"
+        },
+        {
+            "key": "SSM0415_maotest","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/maotest.txt"
+        },
+        {
+            "key": "SSM0415_adult1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult1.json"
+        },
+        {
+            "key": "SSM0415_adult2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult2影視殼1.4.5格式.txt"
+        },
+        {
+            "key": "Guard-H_c","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json"
+        },
+        {
+            "key": "jyj0912_00tvx0","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyj0912/c120487/main/00tvx0.txt"
+        },
+        {
+            "key": "zhanghong1983_SEX","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json"
+        },
+        {
+            "key": "2hacc_h","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+        },
+        {
+            "key": "shiran588_cr","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shiran588/TVBox/main/cr.json"
+        },
+        {
+            "key": "yschaizhen_XXX1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1"
+        },
+        {
+            "key": "yschaizhen_XXX2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2"
+        },
+        {
+            "key": "yschaizhen_XXX3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3"
+        },
+        {
+            "key": "yschaizhen_hh","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/hh"
+        },
+        {
+            "key": "chinawiz_adult-1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-1.json"
+        },
+        {
+            "key": "chinawiz_adult-2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-2.json"
+        },
+        {
+            "key": "gsdlj_se","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gsdlj/TVBox/main/se.json"
+        },
+        {
+            "key": "gsdlj_888","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gsdlj/TVBox/main/888.txt"
+        },
+        {
+            "key": "gsdlj_4","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gsdlj/TVBox/main/4.txt"
+        },
+        {
+            "key": "gsdlj_aaa","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gsdlj/TVBox/main/aaa.txt"
+        },
+        {
+            "key": "xiaoxuwenzi_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoxuwenzi/1/main/18.json"
+        },
+        {
+            "key": "kcjsd_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kcjsd/TVBOXZY/main/18.json"
+        },
+        {
+            "key": "tv189ymail_DMSM","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/SMTT/DMSM.json"
+        },
+        {
+            "key": "tv189ymail_siji3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/SMTT/siji3.json"
+        },
+        {
+            "key": "tv189ymail_司机","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/SMTT/司机.json"
+        },
+        {
+            "key": "tv189ymail_BOXJLHFL","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/BOXJLHFL.txt"
+        },
+        {
+            "key": "tv189ymail_FLYS01","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/FLYS01.txt"
+        },
+        {
+            "key": "tv189ymail_FLYS02","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/FLYS02.txt"
+        },
+        {
+            "key": "tv189ymail_FLYS03","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/FLYS03.txt"
+        },
+        {
+            "key": "tv189ymail_FLYS04","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/FLYS04.txt"
+        },
+        {
+            "key": "tv189ymail_FLYS05","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/FLYS05.txt"
+        },
+        {
+            "key": "tv189ymail_FLYS06","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/FLYS06.txt"
+        },
+        {
+            "key": "tv189ymail_JLHFI","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/JLHFI.txt"
+        },
+        {
+            "key": "tv189ymail_JLHFLYS","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/JLHFLYS.txt"
+        },
+        {
+            "key": "tv189ymail_JLHFYS","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/JLHFYS.json"
+        },
+        {
+            "key": "tv189ymail_JLHPRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/JLHPRO.txt"
+        },
+        {
+            "key": "tv189ymail_TVBOXFLJK","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/TVBOXFLJK.txt"
+        },
+        {
+            "key": "tv189ymail_网盘+alist接口","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/ku2023/main/解乐会/网盘+alist接口.txt"
+        },
+        {
+            "key": "tv189ymail_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/99-master/18"
+        },
+        {
+            "key": "tv189ymail_s","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/99-master/s"
+        },
+        {
+            "key": "tv189ymail_s-1110","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/99-master/s-1110"
+        },
+        {
+            "key": "tv189ymail_s121","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/99-master/s121"
+        },
+        {
+            "key": "tv189ymail_ss","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/99-master/ss"
+        },
+        {
+            "key": "tv189ymail_ss","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/99-master/ss"
+        },
+        {
+            "key": "tv189ymail_m","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/m-master/m.m3u8"
+        },
+        {
+            "key": "tv189ymail_fl","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/xgtv/fl.txt"
+        },
+        {
+            "key": "tv189ymail_PRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY1/PRO.json"
+        },
+        {
+            "key": "tv189ymail_adult","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY1/adult.json"
+        },
+        {
+            "key": "tv189ymail_mao18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/mao18.json"
+        },
+        {
+            "key": "tv189ymail_mao210-18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/mao210-18.json"
+        },
+        {
+            "key": "tv189ymail_s","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/s"
+        },
+        {
+            "key": "tv189ymail_s-1110","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/s-1110"
+        },
+        {
+            "key": "tv189ymail_s121","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/s121"
+        },
+        {
+            "key": "tv189ymail_s2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/s2.json"
+        },
+        {
+            "key": "tv189ymail_ss","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/DY2/ss"
+        },
+        {
+            "key": "tv189ymail_PRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/T4/PRO.json"
+        },
+        {
+            "key": "tv189ymail_dxwoai18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/T4/dxwoai18+.txt"
+        },
+        {
+            "key": "tv189ymail_gfgr","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/T4/gfgr.json"
+        },
+        {
+            "key": "tv189ymail_iqiqgr","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/T4/iqiqgr.json"
+        },
+        {
+            "key": "tv189ymail_c18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/bendi/xl/c18.json"
+        },
+        {
+            "key": "tv189ymail_sm","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/bendi/xl/sm.json"
+        },
+        {
+            "key": "tv189ymail_tangs","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/bendi/xl/tangs.json"
+        },
+        {
+            "key": "tv189ymail_隐藏","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/2023/main/BDB/bendi/xl/隐藏.json"
+        },
+        {
+            "key": "tv189ymail_PRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv189ymail/BD/main/ToxA-master/plus/PRO.json"
+        },
+        {
+            "key": "HITVHDU","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/HITVHDU/ZB/main/tvbox接口.txt"
+        },
+        {
+            "key": "czy19950220_dxwoai18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/czy19950220/TVBoxConfig/main/myConfigs/52bjs/dxwoai18.txt"
+        },
+        {
+            "key": "wanganni_tvbox18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json"
+        },
+        {
+            "key": "wanjune_3721","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanjune/wanjune.github.io/main/static/tvbox/3721.json"
+        },
+        {
+            "key": "zhouhaoshasha1989_tvbox","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhouhaoshasha1989/api/main/test/tvbox.json"
+        },
+        {
+            "key": "zhouhaoshasha1989_dxwoai18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhouhaoshasha1989/api/main/dxwoai18+.txt"
+        },
+        {
+            "key": "zhouhaoshasha1989_1667621493","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhouhaoshasha1989/api/main/1667621493.txt"
+        },
+        {
+            "key": "txxwc_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txxwc/tvbox/main/18.json"
+        },
+        {
+            "key": "wxwxwz_PRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wxwxwz/YGBH/main/Video/PRO.json"
+        },
+        {
+            "key": "ApolloRioo_Yoursmile","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/Yoursmile.json"
+        },
+        {
+            "key": "ApolloRioo_Jiekou18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/Jiekou18.json"
+        },
+        {
+            "key": "ApolloRioo_MaoXB","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/MaoXB.json"
+        },
+        {
+            "key": "ApolloRioo_adult","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/adult.json"
+        },
+        {
+            "key": "ApolloRioo_miao","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/miao.txt"
+        },
+        {
+            "key": "ApolloRioo_ss","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/ss.json"
+        },
+        {
+            "key": "ncnc8388_18cj","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ncnc8388/ncnc8388.github.io/main/adad/18cj.json"
+        },
+        {
+            "key": "yan91220_最新福利接口0402","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yan91220/TVBox/main/最新福利接口0402.txt"
+        },
+        {
+            "key": "lin888666_baohe","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lin888666/520/main/ys/baohe"
+        },
+        {
+            "key": "lexzd_cr1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lexzd/fuli/main/cr1.json"
+        },
+        {
+            "key": "lexzd_cr2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lexzd/fuli/main/cr2.json"
+        },
+        {
+            "key": "lexzd_cr3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lexzd/fuli/main/cr3.json"
+        },
+        {
+            "key": "jiyi039_se1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiyi039/jiyi039.github.io/main/yuan/live/18/se1.txt"
+        },
+        {
+            "key": "szxinhui508_18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/szxinhui508/tvbox1024/main/18+.json"
+        },
+        {
+            "key": "franksun1211_E8-fongmi","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8-fongmi.txt"
+        },
+        {
+            "key": "cspoh123_1667621493","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/1667621493.txt"
+        },
+        {
+            "key": "cspoh123_x6","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/x6.json"
+        },
+        {
+            "key": "hhqqwwjj_xx","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hhqqwwjj/-/main/xx.json"
+        },
+        {
+            "key": "bear532_bears","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bear532/x96/main/bears.txt"
+        },
+        {
+            "key": "xiongjian83_18live","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.json"
+        },
+        {
+            "key": "xiongjian83_19","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
+        },
+        {
+            "key": "tianya7981_ziyong","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianya7981/jiekou/main/ziyong"
+        },
+        {
+            "key": "ZTHA000_thzx1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json"
+        },
+        {
+            "key": "qirenzhidao_adult","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json"
+        },
+        {
+            "key": "Demonhesusheng_tvbox5","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Demonhesusheng/tvbox/main/tvbox5.json"
+        },
+        {
+            "key": "CandyMuj_candymuj","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"
+        },
+        {
+            "key": "CandyMuj_candymuj18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json"
+        },
+        {
+            "key": "qcfree_vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qcfree/BOXZY/main/vip.json"
+        },
+        {
+            "key": "erichua_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/testing/18.json"
+        },
+        {
+            "key": "jane3824_adult","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/adult.json"
+        },
+        {
+            "key": "ddys001_18-1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox.github.io/main/1818/18-1.json"
+        },
+        {
+            "key": "li5bo5_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li5bo5/TVBox/main/18.json"
+        },
+        {
+            "key": "355789815_18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/355789815/tvbox-355789815/main/18+.json"
+        },
+        {
+            "key": "355789815_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/355789815/tvbox-355789815/main/18.json"
+        },
+        {
+            "key": "355789815_19","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/355789815/tvbox-355789815/main/19.json"
+        },
+        {
+            "key": "355789815_vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/355789815/tvbox-355789815/main/vip.json"
+        },
+        {
+            "key": "jessic01_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jessic01/box1/main/18.json"
+        },
+        {
+            "key": "qist_9918","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/9918.json"
+        },
+        {
+            "key": "shichuanenhui_jav","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/jav.json"
+        },
+        {
+            "key": "qiuhlee_box18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qiuhlee/tvbox/main/box18.json"
+        },
+        {
+            "key": "fuigui888_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuigui888/TVBox-zyjk/main/18.json"
+        },
+        {
+            "key": "cnnbgo_x","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json"
+        },
+        {
+            "key": "lishuncai123789","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lishuncai123789/shunzi/main/httpshuyuan.miaogongzi.netshuyuan1692722306.json"
+        },
+        {
+            "key": "moneyfly1_tv","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/moneyfly1/tvbox/main/tv.json"
+        },
+        {
+            "key": "moneyfly1-adult","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/moneyfly1/tv/main/adult.json"
+        },
+        {
+            "key": "Emder-0311","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Emder-0311/tvbox_api/main/maotv.json"
+        },
+        {
+            "key": "13998394872_PG","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PG.json"
+        },
+        {
+            "key": "jigedos-fuli1009","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/fuli1009.json"
+        },
+        {
+            "key": "dalazhi-18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/18.txt"
+        },
+        {
+            "key": "dalazhi-sex","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/sex.json"
+        },
+        {
+            "key": "dalazhi-18-2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/18-2"
+        },
+        {
+            "key": "yangxb1-18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/18.json"
+        },
+        {
+            "key": "yangxb1-19","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/19.json"
+        },
+        {
+            "key": "yangxb1-SEX","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/SEX.json"
+        },
+        {
+            "key": "yangxb1-tvbox","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/tvbox.json"
+        },
+        {
+            "key": "yangxb1-vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/vip.json"
+        },
+        {
+            "key": "dalazhi-1012","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/1012.txt"
+        },
+        {
+            "key": "dalazhi-chengxueli","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/18/chengxueli"
+        },
+        {
+            "key": "yygtgf-18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/DEDQW/main/18.json"
+        },
+        {
+            "key": "yygtgf-19","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/DEDQW/main/19.json"
+        },
+        {
+            "key": "yygtgf-vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/DEDQW/main/vip.json"
+        },
+        {
+            "key": "yygtgf-18-01","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/aaa/main/18/18-01.json"
+        },
+        {
+            "key": "yygtgf-18-02","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/aaa/main/18/18-02.json"
+        },
+        {
+            "key": "yygtgf-18-03","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/aaa/main/18/18-03.json"
+        },
+        {
+            "key": "Tinker-TTW-TKFL","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/TKFL.json"
+        },
+        {
+            "key": "kitty83307-1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/1"
+        },
+        {
+            "key": "kitty83307-2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/2"
+        },
+        {
+            "key": "kitty83307-3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/3"
+        },
+        {
+            "key": "kitty83307-4","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/4"
+        },
+        {
+            "key": "kitty83307-5","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/5"
+        },
+        {
+            "key": "kitty83307-6","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/6"
+        },
+        {
+            "key": "kitty83307-7","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/7"
+        },
+        {
+            "key": "kitty83307-8","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/8"
+        },
+        {
+            "key": "kitty83307-9","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/9"
+        },
+        {
+            "key": "kitty83307-10","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/10"
+        },
+        {
+            "key": "kitty83307-11","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/11"
+        },
+        {
+            "key": "kitty83307-12","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/12"
+        },
+        {
+            "key": "kitty83307-13","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/13"
+        },
+        {
+            "key": "kitty83307-14","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/14"
+        },
+        {
+            "key": "kitty83307-15","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/15"
+        },
+        {
+            "key": "kitty83307-16","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/16"
+        },
+        {
+            "key": "kitty83307-17","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/17"
+        },
+        {
+            "key": "kitty83307-18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/18"
+        },
+        {
+            "key": "kitty83307-19","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/19"
+        },
+        {
+            "key": "kitty83307-20","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/20"
+        },
+        {
+            "key": "kitty83307-21","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/21"
+        },
+        {
+            "key": "kitty83307-22","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/22"
+        },
+        {
+            "key": "kitty83307-23","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/23"
+        },
+        {
+            "key": "kitty83307-24","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/24"
+        },
+        {
+            "key": "kitty83307-25","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/25"
+        },
+        {
+            "key": "kitty83307-26","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/26"
+        },
+        {
+            "key": "bluefriendCN-ma","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/ma.json"
+        },
+        {
+            "key": "achabuhecha-1012","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/achabuhecha/moviebox/main/1012.txt"
+        },
+        {
+            "key": "真龙搏杀术","name": 1,"type":1,
+            "api": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json"
+        },
+        {
+            "key": "紫极魔瞳","name": 1,"type":1,
+            "api": "https://download.kstore.space/download/2883/PY/0902mystv.txt"
+        },
+        {
+            "key": "L005仓","name": 1,"type":1,
+            "api": "http://www.m9527.top/biu.txt "
+        },
+        {
+            "key": "分享者18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"
+        },
+        {
+            "key": "二哈18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+        },
+        {
+            "key": "星云线路","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json"
+        },
+        {
+            "key": "扛把子线路","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "Huhujun线路","name": 1,"type":1,
+            "api": "https://huhujunxx.neocities.org/AV.json"
+        },
+        {
+            "key": "🐣虞姬带飞🐣","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "iqiggr","name": 1,"type":1,
+            "api": "https://raw.iqiq.io/zhanghongl983/TVBOXZY/main/TVBOX/iqiggr.json"
+        },
+        {
+            "key": "greenhanming5","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "greenhanming12","name": 1,"type":1,
+            "api": "https://huhujunxx.neocities.org/AV.json"
+        },
+        {
+            "key": "greenhanming13","name": 1,"type":1,
+            "api": "https://download.kstore.space/download/2883/PY/0902mystv.txt"
+        },
+        {
+            "key": "greenhanming18","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/d10a1024265ba7d1a8573715c23cf647.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "greenhanming23","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2"
+        },
+        {
+            "key": "greenhanming24","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1"
+        },
+        {
+            "key": "greenhanming27","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/2008aed3ab6045d4a01571793abc1298.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "greenhanming28","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3"
+        },
+        {
+            "key": "greenhanming29","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/71619663801190a09db627d591cd5cad.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "greenhanming31","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "greenhanming33","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyuxkw/2hacc/main/h/h.json"
+        },
+        {
+            "key": "greenhanming34","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+        },
+        {
+            "key": "greenhanming62","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/hh"
+        },
+        {
+            "key": "greenhanming64","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"
+        },
+        {
+            "key": "▶️扛把子线路","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "🈚Huhujun线路","name": 1,"type":1,
+            "api": "https://huhujunxx.neocities.org/AV.json"
+        },
+        {
+            "key": "🔞二哈ghproxy","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyuxkw/2hacc/main/h/h.json"
+        },
+        {
+            "key": "🔞二哈社区(H)","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+        },
+        {
+            "key": "✈️飞机场2","name": 1,"type":1,
+            "api": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json"
+        },
+        {
+            "key": "🔞18+1","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/71619663801190a09db627d591cd5cad.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "🔞18+2","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/2008aed3ab6045d4a01571793abc1298.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "🔞18+3","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/d10a1024265ba7d1a8573715c23cf647.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "🐜蚂蚁论坛","name": 1,"type":1,
+            "api": "https://download.kstore.space/download/2883/PY/0902mystv.txt"
+        },
+        {
+            "key": "🔞XXXXXZ","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/hh"
+        },
+        {
+            "key": "🔞XXX1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1"
+        },
+        {
+            "key": "🔞XXX2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2"
+        },
+        {
+            "key": "🔞XXX3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3"
+        },
+        {
+            "key": "🔞Peter(H)","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"
+        },
+        {
+            "key": "🔞18+35","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/71619663801190a09db627d591cd5cad.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "🔞18+36","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/2008aed3ab6045d4a01571793abc1298.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "🔞18+37","name": 1,"type":1,
+            "api": "https://mpimg.cn/down.php/d10a1024265ba7d1a8573715c23cf647.msll&e4f28a49643fedf735775a7b1ddb567f"
+        },
+        {
+            "key": "⭐星云线路","name": 1,"type":1,
+            "api": "https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json"
+        },
+        {
+            "key": "🈚Huhujun线路","name": 1,"type":1,
+            "api": "https://huhujunxx.neocities.org/AV.json"
+        },
+        {
+            "key": "🔞星云线路🈲","name": 1,"type":1,
+            "api": "https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json"
+        },
+        {
+            "key": "🔞扛把子线路🈲","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "🔞Huhujun线路🈲","name": 1,"type":1,
+            "api": "https://huhujunxx.neocities.org/AV.json"
+        },
+        {
+            "key": "🔞franksun1211","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "🔞二哈ghproxy","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyuxkw/2hacc/main/h/h.json"
+        },
+        {
+            "key": "🔞kjsc0310","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "🔞Huhujunxx","name": 1,"type":1,
+            "api": "https://huhujunxx.neocities.org/AV.json"
+        },
+        {
+            "key": "🔞成人路线","name": 1,"type":1,
+            "api": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"
+        },
+        {
+            "key": "🐮福利","name": 1,"type":1,
+            "api": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"
+        },
+        {
+            "key": "🐉福利","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "🐔福利","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "ltxxjs_m","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/ltxxjs.github.io/main/m.json"
+        },
+        {
+            "key": "ltxxjs_m2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/ltxxjs.github.io/main/m2.json"
+        },
+        {
+            "key": "ltxxjs_m4","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/ltxxjs.github.io/main/m4.json"
+        },
+        {
+            "key": "ltxxjs_test","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/ltxxjs.github.io/main/test.json"
+        },
+        {
+            "key": "ltxxjs_m","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json"
+        },
+        {
+            "key": "ltxxjs_m2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json"
+        },
+        {
+            "key": "ltxxjs_m5","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m5.json"
+        },
+        {
+            "key": "ltxxjs_m22","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m22.json"
+        },
+        {
+            "key": "lyliangyuxuan_1-8-1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lyliangyuxuan/-/main/采集/1-8-1.json"
+        },
+        {
+            "key": "lyliangyuxuan_FMCR","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lyliangyuxuan/-/main/采集/FMCR.json"
+        },
+        {
+            "key": "lyliangyuxuan_私人收集","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lyliangyuxuan/-/main/采集/私人收集.json"
+        },
+        {
+            "key": "wxwxwz_PRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wxwxwz/YGBH/main/Video/PRO.json"
+        },
+        {
+            "key": "zbl730_B12","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbl730/TVBoxCK/main/B12.txt"
+        },
+        {
+            "key": "zbl730_B13","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbl730/TVBoxCK/main/B13.txt"
+        },
+        {
+            "key": "viptvbox_1670490831","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/viptvbox/tvbox/main/1670490831.txt"
+        },
+        {
+            "key": "viptvbox_1670998077","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/viptvbox/tvbox/main/1670998077.txt"
+        },
+        {
+            "key": "viptvbox_1671105806","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/viptvbox/tvbox/main/1671105806.txt"
+        },
+        {
+            "key": "yh7072_juyou","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yh7072/ttvv/main/juyou.json"
+        },
+        {
+            "key": "yh7072_tvbox","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yh7072/ttvv/main/tvbox.json"
+        },
+        {
+            "key": "yh7072_vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yh7072/ttvv/main/vip.json"
+        },
+        {
+            "key": "yh7072_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yh7072/ttvv/main/18.json"
+        },
+        {
+            "key": "yh7072_19","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yh7072/ttvv/main/19.json"
+        },
+        {
+            "key": "yh7072_js","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yh7072/ttvv/main/js.json"
+        },
+        {
+            "key": "kjsc0310_s2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kjsc0310/tvy/main/s2.json"
+        },
+        {
+            "key": "kjsc0310_s6","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kjsc0310/tvy/main/s6.json"
+        },
+        {
+            "key": "🔞Gmmtekamu-ss","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/ss.json"
+        },
+        {
+            "key": "🔞Gmmtekamu-18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json"
+        },
+        {
+            "key": "🔞franksun1211","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "🔞2Hacc","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+        },
+        {
+            "key": "🔞PinkBird","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/XuQqu/PinkBird/main/adult.json"
+        },
+        {
+            "key": "🔞Guard-H","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json"
+        },
+        {
+            "key": "🔞Guard-H","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json"
+        },
+        {
+            "key": "🅰️6✘测试","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json"
+        },
+        {
+            "key": "🔞未知源","name": 1,"type":1,
+            "api": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"
+        },
+        {
+            "key": "🔞云星18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json"
+        },
+        {
+            "key": "♊浮力yyfxz1[511]","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json"
+        },
+        {
+            "key": "♋浮力yyfxz2[511]","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"
+        },
+        {
+            "key": "♌浮力yyfxz3[511]","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json"
+        },
+        {
+            "key": "🚁🛣飞机场3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "✈️飞机场12","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "✈️飞机场17","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "🥰大人接口①","name": 1,"type":1,
+            "api": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"
+        },
+        {
+            "key": "🥰大人接口④","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "🥰大人接口⑧","name": 1,"type":1,
+            "api": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "key": "🚜老司机8号","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json"
+        },
+        {
+            "key": "18线路","name": 1,"type":1,
+            "api": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"
+        },
+        {
+            "key": "分享者18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"
+        },
+        {
+            "key": "二哈18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+        },
+        {
+            "key": "星云线路","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json"
+        },
+        {
+            "key": "Coldnine009_b","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/LocalhostOne/jar/b"
+        },
+        {
+            "key": "Coldnine009_bb","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/LocalhostOne/jar/bb"
+        },
+        {
+            "key": "Coldnine009_bbb","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/LocalhostOne/jar/bbb"
+        },
+        {
+            "key": "Coldnine009_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18.json"
+        },
+        {
+            "key": "Coldnine009_18_2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_2.json"
+        },
+        {
+            "key": "Coldnine009_18_3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_3.json"
+        },
+        {
+            "key": "Coldnine009_18_4","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_4.json"
+        },
+        {
+            "key": "Coldnine009_18_5","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_5.json"
+        },
+        {
+            "key": "Coldnine009_tvbox","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/000_somepeople/xiaomian_dancang/xiaomian/xl/tvbox.json"
+        },
+        {
+            "key": "fireh1974_z","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fireh1974/TVBoxcang/main/b/z.json"
+        },
+        {
+            "key": "lmlmi_Yoursmile18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/Yoursmile18.json"
+        },
+        {
+            "key": "lmlmi_18+","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/18+.txt"
+        },
+        {
+            "key": "lmlmi_18jin","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/18jin.json"
+        },
+        {
+            "key": "lmlmi_888","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/888.json"
+        },
+        {
+            "key": "lmlmi_9.26福利","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/9.26福利.txt"
+        },
+        {
+            "key": "lmlmi_PRO","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/PRO.json"
+        },
+        {
+            "key": "lmlmi_dxwoai18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/dxwoai18.txt"
+        },
+        {
+            "key": "lmlmi_h","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/h.txt"
+        },
+        {
+            "key": "lmlmi_maodu","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/maodu.txt"
+        },
+        {
+            "key": "lmlmi_maodu2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/maodu2.json"
+        },
+        {
+            "key": "lmlmi_tvbox18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/tvbox18.json"
+        },
+        {
+            "key": "lmlmi_fuli0718","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/fuli0718.txt"
+        },
+        {
+            "key": "lmlmi_vip","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/vip.json"
+        },
+        {
+            "key": "lmlmi_wq18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/wq18.json"
+        },
+        {
+            "key": "lmlmi_xys18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmlmi/xxxx/main/xys18.json"
+        },
+        {
+            "key": "Ever52_福利1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ever52/1/main/beifen/福利1.txt"
+        },
+        {
+            "key": "Ever52_福利2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ever52/1/main/beifen/福利2.txt"
+        },
+        {
+            "key": "Ever52_lsj.txt","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ever52/1/main/beifen/lsj.txt"
+        },
+        {
+            "key": "fireh1974_1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fireh1974/TVBoxcang/main/1/xianlu/1.json"
+        },
+        {
+            "key": "jack2583_0206","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jack2583/tvboxx/main/XianLu/0206.json"
+        },
+        {
+            "key": "ki1300_1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TV/1/1.json"
+        },
+        {
+            "key": "ki1300_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TV/1/18.txt"
+        },
+        {
+            "key": "ki1300_2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TV/1/2.json"
+        },
+        {
+            "key": "ki1300_4D","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TV/1/4D.txt"
+        },
+        {
+            "key": "ki1300_FL","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TV/1/FL.txt"
+        },
+        {
+            "key": "ki1300_线路1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TVBOX/线路/1.json"
+        },
+        {
+            "key": "ki1300_线路2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TVBOX/线路/2.json"
+        },
+        {
+            "key": "ki1300_云星日记18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TVBOX/线路/云星日记18.txt"
+        },
+        {
+            "key": "ki1300_福利接口","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ki1300/TVBOX/main/TVBOX/线路/福利接口.txt"
+        },
+        {
+            "key": "gyfandzd_m","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/gyf/main/m.json"
+        },
+        {
+            "key": "lamkan0210_box","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lamkan0210/lambox/main/box.json"
+        },
+        {
+            "key": "devilgarfield","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/devilgarfield/notes/main/tv/tvbox.json"
+        },
+        {
+            "key": "chiakiwang_tvbox","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chiakiwang/ck/main/tvbox.json"
+        },
+        {
+            "key": "chiakiwang_tvbox1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chiakiwang/ck/main/tvbox1"
+        },
+        {
+            "key": "cnnbgo_X","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json"
+        },
+        {
+            "key": "cnnbgo_1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/1.json"
+        },
+        {
+            "key": "cnnbgo_x","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/xiaomi128/x.json"
+        },
+        {
+            "key": "cnnbgo_18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/zh/18.json"
+        },
+        {
+            "key": "cnnbgo_js","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/zh/js.json"
+        },
+        {
+            "key": "cnnbgo_tvbox","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/zh/tvbox.json"
+        },
+        {
+            "key": "cnnbgo_x","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/zh/x.json"
+        },
+        {
+            "key": "cnnbgo_wh","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/wh/wh.txt"
+        },
+        {
+            "key": "kfwdxy_嚎","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kfwdxy/livey/main/嚎.txt"
+        },
+        {
+            "key": "kfwdxy_sc0","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kfwdxy/livey/main/sc0.txt"
+        },
+        {
+            "key": "jilin2cn","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jilin2cn/TV/main/maoCR.txt"
+        },
+        {
+            "key": "swbqm_dybzvipvipp1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/swbqm/dyvipyyds/main/dybzvipvipp1.json"
+        },
+        {
+            "key": "swbqm_dybzvipvipp2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/swbqm/dyvipyyds/main/dybzvipvipp2.json"
+        },
+        {
+            "key": "swhtv_pro","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhtv/111/main/pro.json"
+        },
+        {
+            "key": "yrr183_adult-1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yrr1833/tvbox/main/adult-1.json"
+        },
+        {
+            "key": "yrr1833_adult-2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yrr1833/tvbox/main/adult-2.json"
+        },
+        {
+            "key": "ltxxjs_m","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json"
+        },
+        {
+            "key": "ltxxjs_m2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json"
+        },
+        {
+            "key": "xiuyaoxu","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiuyaoxu/xiuyaoxu.github.io/23f178b875b963dc7184f712736408925ec56e97/18.json"
+        },
+        {
+            "key": "xiuyaoxu","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hhbbnn/jjm/4e2d9f6f64e6f4ff25a26e68a2d1f307552c6d23/ff.json"
+        },
+        {
+            "key": "menghao990","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/menghao990/menghao990.github.io/87a8c93e218f11f7c7fa8b520a7c3ed624f4c182/tvbox/tv.json"
+        },
+        {
+            "key": "ltxxjs_m","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/ltxxjs.github.io/main/m.json"
+        },
+        {
+            "key": "q2564063","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/q2564063/tvbox_source/main/source/18.json"
+        },
+        {
+            "key": "sqspot_18JS","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sqspot/tac/main/18.js"
+        },
+        {
+            "key": "habao260","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/2023.json"
+        },
+        {
+            "key": "caca3559823437_xxoo","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json"
+        },
+        {
+            "key": "🚀马克思主义哲学1","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18.json"
+        },
+        {
+            "key": "🚀马克思主义哲学2","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_2.json"
+        },
+        {
+            "key": "🚀马克思主义哲学3","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_3.json"
+        },
+        {
+            "key": "🚀马克思主义哲学4","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_4.json"
+        },
+        {
+            "key": "🚀马克思主义哲学5","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_5.json"
+        },
+        {
+            "key": "wuheng18","name": 1,"type":1,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/XL/main/zyz.jpg"
+        }
+    ],
+    "lives": [
+        {
+            "group": "电视频道",
+            "channels": [
+                {
+                    "key": "CCTV-1",
+                    "urls": [
+                        "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-2",
+                    "urls": [
+                        "http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8",
+                        "http://222.240.82.92:9901/tsfile/live/0002_1.m3u8",
+                        "http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-3",
+                    "urls": [
+                        "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/index.m3u8",
+                        "http://39.135.55.72:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
+                        "http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-4",
+                    "urls": [
+                        "http://117.148.179.160/PLTV/88888888/224/3221231726/index.m3u8",
+                        "http://222.240.82.92:9901/tsfile/live/0004_1.m3u8",
+                        "http://117.148.179.163/PLTV/88888888/224/3221231726/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-5",
+                    "urls": [
+                        "http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8",
+                        "http://222.240.82.92:9901/tsfile/live/0005_1.m3u8",
+                        "http://117.148.179.163/PLTV/88888888/224/3221231702/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-6",
+                    "urls": [
+                        "http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8",
+                        "http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8",
+                        "http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396"
+                    ]
+                },
+                {
+                    "key": "CCTV-7",
+                    "urls": [
+                        "http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8",
+                        "http://125.40.191.58:9901/tsfile/live/1006_1.m3u8",
+                        "http://117.148.179.157/PLTV/88888888/224/3221231633/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-8",
+                    "urls": [
+                        "http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8",
+                        "http://125.40.191.58:9901/tsfile/live/1007_1.m3u8",
+                        "http://117.148.179.163/PLTV/88888888/224/3221231694/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-9",
+                    "urls": [
+                        "http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8",
+                        "http://222.132.191.125:9901/tsfile/live/0009_1.m3u8",
+                        "http://117.148.179.163/PLTV/88888888/224/3221231697/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-10",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv10/1.m3u8?i",
+                        "http://222.132.191.125:9901/tsfile/live/0002_1.m3u8",
+                        "http://117.148.179.163/PLTV/88888888/224/3221231666/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-11",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv11/1.m3u8?i",
+                        "http://222.132.191.125:9901/tsfile/live/0007_1.m3u8",
+                        "http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-12",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv12/1.m3u8?i",
+                        "http://222.132.191.125:9901/tsfile/live/0007_1.m3u8",
+                        "http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-13",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv13/1.m3u8?i",
+                        "http://39.135.55.72:6610/PLTV/88888888/224/3221227237/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
+                        "http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-14",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv14/1.m3u8?i",
+                        "http://222.132.191.125:9901/tsfile/live/0010_1.m3u8",
+                        "http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-15",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv15/1.m3u8?i",
+                        "http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId=OTT",
+                        "http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168223"
+                    ]
+                },
+                {
+                    "key": "CCTV-16",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?i",
+                        "http://39.135.138.58:18890/TVOD/88888888/224/3221226230/index.m3u8",
+                        "http://117.148.179.162/PLTV/88888888/224/3221233403/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "CCTV-17",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/HD-8000k-1080P-cctv17/1.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "J2台",
+                    "urls": [
+                        "https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8"
+                    ]
+                },
+                {
+                    "key": "面包台",
+                    "urls": [
+                        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?zgangd"
+                    ]
+                },
+                {
+                    "key": "时尚频道",
+                    "urls": [
+                        "http://juyunlive.juyun.tv/live/24950198.m3u8?zgangd"
+                    ]
+                },
+                {
+                    "key": "香港卫视",
+                    "urls": [
+                        "http://zhibo.hkstv.tv/livestream/mutfysrq.flv?zgangd"
+                    ]
+                },
+                {
+                    "key": "欢笑剧场4k",
+                    "urls": [
+                        "http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "爱自然",
+                    "urls": [
+                        "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8"
+                    ]
+                },
+                {
+                    "key": "凤凰中文",
+                    "urls": [
+                        "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8"
+                    ]
+                },
+                {
+                    "key": "凤凰资讯",
+                    "urls": [
+                        "http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8"
+                    ]
+                },
+                {
+                    "key": "广东卫视",
+                    "urls": [
+                        "http://117.148.129.9/PLTV/88888888/224/3221231891/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "深圳卫视",
+                    "urls": [
+                        "http://39.135.47.101:6610/000000001000/1000000001000011645/1.m3u8?xtkg?zweid"
+                    ]
+                },
+                {
+                    "key": "湖南卫视",
+                    "urls": [
+                        "http://117.148.129.9/PLTV/88888888/224/3221231729/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "黑龙江卫",
+                    "urls": [
+                        "http://117.148.129.9/PLTV/88888888/224/3221231967/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "北京卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225728/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "江苏卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225613/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "浙江卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225612/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "东方卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226336/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "山东卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226456/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "湖北卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225627/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "黑龙江台",
+                    "urls": [
+                        "http://111.11.123.49:6610/000000001000/1000000001000001925/1.m3u8?Contentid=1000000001000001925&livemode=1&stbId=3&channel-id=ystenlive"
+                    ]
+                },
+                {
+                    "key": "河北卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226406/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "安徽卫视",
+                    "urls": [
+                        "http://39.134.65.143/PLTV/88888888/224/3221225925/1.m3u8"
+                    ]
+                },
+                {
+                    "key": "东南卫视",
+                    "urls": [
+                        "http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/HD-3600k-1080P-dongnanstv/1.m3u8;{User-Agent@0151}"
+                    ]
+                },
+                {
+                    "key": "江西卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226344/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "重庆卫视",
+                    "urls": [
+                        "http://qxlmlive.cbg.cn:1935/applive/pstv2/playlist.m3u8"
+                    ]
+                },
+                {
+                    "key": "四川卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226338/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "广西卫视",
+                    "urls": [
+                        "http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/HD-3600k-1080p-ynguangxistv/1.m3u8;{User-Agent@0151}"
+                    ]
+                },
+                {
+                    "key": "河南卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226480/index.m3u8?"
+                    ]
+                },
+                {
+                    "key": "贵州卫视",
+                    "urls": [
+                        "http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226259/2/index.m3u8?fmt=ts2hls"
+                    ]
+                },
+                {
+                    "key": "吉林卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226397/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "海南卫视",
+                    "urls": [
+                        "http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls"
+                    ]
+                },
+                {
+                    "key": "甘肃卫视",
+                    "urls": [
+                        "http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT"
+                    ]
+                },
+                {
+                    "key": "广东卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226374/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "大湾区台",
+                    "urls": [
+                        "http://117.148.129.9/PLTV/88888888/224/3221231661/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "山西卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225624/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "辽宁卫视",
+                    "urls": [
+                        "http://39.134.19.135/PLTV/88888888/224/3221225726/1.m3u8"
+                    ]
+                },
+                {
+                    "key": "安徽卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226498/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "东南卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225620/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "青海卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225628/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "云南卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226444/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "江西卫视",
+                    "urls": [
+                        "http://111.11.123.49:6610/000000001000/8501314381310215409/1.m3u8?Contentid=8501314381310215409&livemode=1&stbId=3&channel-id=hnbblive"
+                    ]
+                },
+                {
+                    "key": "河南卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226320/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "陕西卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225625/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "吉林卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226386/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "广西卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226380/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "西藏卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225638/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "内蒙古台",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225634/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "内蒙古台",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226389/index.m3u8?"
+                    ]
+                },
+                {
+                    "key": "四川卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226081/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "宁夏卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226454/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "甘肃卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225633/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "重庆卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225618/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "新疆卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225635/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "海南卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225639/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "兵团卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226439/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "厦门卫视",
+                    "urls": [
+                        "http://111.11.123.49:6610/000000001000/5084893189220221988/1.m3u8?Contentid=5084893189220221988&livemode=1&stbId=3&channel-id=bestzb"
+                    ]
+                },
+                {
+                    "key": "三沙卫视",
+                    "urls": [
+                        "http://pull2.ssws.tv/live/SswsTV20210803.m3u8"
+                    ]
+                },
+                {
+                    "key": "延边卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226516/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "康巴卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225660/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "江苏卫视",
+                    "urls": [
+                        "https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8"
+                    ]
+                },
+                {
+                    "key": "浙江卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226342/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "东方卫视",
+                    "urls": [
+                        "http://111.11.123.49:6610/000000001000/6782234715780267120/1.m3u8?Contentid=6782234715780267120&livemode=1&stbId=3&channel-id=bestzb"
+                    ]
+                },
+                {
+                    "key": "北京卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226251/index.m3u8?"
+                    ]
+                },
+                {
+                    "key": "山东卫视",
+                    "urls": [
+                        "http://111.11.123.49:6610/000000001000/9181956367102813995/1.m3u8?Contentid=9181956367102813995&livemode=1&stbId=3&channel-id=bestzb"
+                    ]
+                },
+                {
+                    "key": "湖北卫视",
+                    "urls": [
+                        "http://111.11.123.49:6610/000000001000/6946554129064486379/1.m3u8?Contentid=6946554129064486379&livemode=1&stbId=3&channel-id=bestzb"
+                    ]
+                },
+                {
+                    "key": "河北卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225623/index.m3u8?"
+                    ]
+                },
+                {
+                    "key": "贵州卫视",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221225626/index.m3u8?"
+                    ]
+                },
+                {
+                    "key": "贵州卫视",
+                    "urls": [
+                        "http://39.136.48.26:8089/PLTV/88888888/224/3221226025/index.m3u8"
+                    ]
+                },
+                {
+                    "key": "黑龙江台",
+                    "urls": [
+                        "http://39.134.63.11:6610/PLTV/88888888/224/3221226421/index.m3u8?i"
+                    ]
+                },
+                {
+                    "key": "华语电影",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/3928"
+                    ]
+                },
+                {
+                    "key": "豆瓣高分",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/8770422"
+                    ]
+                },
+                {
+                    "key": "漫威电影",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/4282654"
+                    ]
+                },
+                {
+                    "key": "贝爷MAX",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/4332"
+                    ]
+                },
+                {
+                    "key": "贝爷影厅1",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/252802"
+                    ]
+                },
+                {
+                    "key": "贝爷影厅2",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/36337"
+                    ]
+                },
+                {
+                    "key": "可乐电影",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/20415"
+                    ]
+                },
+                {
+                    "key": "小宇60帧",
+                    "urls": [
+                        "http://epg.112114.xyz/douyu/323876"
+                    ]
+                }
+            ]
+        }
+    ],
+    "parses": [
+        {
+            "key": "解析玖妖收藏合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "key": "久久",
+            "type": 1,
+            "url": "https://json.hfyrw.com/mao.go?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视"
+                ]
+            }
+        },
+        {
+            "key": "蓝光视频",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "key": "嘉奖",
+            "type": 1,
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "左岸",
+            "type": 1,
+            "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "key": "鑫哥",
+            "type": 1,
+            "url": "http://jiexi.mmhkj.xyz/home/api?type=ys&uid=4187535&key=enpstuBEJKLNPUXZ19&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "293",
+            "type": 1,
+            "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
+            "key": "戴拿解析",
+            "type": 1,
+            "url": "https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "key": "jx36",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "mgtv",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "key": "快云影音",
+            "type": 1,
+            "url": "https://jhjx.kuanjv.com/newky/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "letv",
+                    "乐视",
+                    "sohu"
+                ]
+            }
+        },
+        {
+            "key": "Pro",
+            "type": 1,
+            "url": "http://api.vip123kan.vip/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "玖妖收藏酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
+            }
+        },
+        {
+            "key": "王牌",
+            "type": 1,
+            "url": "https://za.kuanjv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "玖妖收藏酷",
+                    "mgtv",
+                    "芒果",
+                    "搜狐",
+                    "sohu",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "xigua",
+                    "西瓜"
+                ]
+            }
+        },
+        {
+            "key": "必成",
+            "type": 1,
+            "url": " https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "飞扬",
+            "type": 0,
+            "url": "http://jx.gkkgj.cn/feiyang/analysis.php?v=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "pptv",
+                    "sohu",
+                    "mgtv",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "江湖",
+            "type": 1,
+            "url": "http://jx.vipmv.co/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "扶风",
+            "type": 1,
+            "url": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "兄弟",
+            "type": 1,
+            "url": "http://ffjx.zjapp.cc/api/?key=iwtk5D03E323iLVAXx&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "尘烟",
+            "type": 1,
+            "url": "http://jifei.mrcy0.com/home/api?type=ys&uid=2276830&key=defhlprzAMSTXZ0567&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "呦叭",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=12185285&key=ijkluxAELMRUWXY279&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "pptv",
+                    "le",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "key": "看剧吧1",
+            "type": 1,
+            "url": "https://vvip.funsline.cn/api/?key=fZuKWKD07njZbuwBHQ&url=",
+            "ext": {
+                "flag": [
+                    "rx"
+                ]
+            }
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "cctv",
+        "cntv",
+        "wasu",
+        "bilibili",
+        "xigua",
+        "1905",
+        "1920l",
+        "1920i",
+        "mim3u8",
+        "laodim3u8",
+        "leduo",
+        "CL4K",
+        "ltnb",
+        "rx",
+        "renrenmi",
+        "wuduyun",
+        "xueren",
+        "naifeimi",
+        "miaoparty",
+        "miaoparty2",
+        "miaoparty3",
+        "xfy",
+        "xfyun",
+        "x1play",
+        "fuckapp",
+        "duoduozy",
+        "ftqp2",
+        "ftqp3",
+        "ftqp4",
+        "ftqp5",
+        "duoduozy",
+        "longteng",
+        "U酷",
+        "芒果",
+        "腾讯",
+        "爱奇艺",
+        "奇艺",
+        "ziqie",
+        "wuduzy",
+        "xuanfeng"
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "key": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "key": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "key": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "key": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "key": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "key": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "key": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "key": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "key": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "key": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "key": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "key": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "key": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "key": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "key": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
