@@ -1,7 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":1,"changeable":0},
+		{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 		{"key":"hipy_js_4K-AV","name":"👑｜真4K","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./drpy_js/4K-AV.js"},		
 		{"key":"T4-heimuer","name":"💯｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 		{"key":"drpy_js_素白白","name":"💯｜素白白","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
