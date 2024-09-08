@@ -1,7 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{"key":"考拉TV1","name":"⚡｜考拉TV1","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
+		{"key":"考拉TV1","name":"⚡｜考拉TV1","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":0,"quickSearch":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
 		{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 		{"key":"hipy_js_4K-AV","name":"👑｜真4K","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./drpy_js/4K-AV.js"},		
 		{"key":"drpy_js_素白白","name":"⚡｜素白白","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
