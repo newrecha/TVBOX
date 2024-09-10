@@ -95,12 +95,6 @@
         {"key":"csp_XYQHiker_VSYY","name":"🎥｜VS","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQH.jar","ext":"./json/VS影院.json"},
         {"key":"drpy_js_中国人","name":"🎥｜中国人","type":3,"api":"./lib/drpy2.min.js","ext":"./js/中国人.js"},
 		{"key":"420kvm","name":"🎥｜420","type":3,"searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","api":"csp_XBPQ","ext":"./json/420影视.json"},
-
-
-
-
-
-
 		{"key":"csp_AppYsV2_爱看剧","name":"🎥｜爱看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ikanju.cc/mogai_api.php/v1.vod","jar":"./jar/144.jar"},
 		{"key":"csp_AppYsV2_1080影视","name":"🎥｜1080","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.1080dyw.xyz/api.php/v1.vod","jar":"./jar/144.jar"},
 		{"key":"csp_XYQHiker_白嫖者联盟","name":"🎥｜嫖者盟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖者联盟.json","jar":"./jar/xkl0525.jar"},
