@@ -64,53 +64,6 @@ ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 
 私密頻道,#genre#
-松視1,https://z02.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-松视1台,https://z02.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-松视2台,https://z02.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-松視2,https://z02.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松視3,https://z02.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-松视3台,https://z02.ubtvfans.com/live/rx3/2907/996ead584b34542d91ef9b92b8184d0a/index.m3u8
-潘朵拉完美,https://z02.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-彩虹電影,https://z02.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-HAPPY,https://z02.ubtvfans.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-JStar,https://z02.ubtvfans.com/live/rx3/2909/bcf2a48c5327078d0602115b3fdee5fe/index.m3u8
-彩虹E,https://z02.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-彩虹E,https://z02.ubtvfans.com/live/rx4/2935/abd12ad135442a70846dc7d5e271e1a7/index.m3u8
-彩虹K,https://z02.ubtvfans.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
-彩虹K,https://z02.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-Amazing,https://z02.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-彩虹电影,https://z02.ubtvfans.com/live/rx4/2934/e36bc489afabbf84ed6ae225b1400ae8/index.m3u8
-Brazzers TV,https://z02.ubtvfans.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
-Vivid Touch,https://z02.ubtvfans.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-Erox,https://z02.ubtvfans.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
-Red Hot,https://z02.ubtvfans.com/live/rx4/3080/8dfdbfc22b31a2ad82dbd3c7fc7fa150/index.m3u8
-Exxxtasy,https://z02.ubtvfans.com/live/rx4/3081/9d623078b74ba5c6af7ae187f80452ca/index.m3u8
-Penthouse Quickie,https://z02.ubtvfans.com/live/rx4/3082/f7658deac9432e6698292a88bef34f27/index.m3u8
-RED LIPS,https://z02.ubtvfans.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
-VIXEN,https://z02.ubtvfans.com/live/rx4/3084/31362cad3e5b2c34fabdf7b30aceb4d0/index.m3u8
-BRAZZERS EN ESPANOL,https://z02.ubtvfans.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
-BUSTY LOVER,https://z02.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-CUM 4K,https://z02.ubtvfans.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-Red Light,https://z02.ubtvfans.com/live/rx4/3075/82daf5b1d963b1da35609093da43e0a9/index.m3u8
-Blue Hustler,https://z02.ubtvfans.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-潘朵拉完美,https://z02.ubtvfans.com/live/rx4/2932/70e6bd09d28338e7379fc5e7e151f0e1/index.m3u8
-Banana香蕉,https://z02.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-LOOK,https://z02.ubtvfans.com/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
-Babes TV HD,https://z02.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
-Hustler HD,https://z02.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
-Redlight HD,https://z02.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-SEX ATION HD,https://z02.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-Passie,https://z02.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
-極限電影,https://z02.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
-PLAYBOY HD,https://z02.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-EXXXTRA SMALL,https://z02.ubtvfans.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
-DAUGHTER SWAP,https://z02.ubtvfans.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
-DEEPER,https://z02.ubtvfans.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
-DIGITAL PLAYGROUND,https://z02.ubtvfans.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
-EROTIC SPICE,https://z02.ubtvfans.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
-FAKE AGENT,https://z02.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
-FAKE AGENT UK,https://z02.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
-FAKE COP,https://z02.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
 松視1,https://z88.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
 松視2,https://z88.ubtvfans.com/live/rx3/403/9b7b6ffe613ab14cdcc993d8c28aa042/index.m3u8
 松視3,https://z88.ubtvfans.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
