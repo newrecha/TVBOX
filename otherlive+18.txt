@@ -1,0 +1,148 @@
+OTT源(目前訊號很爛),#genre#
+【灣灣】,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+EYE戏剧,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+爱尔达影剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+卡通,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+EYE旅游台,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+民视,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+台视财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
+年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
+三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
+三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
+三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
+龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
+纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
+纬来精彩,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
+纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
+纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
+纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
+纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
+东风37,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
+民视第一,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
+靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8
+SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+天下卫视,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
+东森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
+ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
+东森美洲戏剧,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+民视闽南台,rtmp://f13h.mine.nu/sat/tv051
+中视闽南台,rtmp://f13h.mine.nu/sat/tv091
+台视闽南台,rtmp://f13h.mine.nu/sat/tv071
+华视闽南台,rtmp://f13h.mine.nu/sat/tv111
+东森超视台,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+纬来日本备,https://bsex.serv00.net/Smart.php?id=videolandjapan
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+纬来体育备,https://bsex.serv00.net/Smart.php?id=videolandsport
+ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+
+私密頻道,#genre#
+松視1,https://z02.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松视1台,https://z02.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
+松视2台,https://z02.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
+松視2,https://z02.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松視3,https://z02.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+松视3台,https://z02.ubtvfans.com/live/rx3/2907/996ead584b34542d91ef9b92b8184d0a/index.m3u8
+潘朵拉完美,https://z02.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+彩虹電影,https://z02.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+HAPPY,https://z02.ubtvfans.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
+JStar,https://z02.ubtvfans.com/live/rx3/2909/bcf2a48c5327078d0602115b3fdee5fe/index.m3u8
+彩虹E,https://z02.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+彩虹E,https://z02.ubtvfans.com/live/rx4/2935/abd12ad135442a70846dc7d5e271e1a7/index.m3u8
+彩虹K,https://z02.ubtvfans.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
+彩虹K,https://z02.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+Amazing,https://z02.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
+彩虹电影,https://z02.ubtvfans.com/live/rx4/2934/e36bc489afabbf84ed6ae225b1400ae8/index.m3u8
+Brazzers TV,https://z02.ubtvfans.com/live/rx4/3076/3a0c10f7cbef649260674b025dda4dc0/index.m3u8
+Vivid Touch,https://z02.ubtvfans.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
+Erox,https://z02.ubtvfans.com/live/rx4/3079/b3c7e541272ada38dcb46e19130fa63e/index.m3u8
+Red Hot,https://z02.ubtvfans.com/live/rx4/3080/8dfdbfc22b31a2ad82dbd3c7fc7fa150/index.m3u8
+Exxxtasy,https://z02.ubtvfans.com/live/rx4/3081/9d623078b74ba5c6af7ae187f80452ca/index.m3u8
+Penthouse Quickie,https://z02.ubtvfans.com/live/rx4/3082/f7658deac9432e6698292a88bef34f27/index.m3u8
+RED LIPS,https://z02.ubtvfans.com/live/rx4/3083/6ef2e595d60711cdb8d5651a1bafad0f/index.m3u8
+VIXEN,https://z02.ubtvfans.com/live/rx4/3084/31362cad3e5b2c34fabdf7b30aceb4d0/index.m3u8
+BRAZZERS EN ESPANOL,https://z02.ubtvfans.com/live/rx4/3092/8242d697b1f91c30f797fa8916e3263c/index.m3u8
+BUSTY LOVER,https://z02.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
+CUM 4K,https://z02.ubtvfans.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
+Red Light,https://z02.ubtvfans.com/live/rx4/3075/82daf5b1d963b1da35609093da43e0a9/index.m3u8
+Blue Hustler,https://z02.ubtvfans.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
+潘朵拉完美,https://z02.ubtvfans.com/live/rx4/2932/70e6bd09d28338e7379fc5e7e151f0e1/index.m3u8
+Banana香蕉,https://z02.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+LOOK,https://z02.ubtvfans.com/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
+Babes TV HD,https://z02.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
+Hustler HD,https://z02.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
+Redlight HD,https://z02.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+SEX ATION HD,https://z02.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+Passie,https://z02.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
+極限電影,https://z02.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+PLAYBOY HD,https://z02.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+EXXXTRA SMALL,https://z02.ubtvfans.com/live/rx4/3099/592ead3e045913f8f0d714a2ff1abc54/index.m3u8
+DAUGHTER SWAP,https://z02.ubtvfans.com/live/rx4/3095/891c69728260f3cda8e352a37136d637/index.m3u8
+DEEPER,https://z02.ubtvfans.com/live/rx4/3096/bbb2f5a74e6a08e7e7e75cc593f273f6/index.m3u8
+DIGITAL PLAYGROUND,https://z02.ubtvfans.com/live/rx4/3097/901cc0a4cec7b1fbda172e92bb66560f/index.m3u8
+EROTIC SPICE,https://z02.ubtvfans.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35e588/index.m3u8
+FAKE AGENT,https://z02.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
+FAKE AGENT UK,https://z02.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
+FAKE COP,https://z02.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
+松視1,https://z88.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
+松視2,https://z88.ubtvfans.com/live/rx3/403/9b7b6ffe613ab14cdcc993d8c28aa042/index.m3u8
+松視3,https://z88.ubtvfans.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
+潘朵拉完美,https://z88.ubtvfans.com/live/rx3/410/415bdc67f1b4040b4983963911f2485b/index.m3u8
+HAPPY,https://z88.ubtvfans.com/live/rx3/2908/0f506ec82f9fff8c676e40317aa8886c/index.m3u8
+JStar,https://z88.ubtvfans.com/live/rx3/2909/164b8735a2a0243396aa17baccd2b100/index.m3u8
+彩虹E,https://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+彩虹K,https://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+Brazzers TV,https://z88.ubtvfans.com/live/rx4/3076/aaf322a185d653c53b1bfaef17708a93/index.m3u8
+Erox,https://z88.ubtvfans.com/live/rx4/3079/e4cead65e532c6dd651bf698a898972b/index.m3u8
+Hustler XXX TV,https://z88.ubtvfans.com/live/rx4/3087/6ca2c1a74e00affd8a2cbd72ca83b146/index.m3u8
+BABES,https://z88.ubtvfans.com/live/rx4/3088/61896c954eec6e77aad3763fc80ed30d/index.m3u8
+BABES UNLEASHED,https://z88.ubtvfans.com/live/rx4/3089/7ac3f3f48aa084841d97ee95f69943c9/index.m3u8
+BAEB Perv City,https://z88.ubtvfans.com/live/rx4/3090/61b40c4d9912a5e88d9093c259c9c6c2/index.m3u8
+BRATTY SIS,https://z88.ubtvfans.com/live/rx4/3091/673eba99e9adae6abdd859d2b693ad9b/index.m3u8
+BRAZZERS EN ESPANOL,https://z88.ubtvfans.com/live/rx4/3092/b50bc6f4137ee58a03dddc0cd7867a2f/index.m3u8
+BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/295168419f66238022939a5f2a883497/index.m3u8
+CUM 4K,https://z88.ubtvfans.com/live/rx4/3094/3e3c40c5a2477f2af2e65e35ebc225f7/index.m3u8
+Blue Hustler,https://z88.ubtvfans.com/live/rx4/3077/feef88223f7dfe080c91b351aaddd270/index.m3u8
+Redlight HD,https://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
+SEX ATION HD,https://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+極限電影,https://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+奥视频道2,https://z88.ubtvfans.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
+EXXXTRA SMALL,https://z88.ubtvfans.com/live/rx4/3099/a36a7aae4d36a61a76ae8fb4ddecd7fe/index.m3u8
+DAUGHTER SWAP,https://z88.ubtvfans.com/live/rx4/3095/ff9a906e7146219f268c4aad8af84ec5/index.m3u8
+DEEPER,https://z88.ubtvfans.com/live/rx4/3096/1673bbac43023b67969a8b4743e6bdc4/index.m3u8
+DIGITAL PLAYGROUND,https://z88.ubtvfans.com/live/rx4/3097/6a87dfae87872c7a971bb185d9768587/index.m3u8
+EROTIC SPICE,https://z88.ubtvfans.com/live/rx4/3098/e484c97ecdfe5ca263af1d82f2d7d199/index.m3u8
+FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/7b1939ca379bc61acb5ae8d4310fc1cd/index.m3u8
+FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/2db737509d9d65c8d1073995e74050b0/index.m3u8
+FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/0b12c47f4b1a423b6720807852a1421c/index.m3u8
+苍井空,https://z88.ubtvfans.com/live/rx4/3154/83ca5f886d657cc8b660677938773213/index.m3u8
+金丝雀,https://z88.ubtvfans.com/live/rx4/3155/dc67eb59d50bbd63e221f7ded1bdca85/index.m3u8
+波多野结衣,https://z88.ubtvfans.com/live/rx4/3158/3fa04142ab22b5a272ba5115bd56d477/index.m3u8
+上原亜衣,https://z88.ubtvfans.com/live/rx4/3162/d56054ff3aed682703e25437999f5236/index.m3u8
