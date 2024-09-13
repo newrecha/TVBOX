@@ -137,13 +137,13 @@
 		{"key":"卫影视","name":"🎥｜卫影视","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","ext":{"线路数组":"#playlist&&</li>","线路标题":">&&</a>","播放数组":"myui-content__listsort-list&&</ul>","播放列表":"<a&&</a>","播放标题":">&&<","跳转播放链接":"varnow=\"&&\"","分类url":"https://wzznl.buzz/search.php?page={catePg}&searchtype=5&tid={cateId}&area={area}&year={year}","简介":"小林子为您剧情介绍:+剧情介绍</h3>&&<divclass=\"myui-panelmyui-panel-bgclearfix","分类数组":"col-lg-5col-md-5col-sm-5col-xs-3\">&&</li>","分类标题":">&&</a>","分类ID":"/list/?&&.html"}},
 
 
-        {"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},
-		{"key":"天天弹幕","name":"弹幕｜天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar//fan.jar"},
-		{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},
-		{"key":"机器人弹幕","name":"弹幕｜机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},
-		{"key":"小苹果弹幕","name":"弹幕｜小苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},
-		{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},
-		{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.jar"},	
+        {"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.txt"},
+		{"key":"天天弹幕","name":"弹幕｜天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar//fan.txt"},
+		{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/fan.txt"},
+		{"key":"机器人弹幕","name":"弹幕｜机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.txt"},
+		{"key":"小苹果弹幕","name":"弹幕｜小苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.txt"},
+		{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.txt"},
+		{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/fan.txt"},	
 		{"key":"drpy_js_哔哩直播","name":"弹幕｜哔哩直播","type":3,"searchable":0,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
 		{"key":"drpy_js_哔哩影视","name":"弹幕｜哔哩影视","type":3,"searchable":0,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩影视.js"},
 				
