@@ -37,7 +37,6 @@
 			{"key":"cc_热播之家","name":"🎥｜热播之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar1/c.jar","ext":"./json/热播之家.json"},
 			{"key":"热播之家","name":"🎥｜热播｜XYQ","type":3,"api":"csp_XBPQ","jar":"./jar1/xyqxbpq.jar","ext":{"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
 			{"key":"热播","name":"🎥｜热播｜飯硬","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./jar1/fan.txt"},
-			{"key":"可可","name":"🎥｜可可｜肥貓","type":3,"playerType":"2","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar1/PandaQ240913.jar"},
 			{"key":"可可","name":"🎥｜可可｜飯硬","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar1/fan.txt"},
 			{"key":"Auete","name":"🎥｜奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/","jar":"./jar1/fan.txt"},
 			{"key":"csp_nkvlog","name":"🎥｜NK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar1/HCCX.jar","ext":"./json/nkvlog.json"},
