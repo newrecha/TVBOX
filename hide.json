@@ -5,6 +5,10 @@
             "name": "正常接口"
           },
           {
+            "url": "https://9280.kstore.space/wex.json",
+            "name": "牛二接口"
+          },
+          {
               "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-only-sex.json",
               "name": "18禁接口"
           },          
