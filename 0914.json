@@ -18,7 +18,7 @@
 			{"key":"drpy_js_欧帝影院","name":"⚡｜欧帝","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js"},
 			{"key":"金鹰克隆","name":"⚡｜金鹰｜克隆","type":4,"api":"http://zhangqun66.xyz/jy.php","jar":"./jar1/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 			{"key":"索尼克隆","name":"⚡｜索尼｜克隆","type":4,"api":"http://zhangqun66.xyz/sn.php","jar":"./jar1/fm.jar","searchable":1,"quickSearch":1,"filterable":1},
-			{"key":"nyys","name":"⚡|纽约","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/ys.json","jar":"./jar1/custom_spider.jar"},
+			{"key":"nyys","name":"⚡｜纽约","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/ys.json","jar":"./jar1/custom_spider.jar"},
 			{"key":"hipy_js_腾云驾雾[官]","name":"腾云驾雾[官]｜T3","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./drpy_js/腾云驾雾[官].js"},
 			{"key":"hipy_js_百忙无果[官]","name":"百忙无果[官]｜T3","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./drpy_js/百忙无果[官].js"},
 			{"key":"hipy_js_宝片视频","name":"宝片视频｜T3","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./drpy_js/宝片视频.js"},
