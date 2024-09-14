@@ -1,0 +1,16 @@
+{
+    "urls": [
+         {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json",
+            "name": "正常接口"
+          },
+          {
+              "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-only-sex.json",
+              "name": "18禁接口"
+          },          
+          {
+              "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914.json",
+              "name": "綜合接口"
+          }
+    ]
+  }
