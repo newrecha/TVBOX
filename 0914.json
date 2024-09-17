@@ -457,6 +457,7 @@
 
 "lives":[
 			{"name":"安博(z88)","type":0,"url":"./anber-z88.json","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"4季TV(M3U)","type":0,"url":"https://files.catbox.moe/cot2fe.m3u","ua":"okhttp/5.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博-唐三","url":"https://tang.hz.cz/zb/anbo?token=334078da","ua":"okhttp/4.12.0"},
 			{"name":"ETH-唐三","api":"https://tang.hz.cz/js/ethtv.js","type":3,"ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","ext":"334078da"},
 			{"name":"晴天","type":0,"url":"https://4026.kstore.space/tv/p2p.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
