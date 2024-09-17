@@ -1,6 +1,5 @@
 {
 "logo":"http://img.fongmi.eu.org/fongmi.jpg",
-"spider":"https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
 "lives":[
 {"name":"mytvstar","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"smart","type":0,"url":"https://www.stream-link.org/stream-link.m3u","ua":"AptvPlayer","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
@@ -23,7 +22,8 @@
 {"name":"18+香蕉哥佛系","type":0,"url":"https://tv.iill.top/m3u/Adult","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"18+XXXLive","type":0,"url":"https://parlay12.serv00.net/xhamters/paylist.php","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"18+日本","type":0,"url":"https://files.catbox.moe/2r4ru2.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"18+Jie","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/18.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"18+合輯","type":0,"url":"https://t4.doube.eu.org/XingShiJie.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"18+Jie","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/18.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"18+合輯","type":0,"url":"https://t4.doube.eu.org/XingShiJie.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"18+紳士台","type":0,"url":"https://files.catbox.moe/rfybwc.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"UPLIVE安博","type":0,"url":"https://fm1077.serv00.net/anbo/","playerType":2,"ua":"okhttp/5.2.0","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Kuala_Lumpur","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"享受1｜International","type":0,"url":"http://0tt118.getenjoyment.net/m3u.php","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
