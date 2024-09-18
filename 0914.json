@@ -462,19 +462,21 @@
 			{"name":"雜頻4｜待整理","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			
 			{"name":"666｜9.18新增","url":"./live/666-live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"安博｜(z88)","type":0,"url":"./live/anber-z88.json","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"安博｜(z88)","type":0,"url":"./live/anber-z88.json","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"晴天｜不穩","type":0,"url":"https://4026.kstore.space/tv/p2p.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-			{"name":"四季TV｜(M3U)","type":0,"url":"./live/4gTV.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"四季TV｜9.17新增","type":0,"url":"./live/4gTV.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"四季TV(代理)｜9.18新增","type":0,"url":"./live/4g-Tw.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"歐華｜整理中","type":0,"url":"./live/ohwua.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"smart｜不穩","type":0,"url":"./live/smart.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"LITV+hlspull｜整理中","type":0,"url":"./live/litv+hlspull.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"海燕｜整理中","type":0,"url":"./live/TyphoonHaiyan.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"Free｜整理中","type":0,"url":"./live/free.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-			{"name":"其他｜整理中","url":"./live/otherlive+18.txt","ua":"okhttp/4.12.0"},
+			{"name":"其他｜整理中","url":"./live/otherlive+18.txt"},
 
-			{"name":"綜合｜香蕉哥","type":0,"url":"./live/banana.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"體育｜香蕉哥","type":0,"url":"https://tv.iill.top/m3u/Sport","playerType":2,"ua":"okhttp/3.15","pass":true,"timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"君赢天下6636","type":0,"url":"./live/君赢天下.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"綜合｜香蕉哥","type":0,"url":"./live/banana.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"體育｜香蕉哥","type":0,"url":"https://tv.iill.top/m3u/Sport","playerType":2,"ua":"okhttp/3.15","pass":true,"timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"君赢天下6636","type":0,"url":"./live/君赢天下.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 			
 			{"name":"初秋语","type":0,"url":"./listx.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},
@@ -489,7 +491,7 @@
 			{"name":"限時源(停用)｜159-169","type":0,"url":"./live/159-169.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"安博(停用)｜唐三","url":"https://tang.hz.cz/zb/anbo?token=334078da","ua":"okhttp/4.12.0"},
 			{"name":"ETH(停用)｜唐三","api":"https://tang.hz.cz/js/ethtv.js","type":3,"ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","ext":"334078da"},
-			{"name":"ott(停用)｜大街","type":0,"url":"http://0tt118.getenjoyment.net/m3u.php","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"}
+			{"name":"ott(停用)｜大街","type":0,"url":"http://0tt118.getenjoyment.net/m3u.php","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
 		],
 
