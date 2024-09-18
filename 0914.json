@@ -464,7 +464,7 @@
 			{"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"晴天｜不穩","type":0,"url":"https://4026.kstore.space/tv/p2p.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"四季TV｜9.17新增","type":0,"url":"./live/4gTV.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"四季TV(代理)｜9.18新增","type":0,"url":"./live/4g-Tw.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"四季TV(代理)｜9.18新增","type":0,"url":"./live/4G-tw.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"歐華｜整理中","type":0,"url":"./live/ohwua.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"smart｜不穩","type":0,"url":"./live/smart.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"LITV+hlspull｜整理中","type":0,"url":"./live/litv+hlspull.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
