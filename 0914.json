@@ -456,12 +456,11 @@
 		],
 
 "lives":[
-			{"name":"雜頻1｜待整理","type":0,"url":"http://0tt118.getenjoyment.net/m3u.php","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"雜頻2｜待整理","type":3,"ua":"okhttp/4.12.0","api":"https://files.catbox.moe/7yy0s6.js","url":"https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png","ext":""},
-			{"name":"雜頻3｜待整理","api":"https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt","type":3,"ua":"okhttp/4.12.0","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
-			{"name":"雜頻4｜待整理","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"雜頻5｜待整理","type":0,"url":"./live/666-live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-			{"name":"雜頻6｜待整理","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"雜頻1｜待整理","type":3,"ua":"okhttp/4.12.0","api":"https://files.catbox.moe/7yy0s6.js","url":"https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png","ext":""},
+			{"name":"雜頻2｜待整理","api":"https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt","type":3,"ua":"okhttp/4.12.0","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+			{"name":"雜頻3｜待整理","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"雜頻4｜待整理","type":0,"url":"./live/666-live.txt","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"雜頻5｜待整理","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			
 			{"name":"zlive｜9.18新增","type":0,"url":"./live/HappyTv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博｜(z88)","type":0,"url":"./live/anber-z88.json","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taiwan","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -489,7 +488,9 @@
 
 			{"name":"限時源(停用)｜159-169","type":0,"url":"./live/159-169.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"安博(停用)｜唐三","url":"https://tang.hz.cz/zb/anbo?token=334078da","ua":"okhttp/4.12.0"},
-			{"name":"ETH(停用)｜唐三","api":"https://tang.hz.cz/js/ethtv.js","type":3,"ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","ext":"334078da"}
+			{"name":"ETH(停用)｜唐三","api":"https://tang.hz.cz/js/ethtv.js","type":3,"ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","ext":"334078da"},
+			{"name":"ott(停用)｜大街","type":0,"url":"http://0tt118.getenjoyment.net/m3u.php","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"}
+
 		],
 
 "ads":["mozai.4gtv.tv","pv.vipwm.cc"]
