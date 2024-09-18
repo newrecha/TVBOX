@@ -471,7 +471,7 @@
 			{"name":"海燕｜整理中","type":0,"url":"./live/TyphoonHaiyan.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"Free｜整理中","type":0,"url":"./live/free.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"其他｜整理中","url":"./live/otherlive+18.txt"},
-	        {"name":"其他2｜9.19整理","url":"/live/240919-1.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
+	        {"name":"黑腳｜9.19整理","url":"./live/240919-1.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 			{"name":"綜合｜香蕉哥","type":0,"url":"./live/banana.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"體育｜香蕉哥","type":0,"url":"https://tv.iill.top/m3u/Sport","playerType":2,"ua":"okhttp/3.15","pass":true,"timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"君赢天下6636","type":0,"url":"./live/君赢天下.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
