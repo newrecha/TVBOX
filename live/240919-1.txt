@@ -22,7 +22,6 @@ TVBS 新聞,rtmp://twcdn.top/sat/tv551#mitv://generationnexxxt.com:19806/6a155a5
 非凡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8#rtmp://f13h.mine.nu/sat/tv581
 FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 環球新聞,http://us1.qqvr.online:9000/live.m3u8?c=6
-
 國會頻道,#genre#
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會議事轉播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
@@ -36,7 +35,6 @@ FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 立法院 直播教育及文化委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
 立法院 直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
 立法院 直播救濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
-
 體育頻道,#genre#
 緯來體育,rtmp://twcdn.top/sat/tv721#https://epg.pw/stream/7b3403623fa856cdbc81f47c24148fca5894abe8f01f7c7b587bba4b9b98cae9.m3u8
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731#rtmp://twcdn.top/sat/tv731
@@ -44,7 +42,6 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741#rtmp://twcdn.top/sat/tv741
 博斯網球,rtmp://twcdn.top/sat/md021
 博士魅力,rtmp://twcdn.top/sat/md031
 博斯無限,rtmp://twcdn.top/sat/md051
-
 戲劇頻道,#genre#
 東森電影,https://epg.pw/stream/382dca1621c0aecc0f0ef19a4ef53b453d932600fc491d9f56657e576996d995.m3u8
 東森戲劇,https://epg.pw/stream/d022283dd82f8a32737a6a8400d8e0e2f4d38e672492bb7966c25ac4950b25a3.m3u8
@@ -56,7 +53,6 @@ WARNER TV,P2p://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
 影迷數位電影台,P2p://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8#http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 AXN,P2p://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba#P2p://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
-
 其他綜合,#genre#
 MOMO綜合台,rtmp://twcdn.top/sat/tv761#rtmp://f13h.mine.nu/sat/tv761
 緯來精彩,rtmp://twcdn.top/sat/md041
