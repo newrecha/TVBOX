@@ -1,5 +1,3 @@
-TW240919,#genre#
-
 新聞,#genre#
 台視,rtmp://twcdn.top/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
