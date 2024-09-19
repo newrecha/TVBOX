@@ -469,7 +469,6 @@
 			{"name":"smart｜不穩","type":0,"url":"./live/smart.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"hlspull｜待合併","type":0,"url":"./live/hlspull.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"黑腳｜9.19整理","url":"./live/240919-1.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
-			{"name":"海燕｜整理中","type":0,"url":"./live/TyphoonHaiyan.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"MyTvSuper｜整理中","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"Free｜整理中","type":0,"url":"./live/free.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"其他｜整理中","url":"./live/otherlive+18.txt"},
