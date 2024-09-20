@@ -2,14 +2,14 @@
 	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
-			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"php_heimuer","name":"⚡｜黑木耳｜無廣","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 			{"key":"黑木耳克隆","name":"⚡｜黑木耳｜無更新頁","type":4,"api":"http://zhangqun66.xyz/225.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 			{"key":"api_黑木耳","name":"⚡｜黑木耳｜直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/api黑木耳.json","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile.jar"},
-			{"key":"T4-欧乐","name":"⚡｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-欧乐","name":"⚡｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"文采","name":"⚡｜文采｜飯源","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt"},
 			{"key":"drpy_js_素白白","name":"⚡｜素白白","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/素白白.js"},
-			{"key":"T4-安博","name":"⚡｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-安博","name":"⚡｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"金鹰资源","name":"⚡｜金鹰","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":0,"quickSearch":0,"categories":["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","恐怖片","战争片","纪录片","科幻片","剧情片","动画片","动漫","内地剧","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","短剧","体育赛事"]},
 			{"key":"XBPQ_麻衣影院","name":"⚡｜麻衣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/麻衣影院.json"},
 			{"key":"非凡","name":"⚡｜非凡","type":1,"api":"http://ffzy.tv/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"],"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile.jar"},
@@ -475,8 +475,7 @@
 			{"name":"歐華｜(停用)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/ohwua.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"159-169｜(停用)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/159-169.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"安博(唐三)｜(停用)","url":"https://tang.hz.cz/zb/anbo?token=647c28ca","ua":"okhttp/4.12.0"},
-			{"name":"不明(唐三)｜(停用)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/tansan.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"}
-
+			{"name":"海外(唐三)｜(停用)","type":0,"ua": "AptvPlayer/1.3.3","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/tansan.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"}
 			
 		],
 
