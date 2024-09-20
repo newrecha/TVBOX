@@ -457,8 +457,6 @@
 
 "lives":[
     		{"name":"RobYang｜待整理","type":3,"ua":"okhttp/4.12.0","api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/7yy0s6.js","url":"https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","ext":""},        
-
-			{"name":"hlspull｜待合併","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/hlspull.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"Free｜整理中","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/free.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"君赢天下｜整理中","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/君赢天下.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			
@@ -466,7 +464,7 @@
 			{"name":"四季TV(代理)｜9.18新增","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/4G-tw.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"666｜9.18新增","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/666-live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"黑腳｜9.19整理","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/240919-1.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
-
+			{"name":"hlspull｜9.20整理","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/hlspull.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"安博｜(z88)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/anber-z88.json","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"晴天｜不穩","type":0,"url":"https://4026.kstore.space/tv/p2p.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
