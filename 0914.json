@@ -9,7 +9,7 @@
 			{"key":"T4-欧乐","name":"⚡｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"文采","name":"⚡｜文采｜飯源","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt"},
 			{"key":"drpy_js_素白白","name":"⚡｜素白白","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/素白白.js"},
-			{"key":"T4-安博?","name":"⚡｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-安博?","name":"⚡｜安博?","type":4,"api":"https://tang.hz.cz/power/ub18?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"T4-安博","name":"⚡｜安博2","type":4,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/anber.json","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"金鹰资源","name":"⚡｜金鹰","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":0,"quickSearch":0,"categories":["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","恐怖片","战争片","纪录片","科幻片","剧情片","动画片","动漫","内地剧","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","短剧","体育赛事"]},
 			{"key":"XBPQ_麻衣影院","name":"⚡｜麻衣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/麻衣影院.json"},
