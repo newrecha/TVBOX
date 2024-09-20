@@ -1,5 +1,5 @@
 {
-	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 			{"key":"SOAV","name":"🔞SOAV","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://www.wantav.co/","搜索url":"https://777080.xyz/?s={wd}","数组":"data-video-uid=&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","简介":"⚠️少看点，再看你就废了！！！","分类url":"https://777080.xyz/category/{cateId}/page/{catePg}/;;z","分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
