@@ -458,7 +458,7 @@
 "lives":[
     		{"name":"RobYang｜待整理","type":3,"ua":"okhttp/4.12.0","api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/7yy0s6.js","url":"https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","ext":""},        
 
-			{"name":"hlspull｜待合併","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/hlspull.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"hlspull｜待合併","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/hlspull.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"Free｜整理中","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/free.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"君赢天下｜整理中","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/君赢天下.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			
