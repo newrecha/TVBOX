@@ -456,8 +456,6 @@
 		],
 
 "lives":[
-			{"name":"Free｜整理中","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/free.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-
 			{"name":"RobYang｜9.20新增","url":"https://robyang.bsite.net/VodLive/lb8ffa","epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","ext":""},        
 			{"name":"四季TV｜9.17新增","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/4gTV.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"四季TV(代理)｜9.18新增","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/4G-tw.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
