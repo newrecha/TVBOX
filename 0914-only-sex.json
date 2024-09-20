@@ -138,7 +138,35 @@
                 }
             },
             {"key":"糖心","name":"🔞糖心次元","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar","style":{"ratio":1.7},"ext":{"数组":"<section&&</section","副标题":"添加时间:&&</span>","嗅探词":"cdn2020.com#m3u8","分类url":"http://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z","分类":"国产片商$32#节目企划$3#代理节目$2#麻豆原创$1#导演系列$5#MDS系列$6#MDX系列$7#MD系列$4#MDXS系列$8#兔子先生$10#大鸟十八$17#疯拍系列$18#KISS糖果屋$19#小鹏奇啪行$20#30天解密麻豆$22#突袭女优计划$23#女神羞羞研究所$24#小哥哥艾理$27#情趣K歌房$31#淫欲游戏王$40#麻豆不回家$41#叮叮映画$71#涩会$72#豚豚创媒$75#MDL系列$46#MMZ系列$50#MAD系列$53#MDWP系列$58#MSD系列$64#MDM恋爱咖啡$74#MDUS系列$78#MXJ系列$79#MKY系列$87#MAN系列$89#MCY系列$96#MDAG系列$100#MDHT系列$101#BLX系列$115#MPG系列$116#果冻传媒$11#皇家华人$12#吴梦梦无套系列$13#PsychoPorn色控$14#蜜桃影像传媒$15#天美传媒$45#乌鸦传媒$33#精东影业$34#SWAG$36#91制片厂$52#MSM性梦者$65#爱妃传媒$76#辣椒原创$80#O-STAR$81#肉肉传媒$91#渡边传媒$95#葵心娱乐$97#红斯灯影像$103#麻麻传媒$104#蝌蚪传媒$105#PussyHunter$106#桃花源$108#女优淫娃培训营$42#狼人插$54#女优擂台摔角狂热$55#恋爱巴士$61#男女优生死斗$66#情人劫密室逃脱$67#换妻$68#你好同学$69#禁欲小屋$77#鲍鱼的胜利$84#性爱自修室$88#春游记$92#心动的性号$93#情趣大富翁$94#寻宝吧女神$99#男优练习生$102#女神体育祭$110#麻豆高校$111#野外露初$112#星空无限传媒$47#乐播传媒$48#大象传媒$59#MINI传媒$62#糖心$73#葫芦影业$82#天马传媒$83#CCAV成人头条$90#性视界传媒$109#SA国际传媒$113#起点传媒$114#91茄子$117#草莓猛料$118"}},
-			{"key":"csp_顶级网曝","name":"🔞顶级网曝","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"顶级网曝","主页url":"https://www.djwb3.top/","数组":"<liclass=\"content-item\">&&</a>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","播放数组":"<td>&&</td>","播放链接":"href=\"&&\"","跳转播放链接":"urlDecode(varplayer*url\":\"&&\")","免嗅":"0","搜索url":"https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html","嗅探词":".m3u8#.mp4","分类url":"https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类数组":"<li&&</li>","分类标题":"href=\"/index.php/vod/type/id/*.html\"target=\"_blank\">&&</a>","分类ID":"/index.php/vod/type/id/&&.html"}},
+			{
+				"key": "csp_顶级网曝",
+				"name": "🔞顶级网曝",
+				"type": 3,
+				"api": "csp_XBPQ",
+				 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+				"playerType": 2,
+				"searchable": 1,
+				"quickSearch": 1,
+				"filterable": 0,
+				"ext": {
+					"请求头": "手机",
+					"站名": "顶级网曝",
+					"主页url": "https://www.djwb3.top/",
+					"数组": "<li class=\"content-item\">&&</a>",
+					"标题": "title=\"&&\"",
+					"图片": "data-original=\"&&\"",
+					"播放数组": "<td>&&</td>",
+					"播放链接": "href=\"&&\"",
+					"跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+					"免嗅": "0",
+					"搜索url": "https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
+					"嗅探词": ".m3u8#.mp4",
+					"分类url": "https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+					"分类数组": "<li&&</li>",
+					"分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+					"分类ID": "/index.php/vod/type/id/&&.html"
+				}
+			},
 			{"key":"麻豆","name":"🔞麻豆","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","style":{"ratio":1.7},"ext":{"搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类":"日本视频$1#麻豆视频$2","分类url":"http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}},
 						
 			{"key":"花影视","name":"🔞花影视","type":3,"api":"csp_XBPQ","ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>","图片": "data-original=\"&&\"","标题": "<h6 class=\"title\"><a href=*>&&</a>","播放数组":"class=\"item line\">&&</div>","线路数组":"class=\"item line\">&&</div>","分类url":"https://11gaokk.com/typegaokk/{cateId}_{catePg}.html[https://11gaokk.com/typegaokk/{cateId}.html]","分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12"}},
@@ -276,11 +304,11 @@
 				{"key":"✨柠檬✨","name":"🔞柠檬","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":{"数组":"<a&&</a>","标题":"<p>&&</p>","图片":"<img>src=\"&&\"","链接":"href=\"&&\"","分类url":"https://www.lsshaofu.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类":"国产精品$1#日韩精选$2#国产传媒$3#国产自拍$27#网红网爆$5"}},
 			{"key":"Bi8TV","name":"🔞Bi8TV","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","style":{"type":"rect","ratio":1.485},"ext":{"主页url":"https://v3.bi888.link/","直接播放":"1","图片":"imgsrc=\"&&\"","标题":"alt=\"&&\"","链接":"href=\"&&\"","分类url":"https://v3.bi888.link/vodtype/{cateId}-{catePg}.html","分类":"精品推荐$20#国产精品$21#日韩精品$22#欧美精品$23#中文字幕$24#日韩无码$25#日韩有码$26#网红主播$27#卡通动漫$28#探花系列$29#SM重味$30#自拍偷拍$31#强奸乱伦$32#口交视频$33#自慰系列$34#教师学生$35#3P合辑$36#巨乳系列$37#颜射系列$38#制服诱惑$39#萝莉少女$40#人兽之恋$41#人妻熟女$42#女同性恋$43#稀缺资源$45#三级伦理$44#空姐模特$48#国产盗摄$49#人妖系列$50#虚拟VR$51"}},
 			{"key":"SOAV","name":"🔞SOAV","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://www.wantav.co/","搜索url":"https://777080.xyz/?s={wd}","数组":"data-video-uid=&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","简介":"⚠️少看点，再看你就废了！！！","分类url":"https://777080.xyz/category/{cateId}/page/{catePg}/;;z","分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
-			{"key":"微密猫","name":"🔞微密猫","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://maobao.vip/","首页":"无圣光视频$wushebgguang/无圣光视频","数组":"\"postgrid\"&&\"postgrid\"","图片":"src=\"&&\"","标题":"title=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","分类url":"https://maobao.vip/mid/{cateId}/page/{catePg};;z","分类":"无圣光视频$wushebgguang/无圣光视频#微密视频$weme/wmsp#森甜视频$stxl/stsp#网红视频$whxl/whsp"}},
 			{"key":"php_madou","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 			{"key":"py_aidouchuanmei","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 			{"key":"php_madou","name":"🔞麻豆[V2]","type":4,"api":"https://demobe.serv00.net/madou.php","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1.33}},
 			{"key":"91md.me","name":"🔞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+			
 			{"key":"csp_Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","searchable":0,"quickSearch":0,"changeable":1,"filterable":0,"timeout":60,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pq.jar"},
 			{"key":"Cable","name":"🔞CableAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Cable","timeout":60,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pq.jar"},
 			{"key":"Top888","name":"🔞Top888","type":3,"api":"csp_Top888","searchable":0,"changeable":0,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pq.jar"},
@@ -288,6 +316,7 @@
 			{"key":"18AV","name":"🔞18AV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Eighteen","style":{"type":"rect","ratio":1.485,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pq.jar"}},
 			{"key":"Jable","name":"🔞Jable","type":3,"searchable":0,"quickSearch":0,"api":"csp_Jable","style":{"type":"rect","ratio":1.77,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pq.jar"}},
 			{"key":"Hanime","name":"🔞Hanime","type":3,"searchable":0,"quickSearch":0,"api":"csp_Hanime","style":{"type":"rect","ratio":0.68,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pq.jar"}},
+			
 			{"key":"semaozy.com","name":"🔞色猫(FQ)","type":1,"searchable":0,"quickSearch":0,"filterable":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php"},
 			{"key":"py_aidouchuanmei","name":"🔞爱豆传媒","type":4,"api":"https://py.doube.eu.org/api?site=aidouchuanmei","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 			{"key":"drpy_js_色色","name":"🔞涩涩直播","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/ss直播.js","playerType":1,"searchable":0,"quickSearch":0},
