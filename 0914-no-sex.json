@@ -2,14 +2,14 @@
 	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
-			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"php_heimuer","name":"⚡｜黑木耳｜無廣","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 			{"key":"黑木耳克隆","name":"⚡｜黑木耳｜無更新頁","type":4,"api":"http://zhangqun66.xyz/225.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
 			{"key":"api_黑木耳","name":"⚡｜黑木耳｜直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/api黑木耳.json","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile.jar"},
-			{"key":"T4-欧乐","name":"⚡｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-欧乐","name":"⚡｜欧乐","type":4,"api":"https://tang.hz.cz/power/olelive?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"文采","name":"⚡｜文采｜飯源","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt"},
 			{"key":"drpy_js_素白白","name":"⚡｜素白白","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/素白白.js"},
-			{"key":"T4-安博","name":"⚡｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=334078da","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+			{"key":"T4-安博","name":"⚡｜安博","type":4,"api":"https://tang.hz.cz/power/ub18?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"金鹰资源","name":"⚡｜金鹰","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":0,"quickSearch":0,"categories":["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","恐怖片","战争片","纪录片","科幻片","剧情片","动画片","动漫","内地剧","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","短剧","体育赛事"]},
 			{"key":"XBPQ_麻衣影院","name":"⚡｜麻衣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/麻衣影院.json"},
 			{"key":"非凡","name":"⚡｜非凡","type":1,"api":"http://ffzy.tv/api.php/provide/vod/","searchable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"],"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile.jar"},
@@ -274,7 +274,7 @@
 			{"key":"油管播放列表","name":"㊙︎｜油管播放列表","type":4,"api":"http://zhangqun66.xyz/ytlb.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"changeable":1},
 			{"key":"超级影视","name":"㊙︎｜超级影视","type":1,"api":"http://cjvip.free.hr/api.php/provide/vod/?ac=list","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"changeable":0},
 
-
+			
 			{"key":"XYQHiker_达达龟","name":"️❌｜达达龟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/达达龟.json","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.jar"},
 			{"key":"BT天堂","name":"❌｜BT天堂","type":3,"api":"csp_XBPQ","searchable":1,"timeout":60,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/bttt.json","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"},
 			{"key":"旺旺影视XBPQ","name":"❌｜旺旺","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"数组":"<li>&&</li>","标题":"title=\"&&\"","图片":"<imgsrc=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter-{letter}-area-{area}-lang-.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$26"}},
@@ -364,7 +364,7 @@
 			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 			{"name":"jsonplayer","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 			{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="}
-],
+			],
 
 "rules":[
 			{"name":"暴风","hosts":["bfzy","bfbfvip","bfengbf"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts"]},
@@ -384,7 +384,7 @@
 			{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
 		],
 
-"doh":[
+  "doh":[
 			{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 			{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
 			{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
