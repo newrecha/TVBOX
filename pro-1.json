@@ -126,19 +126,7 @@
             "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/色播.js",
             "searchable": 1,
             "changeable": 0
-        },{
-      "key": "py_liushoushaofu",
-      "name": "🤪 留守少妇(T4_Py)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/api?site=liushoushaofu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    }, {
+        } {
             "key": "XHP",
             "name": "高清小黄片",
             "type": 3,
