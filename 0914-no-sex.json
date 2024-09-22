@@ -3,65 +3,6 @@
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 			{"key":"來源","name":"彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長......還有好多好多github上面分享的前輩"},
-			{
-				"key": "ConfigCenter",
-				"name": "配置中心",
-				"type": 3,
-				"api": "csp_ConfigCenter",
-				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
-				"searchable": 0,
-				"changeable": 0,
-				"ext": {
-				"commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json"
-				}
-			  },
-			  {
-				"key": "TgYunPan|服务器",
-				"name": "TgYunPan|服务器",
-				"type": 3,
-				"api": "csp_TgYunPan",
-				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
-				"searchable": 1,
-				"filterable": 0,
-				"switchable": 0,
-				"ext": {
-				  "siteUrl": "你的服务器地址端口",
-				  "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json"
-				}
-			  },
-			  {
-				"key": "TgYunPan|本地",
-				"name": "TgYunPan|本地",
-				"type": 3,
-				"api": "csp_TgYunPanLocal",
-				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
-				"searchable": 1,
-				"filterable": 0,
-				"switchable": 0,
-				"ext": {
-				  "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json"
-				}
-			  },
-			{
-				"key": "Youtube",
-				"name": "Youtube",
-				"type": 3,
-				"api": "csp_Youtube",
-				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
-				"searchable": 1,
-				"changeable": 1,
-				"style": {
-				  "type": "rect",
-				  "ratio": 1.433
-				},
-				"ext": {
-				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json",
-				  "json": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/youtube.json",
-				  "cookie": "Cgt3cm02M0VWb2c1NCichsG3BjIKCgJUVxIEGgAgMA%3D%3D"
-				}
-			  },
 			{"key":"zj","name":"⚡|8K影院","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"php_heimuer","name":"⚡｜黑木耳｜無廣","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
@@ -83,7 +24,7 @@
 			{"key":"drpy_js_NY影院","name":"⚡｜紐約","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/NY影院.js","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},
 			{"key":"索尼","name":"🎥｜寶盒2K","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
 			{"key":"AppYs_南瓜","name":"🎥｜寶盒1080P","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
-			{"key":"freeok","name":"👌┃小米","type":3,"click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_FreeOK","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xiaomi.jar"},
+			{"key":"freeok","name":"🎥｜小米","type":3,"click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_FreeOK","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xiaomi.jar"},
 			{"key":"文采影视","name":"界影視","type":3,"api":"csp_XBPQ","changeable":0,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar","ext":{"主页url":"https://www.hkybqufgh.com/","简介":"</label>&&</div>","嗅探词":"m3u8","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}[不包含:伦理剧]","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.hkybqufgh.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"文采秒播","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.hkybqufgh.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 			{"key":"狐狸","name":"🎥｜狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 			{"key":"七夕❤️无广","name":"🎥｜七夕","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"宝盒提醒您:请勿相信影片中的广告，以免上当受骗！+<spanclass=\"detail-content\"style=*>&&</span>","导演":"宝盒TV","主演":"主演：&&</p>","影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"宝盒专享","分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
@@ -344,7 +285,7 @@
 			{"key":"虎牙直播js","name":"㊙︎｜虎牙直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
 			{"key":"斗鱼js","name":"㊙︎｜斗鱼直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
 			{"key":"直播转点播","name":"㊙︎｜直播轉點播","type":4,"api":"http://api.paoyun.eu.org/zh/2241-2.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"changeable":0,"ext":"1,2,3,4"},
-			{"key":"服务器油管","name":"㊙︎｜YOUTUBE","type":4,"api":"https://api.paoyun.eu.org/yt/yt001.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar","searchable":1,"changeable":1,"ext":"海賊王#最新歌曲#動漫#新聞#卡提諾#追劇#爆笑#喜劇#新聞#旅遊#documentary#bbcdocumentary"},
+			{"key":"服务器油管","name":"㊙︎｜YOUTUBE","type":4,"api":"https://api.paoyun.eu.org/yt/yt001.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar","searchable":1,"changeable":1,"json": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/youtube.json","ext":"海賊王#最新歌曲#動漫#新聞#卡提諾#追劇#爆笑#喜劇#新聞#旅遊#documentary#bbcdocumentary"},
 			{"key":"油管播放列表","name":"㊙︎｜油管播放列表","type":4,"api":"https://api.paoyun.eu.org/ytlb.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar","searchable":1,"changeable":1},
 			{"key":"超级影视","name":"㊙︎｜超级影视","type":1,"api":"http://cjvip.free.hr/api.php/provide/vod/?ac=list","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"changeable":0},	
 			{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
