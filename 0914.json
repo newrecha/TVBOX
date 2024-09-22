@@ -107,7 +107,30 @@
 				"quickSearch": 1,
 				"filterable": 1,"jar": "./jar/XYQ1.jar"
 			  },			
-			  { "key": "狐狸", "name": "🦊狐狸蓝光", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/" },			
+			  { "key": "狐狸", "name": "🦊狐狸蓝光", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/" },		
+			  {
+				"key": "七夕❤️无广",
+				"name": "七夕|影视",
+				"type": 3,
+				"api": "csp_XBPQ",
+				"jar": "./lib/XBPQ.jar",
+				"searchable": 1,
+				"quickSearch": 1,
+				"filterable": 1,
+				"ext": {
+				  "简介": "宝盒提醒您:请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+				  "导演": "宝盒TV",
+				  "主演": "主演：&&</p>",
+				  "影片状态": "状态：&&</p>",
+				  "搜索url": "/search.php;post;searchword={wd}",
+				  "线路数组": "<h3&&/h3>",
+				  "线路标题": "宝盒专享",
+				  "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+				  "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+				}
+			  },
+			  {"key":"纤纤影视","name":"纤纤影视","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"主页url": "https://m.xian372.top/","请求头": "手机","编码": "gb2312","数组": "<a class=\"ui-pic&&</a","图片": "src=\"&&\"","标题": "title=\"&&\"","副标题": "ui-type\">&&</span>","链接": "href=\"&&\"","简介": "description\"><p>&&</p","线路数组": "class=\"intro\">&&</h1","线路标题": "✨PRO专享✨+<h1>飘逸线路<","播放数组": "<div class=\"playlist&&</div","播放列表": "<li>&&</li","播放标题": ">&&</a","播放链接": "href='&&'","搜索数组": "<a class=\"ui-pic&&</a","搜索图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1","分类数组": "<a&&</a","分类标题": ".html\">&&</a[不包含:视频二#综艺娱乐]","分类ID": "href=\"/L/&&.html\"","分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}},
+	
 			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"php_heimuer","name":"⚡｜黑木耳｜無廣","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 			{"key":"黑木耳克隆","name":"⚡｜黑木耳｜無更新頁","type":4,"api":"http://api.paoyun.eu.org/225.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},

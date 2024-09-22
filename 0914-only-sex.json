@@ -2,138 +2,14 @@
 	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
 	"sites":[
 			{"key":"麻豆","name":"👊【老王私人使用】👊","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","style":{"ratio":1.7},"ext":{"搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类":"日本视频$1#麻豆视频$2","分类url":"http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}},
-			{"key":"Theporn","name": "🔞Theporn","type": 3,"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","searchable":1,"changeable":1,"timeout":60,"style":{"type":"rect","ratio":1.5},"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"},
-			{"key":"Taohuazu","name":"🔞桃花族","type":3,"api":"csp_Taohuazu","spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://2960.kstore.space/lib/tokenm.json$$$null$$$127.0.0.1:10172$$$http://777631.xyz/$$$1","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"},
-			{"key":"Supjav","name":"🔞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":"https://supjav.com/zh/$$$null$$$proxy","style":{"type":"rect","ratio":1.485}},
-			{"key":"Gxqvlj","name":"🔞Gxqvlj","type":3,"api":"csp_Gxqvlj","spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"127.0.0.1:10072$$$null$$$1","timeout":60,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},
+			{"key":"Theporn","name": "🔞Theporn","type": 3,"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","searchable":1,"changeable":1,"timeout":60,"style":{"type":"rect","ratio":1.5},"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/theporn.js"},
 			{"key":"JavDb","name":"🔞JavDb(海外)","type":3,"api":"csp_JavDb","spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/tokenm.json$$$127.0.0.1:10072$$$1","style":{"type":"rect","ratio":1.33},"timeout":60,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},
-			{"key":"SeHuaTang","name":"🔞SeHuaTang(海外)","type":3,"api":"csp_SeHuaTang","spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json$$$127.0.0.1:10072$$$1","style":{"type":"rect","ratio":1.1},"timeout":60,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},
-			{"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
-			{"key":"JJAiPian","name":"🔞久久爱片|视频","type":3,"api":"csp_JJAiPian","searchable":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
+			{"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
+			{"key":"JJAiPian","name":"🔞久久爱片|视频","type":3,"api":"csp_JJAiPian","searchable":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"},
 			{"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
-			{"key":"csp_XBPQ_疯猫av","name":"🔞疯猫av","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/疯猫av.json"},
-			{"key":"csp_XBPQ_奶很大","name":"🔞奶很大","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/奶很大.json"},
-			{"key":"9号资源","name":"👠9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-			{
-				"key": "葡萄",
-				"name": "🔞采集.葡萄资源",
-				"type": 1,
-				"api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
-				"searchable": 1
-			},
-			{
-				"key": "fhapi9.com",
-				"name": "🔞成人14",
-				"type": 1,
-				"api": "http://fhapi9.com/api.php/provide/vod/",
-				"searchable": 0
-			  },
-			  {
-				"key": "lbapiby.com",
-				"name": "🔞成人24",
-				"type": 0,
-				"api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-				"searchable": 0
-			  },
-			  {
-				"key": "msnii.com",
-				"name": "🔞成人29",
-				"type": 0,
-				"api": "https://www.msnii.com/api/xml.php",
-				"searchable": 0
-			  },
-			  {
-				"key": "kkzy.me",
-				"name": "🔞成人30",
-				"type": 1,
-				"api": "https://kkzy.me/api.php/provide/vod/",
-				"searchable": 0
-			  },
-			  {
-				"key": "pgxdy.com",
-				"name": "🔞成人33",
-				"type": 0,
-				"api": "https://www.pgxdy.com/api/xml.php",
-				"searchable": 0
-			  },
-			  {
-				"key": "kxgav.com",
-				"name": "🔞成人37",
-				"type": 0,
-				"api": "https://www.kxgav.com/api/xml.php",
-				"searchable": 0
-			  },
-			  {
-				"key": "caiji02.com",
-				"name": "🔞成人38",
-				"type": 0,
-				"api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml",
-				"searchable": 1
-			  },{
-				"key": "xrbsp.com",
-				"name": "🔞成人39",
-				"type": 0,
-				"api": "https://www.xrbsp.com/api/xml.php",
-				"searchable": 0
-			  },
-			  {
-				"key": "lbapi9.com",
-				"name": "🔞成人41",
-				"type": 1,
-				"api": "https://lbapi9.com/api.php/provide/vod/",
-				"searchable": 0
-			  },
-			  {
-				"key": "apittzy.com",
-				"name": "🔞成人46",
-				"type": 1,
-				"api": "https://apittzy.com/api.php/provide/vod/",
-				"searchable": 0
-			  },
-			  {
-				"key": "gdlsp.com",
-				"name": "🔞成人54",
-				"type": 0,
-				"api": "https://www.gdlsp.com/api/xml.php",
-				"searchable": 1
-			  },
-			  {
-				"key": "api.apilyzy.com",
-				"name": "🔞成人62",
-				"type": 1,
-				"api": "https://api.apilyzy.com/api.php/provide/vod/",
-				"searchable": 0
-			  },
-			  {
-				"key": "七夕❤️无广",
-				"name": "七夕|影视",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"jar": "./lib/XBPQ.jar",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": {
-				  "简介": "宝盒提醒您:请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
-				  "导演": "宝盒TV",
-				  "主演": "主演：&&</p>",
-				  "影片状态": "状态：&&</p>",
-				  "搜索url": "/search.php;post;searchword={wd}",
-				  "线路数组": "<h3&&/h3>",
-				  "线路标题": "宝盒专享",
-				  "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
-				  "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-				}
-			  },
-
-
-
-
-
-
-
-
-
+			{"key":"csp_XBPQ_疯猫av","name":"🔞疯猫av","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/疯猫av.json"},
+			{"key":"csp_XBPQ_奶很大","name":"🔞奶很大","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/奶很大.json"},
+			{"key":"葡萄","name":"🔞采集.葡萄资源","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1},
 			{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},					
 			{"key":"SOAV","name":"🔞SOAV","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://www.wantav.co/","搜索url":"https://777080.xyz/?s={wd}","数组":"data-video-uid=&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","简介":"⚠️少看点，再看你就废了！！！","分类url":"https://777080.xyz/category/{cateId}/page/{catePg}/;;z","分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
 			{"key":"TaiAv","name":"🔞TaiAv","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://taiav.com/","搜索url":"https://taiav.com/search?q={wd}","数组":"uk-card-media-top\"&&</a>","图片":"src=\"&&\"","标题":"alt=\"&&\"","副标题":"</span>&&</div>","链接":"href=\"&&\"","简介":"⚠️慢点撸，皮要掉了！！！","分类url":"https://taiav.com/cn/category/{cateId}?page={catePg};;z","分类":"国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
@@ -158,7 +34,6 @@
 			{"key":"XMVideo","name":"🔞熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
 			{"key":"av影视","name":"🔞av影视|XBPQ","type": 3,"api": "csp_XBPQ", "style": {  "type": "rect",  "ratio": 1.5  },"ext": { "图片": "data-src=\"&&\"", "直接播放": "1","分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",  "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16"}},
 			{"key":"csp_XYBQ","name":"🔞比卡|比卡","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/比卡比卡.json"},
-			{"key":"纤纤影视","name":"纤纤影视","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"主页url": "https://m.xian372.top/","请求头": "手机","编码": "gb2312","数组": "<a class=\"ui-pic&&</a","图片": "src=\"&&\"","标题": "title=\"&&\"","副标题": "ui-type\">&&</span>","链接": "href=\"&&\"","简介": "description\"><p>&&</p","线路数组": "class=\"intro\">&&</h1","线路标题": "✨PRO专享✨+<h1>飘逸线路<","播放数组": "<div class=\"playlist&&</div","播放列表": "<li>&&</li","播放标题": ">&&</a","播放链接": "href='&&'","搜索数组": "<a class=\"ui-pic&&</a","搜索图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1","分类数组": "<a&&</a","分类标题": ".html\">&&</a[不包含:视频二#综艺娱乐]","分类ID": "href=\"/L/&&.html\"","分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}},
 			{"key":"ROU223","name":"🔞223ROU|视频","type":3,"api":"csp_ROU223","searchable":0,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"},
 			{"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"},
 			{"key":"努可影院","name":"🔞努可影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},		
@@ -194,7 +69,6 @@
 			{"key":"drpy_js_色色","name":"🔞涩涩直播","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/ss直播.js","playerType":1,"searchable":0,"quickSearch":0},
 			{"key":"花都影视","name":"🔞花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 			{"key":"富二代","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":0,"quickSearch":0,"filterable":0},
-			{"key":"gdlsp","name":"🔞老色胚","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 			{"key":"MissAV","name":"🔞MissAV","type":3,"searchable":0,"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","quickSearch":0,"api":"csp_Miss","style":{"type":"rect","ratio":1.78},"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},
 			{"key":"www.caoliuzyw.com","name":"🔞草榴","type":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.5},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
 			{"key":"jingpinx.com","name":"🔞精品","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
