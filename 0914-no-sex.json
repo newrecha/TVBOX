@@ -46,7 +46,7 @@
 				"name": "Youtube",
 				"type": 3,
 				"api": "csp_Youtube",
-				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/costom_spider.jar",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
 				"searchable": 1,
 				"changeable": 1,
 				"style": {
@@ -54,8 +54,8 @@
 				  "ratio": 1.433
 				},
 				"ext": {
-				  "commonConfig": "./peizhi.json",
-				  "json": "./youtube.json",
+				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//peizhi.json",
+				  "json": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/youtube.json",
 				  "cookie": "Cgt3cm02M0VWb2c1NCichsG3BjIKCgJUVxIEGgAgMA%3D%3D"
 				}
 			  },
