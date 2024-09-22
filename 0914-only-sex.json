@@ -2,6 +2,33 @@
 	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
 	"sites":[
 			{"key":"麻豆","name":"👊【老王私人使用】👊","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","style":{"ratio":1.7},"ext":{"搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类":"日本视频$1#麻豆视频$2","分类url":"http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}},
+		
+			{
+				"key":"csp_JavDb",
+				"name":"🧲JavDb",
+				"type":3,
+				"api":"csp_JavDb",
+				"searchable":1,
+				"quickSearch":1,
+				"filterable":1,
+				"changeable":0,
+				"timeout":60,
+				"style":{ "type":"rect", "ratio":1.33 },
+				"ext":"$$$socks5://192.168.101.1:1080"
+		},
+		{
+				"key":"csp_JavBus",
+				"name":"🧲JavBus",
+				"type":3,
+				"api":"csp_JavBus",
+				"searchable":1,
+				"quickSearch":1,
+				"filterable":1,
+				"changeable":0,
+				"timeout":60,
+				"style":{ "type":"rect", "ratio":1.33 },
+				"ext":"$$$socks5://192.168.101.1:1080"
+		},
 			{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},					
 			{"key":"SOAV","name":"🔞SOAV","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://www.wantav.co/","搜索url":"https://777080.xyz/?s={wd}","数组":"data-video-uid=&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","简介":"⚠️少看点，再看你就废了！！！","分类url":"https://777080.xyz/category/{cateId}/page/{catePg}/;;z","分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
 			{"key":"TaiAv","name":"🔞TaiAv","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://taiav.com/","搜索url":"https://taiav.com/search?q={wd}","数组":"uk-card-media-top\"&&</a>","图片":"src=\"&&\"","标题":"alt=\"&&\"","副标题":"</span>&&</div>","链接":"href=\"&&\"","简介":"⚠️慢点撸，皮要掉了！！！","分类url":"https://taiav.com/cn/category/{cateId}?page={catePg};;z","分类":"国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
@@ -102,7 +129,6 @@
 			{"key":"易看资源","name":"🔞易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 			{"key":"湿乐园","name":"🔞湿乐园","type":1,"api":"https://xxavs.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 			{"key":"Theporn","name": "🔞Theporn","type": 3,"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","searchable":1,"changeable":1,"timeout":60,"style":{"type":"rect","ratio":1.5},"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/theporn.js"},
-			{"key":"JavDb","name":"🔞JavDb(海外)","type":3,"api":"csp_JavDb","spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/tokenm.json$$$127.0.0.1:10072$$$1","style":{"type":"rect","ratio":1.33},"timeout":60,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},
 			{"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
 			{"key":"JJAiPian","name":"🔞久久爱片|视频","type":3,"api":"csp_JJAiPian","searchable":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"},
 			{"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
