@@ -46,6 +46,7 @@
 				"name": "Youtube",
 				"type": 3,
 				"api": "csp_Youtube",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/costom_spider.jar",
 				"searchable": 1,
 				"changeable": 1,
 				"style": {
