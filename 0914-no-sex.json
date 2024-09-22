@@ -8,10 +8,11 @@
 				"name": "配置中心",
 				"type": 3,
 				"api": "csp_ConfigCenter",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
 				"searchable": 0,
 				"changeable": 0,
 				"ext": {
-				  "commonConfig": "./peizhi.json"
+				"commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json"
 				}
 			  },
 			  {
@@ -19,13 +20,14 @@
 				"name": "TgYunPan|服务器",
 				"type": 3,
 				"api": "csp_TgYunPan",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
 				"searchable": 1,
 				"filterable": 0,
 				"switchable": 0,
 				"ext": {
 				  "siteUrl": "你的服务器地址端口",
 				  "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-				  "commonConfig": "./peizhi.json"
+				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json"
 				}
 			  },
 			  {
@@ -33,12 +35,13 @@
 				"name": "TgYunPan|本地",
 				"type": 3,
 				"api": "csp_TgYunPanLocal",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
 				"searchable": 1,
 				"filterable": 0,
 				"switchable": 0,
 				"ext": {
 				  "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-				  "commonConfig": "./peizhi.json"
+				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json"
 				}
 			  },
 			{
@@ -54,7 +57,7 @@
 				  "ratio": 1.433
 				},
 				"ext": {
-				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//peizhi.json",
+				  "commonConfig": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/peizhi.json",
 				  "json": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/youtube.json",
 				  "cookie": "Cgt3cm02M0VWb2c1NCichsG3BjIKCgJUVxIEGgAgMA%3D%3D"
 				}
