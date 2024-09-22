@@ -3,6 +3,61 @@
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 			{"key":"來源","name":"彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長......還有好多好多github上面分享的前輩"},
+			{
+				"key": "ConfigCenter",
+				"name": "配置中心",
+				"type": 3,
+				"api": "csp_ConfigCenter",
+				"searchable": 0,
+				"changeable": 0,
+				"ext": {
+				  "commonConfig": "./peizhi.json"
+				}
+			  },
+			  {
+				"key": "TgYunPan|服务器",
+				"name": "TgYunPan|服务器",
+				"type": 3,
+				"api": "csp_TgYunPan",
+				"searchable": 1,
+				"filterable": 0,
+				"switchable": 0,
+				"ext": {
+				  "siteUrl": "你的服务器地址端口",
+				  "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				  "commonConfig": "./peizhi.json"
+				}
+			  },
+			  {
+				"key": "TgYunPan|本地",
+				"name": "TgYunPan|本地",
+				"type": 3,
+				"api": "csp_TgYunPanLocal",
+				"searchable": 1,
+				"filterable": 0,
+				"switchable": 0,
+				"ext": {
+				  "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+				  "commonConfig": "./peizhi.json"
+				}
+			  },
+			{
+				"key": "Youtube",
+				"name": "Youtube",
+				"type": 3,
+				"api": "csp_Youtube",
+				"searchable": 1,
+				"changeable": 1,
+				"style": {
+				  "type": "rect",
+				  "ratio": 1.433
+				},
+				"ext": {
+				  "commonConfig": "./peizhi.json",
+				  "json": "./youtube.json",
+				  "cookie": "Cgt3cm02M0VWb2c1NCichsG3BjIKCgJUVxIEGgAgMA%3D%3D"
+				}
+			  },
 			{"key":"zj","name":"⚡|8K影院","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"php_heimuer","name":"⚡｜黑木耳｜無廣","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
