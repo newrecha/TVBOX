@@ -278,6 +278,8 @@
 			{"key":"csp_BLSGod","name":"🧲｜80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQ1.jar"},
 			{"key":"csp_Xunlei8","name":"🧲｜迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQ1.jar"},
 
+
+			
 			{"key":"ksxjj","name":"㊙︎｜KTV","type":4,"api":"http://120.53.102.254/dsp/","searchable":1,"quickSearch":1,"filterable":1},
 			{"key":"虎牙直播js","name":"㊙︎｜虎牙直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
 			{"key":"斗鱼js","name":"㊙︎｜斗鱼直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
