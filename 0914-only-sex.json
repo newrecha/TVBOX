@@ -14,7 +14,8 @@
 				"changeable":0,
 				"timeout":60,
 				"style":{ "type":"rect", "ratio":1.33 },
-				"ext":"$$$socks5://192.168.101.1:1080"
+				"ext":"$$$socks5://192.168.101.1:1080",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
 		},
 		{
 				"key":"csp_JavBus",
@@ -27,7 +28,9 @@
 				"changeable":0,
 				"timeout":60,
 				"style":{ "type":"rect", "ratio":1.33 },
-				"ext":"$$$socks5://192.168.101.1:1080"
+				"ext":"$$$socks5://192.168.101.1:1080",
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
+
 		},
 			{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},					
 			{"key":"SOAV","name":"🔞SOAV","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://www.wantav.co/","搜索url":"https://777080.xyz/?s={wd}","数组":"data-video-uid=&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","简介":"⚠️少看点，再看你就废了！！！","分类url":"https://777080.xyz/category/{cateId}/page/{catePg}/;;z","分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
