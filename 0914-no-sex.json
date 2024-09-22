@@ -3,6 +3,7 @@
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 			{"key":"來源","name":"彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長......還有好多好多github上面分享的前輩"},
+			{"key":"zj","name":"🎥|8K8K","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 			{"key":"T4-heimuer","name":"⚡｜黑木耳","type":4,"api":"https://tang.hz.cz/power/hme?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{"key":"php_heimuer","name":"⚡｜黑木耳｜無廣","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 			{"key":"黑木耳克隆","name":"⚡｜黑木耳｜無更新頁","type":4,"api":"http://api.paoyun.eu.org/225.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"recordable":0},
