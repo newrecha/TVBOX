@@ -1,5 +1,6 @@
 {
 	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+	"logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 	"sites":[
 			{"key":"麻豆","name":"👊【老王私人使用】👊","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","style":{"ratio":1.7},"ext":{"搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类":"日本视频$1#麻豆视频$2","分类url":"http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}},
 			{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},					

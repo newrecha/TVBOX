@@ -1,5 +1,6 @@
 {
 	"spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;56a7ea1a70a445dc6b92397f2289f7a6",
+	"logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 	"sites":[
 			{"key":"drpy_js_豆瓣","name":"👊【老王私人使用】👊","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js","searchable":1,"quickSearch":1,"changeable":0},
 			{"key":"來源","name":"彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長......還有好多好多github上面分享的前輩"},
@@ -282,7 +283,7 @@
 
 			
 			{"key":"ksxjj","name":"㊙︎｜KTV","type":4,"api":"http://120.53.102.254/dsp/","searchable":1,"quickSearch":1,"filterable":1},
-			{"key":"虎牙直播js","name":"㊙︎｜虎牙直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
+			{"key":"虎牙直播js","name":"㊙︎｜虎牙直播","type":3,"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
 			{"key":"斗鱼js","name":"㊙︎｜斗鱼直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php"},
 			{"key":"直播转点播","name":"㊙︎｜直播轉點播","type":4,"api":"http://api.paoyun.eu.org/zh/2241-2.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar;md5;67e2e90e2b6f62a730bd3e2b10539203","searchable":1,"changeable":0,"ext":"1,2,3,4"},
 			{"key":"服务器油管","name":"㊙︎｜YOUTUBE","type":4,"api":"https://api.paoyun.eu.org/yt/yt001.php","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a63f461455a69ff20c63b8edf415ae88","searchable":1,"changeable":1,"ext":"海賊王#最新歌曲#動漫#新聞#卡提諾#追劇#爆笑#喜劇#新聞#旅遊#播放清單#財神爺 我的歌單"},
