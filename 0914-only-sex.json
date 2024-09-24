@@ -21,33 +21,6 @@
 		}
 	  },
 	  {
-		"key": "今天gan少女",
-		"name": "🔞今天gan少女",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-		"ext": {
-		  "发布地址": "www.gblw1.buzz",
-		  "主页url": "https://www.gblw1.buzz",
-		  "首页": "快乐五区",
-		  "数组": "class=\"lazy&&</div></div>",
-		  "图片": "data-original=\"&&\"",
-		  "标题": "html\">&&</a",
-		  "简介": "description\" content=\"&&高清",
-		  "链接": "href=\"&&\"",
-		  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-		  "搜索模式": "1",
-		  "搜索url": "https://www.gblw1.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html",
-		  "分类数组": "<a&&/a",
-		  "分类标题": ">&&<",
-		  "分类ID": "/index.php/vod/type/id/&&.html",
-		  "分类url": "https://www.gblw1.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-		}
-	  },
-	  {
 		"key": "天美",
 		"name": "🔞天美|doll",
 		"type": 3,
@@ -135,6 +108,74 @@
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
 		}
 	  },
+	  {
+		"key": "成人重口",
+		"name": "🔞成人重口",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "发布地址": "1:https://www.crzk11.buzz/,2:www.crzk3.top",
+		  "主页url": "https://www.crzk22.buzz",
+		  "数组": "<li class=\"content-item&&</li",
+		  "图片": "data-original=\"&&\"",
+		  "标题": "title=\"&&\"",
+		  "副标题": "text-bg-r\">&&</span>",
+		  "简介": "description\" content=\"&&剧情",
+		  "链接": "https://www.crzk22.buzz/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+		  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+		  "搜索模式": "1",
+		  "搜索url": "https://www.crzk22.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+		  "分类数组": "<a&&/a",
+		  "分类标题": ">&&<",
+		  "分类ID": "/index.php/vod/type/id/&&.html",
+		  "分类url": "https://www.crzk22.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
+		}
+	  },
+	  {
+		"key": "天堂岛",
+		"name": "🔞天堂岛",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "主页url": "https://www.ttdao666.buzz",
+		  "数组": "<div class=\"item&&</a",
+		  "图片": "data-original=\"&&\"",
+		  "标题": "title=\"&&\"",
+		  "副标题": "<em>&&</em",
+		  "简介": "description\" content=\"&&剧情",
+		  "链接": "https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+		  "跳转播放链接": "var player_*\"url\":\"&&\"",
+		  "搜索模式": "1",
+		  "搜索url": "https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+		  "分类数组": "<a&&/a",
+		  "分类标题": ">&&<",
+		  "分类ID": "/vod/type/id/&&/",
+		  "分类url": "https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"
+		}
+	  },
+	  {
+		"key": "BuzzAV",
+		"name": "🔞BuzzAV",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": {
+		  "主页url": "https://www.buzzav.com/",
+		  "直接播放": "1",
+		  "数组": "<article id=&&</div>",
+		  "图片": "data-src=\"&&\"",
+		  "标题": "alt=\"&&\"",
+		  "副标题": "class=\"duration\">&&</span>",
+		  "链接": "href=\"&&\"",
+		  "分类url": "https://www.buzzav.com/category/{cateId}/page/{catePg}",
+		  "分类": "业余$amateur#肛门$anal#亚洲$asian#Asmr$asmr#宝贝$babe#大屁股$big-ass#大鸡巴$big-dick#大奶$big-tits#金发女郎$blonde#口交$blowjob#束缚$bondage#名人$celebrity#中文$chinese-中文#大学$college#汇编$compilation#角色扮演$cosplay#中出$creampie#绿帽$cuckold#射精$cumshot#脚$feet#恋物癖$fetish#群交$gangbang#手淫$handjob#硬核$hardcore#成人动漫$hentai#跨种族$interracial#日本人$japanese#女同性恋$lesbian#按摩$massage#手淫$masturbation#成熟$mature#熟女$milf#观点$pov#民众$public#喷出$squirt#18+青少年$teen-18#三人行$threesome#未分类$uncategorized#优质的$vintage#摄像头$webcam"
+		}
+	  }	  
 	  {
 		"key": "csp_XYQHiker_300分类",
 		"name": "🔞300分类",
@@ -333,7 +374,7 @@
 		"type": 3,
 		"api": "csp_XBPQ",
 		"style": {"ratio": 1.7},
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/女优.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/女优.json"
 	  },
 	  {
 		"key": "暗网色库",
@@ -341,7 +382,7 @@
 		"type": 3,
 		"api": "csp_XBPQ",
 		"style": {"ratio": 1.7},
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/暗网.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/暗网.json"
 	  },
 	  {
 		"key": "XHP",
@@ -355,6 +396,16 @@
 		}
 	  },
 	  {
+		"key": "JJAiPian",
+		"name": "🔞久久爱片 | 视频",
+		"type": 3,
+		"api": "csp_JJAiPian",
+		"searchable": 1,
+		"filterable": 1,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+	  }
+	  
+	  {
 		"key": "农夫与少妇",
 		"name": "🔞农夫与少妇",
 		"type": 3,
@@ -362,7 +413,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/nfsf.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/nfsf.json"
 	  },
 	  {
 		"key": "XMVideo",
@@ -371,7 +422,7 @@
 		"api": "csp_XMVideo",
 		"searchable": 1,
 		"filterable": 1,
-		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
 	  },
 	  {
 		"key": "av影视",
