@@ -3,6 +3,31 @@
 	"logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 	"sites":[
 			{"key":"麻豆","name":"👊【老王私人使用】👊","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","style":{"ratio":1.7},"ext":{"搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类":"日本视频$1#麻豆视频$2","分类url":"http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}},
+			{
+				"key": "视色",
+				"name": "视色(T)",
+				"type": 3,
+				"api": "csp_XBPQ",
+				"playerType": 1,
+				"searchable": 1,
+				"quickSearch": 1,
+				"filterable": 1,
+				"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xbpq.jar",
+				"ext": {
+					"请求头": "手机",
+					"免嗅": "1",
+					"嗅探词": ".ts",
+					"数组": "class=\"video-cover&&class=\"tags",
+					"图片": "style=\"background-image: url('&&');\"",
+					"标题": "href=\"*\">&&</a>",
+					"副标题": "duration\">&&</div>",
+					"简介": "简介：</div>&&</div>",
+					"链接": "https://shise.me/player.html?id=+href=\"video.html?id=&&\"",
+					"跳转播放链接": "",
+					"分类url": "https://shise.me/series.html?id={cateId}&page={catePg};;z",
+					"分类": "情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"
+				}
+			},   
 			{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext":{"搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","数组":"\"box-item\"&&</em>","副标题":"<strong>&&</strong>","分类数组":"<li>&&</li>","分类标题":"\">&&</a","分类ID":"id/&&.","分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},					
 			{"key":"SOAV","name":"🔞SOAV","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://www.wantav.co/","搜索url":"https://777080.xyz/?s={wd}","数组":"data-video-uid=&&</div>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","副标题":"</i>&&</span>","链接":"href=\"&&\"","简介":"⚠️少看点，再看你就废了！！！","分类url":"https://777080.xyz/category/{cateId}/page/{catePg}/;;z","分类":"國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
 			{"key":"TaiAv","name":"🔞TaiAv","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.5},"ext":{"主页url":"https://taiav.com/","搜索url":"https://taiav.com/search?q={wd}","数组":"uk-card-media-top\"&&</a>","图片":"src=\"&&\"","标题":"alt=\"&&\"","副标题":"</span>&&</div>","链接":"href=\"&&\"","简介":"⚠️慢点撸，皮要掉了！！！","分类url":"https://taiav.com/cn/category/{cateId}?page={catePg};;z","分类":"国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
