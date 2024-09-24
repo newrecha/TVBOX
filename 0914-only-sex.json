@@ -19,7 +19,26 @@
 			{"key":"亚色影库","name":"🔞亚瑟影库","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://www.yasetube.com/","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","分类url":"https://www.yasetube.com/video/category/{cateId}/page/{catePg}","分类":"女厕偷拍$nvce#海角系列$hj#FC2PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
 			{"key":"色最色","name":"🔞色最色","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://xn--zovv42dba.com/","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","分类url":"https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}","分类":"国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},
 			{"key":"18j.tv","name":"🔞18j.tv","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://18j.tv/","直接播放":"1","嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","分类url":"https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/","分类":"国产$1#日韩$2#欧美$3#伦理$4#动漫$16","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"}},		
-			{"key":"JAVDAY","name":"🔞JAVDAY","type":3,"api":"csp_XBPQ","spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar","ext":{"主页url":"https://javday.tv/","直接播放":"1","数组":"lazyloaded\"&&</a>","图片":"style=\"background-image:url(&&);\"","标题":"class=\"title\"&&</span>","副标题":"class=\"number\">&&</span>","简介":"title\"&&</span>","链接":"href=\"&&\"","分类url":"https://javday.tv/category/{cateId}/page/{catePg}/","分类":"新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"}},
+			{"key": "JAVDAY",
+            "name": "🔞JAVDAY",
+            "type": 3,
+            "api": "csp_XBPQ",
+
+            "ext": {
+                "主页url": "https://javday.tv/",
+                "直接播放": "1",
+                "数组": "lazy loaded\"&&</a>",
+                "图片": "style=\"background-image: url(&&);\"",
+                "标题": "class=\"title\"&&</span>",
+                "副标题": "class=\"number\">&&</span>",
+                "简介": "title\"&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
+                "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
+            }
+        },
+
+			{"key":"JAVDAY","name":"🔞JAVDAY","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar","ext":{"主页url":"https://javday.tv/","直接播放":"1","数组":"lazyloaded\"&&</a>","图片":"style=\"background-image:url(&&);\"","标题":"class=\"title\"&&</span>","副标题":"class=\"number\">&&</span>","简介":"title\"&&</span>","链接":"href=\"&&\"","分类url":"https://javday.tv/category/{cateId}/page/{catePg}/","分类":"新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"}},
 			{"key":"女优色库","name":"🔞女优色库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/女优.json"},
 			{"key":"暗网色库","name":"🔞暗网","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/暗网.json"},
 			{"key":"XHP","name":"🔞高清小黄片","type":3,"api":"csp_XBPQ","ext":{"主页url":"http://gqxhp.top/","分类":"高清一区$1#高清二区$2#高清三区$3#高清福利$33","分类url":"http://gqxhp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
