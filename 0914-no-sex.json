@@ -359,25 +359,7 @@
 		  "分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
 		}
 	  },
-	  {
-		"key": "全看影视",
-		"name": "⚡｜全看",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "嗅探词": ".m3u8?#bdric-cdn-tos.1ljx.com#.m3u8#.mp4",
-		  "简介": "<div class=\"stui-content__desc col-pd clearfix\"&&</div>",
-		  "线路数组": "<div class=\"stui-pannel__head clearfix\"&&</div>[不包含:腾腾播放源#奇奇秒播源#酷酷播放源]",
-		  "线路标题": "class=\"title\">&&</h3>",
-		  "分类url": "https://wap.qkw2.cc/vod/show/{cateId}--------{catePg}---.html",
-		  "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#纪录片$22#悬疑片$25#犯罪片$26#惊悚片$27#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$20#动漫$4#综艺$3#短剧$28"
-		}
-	  },
-	  {
+	 	  {
 		"key": "星辰影院",
 		"name": "⚡｜星辰",
 		"type": 3,
@@ -491,17 +473,6 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
-	  },
-	  {
-		"key": "AppYs_南瓜",
-		"name": "🎥｜寶盒1080P",
-		"type": 3,
-		"playerType": 2,
-		"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-		"changeable": 0,
-		"searchable": 1,
-		"quickSearch": 1,
-		"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
 	  },
 	  {
 		"key": "freeok",
