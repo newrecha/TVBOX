@@ -939,13 +939,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/悠久影院.js"
 	  },
 	  {
-		"key": "drpy_js_8号影院",
-		"name": "🎥｜8号",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/8号影院.js"
-	  },
-	  {
 		"key": "drpy_js_凌云影视",
 		"name": "🎥｜凌云",
 		"type": 3,
@@ -1045,17 +1038,6 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
 	  },
 	  {
-		"key": "csp_XYQHiker_时代电影网",
-		"name": "🎥｜时代",
-		"type": 3,
-		"api": "csp_XYQHiker",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/时代电影网.json",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
-	  },
-	  {
 		"key": "csp_TTian_天天_QJ",
 		"name": "🎥｜天天",
 		"type": 3,
@@ -1110,7 +1092,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./json/海纳TV.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/海纳TV.json"
 	  },
 	  {
 		"key": "利伍蓝光",
@@ -1121,7 +1103,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./json/策驰影视.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/策驰影视.json"
 	  },
 	  {
 		"key": "好影快看",
@@ -1131,7 +1113,7 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
 		"searchable": 1,
 		"changeable": 1,
-		"ext": "./json/好影快看.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/好影快看.json"
 	  },
 	  {
 		"key": "素白白影视",
@@ -1141,7 +1123,7 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
 		"searchable": 1,
 		"changeable": 1,
-		"ext": "./json/subaibai.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
 	  },
 	  {
 		"key": "Freeok影视",
@@ -1153,7 +1135,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./json/FOK.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/FOK.json"
 	  },
 	  {
 		"key": "酷吧影视",
@@ -1163,7 +1145,7 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
 		"searchable": 1,
 		"changeable": 1,
-		"ext": "./json/酷吧影视.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/酷吧影视.json"
 	  },
 	  {
 		"key": "美柏影视",
@@ -1174,7 +1156,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./json/美柏影视.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/美柏影视.json"
 	  },
 	  {
 		"key": "可可影视",
@@ -1184,7 +1166,7 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
 		"searchable": 1,
 		"api": "csp_XBPQ",
-		"ext": "./json/kkys.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/kkys.json"
 	  },
 	  {
 		"key": "可乐影视",
