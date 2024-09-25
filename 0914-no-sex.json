@@ -528,7 +528,7 @@
 		"key": "利播蓝光",
 		"name": "⚡｜利播",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/drpy.min.js",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy.min.js",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
 		"searchable": 0,
 		"quickSearch": 1,
