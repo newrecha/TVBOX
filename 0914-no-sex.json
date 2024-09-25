@@ -40,6 +40,27 @@
 		"changeable": 1
 	  },
 	  {
+		"key": "小苹果弹幕",
+		"name": "🍎苹果┃高清┃弹幕",
+		"type": 3,
+		"api": "csp_Xpg",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true},
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
+	  },
+	  {
+		"key": "苹果",
+		"name": "🍎苹果┃高清┃纯净",
+		"type": 3,
+		"api": "csp_LiteApple",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	  },
+	  {
 		"key": "T4-heimuer",
 		"name": "⚡｜黑木耳",
 		"type": 4,
@@ -220,6 +241,187 @@
 		}
 	  },
 	  {
+		"key": "8号影院",
+		"name": "🌞首选┃蓝光┃专线",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "搜索url": "http://www.soutiyi.com/search.php?searchword={wd}",
+		  "搜索链接": "href=\"&&\"",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<p class=\"col-pd detail\"&&</span>",
+		  "线路数组": "<img src=\"/statics/icon/icon_26.png\"&&</h3>",
+		  "线路标题": "蓝光专线",
+		  "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+		  "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
+		}
+	  },
+	  {
+		"key": "极速电影",
+		"name": "🌞首选┃蓝光┃极速",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
+		}
+	  },
+	  {
+		"key": "追剧很卷",
+		"name": "☀️优选┃超清┃流畅",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片地区": "圥忈制作",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
+		}
+	  },
+	  {
+		"key": "麦田影视",
+		"name": "⭐候选┃高清┃多源",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "图片": "data-src=\"&&\"",
+		  "线路数组": "<a class=\"swiper-slide\"&&</a>",
+		  "线路标题": "</i>&nbsp;&&</a>+集",
+		  "搜索url": "https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
+		  "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
+		}
+	  },
+	  {
+		"key": "磁力熊",
+		"name": "🐼️白熊┃磁力┃直连",
+		"type": 3,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//js/drpy.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//js/磁力熊.js"
+	  },
+	  {
+		"key": "白羊影院",
+		"name": "🐑白羊┃超清┃极速",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//json/白羊影院.json"
+	  },
+	  {
+		"key": "即看影视",
+		"name": "🟡即看┃超清┃多线",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "主页url": "https://www.jkv.app/",
+		  "数组": "class=\"vodlist_thumb lazyload\"&&</a",
+		  "图片": "data-background-image=\"&&\"",
+		  "标题": "title=\"&&\"",
+		  "链接": "href=\"&&\"",
+		  "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+		  "过滤词": "/hls/#php",
+		  "副标题": "<span class=\"pack_tagtext\">&&</span>",
+		  "搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}",
+		  "搜索模式": "1",
+		  "搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>",
+		  "搜索图片": "data-background-image=\"&&\"",
+		  "搜索标题": "title=\"&&\"",
+		  "搜索链接": "href=\"&&\"",
+		  "搜索副标题": "<span class=\"xszxj text_right\">&&</span>",
+		  "搜索后缀": "/view/",
+		  "线路数组": "href=\"javascript:void(0);\"&&</a>",
+		  "线路标题": "alt=\"&&\"",
+		  "播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>",
+		  "影片年代": "上映时间：&&</li>",
+		  "影片类型": "地区：&&</li>",
+		  "影片状态": "语言：&&</li>",
+		  "导演": "导演：&&</li>",
+		  "主演": "主演：&&</li>",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"content_desc context clearfix\"&&</span>",
+		  "播放列表": "<a&&/a>",
+		  "播放标题": ">&&<",
+		  "播放链接": "href=\"&&\"",
+		  "免嗅": "0",
+		  "分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
+		}
+	  },
+	  {
+		"key": "全看影视",
+		"name": "🟠小小┃高清┃秒播",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "嗅探词": ".m3u8?#bdric-cdn-tos.1ljx.com#.m3u8#.mp4",
+		  "简介": "<div class=\"stui-content__desc col-pd clearfix\"&&</div>",
+		  "线路数组": "<div class=\"stui-pannel__head clearfix\"&&</div>[不包含:腾腾播放源#奇奇秒播源#酷酷播放源]",
+		  "线路标题": "class=\"title\">&&</h3>",
+		  "分类url": "https://wap.qkw2.cc/vod/show/{cateId}--------{catePg}---.html",
+		  "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#纪录片$22#悬疑片$25#犯罪片$26#惊悚片$27#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$20#动漫$4#综艺$3#短剧$28"
+		}
+	  },
+	  {
+		"key": "星辰影院",
+		"name": "*⃣️星辰┃高清┃云播",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片类型": "圥忈制作",
+		  "播放标题": ">&&<[不包含:1080P]",
+		  "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+		  "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+		}
+	  },
+	  {
+		"key": "神马影视",
+		"name": "#⃣️神马┃高清┃多线",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#纪录片$40"
+		}
+	  },
+	  {
 		"key": "糯米",
 		"name": "🎥｜糯米",
 		"type": 3,
@@ -282,6 +484,17 @@
 		"changeable": 1
 	  },
 	  {
+		"key": "金牌影视",
+		"name": "🥇金牌┃超清┃秒播",
+		"type": 3,
+		"api": "csp_Jpys",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	  },
+	  {
 		"key": "短剧",
 		"name": "🎥｜上头",
 		"type": 3,
@@ -313,6 +526,17 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xiaomi.jar;md5;d797a2aea119c4c5e217172e274d72f6"
 	  },
 	  {
+		"key": "大米星球",
+		"name": "🥎大米┃超清┃秒播",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://dmxqfilmtime.com/api.php/app/"
+	  },
+	  {
 		"key": "文采影视",
 		"name": "🎥｜界影視",
 		"type": 3,
@@ -341,6 +565,49 @@
 		  "搜索副标题": "class=\"boottom\"*<div>&&</div",
 		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 		  "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+		}
+	  },
+	  {
+		"key": "Lib",
+		"name": "1⃣️立播┃超清┃秒播",
+		"type": 3,
+		"api": "csp_Libvio",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"ext": {
+		  "Cloud-drive": "https://api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt",
+		  "from"       : "4k|auto"
+		}
+	  },
+	  {
+		"key": "利播蓝光",
+		"name": "2⃣️利播┃外剧┃纯净",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/drpy.min.js",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 0,
+		"quickSearch": 1,
+		"changeable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/libvio.js"
+	  },
+	  {
+		"key": "泥巴影院",
+		"name": "4⃣泥巴┃海外┃速播",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片状态": "状态：&&</p>",
+		  "影片类型": "类别：&&</a>",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-content__desc col-pd clearfix&&</div>",
+		  "分类": "电影$1#电视剧$2#动漫$30#综艺$29#动画电影$24#纪录片$22",
+		  "分类url": "https://nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"
 		}
 	  },
 	  {
@@ -892,16 +1159,1077 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
 	  },
 	  {
-		"key": "胖虎备用",
-		"name": "🎥｜胖虎",
+		"key": "胖虎",
+		"name": "胖虎",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
 		"ext": {
-		  "线路数组": "#ewave-playlist&&</li>",
-		  "分类url": "https://www.panghuys.site/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-		  "分类": "短剧$7#电视剧$2#电影$1#动漫$4#综艺$3"
+		  "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+		  "过滤词": "/cdn.physvod.com/#116.m3u8",
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>[不包含:请换源1#请换源2#请换源3#请换源4#请换源5#请换源6]",
+		  "线路标题": "<span>&&</span>",
+		  "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$7#解说$8#其他$9"
 		}
+	  },
+	  {
+		"key": "海纳TV",
+		"name": "🧿海纳┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./json/海纳TV.json"
+	  },
+	  {
+		"key": "利伍蓝光",
+		"name": "🧿利伍┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./json/策驰影视.json"
+	  },
+	  {
+		"key": "好影快看",
+		"name": "🧿好影┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"changeable": 1,
+		"ext": "./json/好影快看.json"
+	  },
+	  {
+		"key": "素白白影视",
+		"name": "🧿素白┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"changeable": 1,
+		"ext": "./json/subaibai.json"
+	  },
+	  {
+		"key": "Freeok影视",
+		"name": "🧿剧卷┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"playerType": 1,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./json/FOK.json"
+	  },
+	  {
+		"key": "酷吧影视",
+		"name": "🧿酷吧┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"changeable": 1,
+		"ext": "./json/酷吧影视.json"
+	  },
+	  {
+		"key": "美柏影视",
+		"name": "🧿美柏┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./json/美柏影视.json"
+	  },
+	  {
+		"key": "可可影视",
+		"name": "🧿可可┃蓝光",
+		"type": 3,
+		"playerType": 2,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"api": "csp_XBPQ",
+		"ext": "./json/kkys.json"
+	  },
+	  {
+		"key": "可乐影视",
+		"name": "🧿可乐┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
+		  "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
+		}
+	  },
+	  {
+		"key": "85K",
+		"name": "🧿巴乌┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "嗅探词": ".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4",
+		  "跳转解析": "默认$https://cdn.zyc888.top/?url=",
+		  "分类url": "https://85k.icu/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"
+		}
+	  },
+	  {
+		"key": "kimivod",
+		"name": "🧿柯觅┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "图片": "data-src=\"&&\"",
+		  "副标题": "<div class=\"absolute right bottom small-margin small-round black white-text small-text\">&nbsp;&&&nbsp;",
+		  "影片地区": "圥忈制作",
+		  "影片类型": "<nav class=\"scroll no-margin\"&&</nav>",
+		  "导演": "導演:&&</a>",
+		  "主演": "主演:&&</p>",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<p style=\"position: relative; display: inline-block;\"&&</div>",
+		  "线路数组": "<a data-ui=\"&&</div>",
+		  "线路标题": ">&&</span>",
+		  "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
+		}
+	  },
+	  {
+		"key": "Gofree",
+		"name": "🧿喵迅┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>[不包含:喵讯(APP专享)#喵酷#喵果#喵奇异(APP专享)]",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "播放数组": "<div class=\"module-play-list\"&&</div>",
+		  "分类url": "https://gofree.vip/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$dianying#电视剧$dianshiju#韩剧$HJ#动漫$dongman#综艺$zongyi#短剧$dydj"
+		}
+	  },
+	  {
+		"key": "电影驿站",
+		"name": "🧿驿站┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</span>",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片地区": "圥忈制作",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+		  "分类url": "https://www.dyyz1.app/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#动画片$31#B站$41#短剧$49#电影解说$32"
+		}
+	  },
+	  {
+		"key": "小熊影视",
+		"name": "🧿小熊┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "动作片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动漫片$12#纪录片$20#喜剧片$21#其他片$22#中国剧$13#欧美剧$14#日韩剧$15#港台剧$16#其他剧$23#动漫$3#综艺$4#伦理片$5"
+		}
+	  },
+	  {
+		"key": "凯奇影视",
+		"name": "🧿凯奇┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+		  "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
+		  "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
+		  "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
+		}
+	  },
+	  {
+		"key": "飞飞",
+		"name": "🧿飞飞┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片地区": "圥忈制作",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
+		}
+	  },
+	  {
+		"key": "优优影视",
+		"name": "🧿优优┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"
+		}
+	  },
+	  {
+		"key": "碟迷",
+		"name": "🧿文采┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+		  "搜索链接": "href=\"&&\"",
+		  "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+		  "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+		}
+	  },
+	  {
+		"key": "碟调影视",
+		"name": "🧿碟调┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片类型": "类型：&&</li>",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</li>",
+		  "分类url": "http://www.tooou.com/w_{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+		}
+	  },
+	  {
+		"key": "白雾影视",
+		"name": "🧿白雾┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "搜索url": "https://www.baiwoo.com/search.php?searchword={wd}",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+剧情介绍：&&</li>",
+		  "线路数组": "<span style=\"font-size:16px;&&</span>",
+		  "线路标题": ">&&<",
+		  "分类url": "https://www.baiwoo.com/{cateId}-{catePg}.html",
+		  "分类": "动作片$i/?5#爱情片$i/?6#科幻片$i/?7#恐怖片$i/?8#战争片$i/?9#喜剧片$i/?10#剧情片$i/?12#纪录片$i/?28#大陆剧$i/?13#港台剧$i/?14#欧美剧$i/?15#日韩剧$i/?16#海外剧$i/?31#动漫$i/?4#综艺$i/?3"
+		}
+	  },
+	  {
+		"key": "爱优影视",
+		"name": "🧿爱优┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+		  "分类url": "https://www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$2#电视剧$1#动漫$3#综艺$4"
+		}
+	  },
+	  {
+		"key": "爱看",
+		"name": "🧿爱看┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</span>",
+		  "嗅探词": "v3-cha.toutiaovod.com#www.alim3u8.meijuzj.vip#.m3u8#.mp4",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片地区": "圥忈制作",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+		  "分类url": "https://www.aikanhd.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+		  "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
+		}
+	  },
+	  {
+		"key": "宝片影视",
+		"name": "🧿宝片┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
+		}
+	  },
+	  {
+		"key": "雨见视频",
+		"name": "🧿雨见┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片类型": "类型：&&</li>",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+		  "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+		}
+	  },
+	  {
+		"key": "iysdq",
+		"name": "🧿影院┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
+		}
+	  },
+	  {
+		"key": "影视工厂",
+		"name": "🧿工厂┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
+		  "分类url": "https://www.ysgc8.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+		}
+	  },
+	  {
+		"key": "没事影院",
+		"name": "🧿没事┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
+		}
+	  },
+	  {
+		"key": "影视大全",
+		"name": "🧿聚合┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<p class=\"module-info-item-content&&</p>",
+		  "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"
+		}
+	  },
+	  {
+		"key": "金漫TV",
+		"name": "🧿金漫┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+		  "线路数组": "data-dropdown-value=&&</div>[不包含:芒果(超多弹幕)#腾讯(超多弹幕)#优酷(超多弹幕)#爱奇艺(超多弹幕)]",
+		  "线路标题": "<span>&&</span>",
+		  "分类url": "https://www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#短剧$25"
+		}
+	  },
+	  {
+		"key": "剧迷TV",
+		"name": "🧿剧迷┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "分类url": "https://www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#体育赛事$tiyusaishi"
+		}
+	  },
+	  {
+		"key": "影视界",
+		"name": "🧿视界┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+		  "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
+		}
+	  },
+	  {
+		"key": "一个G",
+		"name": "🧿逸哥┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</span>",
+		  "分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+		}
+	  },
+	  {
+		"key": "兄弟",
+		"name": "🧿️兄弟┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "嗅探词": ".m3u8?#sns-creator-preview.xhscdn.com#.m3u8#47.96.255.149#v3-cold-src.toutiaovod.com#38.61.5.6:11301#tvcms.aikanhd.vip#.mp4",
+		  "过滤词": "/dmku.brovod.top/#xdad.m3u8",
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "data-dropdown-value=&&</div>",
+		  "线路标题": "<span>&&</span>",
+		  "分类url": "https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+		  "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"
+		}
+	  },
+	  {
+		"key": "豌豆影院",
+		"name": "🧿豌豆┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "年份: &&</p>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "类型: &&</p>",
+		  "主演": "主演: &&</p>",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
+		  "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
+		}
+	  },
+	  {
+		"key": "茶杯狐",
+		"name": "🧿茶狐┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片地区": "圥忈制作",
+		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
+		  "影片状态": "备注：&&</div>",
+		  "影片类型": "module-info-tag\">&&立即播放",
+		  "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>[不包含:蓝光#蓝光①#蓝光②#蓝光③#蓝光④#蓝光⑤#蓝光⑥]",
+		  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+		  "播放数组": "<div class=\"module-play-list\"&&</div>",
+		  "分类url": "https://www.cbhfox.com/chbys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
+		}
+	  },
+	  {
+		"key": "唐人",
+		"name": "🧿唐人┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
+		}
+	  },
+	  {
+		"key": "巨人影视",
+		"name": "🧿巨人┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "嗅探词": ".m3u8?#sns-creator-preview.xhscdn.com#.m3u8#.mp4",
+		  "影片类型": "圥忈制作+类型：</span>&&</p>",
+		  "线路数组": "data-toggle=\"tab&&</a>[不包含:超速③#超速⑤]",
+		  "线路标题": ">&&<",
+		  "分类url": "https://www.juren.co/channel/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$3#综艺$4#少儿$19#短剧$21#美女热舞$18#即将上线$20#直播$7"
+		}
+	  },
+	  {
+		"key": "人人影视",
+		"name": "🧿人人┃蓝光",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片类型": "圥忈制作",
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+		  "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+		}
+	  },
+	  {
+		"key": "555影院",
+		"name": "⚡555┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://e3wuwu4.com/api.php/app/"
+	  },
+	  {
+		"key": "奈飞星球",
+		"name": "⚡奈飞┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.netfly.tv/api.php/app/"
+	  },
+	  {
+		"key": "追剧兔",
+		"name": "⚡剧兔┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://zjtu.one/api.php/app/"
+	  },
+	  {
+		"key": "河狸影视",
+		"name": "⚡河狸┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.heli888.cc/api.php/app/"
+	  },
+	  {
+		"key": "北极狐",
+		"name": "⚡极狐┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.kuin.one/api.php/app/"
+	  },
+	  {
+		"key": "追剧猫",
+		"name": "⚡剧猫┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://jingxiang.lingutv.cn/api.php/app/"
+	  },
+	  {
+		"key": "酷影视",
+		"name": "⚡酷视┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.tvkuys.xyz/api.php/app/"
+	  },
+	  {
+		"key": "新感觉",
+		"name": "⚡新觉┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://43.248.100.147:9891/api.php/app/"
+	  },
+	  {
+		"key": "CC影视",
+		"name": "⚡纯畅┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://ys.ccbk.cc:86/mogai_api.php/v1.vod"
+	  },
+	  {
+		"key": "星易影影院",
+		"name": "⚡星影┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.xingyiying.com/api.php/v1.vod"
+	  },
+	  {
+		"key": "思古电影",
+		"name": "⚡思古┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://siguyy.cn/api.php/app/"
+	  },
+	  {
+		"key": "零刻影视",
+		"name": "⚡零刻┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+	  },
+	  {
+		"key": "千梦影视",
+		"name": "⚡千梦┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.qmjzys.com/api.php/app/"
+	  },
+	  {
+		"key": "沐沐电影",
+		"name": "⚡沐沐┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://nnystv.cn/api.php/app/"
+	  },
+	  {
+		"key": "奴娜影视",
+		"name": "⚡奴娜┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.nntv.in/api.php/v1.vod"
+	  },
+	  {
+		"key": "北川影视",
+		"name": "⚡北川┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://www.bczhuiju.com/api.php/v1.vod"
+	  },
+	  {
+		"key": "酷咯影视",
+		"name": "⚡酷咯┃APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"
+	  },
+	  {
+		"key": "热播影视",
+		"name": "💮热播┃直连",
+		"type": 3,
+		"api": "csp_TTian",
+		"jar": "./jar/spider.jar",
+		"ext": "http://v.rbotv.cn"
+	  },
+	  {
+		"key": "追剧影视",
+		"name": "💮追剧┃直连",
+		"type": 3,
+		"api": "csp_AppZJ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zhuiju.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://z.kzjtv.com/"
+	  },
+	  {
+		"key": "明日影视",
+		"name": "💮明日┃直连",
+		"type": 3,
+		"api": "csp_WexMingriys",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/ou.jar",
+		"searchable": 1,
+		"changeable": 1
+	  },
+	  {
+		"key": "快看影视",
+		"name": "💮快看┃直连",
+		"type": 3,
+		"api": "csp_Kuaikan",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/ou.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	  },
+	  {
+		"key": "腐剧视频",
+		"name": "💮腐剧┃直连",
+		"type": 3,
+		"api": "csp_WexFujutv",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/ou.jar",
+		"searchable": 1,
+		"changeable": 1
+	  },
+	  {
+		"key": "圣城影视",
+		"name": "💮圣城┃直连",
+		"type": 3,
+		"api": "csp_SC1080",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/ou.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	  },
+	  {
+		"key": "萌米",
+		"name": "💮萌米┃直连",
+		"type": 3,
+		"api": "csp_AppTT",
+		"jar": "./jar/fanou.txt",
+		"timeout": 15,
+		"playerType": 1,
+		"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+	  },
+	  {
+		"key": "视频库",
+		"name": "💮视频┃直连",
+		"type": 3,
+		"api": "csp_WebVidHub",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/ou.jar",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 0,
+		"ext": "https://vidhub1.cc"
+	  },
+	  {
+		"key": "Ikanbot",
+		"name": "💮机器┃直连",
+		"type": 3,
+		"api": "csp_Ikanbot",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Pgdanmu.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://v.aikanbot.com$$$proxy"
+	  },
+	  {
+		"key": "蜂鸟",
+		"name": "💮蜂鸟┃直连",
+		"type": 3,
+		"api": "csp_AppSK",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fengniao.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+	  },
+	  {
+		"key": "农民",
+		"name": "💮农民┃直连",
+		"type": 3,
+		"api": "csp_WexNmys",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/nmys.jar",
+		"searchable": 1,
+		"changeable": 1
+	  },
+	  {
+		"key": "zxzj",
+		"name": "💮外剧┃直连",
+		"type": 3,
+		"api": "csp_Zxzj",
+		"timeout": 15,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan3.txt",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"ext": "https://www.zxzjhd.com/"
+	  },
+	  {
+		"key": "魔力直连",
+		"name": "💮魔力┃直连",
+		"type": 3,
+		"api": "./js/drpy2.min.js",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0,
+		"ext": "./js/HDmoli.js"
+	  },
+	  {
+		"key": "墨白影视",
+		"name": "💡墨白┃快播",
+		"type": 1,
+		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "黑墙影视",
+		"name": "💡黑墙┃快播",
+		"type": 1,
+		"api": "https://blackwallvideo.online/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "小目标",
+		"name": "💡目标┃快播",
+		"type": 1,
+		"api": "https://tv.xmb.app/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "刺桐影视",
+		"name": "💡刺桐┃快播",
+		"type": 1,
+		"api": "http://pg.cttv.vip/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "追风影视",
+		"name": "💡追风┃快播",
+		"type": 1,
+		"api": "http://www.zfsp.cc/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "小宝影视",
+		"name": "💡小宝┃快播",
+		"type": 1,
+		"api": "http://www.xiaobao168.com/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "影猫影视",
+		"name": "💡影猫┃快播",
+		"type": 1,
+		"api": "http://ysm.tkbot.fun/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "何以影视",
+		"name": "💡何以┃快播",
+		"type": 1,
+		"api": "https://www.heyik.cn/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "HG影视",
+		"name": "💡皇冠┃快播",
+		"type": 1,
+		"api": "https://hong.hgyx.vip/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "BILFUN影视",
+		"name": "💡有趣┃快播",
+		"type": 1,
+		"api": "https://c.waijutv.cc/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "二次萌影视",
+		"name": "💡次萌┃快播",
+		"type": 1,
+		"api": "https://www.ecmys.com/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"categories": [
+		  "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "国产剧" , "港台剧" ,
+		  "日韩剧" , "欧美剧" , "纪录片" , "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫",
+		  "欧美动漫", "海外动漫", "海外剧" , "解说片" , "短剧"
+		]
 	  },
 	  {
 		"key": "吉吉影视",
@@ -1410,15 +2738,15 @@
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
 		"ext": {
-		  "分类url" : "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
-		  "线路数组"  : "#playlist&&</li>",
-		  "播放数组"  : "myui-content__listsort-list&&</ul>",
-		  "播放列表"  : "<a&&</a>",
-		  "播放标题"  : ">&&<[不包含:APP秒播]",
+		  "分类url" : "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html"    ,
+		  "线路数组"  : "#playlist&&</li>"                                        ,
+		  "播放数组"  : "myui-content__listsort-list&&</ul>"                      ,
+		  "播放列表"  : "<a&&</a>"                                                ,
+		  "播放标题"  : ">&&<[不包含:APP秒播]"                                         ,
 		  "跳转播放链接": "src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
-		  "简介"    : "小林子祝您观影愉快",
-		  "分类数组"  : "tab_item\">&&</li>",
-		  "分类标题"  : ">&&</a>",
+		  "简介"    : "小林子祝您观影愉快"                                               ,
+		  "分类数组"  : "tab_item\">&&</li>"                                      ,
+		  "分类标题"  : ">&&</a>"                                                 ,
 		  "分类ID"  : "/ybsisw/&&-----------.html"
 		}
 	  },
@@ -1693,6 +3021,46 @@
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/voflix.js"
+	  },
+	  {
+		"key": "PUA外剧",
+		"name": "🖥️PUA┃外剧",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://www.p-ua.com/vodshow/26-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "欧美剧$22#海外剧$23#日韩剧$24#卡通剧$25#福利剧$49"
+		}
+	  },
+	  {
+		"key": "艾旦影视",
+		"name": "🧊艾旦┃海外",
+		"type": 1,
+		"api": "https://lovedan.net/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"categories": [
+		  "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "犯罪片" , "战争片" , "剧情片" , "动画电影",
+		  "国产剧" , "港台剧" , "日韩剧" , "欧美剧" , "海外剧" , "三级伦理", "网红主播", "日韩综艺", "港台综艺",
+		  "欧美综艺", "大陆综艺", "国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "海外抖音", "影视解说", "港台三级",
+		  "韩国伦理", "西方伦理", "日本伦理", "直播"
+		]
+	  },
+	  {
+		"key": "多瑙影视",
+		"name": "🧊多瑙┃海外",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/多瑙影视.json"
 	  },
 	  {
 		"key": "hipy_js_4k剧院",
@@ -2300,6 +3668,24 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/火狐影视.js"
 	  },
 	  {
+		"key": "黑木耳资源",
+		"name": "💚木耳┃高清┃无广",
+		"type": 1,
+		"api": "http://json.heimuer.xyz/api.php/provide/vod/",
+		"playurl": "https://hoplayer.com/index.html?url=",
+		"searchable": 0,
+		"quickSearch": 0,
+		"categories": [
+		  "剧情片"  , "动作片"  , "冒险片"  , "同性片"  , "喜剧片"  , "奇幻片"  , "恐怖片"  , "悬疑片"  ,
+		  "惊悚片"  , "灾难片"  , "爱情片"  , "犯罪片"  , "科幻片"  , "歌舞片"  , "战争片"  , "经典片"  ,
+		  "动画电影" , "网络电影" , "其他片"  , "国产剧"  , "港剧"   , "韩剧"   , "日剧"   , "泰剧"   ,
+		  "台剧"   , "欧美剧"  , "新马剧"  , "其他剧"  , "国产综艺" , "港台综艺" , "韩国综艺" , "日本综艺" ,
+		  "欧美综艺" , "新马泰综艺", "其他综艺" , "古装短剧" , "虐恋短剧" , "逆袭短剧" , "神豪短剧" , "重生短剧" ,
+		  "复仇短剧" , "穿越短剧" , "甜宠短剧" , "强者短剧" , "欧美动漫" , "日本动漫" , "韩国动漫" , "国产动漫" ,
+		  "港台动漫"
+		]
+	  },
+	  {
 		"key": "金鹰资源",
 		"name": "⚡｜金鹰",
 		"type": 1,
@@ -2311,7 +3697,7 @@
 		  "喜剧片" , "恐怖片" , "战争片" , "纪录片" , "科幻片" , "剧情片" , "动画片" , "动漫"  , "内地剧" ,
 		  "中国动漫", "日本动漫", "欧美动漫", "综艺"  , "台湾剧" , "短剧"  , "体育赛事"
 		]
-	  }, 
+	  },
 	  {
 		"key": "非凡資源",
 		"name": "⚡｜非凡",
@@ -2339,7 +3725,7 @@
 		  "韩剧"  , "日剧"  , "港剧"  , "台剧"  , "泰剧"  , "记录片" , "海外剧" , "大陆综艺", "日韩综艺",
 		  "港台综艺", "欧美综艺", "足球"  , "影视解说", "国产动漫"
 		]
-	  }, 
+	  },
 	  {
 		"key": "优质资源",
 		"name": "🎥｜1080",
@@ -2354,7 +3740,7 @@
 		  "伦理片" , "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "搞笑"  ,
 		  "音乐"  , "影视"  , "汽车"  , "短剧大全"
 		]
-	  }, 
+	  },
 	  {
 		"key": "xml_快看",
 		"name": "🎥｜快看資源",
@@ -2815,6 +4201,99 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/Anime1动畫.js"
 	  },
 	  {
+		"key": "韩剧影院",
+		"name": "🥮韩剧┃TVN",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./json/韩剧TVN.json"
+	  },
+	  {
+		"key": "58动漫网",
+		"name": "✨动漫┃之家",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "搜索url": "https://dbwyt.com/search.php?searchword={wd}" ,
+		  "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
+		  "分类"   : "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
+		}
+	  },
+	  {
+		"key": "萝卜动漫",
+		"name": "✨萝卜┃动漫",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "影片类型" : "分类：&&</a>"                                    ,
+		  "简介"   : "请勿相信影片中的广告，以免上当受骗。+简介：&&</p>"                 ,
+		  "分类url": "https://985dm.com/list/{cateId}-{catePg}.html",
+		  "分类"   : "国产动漫$3#日本动漫$2#欧美动漫$4#动漫电影$1#短剧$20"
+		}
+	  },
+	  {
+		"key": "NyaFun动漫",
+		"name": "✨妮呀┃动漫",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "分类url": "https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+		  "分类": "TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
+		}
+	  },
+	  {
+		"key": "58动漫",
+		"name": "✨吾吧┃动漫",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "线路数组" : "data-toggle=\"tab&&</a>"                          ,
+		  "线路标题" : ">&&<"                                             ,
+		  "搜索url": "http://www.ting38.com/search.php?searchword={wd}" ,
+		  "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html",
+		  "分类"   : "新番日漫$1#国产动漫$2#欧美动漫$3#动漫电影$4"
+		}
+	  },
+	  {
+		"key": "动漫巴士",
+		"name": "✨动漫┃巴士",
+		"type": 3,
+		"api": "csp_WexDm84",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/yingso.jar",
+		"searchable": 1,
+		"changeable": 1
+	  },
+	  {
+		"key": "稀饭动漫",
+		"name": "✨稀饭┃动漫",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://dick.xfani.com/xgapp.php/v1/"
+	  },
+	  {
 		"key": "采集集合",
 		"name": "🧲｜采集",
 		"type": 4,
@@ -3084,17 +4563,8 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQ1.jar;md5;f91ba72d2516a995da86b7321440c653"
 	  },
 	  {
-		"key": "ksxjj",
-		"name": "㊙︎｜KTV",
-		"type": 4,
-		"api": "http://120.53.102.254/dsp/",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	  },
-	  {
 		"key": "酷奇",
-		"name": "㊙︎｜酷奇MV",
+		"name": "🎵｜酷奇",
 		"type": 3,
 		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
@@ -3104,8 +4574,57 @@
 		"changeable": 0
 	  },
 	  {
+		"key": "yyt",
+		"name": "🎵｜悦台",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/yinyuetai.js",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 0
+	  },
+	  {
+		"key": "meowtv_a8yy",
+		"name": "🎵｜A8Y",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/a8yinyue.js"
+	  },
+	  {
+		"key": "酷狗",
+		"name": "🎵｜酷狗",
+		"type": 3,
+		"api": "csp_Kugou",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Pgdanmu.jar",
+		"searchable": 1,
+		"changeable": 0
+	  },
+	  {
+		"key": "ksxjj",
+		"name": "🎵｜KTV",
+		"type": 4,
+		"api": "http://120.53.102.254/dsp/",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	  },
+	  {
 		"key": "MTV",
-		"name": "㊙︎｜明星MV",
+		"name": "🎵｜MTV",
+		"type": 3,
+		"api": "csp_Bili",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"style": {"type": "rect", "ratio": 1.597},
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+	  },
+	  {
+		"key": "MTV",
+		"name": "🎵｜明星MV",
 		"type": 3,
 		"api": "csp_Bili",
 		"style": {"type": "rect", "ratio": 1.597},
@@ -3125,6 +4644,29 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"changeable": 0
+	  },
+	  {
+		"key": "Alllive",
+		"name": "㊙︎｜游戏直播",
+		"type": 3,
+		"api": "csp_Alllive",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt",
+		"playerType": 2,
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0
+	  },
+	  {
+		"key": "kuaishouzb",
+		"name": "㊙︎｜快手直播",
+		"type": 3,
+		"api": "csp_KsLive",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"style": {"type": "rect", "ratio": 1.433},
+		"timeout": 10
 	  },
 	  {
 		"key": "虎牙直播js",
