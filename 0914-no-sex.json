@@ -605,8 +605,8 @@
 		"api": "csp_Kekys",
 		"timeout": 15,
 		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"changeable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a"
 	  },
@@ -1721,8 +1721,8 @@
 		"name": "🎥｜畅梦｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/畅梦影视[优].js"
@@ -2271,8 +2271,8 @@
 		"name": "🎥｜iFun｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/iFun.js"
@@ -2331,8 +2331,8 @@
 		"type": 1,
 		"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 		"playUrl": "",
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"filterable": 1,
 		"categories": [
 		  "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "国产剧" , "欧美剧" ,
@@ -2484,8 +2484,8 @@
 		"name": "弹幕｜南瓜",
 		"type": 3,
 		"api": "csp_Nangua",
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"filterable": 1,
 		"ext": {"danmu": true},
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d2741230d5013288c2e7669c53db7780"
@@ -2517,8 +2517,8 @@
 		"name": "弹幕｜机器人",
 		"type": 3,
 		"api": "csp_Ikanbot",
-		"searchable": 1,
-		"quickSearch": 1,
+		"searchable": 0,
+		"quickSearch": 0,
 		"filterable": 1,
 		"ext": {"danmu": true},
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d2741230d5013288c2e7669c53db7780"
@@ -2940,7 +2940,7 @@
 		"name": "🧲｜虎牙",
 		"type": 1,
 		"api": "https://www.huyaapi.com/api.php/provide/vod/",
-		"searchable": 0,
+		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 1,
 		"categories": [
@@ -2954,7 +2954,7 @@
 		"name": "🧲｜光速",
 		"type": 1,
 		"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-		"searchable": 0,
+		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 1,
 		"categories": [
