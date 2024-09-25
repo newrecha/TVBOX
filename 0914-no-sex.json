@@ -526,15 +526,14 @@
 	  },
 	  {
 		"key": "利播蓝光",
-		"name": "⚡｜利播",
+		"name": "2⃣️利播┃外剧┃纯净",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy.min.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/drpy.min.js",
 		"searchable": 0,
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/libvio.js"
-	  },
+	},
 	  {
 		"key": "泥巴影院",
 		"name": "⚡｜泥巴",
