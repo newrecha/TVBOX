@@ -525,20 +525,6 @@
 		}
 	  },
 	  {
-		"key": "Lib",
-		"name": "1⃣️立播┃超清┃秒播",
-		"type": 3,
-		"api": "csp_Libvio",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": {
-		  "Cloud-drive": "https://api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt",
-		  "from"       : "4k|auto"
-		}
-	  },
-	  {
 		"key": "利播蓝光",
 		"name": "⚡｜利播",
 		"type": 3,
