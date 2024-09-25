@@ -818,7 +818,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hccx.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nkvlog.json"
 	  },
 	  {
@@ -860,7 +860,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hccx.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/七新影视.json"
 	  },
 	  {
@@ -928,7 +928,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hccx.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/超前B站.json"
 	  },
 	  {
@@ -2270,7 +2270,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hccx.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/hanjulao.json"
 	  },
 	  {
