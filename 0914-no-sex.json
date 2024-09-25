@@ -525,18 +525,6 @@
 		}
 	  },
 	  {
-		"key": "利播蓝光",
-		"name": "⚡｜利播",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/drpy.min.js",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
-		"searchable": 0,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/libvio.js"
-	},
-	  {
 		"key": "泥巴影院",
 		"name": "⚡｜泥巴",
 		"type": 3,
@@ -569,7 +557,7 @@
 		"name": "🎥｜七夕",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/libXBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
