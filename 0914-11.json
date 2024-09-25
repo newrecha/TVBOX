@@ -2794,17 +2794,6 @@
 		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/饺子影院.js"
 		},
 		{
-		  "key": "hipy_js_金金虫",
-		  "name": "🎥｜金金虫｜T3",
-		  "type": 3,
-		  "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "order_num": 0,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/金金虫.js"
-		},
-		{
 		  "key": "hipy_js_九牛电影",
 		  "name": "🎥｜九牛｜T3",
 		  "type": 3,
@@ -2892,17 +2881,7 @@
 		  "order_num": 0,
 		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/泡泡影院.js"
 		},
-		{
-		  "key": "hipy_js_飘花影院",
-		  "name": "🎥｜飘花｜T3",
-		  "type": 3,
-		  "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "order_num": 0,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/飘花影院.js"
-		},
+
 		{
 		  "key": "hipy_js_七新电影网",
 		  "name": "🎥｜七新｜T3",
@@ -2924,17 +2903,6 @@
 		  "filterable": 1,
 		  "order_num": 0,
 		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/热播之家.js"
-		},
-		{
-		  "key": "hipy_js_如意影视",
-		  "name": "🎥｜如意｜T3",
-		  "type": 3,
-		  "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "order_num": 0,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/如意影视.js"
 		},
 		{
 		  "key": "hipy_js_三集电影[自动]",
@@ -3080,17 +3048,6 @@
 		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/西瓜影院.js"
 		},
 		{
-		  "key": "hipy_js_小鱼影视",
-		  "name": "🎥｜小鱼｜T3",
-		  "type": 3,
-		  "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "order_num": 0,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/小鱼影视.js"
-		},
-		{
 		  "key": "hipy_js_星辰CT",
 		  "name": "🎥｜星辰CT｜T3",
 		  "type": 3,
@@ -3144,17 +3101,6 @@
 		  "filterable": 1,
 		  "order_num": 0,
 		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/影视工场.js"
-		},
-		{
-		  "key": "hipy_js_影渣渣影视",
-		  "name": "🎥｜影渣渣｜T3",
-		  "type": 3,
-		  "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "order_num": 0,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/影渣渣影视.js"
 		},
 		{
 		  "key": "hipy_js_悠悠影视",
@@ -3278,28 +3224,6 @@
 		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/OmoFun[漫].js"
 		},
 		{
-		  "key": "hipy_js_火狐影视",
-		  "name": "🎥｜火狐｜T3",
-		  "type": 3,
-		  "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "order_num": 0,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/火狐影视.js"
-		},
-		{
-		  "key": "韩剧影院",
-		  "name": "⚡｜韩剧",
-		  "type": 3,
-		  "api": "csp_XBPQ",
-		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
-		  "searchable": 1,
-		  "quickSearch": 1,
-		  "filterable": 1,
-		  "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/韩剧TVN.json"
-		},
-	  {
 		"key": "黑木耳资源",
 		"name": "💚木耳┃高清┃无广",
 		"type": 1,
@@ -3737,13 +3661,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/异世界.js"
 	  },
 	  {
-		"key": "次元城",
-		"name": "动漫｜次元城",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/次元城.js"
-	  },
-	  {
 		"key": "妮可动漫",
 		"name": "动漫｜妮可",
 		"type": 3,
@@ -3808,13 +3725,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/大米动漫.js"
 	  },
 	  {
-		"key": "暮暮动漫",
-		"name": "动漫｜暮暮",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/暮暮动漫.js"
-	  },
-	  {
 		"key": "Anime1",
 		"name": "动漫｜日本",
 		"type": 3,
@@ -3834,7 +3744,7 @@
 	  },
 	  {
 		"key": "58动漫网",
-		"name": "✨动漫┃之家",
+		"name": "动漫｜之家",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
@@ -3849,7 +3759,7 @@
 	  },
 	  {
 		"key": "萝卜动漫",
-		"name": "✨萝卜┃动漫",
+		"name": "动漫｜萝卜",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
@@ -3865,7 +3775,7 @@
 	  },
 	  {
 		"key": "NyaFun动漫",
-		"name": "✨妮呀┃动漫",
+		"name": "动漫｜妮呀",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
@@ -3879,7 +3789,7 @@
 	  },
 	  {
 		"key": "58动漫",
-		"name": "✨吾吧┃动漫",
+		"name": "动漫｜吾吧",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
@@ -3896,23 +3806,12 @@
 	  },
 	  {
 		"key": "动漫巴士",
-		"name": "✨动漫┃巴士",
+		"name": "动漫｜巴士",
 		"type": 3,
 		"api": "csp_WexDm84",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/yingso.jar",
 		"searchable": 1,
 		"changeable": 1
-	  },
-	  {
-		"key": "稀饭动漫",
-		"name": "✨稀饭┃动漫",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://dick.xfani.com/xgapp.php/v1/"
 	  },
 	  {
 		"key": "采集集合",
