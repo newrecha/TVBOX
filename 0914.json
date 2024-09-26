@@ -1,9 +1,6 @@
 {	
 "logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 "lives":[
-			
-			{"name":"yeslive｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/yeslive.txt","ua":"okhttp/5.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"litv9｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/litv9.txt","ua":"okhttp/5.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 			{"name":"安博｜(z88)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/anber-z88.txt","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -28,7 +25,6 @@
 			{"name":"smart｜停用","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/smart.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"zlive｜停用","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/HappyTv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"晴天｜停用","type":0,"url":"https://4026.kstore.space/tv/p2p.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-			{"name":"歐華｜停用","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/ohwua.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"海外(唐三)｜停用","type":0,"ua":"AptvPlayer/1.3.3","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/tansan.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"}
 			
 		],
