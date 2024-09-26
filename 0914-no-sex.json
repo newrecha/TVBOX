@@ -28,37 +28,15 @@
 		}
 	  },
 	  {
-		"key": "苹果",
-		"name": "優質｜苹果(飯)",
+		"key": "nyys",
+		"name": "優質 |纽约",
 		"type": 3,
-		"api": "csp_LiteApple",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
-	  },
-	  {
-		"key": "小苹果弹幕",
-		"name": "優質｜苹果(弹幕)",
-		"type": 3,
-		"api": "csp_Xpg",
+		"api": "csp_XPathFilter",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
-	  },
-	  {
-		"key": "苹果忐忑",
-		"name": "優質｜苹果(忐忑)",
-		"type": 3,
-		"api": "csp_LiteApple",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
+		"ext": "raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/ys.json",
+		"jar": "raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;custom_spider.jar;md5;a63f461455a69ff20c63b8edf415ae88"
 	  },
 	  {
 		"key": "T4-heimuer",
@@ -131,6 +109,39 @@
 		"changeable": 0
 	  },
 	  {
+		"key": "苹果",
+		"name": "優質｜苹果(飯)",
+		"type": 3,
+		"api": "csp_LiteApple",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	  },
+	  {
+		"key": "小苹果弹幕",
+		"name": "優質｜苹果(弹幕)",
+		"type": 3,
+		"api": "csp_Xpg",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true},
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
+	  },
+	  {
+		"key": "苹果忐忑",
+		"name": "優質｜苹果(忐忑)",
+		"type": 3,
+		"api": "csp_LiteApple",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	  },
+	  {
 		"key": "XBPQ_麻衣影院",
 		"name": "🎥｜麻衣",
 		"type": 3,
@@ -194,17 +205,6 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	  },
-	  {
-		"key": "drpy_js_NY影院",
-		"name": "🎥｜紐約",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/NY影院.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;bf359eaa0c83a8c097ffffd9b4a72ad3"
 	  },
 	  {
 		"key": "Lib",
