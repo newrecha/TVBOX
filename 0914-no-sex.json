@@ -29,7 +29,7 @@
 	  },
 	  {
 		"key": "nyys",
-		"name": "優質|纽约",
+		"name": "優質｜纽约",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
