@@ -1,6 +1,6 @@
 {
 	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;bf359eaa0c83a8c097ffffd9b4a72ad3",
-	"logo": "https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
+	"logo": "https://github.com/newrecha/TVBOX/blob/main/20240712003266.jpg",
 	"sites": [
 	  {
 		"key": "drpy_js_豆瓣",
@@ -17,17 +17,6 @@
 		"name": "彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長、忐忑......還有好多好多github上面分享的前輩"
 	  },
 	  {
-		"key": "zj",
-		"name": "優質｜8K影院",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-		"ext": {
-		  "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-		  "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-		}
-	  },
-	  {
 		"key": "nyys",
 		"name": "優質｜纽约",
 		"type": 3,
@@ -36,17 +25,49 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/ys.json",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/csny.jar"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/csny.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
 	  },
 	  {
-		"key": "T4-heimuer",
-		"name": "優質｜黑木耳(T4)",
-		"type": 4,
-		"api": "https://tang.hz.cz/power/hme?token=647c28ca",
+		"key": "金牌影视",
+		"name": "優質｜金牌",
+		"type": 3,
+		"api": "csp_Jpys",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
+		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"changeable": 0
+		"changeable": 1
+	  },
+	  {
+		"key": "文采影视",
+		"name": "優質｜界影視",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"changeable": 0,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;64690215b0987464819e01f94be0251c",
+		"ext": {
+		  "主页url": "https://www.hkybqufgh.com/",
+		  "简介": "</label>&&</div>",
+		  "嗅探词": "m3u8",
+		  "影片类型": "tags\">&&director\">",
+		  "影片状态": "bottom\">&&</div>",
+		  "二次截取": "videoList\":\\[&&\\]",
+		  "数组": "{&&}[不包含:伦理剧]",
+		  "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+		  "标题": "vodName\":\"&&\"",
+		  "副标题": "vodRemarks\":\"&&\"",
+		  "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
+		  "导演": "导演:</div>&&主演",
+		  "主演": "主演:</div>&&别名",
+		  "线路标题": "文采秒播",
+		  "播放数组": "listitem\">&&info\">",
+		  "播放列表": "<a&&</a>",
+		  "倒序": "否",
+		  "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+		  "搜索副标题": "class=\"boottom\"*<div>&&</div",
+		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+		  "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+		}
 	  },
 	  {
 		"key": "php_heimuer",
@@ -56,6 +77,37 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 0,
+		"changeable": 0
+	  },
+	  {
+		"key": "Auete",
+		"name": "優質｜奥特｜無廣",
+		"type": 3,
+		"api": "csp_Auete",
+		"timeout": 15,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"ext": "https://auete.pro/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a"
+	  },
+	  {
+		"key": "墨白影视",
+		"name": "優質｜墨白",
+		"type": 1,
+		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
+		"key": "T4-heimuer",
+		"name": "優質｜黑木耳(T4)",
+		"type": 4,
+		"api": "https://tang.hz.cz/power/hme?token=647c28ca",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
 		"changeable": 0
 	  },
 	  {
@@ -140,6 +192,17 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
+	  },
+	  {
+		"key": "zj",
+		"name": "優質｜8K影院",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+		"ext": {
+		  "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+		  "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+		}
 	  },
 	  {
 		"key": "XBPQ_麻衣影院",
@@ -293,7 +356,6 @@
 		  "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
 		}
 	  },
-
 	  {
 		"key": "白羊影院",
 		"name": "🎥｜白羊",
@@ -441,17 +503,6 @@
 		"changeable": 1
 	  },
 	  {
-		"key": "金牌影视",
-		"name": "🎥｜金牌",
-		"type": 3,
-		"api": "csp_Jpys",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
-	  },
-	  {
 		"key": "短剧",
 		"name": "🎥｜上头",
 		"type": 3,
@@ -481,37 +532,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://dmxqfilmtime.com/api.php/app/"
-	  },
-	  {
-		"key": "文采影视",
-		"name": "🎥｜界影視",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;64690215b0987464819e01f94be0251c",
-		"ext": {
-		  "主页url": "https://www.hkybqufgh.com/",
-		  "简介": "</label>&&</div>",
-		  "嗅探词": "m3u8",
-		  "影片类型": "tags\">&&director\">",
-		  "影片状态": "bottom\">&&</div>",
-		  "二次截取": "videoList\":\\[&&\\]",
-		  "数组": "{&&}[不包含:伦理剧]",
-		  "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-		  "标题": "vodName\":\"&&\"",
-		  "副标题": "vodRemarks\":\"&&\"",
-		  "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
-		  "导演": "导演:</div>&&主演",
-		  "主演": "主演:</div>&&别名",
-		  "线路标题": "文采秒播",
-		  "播放数组": "listitem\">&&info\">",
-		  "播放列表": "<a&&</a>",
-		  "倒序": "否",
-		  "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-		  "搜索副标题": "class=\"boottom\"*<div>&&</div",
-		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-		  "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-		}
 	  },
 	  {
 		"key": "泥巴影院",
@@ -785,18 +805,6 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"changeable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a"
-	  },
-	  {
-		"key": "Auete",
-		"name": "🎥｜奥特",
-		"type": 3,
-		"api": "csp_Auete",
-		"timeout": 15,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "https://auete.pro/",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a"
 	  },
 	  {
@@ -1853,15 +1861,6 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "https://www.zxzjhd.com/"
-	  },
-	  {
-		"key": "墨白影视",
-		"name": "🎥｜墨白",
-		"type": 1,
-		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1
 	  },
 	  {
 		"key": "黑墙影视",
