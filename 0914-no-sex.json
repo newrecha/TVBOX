@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;56a7ea1a70a445dc6b92397f2289f7a6",
+	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;bf359eaa0c83a8c097ffffd9b4a72ad3",
 	"logo": "https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 	"sites": [
 	  {
@@ -204,7 +204,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/NY影院.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;56a7ea1a70a445dc6b92397f2289f7a6"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;bf359eaa0c83a8c097ffffd9b4a72ad3"
 	  },
 	  {
 		"key": "Lib",
