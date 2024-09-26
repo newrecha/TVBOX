@@ -36,7 +36,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/ys.json",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a63f461455a69ff20c63b8edf415ae88"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/csny.jar"
 	  },
 	  {
 		"key": "T4-heimuer",
