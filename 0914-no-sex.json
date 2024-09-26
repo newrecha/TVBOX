@@ -4092,7 +4092,7 @@
 	  },
 	  {
 		"key": "酷狗",
-		"name": "酷狗",
+		"name": "🎵｜酷狗",
 		"type": 3,
 		"api": "csp_Kugou",
 		"searchable": 1,
@@ -4100,7 +4100,7 @@
 	},
 	{
 		"key": "Yinyuetai",
-		"name": "音悦台",
+		"name": "🎵｜音悦台",
 		"type": 3,
 		"api": "csp_Yinyuetai",
 		"searchable": 1,
