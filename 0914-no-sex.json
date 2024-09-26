@@ -499,7 +499,7 @@
 		"type": 3,
 		"api": "csp_XBPQ",
 		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;64690215b0987464819e01f94be0251c",
 		"ext": {
 		  "主页url": "https://www.hkybqufgh.com/",
 		  "简介": "</label>&&</div>",
@@ -759,7 +759,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;64690215b0987464819e01f94be0251c",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/热播之家.json"
 	  },
 	  {
@@ -897,7 +897,7 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/cc.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/cc.jar;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "低端",
@@ -3324,7 +3324,7 @@
 		],
 		"searchable": 1,
 		"quickSearch": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/cc.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/cc.jar;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "无尽资源",
@@ -3871,7 +3871,7 @@
 		"api": "csp_WexXb6v",
 		"searchable": 1,
 		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "360",
@@ -3907,7 +3907,7 @@
 		"api": "csp_Wexmiso",
 		"searchable": 1,
 		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "Wexed3000",
@@ -3916,7 +3916,7 @@
 		"api": "csp_Wexed3000",
 		"searchable": 1,
 		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "易搜",
@@ -3969,7 +3969,7 @@
 		"api": "csp_Wexyingso",
 		"searchable": 1,
 		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "hipy_js_采集之王[合]0",
@@ -4159,7 +4159,7 @@
 		"name": "㊙︎｜快手直播",
 		"type": 3,
 		"api": "csp_KsLive",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
