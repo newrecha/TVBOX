@@ -1,6 +1,10 @@
 {	
 "logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 "lives":[
+			
+			{"name":"yeslive｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/yeslive.txt","ua":"okhttp/5.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"litv9｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/litv9.txt","ua":"okhttp/5.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
 			{"name":"安博｜(z88)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/anber-z88.txt","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博｜(唐三)","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/唐三安博.txt","ua":"okhttp/4.12.0"},
