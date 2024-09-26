@@ -4,7 +4,7 @@
 	"sites": [
 	  {
 		"key": "drpy_js_豆瓣",
-		"name": "👊【老王私人彙整，僅供影視APP群組分享】👊",
+		"name": "👊【老王私人彙整，僅供電視TV_APK群組分享】👊",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js",
