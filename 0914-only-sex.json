@@ -21,6 +21,34 @@
 		}
 	  },
 	  {
+		"key": "php_webbaiwanziyuan",
+		"name": "百万传媒(T4)",
+		"type": 4,
+		"api": "https://json.doube.eu.org/app/index.php?site=webbaiwanziyuan",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 0,
+		"changeable": 0,
+		"style": {
+		  "type": "rect",
+		  "ratio": 1.5
+				 }
+		},
+		{
+			"key": "py_aidouchuanmei",
+			"name": "爱豆传媒(T4)",
+			"type": 4,
+			"api": "https://py.doube.eu.org/api?site=aidouchuanmei",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.5
+					 }
+		},
+		{
 		"key": "天美",
 		"name": "🔞天美|doll",
 		"type": 3,
@@ -35,9 +63,9 @@
 		  "分类ID": "id/&&.",
 		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-		}
-	  },
-	  {
+				}
+	  	},
+	  	{
 		"key": "天美",
 		"name": "🔞天美之爱",
 		"type": 3,
@@ -52,9 +80,9 @@
 		  "分类ID": "id/&&.",
 		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html;;mz",
 		  "页面代理": "127.0.0.1:10072"
-		}
-	  },
-	  {
+				}
+		},
+	    {
 		"key": "SOAV",
 		"name": "🔞SOAV",
 		"type": 3,
@@ -72,9 +100,9 @@
 		  "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
 		  "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-		}
-	  },
-	  {
+				}
+	    },
+	    {
 		"key": "TaiAv",
 		"name": "🔞TaiAv",
 		"type": 3,
@@ -92,9 +120,9 @@
 		  "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
 		  "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-		}
-	  },
-	  {
+				}
+	    },
+	    {
 		"key": "NiceAv",
 		"name": "🔞NiceAv",
 		"type": 3,
@@ -106,9 +134,9 @@
 		  "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
 		  "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-		}
-	  },
-	  {
+				}
+	    },
+	    {
 		"key": "成人重口",
 		"name": "🔞成人重口",
 		"type": 3,
@@ -132,9 +160,9 @@
 		  "分类标题": ">&&<",
 		  "分类ID": "/index.php/vod/type/id/&&.html",
 		  "分类url": "https://www.crzk22.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-		}
-	  },
-	  {
+				}
+		},
+	  	{
 		"key": "天堂岛",
 		"name": "🔞天堂岛",
 		"type": 3,

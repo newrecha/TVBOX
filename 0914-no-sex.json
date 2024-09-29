@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;3322d688011406c63080a8ac838b96d6",
+	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 	"logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
 	"sites": [
 	  {
@@ -4647,7 +4647,8 @@
 	  {"name": "xmflv", "type": 0, "url": "https://jx.xmflv.com/?url="}
 	],
 	"rules": [
-	  {
+	
+		{
 		"name": "暴风",
 		"hosts": ["bfzy", "bfbfvip", "bfengbf"],
 		"regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts"]
