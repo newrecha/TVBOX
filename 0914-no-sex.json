@@ -17,6 +17,20 @@
 		"name": "彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長、忐忑......還有好多好多github上面分享的前輩"
 	  },
 	  {
+		"key": "网盘配置",
+		"name": "Youtube、網盤、彈幕配置",
+		"type": 3,
+		"api": "csp_Config",
+		"searchable": 0,
+		"changeable": 0,
+		"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
+		"style": {
+			"type": "rect",
+			"ratio": 1.5
+		}
+	},
+
+	  {
 		"key":"Youtube",
 		"name":"Youtube",
 		"type":3,
