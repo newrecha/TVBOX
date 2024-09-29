@@ -60,7 +60,7 @@
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
 "libxl_url":"./libxl_thunder_sdk.so",
-"youtube_proxy":"proxy",
+"youtube_proxy":"",
 "singbox_url":"./sing-box.gz",
 "singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
@@ -79,6 +79,6 @@
 "tgsearch_api_id":"",
 "tgsearch_api_hash":"",
 "tgsearch_api_session":"",
-"tgsearch_api_proxy":"proxy",
+"tgsearch_api_proxy":"",
 "tgsearch_api_url":"http://127.0.0.1:10199/"
 }
