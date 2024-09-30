@@ -38,7 +38,7 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"changeable": 0,
-		"timeout": 120,
+		"timeout": 240,
 		"ext":{
 			"token":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
 			"json":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/youtube.json",
