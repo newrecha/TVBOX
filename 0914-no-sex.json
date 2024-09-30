@@ -5199,6 +5199,7 @@
 			},
 			{ "name": "火山嗅探", "hosts": ["huoshan.com"], "regex": ["item_id="] },
 			{ "name": "抖音嗅探", "hosts": ["douyin.com"], "regex": ["is_play_url="] },
+			{ "name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] },
 			{
 			  "name": "proxy",
 			  "hosts": [
@@ -5218,43 +5219,7 @@
 				"*.t4tv.hz.cz"             ,
 				".*ulivetv.*"
 			  ]
-			},
-			{
-			  "name": "NO",
-			  "hosts": ["m3u.nikanba.live"],
-			  "regex": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.100000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			  ]
-			},
-			{
-			  "name": "智能AI已过滤广告🥨欢迎继续收看节目",
-			  "hosts": ["http"],
-			  "disable": [
-				"aliyuncs.com"           ,
-				"olemovienews.com"       ,
-				"ninjia.online"          ,
-				"vdtuzv.com"             ,
-				"json.icu"               ,
-				"/asp/hls/"              ,
-				"huya.com"               ,
-				"zsyzcy.cn"              ,
-				"/nby/"                  ,
-				"yjys.me"                ,
-				"122.228.8.29:4433/Cache",
-				"huohua"                 ,
-				"cdn.json.icu"
-			  ],
-			  "rules": [ {"regexp": "AI"} ],
-			  "toLog": 0
-			},
-			{
-			  "name": "智能去AI",
-			  "hosts": ["http"],
-			  "disable": ["aliyuncs.com", "TVOD"],
-			  "rules": [ {"regexp": "AI2"} ],
-			  "toLog": 0
-			},
-			{ "name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] }
+			}
 		  ],
 		  
 	  
