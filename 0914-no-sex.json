@@ -5175,7 +5175,7 @@
 			},
 			{ "name": "火山嗅探", "hosts": ["huoshan.com"], "regex": ["item_id="] },
 			{ "name": "抖音嗅探", "hosts": ["douyin.com"], "regex": ["is_play_url="] },
-			{ "name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] },
+			{ "name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] }
 		 ],
 	  {
 		"name": "新视觉嗅探",
