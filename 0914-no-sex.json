@@ -3623,50 +3623,6 @@
 		"changeable": 1
 	  },
 	  {
-		"key": "csp_XYQHiker_爱你短剧",
-		"name": "🎥｜爱你短剧",
-		"type": 3,
-		"api": "csp_XYQHiker",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/爱你短剧.json"
-	  },
-	  {
-		"key": "csp_XYQHiker_短剧屋",
-		"name": "🎥｜短剧屋",
-		"type": 3,
-		"api": "csp_XYQHiker",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/短剧屋.json"
-	  },
-	  {
-		"key": "js_星芽短剧",
-		"name": "🎥｜星芽短剧",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy_libs/drpy2.min.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/星芽短剧.js"
-	  },
-	  {
-		"key": "js_蓝莓短剧",
-		"name": "🎥｜蓝莓短剧",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy_libs/drpy2.min.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/蓝莓短剧.js"
-	  },
-	  {
 		"key": "drpy_js_360影视",
 		"name": "官源｜360",
 		"type": 3,
@@ -3837,13 +3793,6 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/异世界.js"
-	  },
-	  {
-		"key": "妮可动漫",
-		"name": "动漫｜妮可",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/妮可动漫.js"
 	  },
 	  {
 		"key": "奇米动漫",
@@ -4043,15 +3992,6 @@
 		"searchable": 1
 	  },
 	  {
-		"key": "新6V",
-		"name": "🧲｜新6V",
-		"type": 3,
-		"api": "csp_WexXb6v",
-		"searchable": 1,
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
-	  },
-	  {
 		"key": "360",
 		"name": "🧲｜360",
 		"type": 1,
@@ -4077,40 +4017,6 @@
 		  "犯罪片" , "灾难片" , "国产剧" , "香港剧" , "韩国剧" , "欧美剧" , "台湾剧" , "日本剧" , "海外剧" ,
 		  "泰国剧" , "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "爽文短剧"
 		]
-	  },
-	  {
-		"key": "Wexmiso",
-		"name": "🧲｜米搜",
-		"type": 3,
-		"api": "csp_Wexmiso",
-		"searchable": 1,
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
-	  },
-	  {
-		"key": "Wexed3000",
-		"name": "🧲｜易迪",
-		"type": 3,
-		"api": "csp_Wexed3000",
-		"searchable": 1,
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
-	  },
-	  {
-		"key": "易搜",
-		"name": "🧲｜易搜",
-		"type": 3,
-		"api": "csp_YiSo",
-		"searchable": 1,
-		"changeable": 0
-	  },
-	  {
-		"key": "盤搜",
-		"name": "🧲｜盤搜",
-		"type": 3,
-		"api": "csp_PanSearch",
-		"searchable": 1,
-		"changeable": 0
 	  },
 	  {
 		"key": "虎牙资源",
@@ -4139,15 +4045,6 @@
 		  "剧情片" , "战争片" , "记录片" , "短剧"  , "国产剧" , "港澳剧" , "台湾剧" , "日剧"  , "韩剧"  ,
 		  "欧美剧" , "泰剧"
 		]
-	  },
-	  {
-		"key": "Wexyingso",
-		"name": "🧲｜影子",
-		"type": 3,
-		"api": "csp_Wexyingso",
-		"searchable": 1,
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wex.txt;md5;cdee73045927fcb02b709ae63292cfd7"
 	  },
 	  {
 		"key": "hipy_js_采集之王[合]0",
@@ -4212,18 +4109,6 @@
 		"recordable": 0
 	  },
 	  {
-		"key": "hipy_js_影搜[搜]",
-		"name": "🧲｜影搜",
-		"type": 3,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQ1.jar;md5;56be033d13e13803dc999d881437d1f6",
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/影搜[搜].js"
-	  },
-	  {
 		"key": "csp_SeedHub",
 		"name": "🧲｜SeedHub",
 		"type": 3,
@@ -4244,14 +4129,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQ1.jar;md5;56be033d13e13803dc999d881437d1f6"
-	  },
-	  {
-		"key": "磁力熊",
-		"name": "🧲｜磁力熊",
-		"type": 3,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//js/drpy.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//js/磁力熊.js"
 	  },
 	  {
 		"key": "csp_MeijuTT",
@@ -4380,7 +4257,7 @@
 	  },
 	  {
 		"key": "开心直播点播",
-		"name": "📺︎开心直播点播",
+		"name": "㊙︎｜直播轉點播[V2]",
 		"type": 3,
 		"api": "http://ttkx.live:55/lib/sdtv.js",
 		"ext": "http://ttkx.live:55/lib/kxzb1.txt",
