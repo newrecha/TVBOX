@@ -3053,8 +3053,34 @@
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/夕云影视.js"
 	  },
-
-
+	  {
+		"key": "猪猪影视",
+		"name": "🎦猪猪影视",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": {
+		  "主页url": "https://www.lyzccl.com/",
+		  "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
+		  "图片": "data-original=\"&&\"",
+		  "标题": "title=\"&&\"",
+		  "链接": "href=\"&&\"",
+		  "简介": "class=\"video-des\"&&</div>",
+		  "线路标题": "data-toggle=\"tab\">&&</a>",
+		  "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
+		  "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
+		}
+	  },
+	  {
+		"key": "剧集",
+		"name": "🎦剧集影视",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": {
+		  "搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
+		  "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
+		  "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
+		}
+	  },
 	  {
 		"key": "qimaoys",
 		"name": "🎦七猫",
@@ -3140,7 +3166,6 @@
 		"name": "🎦农民影视2",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
