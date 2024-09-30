@@ -20,7 +20,17 @@
 		  "直接播放": "1"
 		}
 	  },
-	  {
+
+	  
+	  {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":0,"quickSearch":0,"filterable":0},
+{"name":"91md91麻豆","key":"1191麻豆","type":1,"api":"https://md91.cc/api.php/provide/vod/","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"lovedan艾旦","key":"11艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
+{
 		"key": "天美",
 		"name": "🔞天美|doll",
 		"type": 3,
@@ -1672,7 +1682,7 @@
 	  },
 	  {
 		"key": "apilj.com",
-		"name": "🔞成人01",
+		"name": "🔞辣椒資源",
 		"type": 1,
 		"searchable": 1,
 		"quickSearch": 1,
