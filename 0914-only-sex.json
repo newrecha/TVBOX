@@ -42,7 +42,7 @@
 	  },
 	  {
 		"key": "vv003",
-		"name": "️🔞薇薇珊👙",
+		"name": "️🔞薇薇珊",
 		"type": 4,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05153.json",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
@@ -51,8 +51,8 @@
 		"filterable": 0
 	  },
 	  {
-		"name": "91md91麻豆",
-		"key": "🔞麻豆",
+		"key": "麻豆",
+		"name": "🔞91md91麻豆",
 		"type": 1,
 		"api": "https://md91.cc/api.php/provide/vod/",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
@@ -61,8 +61,8 @@
 		"filterable": 1
 	  },
 	  {
-		"name": "lovedan艾旦",
-		"key": "🔞艾旦影视",
+		"key": "艾旦影视",
+		"name": "🔞lovedan艾旦",
 		"type": 1,
 		"api": "https://lovedan.net/api.php/provide/vod/",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
@@ -458,7 +458,7 @@
 	  },
 	  {
 		"key": "JJAiPian",
-		"name": "🔞久久爱片 | 视频",
+		"name": "🔞久久爱",
 		"type": 3,
 		"api": "csp_JJAiPian",
 		"searchable": 1,
@@ -615,7 +615,7 @@
 	  },
 	  {
 		"key": "纤纤影视福利版",
-		"name": "🔞纤纤影视H版",
+		"name": "🔞纤纤倫理",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"playerType": 1,
