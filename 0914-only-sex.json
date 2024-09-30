@@ -20,34 +20,70 @@
 		  "直接播放": "1"
 		}
 	  },
-
-	  
-	  {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":0,"quickSearch":0,"filterable":0},
-{"name":"91md91麻豆","key":"1191麻豆","type":1,"api":"https://md91.cc/api.php/provide/vod/","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"lovedan艾旦","key":"11艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/Peter(H).jar","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
-
-		{
-			"key": "py_aidouchuanmei",
-			"name": "爱豆传媒(T4)",
-			"type": 4,
-			"api": "https://py.doube.eu.org/api?site=aidouchuanmei",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-			  "type": "rect",
-			  "ratio": 1.5
-					 }
-		},
-		{
+	  {
+		"key": "vv001",
+		"name": "️🔞女優",
+		"type": 4,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05151.json",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0
+	  },
+	  {
+		"key": "vv002",
+		"name": "️🔞番號",
+		"type": 4,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05152.json",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0
+	  },
+	  {
+		"key": "vv003",
+		"name": "️🔞薇薇珊👙",
+		"type": 4,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05153.json",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0
+	  },
+	  {
+		"name": "91md91麻豆",
+		"key": "🔞麻豆",
+		"type": 1,
+		"api": "https://md91.cc/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	  },
+	  {
+		"name": "lovedan艾旦",
+		"key": "🔞艾旦影视",
+		"type": 1,
+		"api": "https://lovedan.net/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	  },
+	  {
+		"key": "py_aidouchuanmei",
+		"name": "🔞爱豆传媒",
+		"type": 4,
+		"api": "https://py.doube.eu.org/api?site=aidouchuanmei",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 0,
+		"changeable": 0,
+		"style": {"type": "rect", "ratio": 1.5}
+	  },
+	  {
 		"key": "天美",
-		"name": "🔞天美|doll",
+		"name": "🔞天美",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
@@ -60,9 +96,9 @@
 		  "分类ID": "id/&&.",
 		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-				}
-	  	},
-	  	{
+		}
+	  },
+	  {
 		"key": "天美",
 		"name": "🔞天美之爱",
 		"type": 3,
@@ -77,9 +113,9 @@
 		  "分类ID": "id/&&.",
 		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html;;mz",
 		  "页面代理": "127.0.0.1:10072"
-				}
-		},
-	    {
+		}
+	  },
+	  {
 		"key": "SOAV",
 		"name": "🔞SOAV",
 		"type": 3,
@@ -97,9 +133,9 @@
 		  "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
 		  "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-				}
-	    },
-	    {
+		}
+	  },
+	  {
 		"key": "TaiAv",
 		"name": "🔞TaiAv",
 		"type": 3,
@@ -117,9 +153,9 @@
 		  "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
 		  "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-				}
-	    },
-	    {
+		}
+	  },
+	  {
 		"key": "NiceAv",
 		"name": "🔞NiceAv",
 		"type": 3,
@@ -131,9 +167,9 @@
 		  "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
 		  "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16",
 		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
-				}
-	    },
-	    {
+		}
+	  },
+	  {
 		"key": "成人重口",
 		"name": "🔞成人重口",
 		"type": 3,
@@ -157,9 +193,9 @@
 		  "分类标题": ">&&<",
 		  "分类ID": "/index.php/vod/type/id/&&.html",
 		  "分类url": "https://www.crzk22.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-				}
-		},
-	  	{
+		}
+	  },
+	  {
 		"key": "天堂岛",
 		"name": "🔞天堂岛",
 		"type": 3,
@@ -200,7 +236,7 @@
 		  "分类url": "https://www.buzzav.com/category/{cateId}/page/{catePg}",
 		  "分类": "业余$amateur#肛门$anal#亚洲$asian#Asmr$asmr#宝贝$babe#大屁股$big-ass#大鸡巴$big-dick#大奶$big-tits#金发女郎$blonde#口交$blowjob#束缚$bondage#名人$celebrity#中文$chinese-中文#大学$college#汇编$compilation#角色扮演$cosplay#中出$creampie#绿帽$cuckold#射精$cumshot#脚$feet#恋物癖$fetish#群交$gangbang#手淫$handjob#硬核$hardcore#成人动漫$hentai#跨种族$interracial#日本人$japanese#女同性恋$lesbian#按摩$massage#手淫$masturbation#成熟$mature#熟女$milf#观点$pov#民众$public#喷出$squirt#18+青少年$teen-18#三人行$threesome#未分类$uncategorized#优质的$vintage#摄像头$webcam"
 		}
-	  },	  
+	  },
 	  {
 		"key": "csp_XYQHiker_300分类",
 		"name": "🔞300分类",
@@ -429,7 +465,6 @@
 		"filterable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
 	  },
-	  
 	  {
 		"key": "农夫与少妇",
 		"name": "🔞农夫与少妇",
@@ -2050,9 +2085,7 @@
 		"name": "世界",
 		"type": 1,
 		"url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
-		"ext": {
-		  "flag": ["qq", "mgtv", "YuMi-vip"]
-		}
+		"ext": { "flag": ["qq", "mgtv", "YuMi-vip"] }
 	  },
 	  {
 		"name": "咸鱼",
@@ -2093,28 +2126,19 @@
 		"name": "亮亮",
 		"type": 1,
 		"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-		"ext": {
-		  "flag": ["seven"],
-		  "header": {"User-Agent": "Lavf/58.12.100"}
-		}
+		"ext": { "flag": ["seven"], "header": {"User-Agent": "Lavf/58.12.100"} }
 	  },
 	  {
 		"name": "赞赞",
 		"type": 1,
 		"url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
-		"ext": {
-		  "flag": ["JMZN"],
-		  "header": {"User-Agent": "okhttp/4.1.0"}
-		}
+		"ext": { "flag": ["JMZN"], "header": {"User-Agent": "okhttp/4.1.0"} }
 	  },
 	  {
 		"name": "左岸",
 		"type": 1,
 		"url": "http://122.228.84.103:5829/jx/?url=",
-		"ext": {
-		  "flag": ["seven"],
-		  "header": {"User-Agent": "okhttp/4.1.0"}
-		}
+		"ext": { "flag": ["seven"], "header": {"User-Agent": "okhttp/4.1.0"} }
 	  },
 	  {
 		"name": "爱豆",
@@ -2215,31 +2239,15 @@
 		"hosts": ["haiwaikan"],
 		"regex": ["10.0099", "10.3333", "16.0599", "8.1748", "12.33", "10.85"]
 	  },
-	  {
-		"name": "火山嗅探",
-		"hosts": ["huoshan.com"],
-		"regex": ["item_id="]
-	  },
-	  {
-		"name": "抖音嗅探",
-		"hosts": ["douyin.com"],
-		"regex": ["is_play_url="]
-	  },
-	  {
-		"name": "農民嗅探",
-		"hosts": ["toutiaovod.com"],
-		"regex": ["video/tos/cn"]
-	  },
+	  { "name": "火山嗅探", "hosts": ["huoshan.com"], "regex": ["item_id="] },
+	  { "name": "抖音嗅探", "hosts": ["douyin.com"], "regex": ["is_play_url="] },
+	  { "name": "農民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] },
 	  {
 		"name": "新视觉嗅探",
 		"hosts": ["muzhi-video.bj.bcebos.com"],
 		"regex": ["202403/"]
 	  },
-	  {
-		"name": "七新嗅探",
-		"hosts": ["api.52wyb.com"],
-		"regex": ["m3u8?pt=m3u8"]
-	  },
+	  { "name": "七新嗅探", "hosts": ["api.52wyb.com"], "regex": ["m3u8?pt=m3u8"] },
 	  {
 		"name": "夜市點擊",
 		"hosts": ["yeslivetv.com"],
@@ -2287,4 +2295,3 @@
 	],
 	"ads": ["mozai.4gtv.tv", "pv.vipwm.cc"]
   }
-  
