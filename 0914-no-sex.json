@@ -3054,39 +3054,11 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/夕云影视.js"
 	  },
 	  {
-		"key": "猪猪影视",
-		"name": "🎦猪猪影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": {
-		  "主页url": "https://www.lyzccl.com/",
-		  "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
-		  "图片": "data-original=\"&&\"",
-		  "标题": "title=\"&&\"",
-		  "链接": "href=\"&&\"",
-		  "简介": "class=\"video-des\"&&</div>",
-		  "线路标题": "data-toggle=\"tab\">&&</a>",
-		  "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
-		  "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
-		}
-	  },
-	  {
-		"key": "剧集",
-		"name": "🎦剧集影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": {
-		  "搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
-		  "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
-		  "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
-		}
-	  },
-	  {
 		"key": "qimaoys",
 		"name": "🎦七猫",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"ext": {
 		  "主页url": "http://www.qimaoym.com",
 		  "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
@@ -3111,7 +3083,7 @@
 	  {
 		"key": "可达影视",
 		"name": "🎦可达影视",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"type": 3,
 		"playerType": 2,
 		"playUrl": "https://kedays.org/play/?url=",
@@ -3153,7 +3125,7 @@
 	  {
 		"key": "三米ys",
 		"name": "🎦三米影视",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"ext": {
@@ -3162,25 +3134,11 @@
 		}
 	  },
 	  {
-		"key": " 百姓 ",
-		"name": "🎦农民影视2",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-		  "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
-		  "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
-		}
-	  },
-	  {
 		"key": "红狐狸影院",
 		"name": "🎦红狐狸影院",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"ext": {
 		  "简介": "+line-height: 20px;\">&&</div>",
 		  "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -3192,7 +3150,7 @@
 		"name": "🎦凯奇┃追剧",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"ext": {
 		  "简介": "+hl-content-text\">&&</span>",
 		  "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -3204,7 +3162,7 @@
 		"name": "🎦看片狂人",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3221,7 +3179,7 @@
 		"name": "🎦晨光电影",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"ext": {
 		  "简介": "剧情介绍: +white-space: initial;\">&&</div>",
 		  "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
@@ -3238,7 +3196,7 @@
 		"name": "🎦高清在线",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"ext": {
 		  "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
 		  "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
@@ -3247,50 +3205,11 @@
 		}
 	  },
 	  {
-		"key": "csp_xml_新浪",
-		"name": "🎦新浪┃2K",
-		"type": 1,
-		"api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
-		"categories": [
-		  "短剧"  , "邵氏电影", "爽文短剧", "动作片" , "大陆剧" , "喜剧片" , "科幻片" , "恐怖片" , "爱情片" ,
-		  "剧情片" , "战争片" , "纪录片" , "动漫电影", "欧美剧" , "港澳剧" , "韩剧"  , "台湾剧" , "日剧"  ,
-		  "海外剧" , "泰剧"  , "体育"  , "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺",
-		  "港台综艺", "日韩综艺", "欧美综艺"
-		]
-	  },
-	  {
-		"key": "csp_xBPQ看客影视",
-		"name": "🎦看客影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/看客影视.json"
-	  },
-	  {
-		"key": "老六影视",
-		"name": "🎦老六影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/老六影视.json"
-	  },
-	  {
 		"key": "csp_vs",
 		"name": "🎦VS┃秒播",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3301,29 +3220,18 @@
 		"name": "🎦盒子┃秒播",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/hezi.json"
 	  },
 	  {
-		"key": "csp_星辰",
-		"name": "🎦星辰┃秒播",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/xcys.json"
-	  },
-	  {
 		"key": "光棍影视",
 		"name": "🎦光棍┃秒播",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3334,7 +3242,7 @@
 		"name": "🎦VIP┃秒播",
 		"type": 3,
 		"api": "csp_XPath",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
@@ -3345,7 +3253,7 @@
 		"name": "🎦美柏",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3356,7 +3264,7 @@
 		"name": "🎦米爱┃2K",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3367,62 +3275,18 @@
 		"name": "🎦视觉┃2K",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/xinshijue.json"
 	  },
 	  {
-		"key": "HDmoli",
-		"name": "🎦魔力高清",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/HDmoli.json"
-	  },
-	  {
-		"key": "策驰影院",
-		"name": "🎦策驰影院",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/cechi.json"
-	  },
-	  {
-		"key": "Vidhub视频",
-		"name": "🎦视频库",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/Vidhub.json"
-	  },
-	  {
-		"key": "石榴影视",
-		"name": "🎦石榴影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/shiliu.json"
-	  },
-	  {
 		"key": "VIP影视",
 		"name": "🎦VIP┃2K",
 		"type": 3,
 		"api": "csp_XPath",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
@@ -3433,7 +3297,7 @@
 		"name": "🎦子子影视",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3444,7 +3308,7 @@
 		"name": "🎦玩偶|哥哥",
 		"type": 3,
 		"api": "csp_XYQHikerAL",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -3455,7 +3319,7 @@
 		"name": "🎦茶狐杯",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.js;md5;56ffe5fc72be5f94267be472b59540a7",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
