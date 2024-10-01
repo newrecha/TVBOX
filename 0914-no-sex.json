@@ -3622,21 +3622,6 @@
 		"changeable": 1
 	  },
 	  {
-        "key": "短剧",
-        "name": "🎥｜吾爱短剧",
-        "type": 3,
-        "api": "csp_Bili",
-		"spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0",
-		"style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-        "searchable": 1,
-        "quickSearch": 0,
-        "changeable": 0,
-        "ext": "http://52pan.top:81/api/v3/file/get/174941/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
-      },
-	  {
         "key": "T4-duanju5",
         "name": "🎥｜短剧屋[T4]",
         "type": 4,
@@ -3693,7 +3678,21 @@
 		"changeable":0,
 		"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/短视频.js"
 	  },
-
+	  {
+        "key": "短剧",
+        "name": "🎥｜吾爱短剧",
+        "type": 3,
+        "api": "csp_Bili",
+		"spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0",
+		"style": {
+          "type": "rect",
+          "ratio": 1.597
+        },
+        "searchable": 1,
+        "quickSearch": 0,
+        "changeable": 0,
+        "ext": "http://52pan.top:81/api/v3/file/get/174941/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
+      },
 	  {
 		"key": "drpy_js_360影视",
 		"name": "官源｜360",
