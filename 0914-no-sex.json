@@ -4359,7 +4359,7 @@
 		"key": "有声小说吧",
 		"name": "㊙︎｜有声小说",
 		"type": 3,
-		"api": "hhttps://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
 		"playerType": "3",
 		"searchable": 0,
