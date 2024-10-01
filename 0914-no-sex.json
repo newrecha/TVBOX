@@ -2567,6 +2567,17 @@
 		  "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
 		}
 	  },
+      {
+        "key": "南瓜",
+        "name": "🎥｜南瓜",
+        "type": 3,
+        "api": "csp_NanGua",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+        "playerType": 2,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1
+      },
 	  {
 		"key": "红狐狸影院",
 		"name": "🎥｜红狐狸",
@@ -3544,17 +3555,6 @@
 		]
 	  },
 	  {
-		"key": "南瓜弹幕",
-		"name": "弹幕｜南瓜",
-		"type": 3,
-		"api": "csp_Nangua",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.jar;md5;fae44887703772d67cbf11432d50d113"
-	  },
-	  {
 		"key": "天天弹幕",
 		"name": "弹幕｜天天",
 		"type": 3,
@@ -3649,7 +3649,7 @@
       },
 	  {
 		"key":"星芽短剧",
-		"name":"🐞星芽┃短剧",
+		"name":"🎥｜星芽短剧",
 		"type":3,
 		"api":"csp_AppXY",
 		"searchable":1,
@@ -3657,21 +3657,6 @@
 		"filterable":0,
 		"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/woniu.jar"
 	  },
-	  {
-        "key": "吾爱短剧",
-        "name": "🎥｜吾爱短剧",
-        "type": 3,
-        "api": "csp_Bili",
-		"spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0",
-		"style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-        "searchable": 1,
-        "quickSearch": 0,
-        "changeable": 0,
-        "ext": "http://52pan.top:81/api/v3/file/get/174941/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
-      },
 	  {
 		"key": "drpy_js_360影视",
 		"name": "官源｜360",
