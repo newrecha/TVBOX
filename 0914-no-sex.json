@@ -3623,7 +3623,7 @@
 	  },
 	  {
         "key": "短剧",
-        "name": "💛吾爱短剧",
+        "name": "🎥｜吾爱短剧",
         "type": 3,
         "api": "csp_Bili",
 		"spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0",
@@ -3638,7 +3638,7 @@
       },
 	  {
         "key": "T4-duanju5",
-        "name": "影视 | 短剧屋[T4]",
+        "name": "🎥｜短剧屋[T4]",
         "type": 4,
         "api": "https://catbox.n13.club/duanju5.php",
 		
@@ -3650,7 +3650,7 @@
       },
 	  {
         "key": "无忧短剧",
-        "name": "😂无忧┃短剧┃热推",
+        "name": "🎥｜无忧短剧",
         "type": 3,
         "api": "csp_Duanj",
         "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
@@ -3663,7 +3663,7 @@
       },
 	  {
         "key": "在线短剧",
-        "name": "🛌在线┃短剧┃热推",
+        "name": "🎥｜在线短剧",
         "type": 3,
         "api": "csp_Duanju",
         "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
@@ -3676,7 +3676,7 @@
       },
 	  {
         "key": "星芽短剧",
-        "name": "🌟星芽┃短剧┃热推",
+        "name": "🎥｜星芽短剧",
         "type": 3,
         "api": "csp_AppXY",
         "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
@@ -3684,7 +3684,15 @@
         "quickSearch": 0,
         "filterable": 0
       },
-	  {"key":"drpy_js_短视频","name":"聚合┃短视频[js]","type":3,"api":"./lib/drpy2.min.js","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113","changeable":0,"ext":"./js/短视频.js"},
+	  {
+		"key":"drpy_js_短视频",
+		"name":"🎥｜聚合短视频",
+		"type":3,
+		"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"changeable":0,
+		"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/短视频.js"
+	  },
 
 	  {
 		"key": "drpy_js_360影视",
