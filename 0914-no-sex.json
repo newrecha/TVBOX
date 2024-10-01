@@ -3615,7 +3615,6 @@
 		"name": "🎥｜上头短劇",
 		"type": 3,
 		"api": "csp_Djtt",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
 		"playerType": 2,
 		"searchable": 1,
@@ -3627,7 +3626,7 @@
         "name": "💛吾爱短剧",
         "type": 3,
         "api": "csp_Bili",
-		"jar":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0",
+		"spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0",
 		"style": {
           "type": "rect",
           "ratio": 1.597
@@ -3637,10 +3636,6 @@
         "changeable": 0,
         "ext": "http://52pan.top:81/api/v3/file/get/174941/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
       },
-
-
-
-
 	  {
         "key": "T4-duanju5",
         "name": "影视 | 短剧屋[T4]",
@@ -4365,8 +4360,8 @@
 		"name": "㊙︎｜有声小说",
 		"type": 3,
 		"api": "hhttps://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2",
-		"playerType": "2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
+		"playerType": "3",
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
