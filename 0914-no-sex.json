@@ -3612,7 +3612,7 @@
 	  },
 	  {
 		"key": "短剧",
-		"name": "🎥｜上头短劇",
+		"name": "📺｜上头短劇",
 		"type": 3,
 		"api": "csp_Djtt",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
@@ -3623,7 +3623,7 @@
 	  },
 	  {
         "key": "无忧短剧",
-        "name": "🎥｜无忧短剧",
+        "name": "📺｜无忧短剧",
         "type": 3,
         "api": "csp_Duanj",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
@@ -3636,7 +3636,7 @@
       },
 	  {
         "key": "在线短剧",
-        "name": "🎥｜在线短剧",
+        "name": "📺｜在线短剧",
         "type": 3,
         "api": "csp_Duanju",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
@@ -3649,7 +3649,7 @@
       },
 	  {
 		"key":"星芽短剧",
-		"name":"🎥｜星芽短剧",
+		"name":"📺｜星芽短剧",
 		"type":3,
 		"api":"csp_AppXY",
 		"searchable":1,
