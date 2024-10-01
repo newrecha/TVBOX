@@ -1807,7 +1807,7 @@
 		"name": "🎥｜农民",
 		"type": 3,
 		"api": "csp_WexNmys",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/nmys.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/nmys.jar;md5;09e7be0d15ddcaf1167b20c7fe96d886",
 		"searchable": 1,
 		"changeable": 1
 	  },
@@ -3616,7 +3616,7 @@
 		"type": 3,
 		"api": "csp_Djtt",
 		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
