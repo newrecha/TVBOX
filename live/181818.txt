@@ -1,3 +1,5 @@
+中国 China,#genre#
+
 玩家頻道,http://xtvantsc.xyz/hatv2.php?id=401
 Happy 頻道,http://xtvantsc.xyz/hatv2.php?id=402
 HOT 頻道,http://xtvantsc.xyz/hatv2.php?id=403
