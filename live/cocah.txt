@@ -1,4 +1,4 @@
-台灣,#genre#
+P3P-178,#genre#
 东森经财台,p3p://173.208.176.178:19806/61468bd70005123dea7373f226636dba
 中天新闻台,p3p://173.208.176.178:19806/613dba64000abeb1c801c02934bb45fc
 纬来电影台,p3p://173.208.176.178:19806/62c860e50008ea96c1ae9a96599c6947
@@ -151,6 +151,8 @@ RockE电影,p3p://173.208.176.178:19806/65ad27c7000dfceebd94ddb20bec19f4
 视华仁纪实,p3p://173.208.176.178:19806/62c9a3be00088219c69bba2111fd091e
 大立电视台,p3p://173.208.176.178:19806/64c4d2ba00051d1d320d17d218503f93
 番薯频道台,p3p://173.208.176.178:19806/64c27b030001a1b728e6741548c32c95
+
+FREE,#genre#
 HBO频道台,http://free.xiptv.x10.bz/kudou.php?id=95
 HBO强档台,http://free.xiptv.x10.bz/kudou.php?id=96
 HBO家庭台,http://free.xiptv.x10.bz/kudou.php?id=97
@@ -226,6 +228,8 @@ moviesnow,http://free.xiptv.x10.bz/kudou.php?id=101
 彩虹_e台,http://free.xiptv.x10.bz/kudou.php?id=137
 玩美频道,http://free.xiptv.x10.bz/kudou.php?id=133
 极限频道,http://free.xiptv.x10.bz/kudou.php?id=136
+
+P3P-169,#genre#
 东森经财,p3p://108.181.32.169:10049/64251ff20001f010ea5e4b9002e57212
 中天新闻,p3p://108.181.32.169:10049/642590050003b317ec1416371a246f3d
 TVBS新闻,p3p://108.181.32.169:10049/64252188000673fcea647eb0397d464d
