@@ -3638,7 +3638,7 @@
         "name": "🎥｜无忧短剧",
         "type": 3,
         "api": "csp_Duanj",
-        "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
         "searchable": 1,
         "changeable": 0,
         "style": {
@@ -3651,7 +3651,7 @@
         "name": "🎥｜在线短剧",
         "type": 3,
         "api": "csp_Duanju",
-        "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
         "searchable": 1,
         "changeable": 0,
         "style": {
@@ -3664,7 +3664,7 @@
         "name": "🎥｜星芽短剧",
         "type": 3,
         "api": "csp_AppXY",
-        "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
         "searchable": 1,
         "quickSearch": 0,
         "filterable": 0
@@ -3674,7 +3674,7 @@
 		"name":"🎥｜聚合短视频",
 		"type":3,
 		"api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
 		"changeable":0,
 		"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/短视频.js"
 	  },
