@@ -21,20 +21,6 @@
         }
       },
       {
-        "key": "Supjav",
-         "name": "🔞Supjav┃科学",
-         "type": 3,
-         "api": "csp_Supjav",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
-         "ext":"https://supjav.com/zh/$$$noproxy$$$",
-         "style": {
-         "type": "rect",
-         "ratio": 1.485}
-      },
-      {
         "key": "vv001",
         "name": "️🔞女優",
         "type": 4,
@@ -182,6 +168,20 @@
           "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16",
           "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
         }
+      },
+      {
+        "key": "Supjav",
+         "name": "🔞Supjav｜不穩",
+         "type": 3,
+         "api": "csp_Supjav",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+         "ext":"https://supjav.com/zh/$$$noproxy$$$",
+         "style": {
+         "type": "rect",
+         "ratio": 1.485}
       },
       {
         "key": "成人重口",
