@@ -46,6 +46,48 @@
         "timeout": 1801,
         "ext": "http://javdb523.com","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
     },
+    {
+        "key": "JAVSB",
+        "name": "🔞JAVSB",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "ext": {
+            "主页url": "https://jav.sb/",
+            "直接播放": "1",
+            "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+            "图片": "data-src=\"&&\"",
+            "标题": "alt=\"&&\"",
+            "链接": "href=\"&&\"",
+            "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+            "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
+        }
+    },
+    {
+        "key": "lijav",
+        "name": "💕LiJav",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "style": {
+            "type": "rect",
+            "ratio": 1.5
+        },
+        "ext": {
+            "直接播放": 1,
+            "主页url": "https://lijav.com/",
+            "数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
+            "图片": "div[class=\"withRatio _cover\"]&&",
+            "标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
+            "链接": "a[class=\"homecoverheader_1_item\"] href=\"&&\"",
+            "简介": "div[class=\"homecoverheader_1_overlay\"]&&",
+            "发布日期": "div[class=\"homecoverheader_1_date\"]&&</div>",
+            "线路数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
+            "线路标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
+            "分类url": "https://lijav.com/{cateId}/{catePg}.html",
+            "分类": "主頁$home/1#最受歡迎$popular/2#搜尋$search/3#全部$all/4#有碼影片$coded/5#無碼影片$uncoded/6#中文字幕$subtitles/7#類別$categories/8#女優$actresses/9#我的片單$mylist/10"
+        }
+    },
       {
         "key": "vv001",
         "name": "️🔞女優",
