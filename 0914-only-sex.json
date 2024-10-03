@@ -21,17 +21,6 @@
         }
       },
       {
-        "key": "csp_XBPQ_top888",
-        "name": "🔞top888",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/top888.json"
-    },
-      {
         "key": "Supjav",
          "name": "🔞Supjav┃科学",
          "type": 3,
@@ -39,7 +28,7 @@
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 1,
-         //"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar",
+         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
          "ext":"https://supjav.com/zh/$$$noproxy$$$",
          "style": {
          "type": "rect",
@@ -1794,6 +1783,19 @@
           "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
         }
       },
+      {"key":"csp_JavBus","name":"🔞JavBus｜要有網盤","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavBus","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$https://www.cdnbus.shop","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
+      {"key":"csp_JavDb","name":"🔞JavDb｜要有網盤","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavDb","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$1","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
+      {
+        "key": "top888",
+        "name": "🔞top888｜故障中",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/top888.json"
+    },
       {
         "key": "push_agent",
         "name": "推送",
