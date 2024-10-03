@@ -20,6 +20,16 @@
 		  "直接播放": "1"
 		}
 	  },
+	  {"key":"MeijuTT","name":"MeijuTT","type":3,"api":"csp_MeijuTT","ext":"192.168.123.1:7891"},
+	  {"key":"Mayiys","name":"Mayiys","type":3,"api":"csp_Mayiys","ext":"192.168.123.1:7891"},
+	  {"key":"Kanqiu","name":"Kanqiu","type":3,"api":"csp_Kanqiu","ext":"192.168.123.1:7891"},
+	  {"key":"AvTime","name":"🔞AvTime","type":3,"api":"csp_AvTime"},
+	  {"key":"Eighteen","name":"🔞Eighteen","type":3,"api":"csp_Eighteen"},
+	  {"key":"Gxqvlj","name":"🔞Gxqvlj","type":3,"api":"csp_Gxqvlj"},
+	  {"key":"Taohuazu","name":"🔞Taohuazu","type":3,"api":"csp_Taohuazu"},
+	  {"key":"Zuise","name":"🔞Zuise","type":3,"api":"csp_Zuise"},
+	  {"key":"JavBus","name":"🔞JavBus","type":3,"api":"csp_JavBus","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"https://www.cdnbus.shop"},
+	  {"key":"JavDb","name":"🔞JavDb","type":3,"api":"csp_JavDb","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"http://javdb365.com"},
 	  {
 		"key": "vv001",
 		"name": "️🔞女優",
@@ -999,16 +1009,8 @@
 		"timeout": 60,
 		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
 	  },
-	  {
-		"key": "Top888",
-		"name": "🔞Top888",
-		"type": 3,
-        "api": "csp_XBPQ",
-		"searchable": 1,
-		"changeable": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/top888.json"
+	  {"key":"top888","name":"top888|fq","type":3,"api":"csp_Top888","ext":"192.168.123.1:7891","style":{"type":"rect","ratio":1.6}},
 
-	  },
 	  {
 		"key": "玩偶",
 		"name": "🔞玩偶",
