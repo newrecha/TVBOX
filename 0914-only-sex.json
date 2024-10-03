@@ -473,7 +473,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/nfsf.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nfsf.json"
 	  },
 	  {
 		"key": "XMVideo",
@@ -857,14 +857,14 @@
 		"name": "🔞Jable(海外)",
 		"type": 3,
 		"api": "csp_Jable",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "127.0.0.1:10072$$$null$$$1",
 		"style": {"type": "rect", "ratio": 1.77},
 		"timeout": 60,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "✨R撸巴✨",
@@ -965,7 +965,7 @@
 	  {
 		"key": "csp_Netflav",
 		"name": "🔞Netflav",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"api": "csp_Netflav",
 		"searchable": 1,
@@ -973,72 +973,72 @@
 		"changeable": 1,
 		"filterable": 0,
 		"timeout": 60,
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "Cable",
 		"name": "🔞CableAV",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"searchable": 1,
 		"quickSearch": 1,
 		"api": "csp_Cable",
 		"timeout": 60,
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "Top888",
 		"name": "🔞Top888",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"api": "csp_Top888",
 		"searchable": 1,
 		"changeable": 0,
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "玩偶",
 		"name": "🔞玩偶",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"searchable": 1,
 		"quickSearch": 1,
 		"api": "csp_Doll",
 		"style": {"type": "rect", "ratio": 1.309},
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "18AV",
 		"name": "🔞18AV",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"searchable": 1,
 		"quickSearch": 1,
 		"api": "csp_Eighteen",
 		"style": {"type": "rect", "ratio": 1.485},
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "Jable",
 		"name": "🔞Jable",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"searchable": 1,
 		"quickSearch": 1,
 		"api": "csp_Jable",
 		"style": {"type": "rect", "ratio": 1.77},
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "Hanime",
 		"name": "🔞Hanime",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"type": 3,
 		"searchable": 1,
 		"quickSearch": 1,
 		"api": "csp_Hanime",
 		"style": {"type": "rect", "ratio": 0.68},
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "semaozy.com",
@@ -1091,17 +1091,17 @@
 		"name": "🔞MissAV",
 		"type": 3,
 		"searchable": 1,
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"quickSearch": 1,
 		"api": "csp_Miss",
 		"style": {"type": "rect", "ratio": 1.78},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48"
 	  },
 	  {
 		"key": "www.caoliuzyw.com",
 		"name": "🔞草榴",
 		"type": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
 		"searchable": 1,
 		"quickSearch": 1,
@@ -1148,7 +1148,7 @@
 		"name": "🔞黄瓜",
 		"type": 1,
 		"api": "https://www.avre06.com/api.php/provide/vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0929.jar;md5;a1726b37546a1bef6c8364207eaf9a48",
 		"searchable": 1,
 		"quickSearch": 1,
 		"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
@@ -1714,21 +1714,6 @@
 		  "日本有码", "日本无码", "中文字幕", "变态另类", "巨乳美乳", "动漫精品", "熟女人妻", "自拍偷拍", "海外明星",
 		  "国产传媒"
 		]
-	  },
-	  {
-		"key": "sesehuzy.com",
-		"name": "🔞色864E",
-		"type": 1,
-		"api": "https://apisesehuzy.com/api.php/provide/vod/",
-		"searchable": 1,
-		"quickSearch": 1,
-		"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-		"recordable": 0,
-		"style": {"type": "rect", "ratio": 1.33},
-		"header": {
-		  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-		  "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-		}
 	  },
 	  {
 		"key": "apilj.com",
