@@ -21,6 +21,31 @@
         }
       },
       {
+        "key": "csp_XBPQ_top888",
+        "name": "🔞top888",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/top888.json"
+    },
+      {
+        "key": "Supjav",
+         "name": "🔞Supjav┃科学",
+         "type": 3,
+         "api": "csp_Supjav",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+         "ext":"https://supjav.com/zh/$$$noproxy$$$",
+         "style": {
+         "type": "rect",
+         "ratio": 1.485}
+      },
+      {
         "key": "vv001",
         "name": "️🔞女優",
         "type": 4,
@@ -1020,15 +1045,6 @@
         "api": "csp_Cable",
         "timeout": 60,
         "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
-      },
-      {
-        "key": "top888",
-        "name": "top888|fq",
-        "type": 3,
-        "api": "csp_Top888",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
-        "ext": "192.168.123.1:7891",
-        "style": {"type": "rect", "ratio": 1.6}
       },
       {
         "key": "玩偶",
