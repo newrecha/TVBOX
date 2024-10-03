@@ -21,17 +21,6 @@
         }
       },
       {
-        "key": "网盘配置",
-        "name": "Youtube、網盤、彈幕配置",
-        "type": 3,
-        "api": "csp_Config",
-        "searchable": 0,
-        "changeable": 0,
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;5edde1c2215026c7ce9a4a149d7e37e2",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
-        "style": {"type": "rect", "ratio": 1.5}
-        },
-      {
         "key": "vv001",
         "name": "️🔞女優",
         "type": 4,
