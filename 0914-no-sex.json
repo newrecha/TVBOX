@@ -335,6 +335,24 @@
 		}
 	  },
 	  {
+		"key": "csp_XBPQ_蛙蛙",
+		"name": "蛙蛙",
+		"type": 3,
+		"api": "csp_XBPQ",
+"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+"主页url": "https://www.wvod.tv/",
+			"数组": "hl-col-lg-2\"&&</a>",
+			"图片": "data-original=\"&&\"",
+			"标题": "title=\"&&\"",
+			"链接": "href=\"&&\"",
+			"简介": "简介：&&</li>",
+			"分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"}},
+	  {
 		"key": "极速电影",
 		"name": "🎥｜極速電影",
 		"type": 3,
@@ -3700,6 +3718,7 @@
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/去看吧.js"
 	  },
+	  {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 	  {
 		"key": "hipy_js_大米动漫[漫]",
 		"name": "动漫｜大米",

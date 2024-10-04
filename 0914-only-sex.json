@@ -29,187 +29,299 @@
         "changeable": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
         "style": {"type": "rect", "ratio": 1.5}
-        },
-        {"key":"csp_JavBus","name":"🔞JavBus","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavBus","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$https://www.cdnbus.shop","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
-        {"key":"csp_JavDb","name":"🔞JavDb","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavDb","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$1","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
-        {
-          "key": "Supjav",
-           "name": "🔞Supjav",
-           "type": 3,
-           "api": "csp_Supjav",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
-           "ext":"https://supjav.com/zh/$$$noproxy$$$",
-           "style": {
-           "type": "rect",
-           "ratio": 1.485}
-        },
-        {
-          "key": "JAVDAY",
-          "name": "🔞JAVDAY",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "ext": {
-            "主页url": "https://javday.tv/",
-            "直接播放": "1",
-            "数组": "lazy loaded\"&&</a>",
-            "图片": "style=\"background-image: url(&&);\"",
-            "标题": "class=\"title\"&&</span>",
-            "副标题": "class=\"number\">&&</span>",
-            "简介": "title\"&&</span>",
-            "链接": "href=\"&&\"",
-            "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
-            "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
-          }
-        },
-        {
-          "key": "SOAV",
-          "name": "🔞SOAV",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "style": {"type": "rect", "ratio": 1.5},
-          "ext": {
-            "主页url": "https://www.wantav.co/",
-            "搜索url": "https://777080.xyz/?s={wd}",
-            "数组": "data-video-uid=&&</div>",
-            "图片": "data-src=\"&&\"",
-            "标题": "alt=\"&&\"",
-            "副标题": "</i>&&</span>",
-            "链接": "href=\"&&\"",
-            "简介": "⚠️少看点，再看你就废了！！！",
-            "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
-            "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
-          }
-        },
-
-        {
-          "key": "农夫与少妇",
-          "name": "🔞农夫与少妇",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nfsf.json"
-        },
-        {
-          "key": "jable",
-          "name": "🔞jable-pg版",
-          "type": 3,
-          "changeable": 1,
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
-          "api": "csp_XBPQ",
-          "ext": {
-            "直接播放": "1",
-            "搜索模式": "1",
-            "搜索url": "https://jable.tv/search/{wd}/",
-            "数组": "<div class=\"img-box cover-md\">&&</h6>",
-            "图片": "data-src=\"&&\"",
-            "标题": "class=\"title\">&&</a>",
-            "链接": "href=\"&&\"",
-            "链接前缀": "https://jable.tv",
-            "副标题": "<span class=\"label\">&&</span>",
-            "播放数组": "<h6&&</h6>",
-            "播放列表": "<a&&/a>",
-            "播放标题": ">&&<",
-            "播放链接": "href=\"&&\"",
-            "分类": "最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
-            "分类url": "https://jable.tv/{cateId}/{catePg}/",
-            "免嗅": "0",
-            "嗅探词": ".m3u8#.mp4",
-            "页面代理": "127.0.0.1:10072"
-          }
-        },
-        {
-          "key": "csp_njav",
-          "name": "🔞njav",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": {
-            "数组": "class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
-            "图片": "data-preview=\"&&\"",
-            "链接": "href=\"&&\"",
-            "链接前缀": "https://njav.xyz/zh/",
-            "简介": "class=\"detail\">&&</a>",
-            "播放数组": "class=\"col&&</div>",
-            "播放链接": "iframe*src=\"&&\"",
-            "直接播放": "1",
-            "搜索url": "https://njav.xyz/zh/search?keyword={wd}",
-            "分类url": "https://njav.xyz/zh/{cateId}?page={catePg}",
-            "分类": "全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"
-          }
-        },
-        {
-          "key": "Jable",
-          "name": "🔞Jable(海外)",
-          "type": 3,
-          "api": "csp_Jable",
-          "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
-          "searchable": 1,
-          "quickSearch": 1,
-          "changeable": 1,
-          "ext": "127.0.0.1:10072$$$null$$$1",
-          "style": {"type": "rect", "ratio": 1.77},
-          "timeout": 60,
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
-        },
-        {
-          "key": "csp_Netflav",
-          "name": "🔞Netflav",
-          "type": 3,
-          "api": "csp_Netflav",
-          "searchable": 1,
-          "quickSearch": 1,
-          "changeable": 1,
-          "filterable": 0,
-          "timeout": 60
-        },
-        {
-          "key": "Cable",
-          "name": "🔞CableAV",
-          "type": 3,
-          "searchable": 1,
-          "quickSearch": 1,
-          "api": "csp_Cable",
-          "timeout": 60
-        },
-        {
-          "key": "Jable",
-          "name": "🔞Jable",
-          "type": 3,
-          "searchable": 1,
-          "quickSearch": 1,
-          "api": "csp_Jable",
-          "style": {"type": "rect", "ratio": 1.77}
-        },
-        {
-          "key": "色花堂",
-          "name": "🔞色花堂",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/色花堂.json",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
-        },
-        {
+      },
+      {
+        "key": "13AV",
+        "name": "🔞13AV",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "style": {"type": "rect", "ratio": 1.5},
+        "ext": {
+          "主页url": "https://13av.com/",
+          "过滤词": ".mp4",
+          "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+          "图片": "data-src=\"&&\"",
+          "标题": "href=\"*\">&&</a>",
+          "副标题": "class=\"label\">&&</span>",
+          "链接": "href=\"&&\"",
+          "简介": "⚠️慢点撸，皮要掉了！！！",
+          "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
+          "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
+        }
+      },
+      {
+        "key": "肉视频",
+        "name": "🔞肉視頻|XBPQ",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "ext": {
+          "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
+          "直接播放" : "1"                                                          ,
+          "分类"   : "國產AV$國產AV#探花$探花#自拍流出$自拍流出#日本$日本"
+        }
+      },
+      {
+        "key": "ppp",
+        "name": "🔞ppp|fq",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "style": {"type": "rect", "ratio": 1.6},
+        "ext": {
+          "直接播放": "1",
+          "图片": "data-src=\"&&\"",
+          "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台灣$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkon#Cosplay$cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#無碼$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$ac#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks",
+          "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/"
+        }
+      },
+      {
+        "key": "AVso",
+        "name": "🔞AVso┃直连",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "playerType": 2,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "style": {"type": "rect", "ratio": 1.485},
+        "ext": {
+          "语言"    : "中文"                                           ,
+          "请求头"   : "手机"                                           ,
+          "地址发布页" : ""                                             ,
+          "主页url" : "https://gpk.avso26.icu/"                      ,
+          "标题"    : "title=\"&&\""                                 ,
+          "副标题"   : "class=\"video-hd-mark\">&&</span>"            ,
+          "图片"    : "data-src=\"&&\""                              ,
+          "简介"    : "name=\"description\" content=\"&&\"/>"        ,
+          "数组"    : "class=\"thumb\"&&class=\"metadata\">&&</div>" ,
+          "免嗅"    : "1"                                            ,
+          "嗅探词"   : ".m3u8"                                        ,
+          "跳转播放链接": "url\":\"&&\""                                 ,
+          "分类数组"  : "<li&&</li>"                                   ,
+          "分类标题"  : ">&&</a>"                                      ,
+          "分类ID"  : "href=\"/?k=&&&top\""                          ,
+          "分类url" : "https://gpk.avso26.icu/?k={cateId}&p={catePg}",
+          "直接播放"  : "1"
+        }
+      },
+      {
+        "key": "xvideos4中文",
+        "name": "🔞xvideos4中文",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+        "ext": {
+          "直接播放": "1",
+          "数组": "<li>&&</li>",
+          "链接": "href=\"&&\"",
+          "图片": " src=\"&&\"",
+          "标题": "title=\"&&\"",
+          "播放链接前缀": "https://iktvoc.xvideos4.hair/",
+          "播放标题": ">&&</a>",
+          "播放链接": "href=\"&&\"",
+          "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",
+          "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"
+        }
+      },
+      {
+        "key": "csp_JavBus",
+        "name": "🔞JavBus",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "type": 3,
+        "api": "csp_JavBus",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$https://www.cdnbus.shop",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 0,
+        "style": {"type": "rect", "ratio": 1.77},
+        "timeout": 60
+      },
+      {
+        "key": "csp_JavDb",
+        "name": "🔞JavDb",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "type": 3,
+        "api": "csp_JavDb",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 0,
+        "style": {"type": "rect", "ratio": 1.77},
+        "timeout": 60
+      },
+      {
+        "key": "Supjav",
+        "name": "🔞Supjav",
+        "type": 3,
+        "api": "csp_Supjav",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+        "ext": "https://supjav.com/zh/$$$noproxy$$$",
+        "style": {"type": "rect", "ratio": 1.485}
+      },
+      {
+        "key": "JAVDAY",
+        "name": "🔞JAVDAY",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "ext": {
+          "主页url": "https://javday.tv/",
+          "直接播放": "1",
+          "数组": "lazy loaded\"&&</a>",
+          "图片": "style=\"background-image: url(&&);\"",
+          "标题": "class=\"title\"&&</span>",
+          "副标题": "class=\"number\">&&</span>",
+          "简介": "title\"&&</span>",
+          "链接": "href=\"&&\"",
+          "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
+          "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
+        }
+      },
+      {
+        "key": "SOAV",
+        "name": "🔞SOAV",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "style": {"type": "rect", "ratio": 1.5},
+        "ext": {
+          "主页url": "https://www.wantav.co/"                                     ,
+          "搜索url": "https://777080.xyz/?s={wd}"                                 ,
+          "数组"   : "data-video-uid=&&</div>"                                    ,
+          "图片"   : "data-src=\"&&\""                                            ,
+          "标题"   : "alt=\"&&\""                                                 ,
+          "副标题"  : "</i>&&</span>"                                              ,
+          "链接"   : "href=\"&&\""                                                ,
+          "简介"   : "⚠️少看点，再看你就废了！！！"                                            ,
+          "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z"     ,
+          "分类"   : "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
+        }
+      },
+      {
+        "key": "农夫与少妇",
+        "name": "🔞农夫与少妇",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nfsf.json"
+      },
+      {
+        "key": "jable",
+        "name": "🔞jable-HL版",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar",
+        "api": "csp_XBPQ",
+        "ext": {
+          "直接播放": "1",
+          "搜索模式": "1",
+          "搜索url": "https://jable.tv/search/{wd}/",
+          "数组": "<div class=\"img-box cover-md\">&&</h6>",
+          "图片": "data-src=\"&&\"",
+          "标题": "class=\"title\">&&</a>",
+          "链接": "href=\"&&\"",
+          "链接前缀": "https://jable.tv",
+          "副标题": "<span class=\"label\">&&</span>",
+          "播放数组": "<h6&&</h6>",
+          "播放列表": "<a&&/a>",
+          "播放标题": ">&&<",
+          "播放链接": "href=\"&&\"",
+          "分类": "最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
+          "分类url": "https://jable.tv/{cateId}/{catePg}/",
+          "免嗅": "0",
+          "嗅探词": ".m3u8#.mp4",
+          "页面代理": "127.0.0.1:10072"
+        }
+      },
+      {
+        "key": "csp_njav",
+        "name": "🔞njav",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "数组": "class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
+          "图片": "data-preview=\"&&\"",
+          "链接": "href=\"&&\"",
+          "链接前缀": "https://njav.xyz/zh/",
+          "简介": "class=\"detail\">&&</a>",
+          "播放数组": "class=\"col&&</div>",
+          "播放链接": "iframe*src=\"&&\"",
+          "直接播放": "1",
+          "搜索url": "https://njav.xyz/zh/search?keyword={wd}",
+          "分类url": "https://njav.xyz/zh/{cateId}?page={catePg}",
+          "分类": "全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"
+        }
+      },
+      {
+        "key": "Jable",
+        "name": "🔞Jable(海外)",
+        "type": 3,
+        "api": "csp_Jable",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "127.0.0.1:10072$$$null$$$1",
+        "style": {"type": "rect", "ratio": 1.77},
+        "timeout": 60,
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+      },
+      {
+        "key": "csp_Netflav",
+        "name": "🔞Netflav",
+        "type": 3,
+        "api": "csp_Netflav",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 0,
+        "timeout": 60
+      },
+      {
+        "key": "Jable",
+        "name": "🐞Jable",
+        "type": 3,
+        "api": "csp_Jable",
+        "jar": "https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+      },
+      {
+        "key": "色花堂",
+        "name": "🔞色花堂",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/色花堂.json",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
+      },
+      {
         "key": "vv001",
         "name": "️🔞女優",
         "type": 4,
@@ -306,7 +418,6 @@
           "页面代理": "127.0.0.1:10072"
         }
       },
-    
       {
         "key": "TaiAv",
         "name": "🔞TaiAv",
@@ -316,16 +427,16 @@
         "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
         "style": {"type": "rect", "ratio": 1.5},
         "ext": {
-          "主页url": "https://taiav.com/",
-          "搜索url": "https://taiav.com/search?q={wd}",
-          "数组": "uk-card-media-top\"&&</a>",
-          "图片": "src=\"&&\"",
-          "标题": "alt=\"&&\"",
-          "副标题": "</span>&&</div>",
-          "链接": "href=\"&&\"",
-          "简介": "⚠️慢点撸，皮要掉了！！！",
+          "主页url": "https://taiav.com/"                                     ,
+          "搜索url": "https://taiav.com/search?q={wd}"                        ,
+          "数组"   : "uk-card-media-top\"&&</a>"                              ,
+          "图片"   : "src=\"&&\""                                             ,
+          "标题"   : "alt=\"&&\""                                             ,
+          "副标题"  : "</span>&&</div>"                                        ,
+          "链接"   : "href=\"&&\""                                            ,
+          "简介"   : "⚠️慢点撸，皮要掉了！！！"                                          ,
           "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
-          "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码"
+          "分类"   : "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码"
         }
       },
       {
@@ -343,7 +454,6 @@
           "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"
         }
       },
- 
       {
         "key": "成人重口",
         "name": "🔞成人重口",
@@ -491,22 +601,6 @@
         }
       },
       {
-        "key": "sb",
-        "name": "🔞sb18",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-        "style": {"type": "rect", "ratio": 1.5},
-        "ext": {
-          "数组": "<article&&</article>",
-          "直接播放": "1",
-          "图片": "data-src=\"&&\"",
-          "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest;;D",
-          "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
-        }
-      },
-      {
         "key": "高清xxxx黑料",
         "name": "🔞高清黑料",
         "type": 3,
@@ -517,21 +611,21 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "发布地址": "https://xxxxxxav3.com",
-          "主页url": "https://xxxxxxav3.com/xxxx",
-          "数组": "class=\"item-box\">&&</a",
-          "图片": "src=\"&&\"",
-          "标题": "title=\"&&\"",
-          "副标题": "<small>&&</small>",
-          "简介": "description\"content=\"&&|全站",
-          "链接": "href=\"&&\"[替换:voddetail>>v]",
-          "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-          "搜索模式": "1",
-          "搜索url": "https://xxxxxxav3.com/s/page/{pg}/wd/{wd}/",
-          "分类数组": "<a&&/a>",
-          "分类标题": ">&&<",
-          "分类ID": "/t/&&/",
-          "分类url": "https://xxxxxxav3.com/t/{cateId}-{catePg}/;;z"
+          "发布地址"  : "https://xxxxxxav3.com"                        ,
+          "主页url" : "https://xxxxxxav3.com/xxxx"                   ,
+          "数组"    : "class=\"item-box\">&&</a"                     ,
+          "图片"    : "src=\"&&\""                                   ,
+          "标题"    : "title=\"&&\""                                 ,
+          "副标题"   : "<small>&&</small>"                            ,
+          "简介"    : "description\"content=\"&&|全站"                 ,
+          "链接"    : "href=\"&&\"[替换:voddetail>>v]"                 ,
+          "跳转播放链接": "urlDecode(var player_*url\":\"&&\")"          ,
+          "搜索模式"  : "1"                                            ,
+          "搜索url" : "https://xxxxxxav3.com/s/page/{pg}/wd/{wd}/"   ,
+          "分类数组"  : "<a&&/a>"                                      ,
+          "分类标题"  : ">&&<"                                         ,
+          "分类ID"  : "/t/&&/"                                       ,
+          "分类url" : "https://xxxxxxav3.com/t/{cateId}-{catePg}/;;z"
         }
       },
       {
@@ -583,24 +677,9 @@
           "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"
         }
       },
-      {
-        "key": "Eighteen",
-        "name": "🔞18歲",
-        "type": 3,
-        "api": "csp_Eighteen"
-      },
-      {
-        "key": "Gxqvlj",
-        "name": "🔞高速插",
-        "type": 3,
-        "api": "csp_Gxqvlj"
-      },
-      {
-        "key": "Zuise",
-        "name": "🔞撸色",
-        "type": 3,
-        "api": "csp_Zuise"
-      },
+      {"key": "Eighteen", "name": "🔞18歲", "type": 3, "api": "csp_Eighteen"},
+      {"key": "Gxqvlj", "name": "🔞高速插", "type": 3, "api": "csp_Gxqvlj"},
+      {"key": "Zuise", "name": "🔞撸色", "type": 3, "api": "csp_Zuise"},
       {
         "key": "18j.tv",
         "name": "🔞18j.tv",
@@ -609,17 +688,16 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
         "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
         "ext": {
-          "主页url": "https://18j.tv/",
-          "直接播放": "1",
-          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-          "图片": "data-original=\"&&\"",
-          "标题": "title=\"&&\"",
-          "链接": "href=\"&&\"",
+          "主页url": "https://18j.tv/"                                        ,
+          "直接播放" : "1"                                                      ,
+          "嗅探词"  : "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos"        ,
+          "图片"   : "data-original=\"&&\""                                   ,
+          "标题"   : "title=\"&&\""                                           ,
+          "链接"   : "href=\"&&\""                                            ,
           "分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
-          "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"
+          "分类"   : "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"
         }
       },
-
       {
         "key": "女优色库",
         "name": "🔞女优色库",
@@ -662,7 +740,6 @@
         "filterable": 1,
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
       },
-      
       {
         "key": "手鸡助手",
         "name": "🔞手鸡助手",
@@ -958,7 +1035,6 @@
         "filterable": 0,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
       },
-
       {
         "key": "四虎",
         "name": "🔞四虎影院",
@@ -993,7 +1069,6 @@
           "分类url": "https://www.4hu.tv/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.4hu.tv/{cateId}/{class}/]"
         }
       },
-
       {
         "key": "传媒二区",
         "name": "🔞传媒二区",
@@ -1017,7 +1092,6 @@
         },
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar"
       },
-
       {
         "key": "✨R撸巴✨",
         "name": "🔞R撸吧",
@@ -1065,10 +1139,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "changeable": 0,
-        "style": {
-          "type": "rect",
-          "ratio": 1.5
-        }
+        "style": {"type": "rect", "ratio": 1.5}
       },
       {
         "key": "py_aidouchuanmei",
@@ -1081,10 +1152,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "changeable": 0,
-        "style": {
-          "type": "rect",
-          "ratio": 1.5
-        }
+        "style": {"type": "rect", "ratio": 1.5}
       },
       {
         "key": "php_madou",
@@ -1096,10 +1164,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "style": {
-          "type": "rect",
-          "ratio": 1.33
-        }
+        "style": {"type": "rect", "ratio": 1.33}
       },
       {
         "key": "91md.me",
@@ -1116,7 +1181,6 @@
           "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
         }
       },
-
       {
         "key": "玩偶",
         "name": "🔞玩偶",
@@ -1135,7 +1199,6 @@
         "api": "csp_Eighteen",
         "style": {"type": "rect", "ratio": 1.485}
       },
-
       {
         "key": "Hanime",
         "name": "🔞Hanime",
@@ -1301,7 +1364,6 @@
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/91黑料.json"
       },
-
       {
         "key": "我爱AV",
         "name": "🔞我爱AV",
@@ -1835,8 +1897,15 @@
           "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
         }
       },
-      
-      {"key": "AvTime","name": "AvTime｜故障中","type": 3,"api": "csp_AvTime","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable": 1,"changeable": 0},
+      {
+        "key": "AvTime",
+        "name": "AvTime｜故障中",
+        "type": 3,
+        "api": "csp_AvTime",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "searchable": 1,
+        "changeable": 0
+      },
       {
         "key": "top888",
         "name": "🔞top888｜故障中",
@@ -1847,9 +1916,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/top888.json"
-    },
-    
-
+      },
       {
         "key": "push_agent",
         "name": "推送",
