@@ -31,89 +31,11 @@
         "style": {"type": "rect", "ratio": 1.5}
       },
       {
-        "key": "13AV",
-        "name": "🔞13AV",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-        "style": {"type": "rect", "ratio": 1.5},
-        "ext": {
-          "主页url": "https://13av.com/",
-          "过滤词": ".mp4",
-          "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
-          "图片": "data-src=\"&&\"",
-          "标题": "href=\"*\">&&</a>",
-          "副标题": "class=\"label\">&&</span>",
-          "链接": "href=\"&&\"",
-          "简介": "⚠️慢点撸，皮要掉了！！！",
-          "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
-          "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
-        }
-      },
-      {
-        "key": "肉视频",
-        "name": "🔞肉視頻|XBPQ",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-        "ext": {
-          "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
-          "直接播放" : "1"                                                          ,
-          "分类"   : "國產AV$國產AV#探花$探花#自拍流出$自拍流出#日本$日本"
-        }
-      },
-      {
-        "key": "ppp",
-        "name": "🔞ppp|fq",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-        "style": {"type": "rect", "ratio": 1.6},
-        "ext": {
-          "直接播放": "1",
-          "图片": "data-src=\"&&\"",
-          "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台灣$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkon#Cosplay$cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#無碼$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$ac#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks",
-          "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/"
-        }
-      },
-      {
-        "key": "AVso",
-        "name": "🔞AVso┃直连",
-        "type": 3,
-        "changeable": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "playerType": 2,
-        "api": "csp_XBPQ",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-        "style": {"type": "rect", "ratio": 1.485},
-        "ext": {
-          "语言"    : "中文"                                           ,
-          "请求头"   : "手机"                                           ,
-          "地址发布页" : ""                                             ,
-          "主页url" : "https://gpk.avso26.icu/"                      ,
-          "标题"    : "title=\"&&\""                                 ,
-          "副标题"   : "class=\"video-hd-mark\">&&</span>"            ,
-          "图片"    : "data-src=\"&&\""                              ,
-          "简介"    : "name=\"description\" content=\"&&\"/>"        ,
-          "数组"    : "class=\"thumb\"&&class=\"metadata\">&&</div>" ,
-          "免嗅"    : "1"                                            ,
-          "嗅探词"   : ".m3u8"                                        ,
-          "跳转播放链接": "url\":\"&&\""                                 ,
-          "分类数组"  : "<li&&</li>"                                   ,
-          "分类标题"  : ">&&</a>"                                      ,
-          "分类ID"  : "href=\"/?k=&&&top\""                          ,
-          "分类url" : "https://gpk.avso26.icu/?k={cateId}&p={catePg}",
-          "直接播放"  : "1"
-        }
-      },
-      {
         "key": "xvideos4中文",
         "name": "🔞xvideos4中文",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
         "ext": {
           "直接播放": "1",
           "数组": "<li>&&</li>",
@@ -302,10 +224,10 @@
       },
       {
         "key": "Jable",
-        "name": "🐞Jable",
+        "name": "🔞Jable",
         "type": 3,
         "api": "csp_Jable",
-        "jar": "https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xc0126.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
@@ -320,6 +242,97 @@
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/色花堂.json",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
+      },
+      {
+        "key": "13AV",
+        "name": "🔞13AV",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "style": {"type": "rect", "ratio": 1.5},
+        "ext": {
+          "主页url": "https://13av.com/",
+          "过滤词": ".mp4",
+          "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+          "图片": "data-src=\"&&\"",
+          "标题": "href=\"*\">&&</a>",
+          "副标题": "class=\"label\">&&</span>",
+          "链接": "href=\"&&\"",
+          "简介": "⚠️慢点撸，皮要掉了！！！",
+          "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
+          "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
+        }
+      },
+      {
+        "key": "肉视频",
+        "name": "🔞肉視頻",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "ext": {
+          "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
+          "直接播放" : "1"                                                          ,
+          "分类"   : "國產AV$國產AV#探花$探花#自拍流出$自拍流出#日本$日本"
+        }
+      },
+      {
+        "key": "ppp",
+        "name": "🔞ppp|fq",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "style": {"type": "rect", "ratio": 1.6},
+        "ext": {
+          "直接播放": "1",
+          "图片": "data-src=\"&&\"",
+          "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台灣$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkon#Cosplay$cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#無碼$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$ac#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks",
+          "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/"
+        }
+      },
+      {
+        "key": "AVso",
+        "name": "🔞AVso",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "playerType": 2,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "style": {"type": "rect", "ratio": 1.485},
+        "ext": {
+          "语言"    : "中文"                                           ,
+          "请求头"   : "手机"                                           ,
+          "地址发布页" : ""                                             ,
+          "主页url" : "https://gpk.avso26.icu/"                      ,
+          "标题"    : "title=\"&&\""                                 ,
+          "副标题"   : "class=\"video-hd-mark\">&&</span>"            ,
+          "图片"    : "data-src=\"&&\""                              ,
+          "简介"    : "name=\"description\" content=\"&&\"/>"        ,
+          "数组"    : "class=\"thumb\"&&class=\"metadata\">&&</div>" ,
+          "免嗅"    : "1"                                            ,
+          "嗅探词"   : ".m3u8"                                        ,
+          "跳转播放链接": "url\":\"&&\""                                 ,
+          "分类数组"  : "<li&&</li>"                                   ,
+          "分类标题"  : ">&&</a>"                                      ,
+          "分类ID"  : "href=\"/?k=&&&top\""                          ,
+          "分类url" : "https://gpk.avso26.icu/?k={cateId}&p={catePg}",
+          "直接播放"  : "1"
+        }
+      },
+      {
+        "key": "php_madou",
+        "name": "🔞麻豆",
+        "type": 4,
+        "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "changeable": 0,
+        "style": {"type": "rect", "ratio": 1.5}
       },
       {
         "key": "vv001",
@@ -1127,19 +1140,6 @@
           "分类url": "https://v3.bi888.link/vodtype/{cateId}-{catePg}.html",
           "分类": "精品推荐$20#国产精品$21#日韩精品$22#欧美精品$23#中文字幕$24#日韩无码$25#日韩有码$26#网红主播$27#卡通动漫$28#探花系列$29#SM重味$30#自拍偷拍$31#强奸乱伦$32#口交视频$33#自慰系列$34#教师学生$35#3P合辑$36#巨乳系列$37#颜射系列$38#制服诱惑$39#萝莉少女$40#人兽之恋$41#人妻熟女$42#女同性恋$43#稀缺资源$45#三级伦理$44#空姐模特$48#国产盗摄$49#人妖系列$50#虚拟VR$51"
         }
-      },
-      {
-        "key": "php_madou",
-        "name": "🔞麻豆",
-        "type": 4,
-        "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "changeable": 0,
-        "style": {"type": "rect", "ratio": 1.5}
       },
       {
         "key": "py_aidouchuanmei",
