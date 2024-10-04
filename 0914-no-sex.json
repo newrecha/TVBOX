@@ -1021,8 +1021,28 @@
 		"ext": "http://v.rbotv.cn",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
 	  },
-	  {"key":"Pang","name":"🎥｜胖虎","type":"3","api":"csp_Dora","spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-
+      {
+        "key": "胖虎",
+        "name": "🎥｜胖虎",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+            "过滤词": "/cdn.physvod.com/#116.m3u8",
+            "影片地区": "圥忈制作",
+            "影片年代": "<div class=\"module-info-tag\">&&</div>",
+            "影片状态": "备注：&&</div>",
+            "影片类型": "module-info-tag\">&&立即播放",
+            "线路数组": "data-dropdown-value=&&</div>[不包含:请换源1#请换源2#请换源3#请换源4#请换源5#请换源6]",
+            "线路标题": "<span>&&</span>",
+            "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+            "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$7#解说$8#其他$9"
+        }
+    },
 	  {
 		"key": "海纳TV",
 		"name": "🎥｜海纳",
