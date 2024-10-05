@@ -2,7 +2,7 @@
 "logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 "lives":[
 
-	{"name":"sui｜測試","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/sui.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
+	{"name":"173｜測試","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 		
 
 

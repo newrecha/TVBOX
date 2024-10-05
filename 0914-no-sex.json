@@ -335,24 +335,6 @@
 		}
 	  },
 	  {
-		"key": "csp_XBPQ_蛙蛙",
-		"name": "蛙蛙",
-		"type": 3,
-		"api": "csp_XBPQ",
-"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-"主页url": "https://www.wvod.tv/",
-			"数组": "hl-col-lg-2\"&&</a>",
-			"图片": "data-original=\"&&\"",
-			"标题": "title=\"&&\"",
-			"链接": "href=\"&&\"",
-			"简介": "简介：&&</li>",
-			"分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-"分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"}},
-	  {
 		"key": "极速电影",
 		"name": "🎥｜極速電影",
 		"type": 3,
@@ -987,6 +969,25 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
 	  },
 	  {
+		"key": "csp_XBPQ_蛙蛙",
+		"name": "🎥｜蛙蛙",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		"主页url": "https://www.wvod.tv/",
+			"数组": "hl-col-lg-2\"&&</a>",
+			"图片": "data-original=\"&&\"",
+			"标题": "title=\"&&\"",
+			"链接": "href=\"&&\"",
+			"简介": "简介：&&</li>",
+			"分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+			"分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"}
+	   },
+	   {
 		"key": "csp_XYQHiker_乐万家影院",
 		"name": "🎥｜万家",
 		"type": 3,
