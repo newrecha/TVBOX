@@ -2,8 +2,8 @@
 "logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 "lives":[
 
-	{"name":"173｜測試","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 		
+	{"name":"169線路｜測試","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/169.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 
 
 
@@ -16,6 +16,7 @@
 			{"name":"黑腳｜不穩","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/240919-1.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 			{"name":"mytvbplus｜不穩","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/mytvbplus.php","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"smart｜1003復活","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/smart.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"173線路｜新增","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 
 			
 			{"name":"糖意｜訂閱","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
