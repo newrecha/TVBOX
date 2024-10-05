@@ -234,7 +234,18 @@
 		  "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
 		}
 	  },
-	  
+	  {
+		"key": "997",
+		"name": "新增｜997",
+		"type": 3,
+		"api": "csp_Web608",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 0,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/1_spider.jar",
+		"ext": "https://www.6080yy4.com"
+	},
+	
 		{
 		  "key": "木叶",
 		  "name": "新增｜木叶",
@@ -244,16 +255,6 @@
 		  "playerType": 1,
 		  "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
 		},
-		{
-		  "key": "柠檬",
-		  "name": "新增｜柠檬",
-		  "type": 3,
-		  "api": "csp_Nmvod",
-		  "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1",
-		  "playerType": 1,
-		  "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-		},
-	  
 	  
 	  {
 		"key": "XBPQ_麻衣影院",
