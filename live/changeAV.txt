@@ -1,5 +1,3 @@
-隨機AV-1,http://free.xiptv.x10.bz/api/av.php
-隨機AV-2,http://free.xiptv.x10.bz/api/av1.php
 中國AV,http://free.xiptv.x10.bz/api/av.php?id=1
 日本片商,http://free.xiptv.x10.bz/api/av.php?id=2
 素人自拍,http://free.xiptv.x10.bz/api/av.php?id=3
