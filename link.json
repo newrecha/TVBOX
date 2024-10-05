@@ -11,11 +11,12 @@
             {"url":"https://xn--z7x900a.live/","name":"肥貓接口"},
             {"url":"http://我不是.摸鱼儿.top","name":"摸魚兒接口"},
             {"url":"https://api.paoyun.eu.org/zq/api.json","name":"QZ接口"},
-            {"url":"https://szyyds.cn/tv/x.json","name":"小馬接口"},
             {"url":"http://ttkx.live:55/天天开心","name":"天天开心接口"},
             {"url":"https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json","name":"PG接口"},
             {"url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name":"吾愛接口"},
             {"url":"http://itvbox.cc/云星日记","name":"云星日记接口"},
-            {"url":"https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"南風接口"}
+            {"url":"https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"南風接口"},
+            {"url":"https://szyyds.cn/tv/x.json","name":"小馬接口"}
+
            ]
     }
