@@ -2,9 +2,7 @@
 "logo":"https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
 "lives":[
 
-	{"name":"歐非｜測試","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
-
-
+			{"name":"歐飛｜新增","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/ofiii0920.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 			{"name":"ETH｜(唐三)","api":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/ethtv.js","type":3,"ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","ext":"647c28ca"},
 			{"name":"君赢天下｜優質","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/king.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"晴天｜優質","type":0,"url":"https://4026.kstore.space/tv/p2p.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
