@@ -1,0 +1,149 @@
+台視HD,http://pachongbo.site:8080/tsfile/live/1047_1.m3u8
+中視HD,http://pachongbo.site:8080/tsfile/live/1048_1.m3u8
+華視HD,http://pachongbo.site:8080/tsfile/live/1049_1.m3u8
+民視HD,http://pachongbo.site:8080/tsfile/live/1050_1.m3u8
+公視,http://pachongbo.site:8080/tsfile/live/1201_1.m3u8
+人間衛視,http://pachongbo.site:8080/tsfile/live/1198_1.m3u8
+大愛電視,http://pachongbo.site:8080/tsfile/live/1216_1.m3u8
+好消息GOOD TV,http://pachongbo.site:8080/tsfile/live/1669_1.m3u8
+Trace Sport Stars,http://pachongbo.site:8080/tsfile/live/1003_1.m3u8
+DISCOVERY,http://pachongbo.site:8080/tsfile/live/1002_1.m3u8
+旅遊生活,http://pachongbo.site:8080/tsfile/live/1005_1.m3u8
+動物星球,http://pachongbo.site:8080/tsfile/live/1004_1.m3u8
+亞洲旅遊,http://pachongbo.site:8080/tsfile/live/1219_1.m3u8
+MOMO親子台,http://pachongbo.site:8080/tsfile/live/1007_1.m3u8
+東森幼幼HD,http://pachongbo.site:8080/tsfile/live/1008_1.m3u8
+龍華卡通台,http://pachongbo.site:8080/tsfile/live/1670_1.m3u8
+緯來綜合HD,http://pachongbo.site:8080/tsfile/live/1044_1.m3u8
+八大第一HD,http://pachongbo.site:8080/tsfile/live/1043_1.m3u8
+八大綜合HD,http://pachongbo.site:8080/tsfile/live/1019_1.m3u8
+三立台灣HD,http://pachongbo.site:8080/tsfile/live/1021_1.m3u8
+三立都會HD,http://pachongbo.site:8080/tsfile/live/1020_1.m3u8
+韓國娛樂台,http://pachongbo.site:8080/tsfile/live/1024_1.m3u8
+東森綜合HD,http://pachongbo.site:8080/tsfile/live/1041_1.m3u8
+超視HD,http://pachongbo.site:8080/tsfile/live/1180_1.m3u8
+中天綜合HD,http://pachongbo.site:8080/tsfile/live/1022_1.m3u8
+中天娛樂HD,http://pachongbo.site:8080/tsfile/live/1023_1.m3u8
+東風衛視,http://pachongbo.site:8080/tsfile/live/1195_1.m3u8
+MUCH TV,http://pachongbo.site:8080/tsfile/live/1189_1.m3u8
+東森戲劇HD,http://pachongbo.site:8080/tsfile/live/1042_1.m3u8
+八大戲劇HD,http://pachongbo.site:8080/tsfile/live/1057_1.m3u8
+TVBS歡樂HD,http://pachongbo.site:8080/tsfile/live/1018_1.m3u8
+緯來戲劇,http://pachongbo.site:8080/tsfile/live/1186_1.m3u8
+龍華戲劇台,http://pachongbo.site:8080/tsfile/live/1671_1.m3u8
+龍華日韓劇,http://pachongbo.site:8080/tsfile/live/1672_1.m3u8
+龍華偶像劇,http://pachongbo.site:8080/tsfile/live/1673_1.m3u8
+緯來日本HD,http://pachongbo.site:8080/tsfile/live/1026_1.m3u8
+Taiwan Plus,http://pachongbo.site:8080/tsfile/live/1674_1.m3u8
+年代新聞,http://pachongbo.site:8080/tsfile/live/1192_1.m3u8
+東森新聞HD,http://pachongbo.site:8080/tsfile/live/1014_1.m3u8
+中天新聞,http://pachongbo.site:8080/tsfile/live/1675_1.m3u8
+民視新聞,http://pachongbo.site:8080/tsfile/live/1204_1.m3u8
+三立新聞HD,http://pachongbo.site:8080/tsfile/live/1016_1.m3u8
+TVBS新聞HD,http://pachongbo.site:8080/tsfile/live/1052_1.m3u8
+TVBS HD,http://pachongbo.site:8080/tsfile/live/1668_1.m3u8
+非凡新聞HD,http://pachongbo.site:8080/tsfile/live/1013_1.m3u8
+非凡商業HD,http://pachongbo.site:8080/tsfile/live/1012_1.m3u8
+東森財經HD,http://pachongbo.site:8080/tsfile/live/1017_1.m3u8
+寰宇新聞,http://pachongbo.site:8080/tsfile/live/1222_1.m3u8
+壹新聞,http://pachongbo.site:8080/tsfile/live/1676_1.m3u8
+Bloomberg News,http://pachongbo.site:8080/tsfile/live/106_1.m3u8
+NHK世界HD,http://pachongbo.site:8080/tsfile/live/1027_1.m3u8
+鏡電視新聞台,http://pachongbo.site:8080/tsfile/live/1031_1.m3u8
+好萊塢電影HD,http://pachongbo.site:8080/tsfile/live/1025_1.m3u8
+緯來電影HD,http://pachongbo.site:8080/tsfile/live/1183_1.m3u8
+龍華電影台,http://pachongbo.site:8080/tsfile/live/1677_1.m3u8
+HBO,http://pachongbo.site:8080/tsfile/live/1029_1.m3u8
+AXN,http://pachongbo.site:8080/tsfile/live/1054_1.m3u8
+CINEMAX HD,http://pachongbo.site:8080/tsfile/live/1030_1.m3u8
+AMC 電影台,http://pachongbo.site:8080/tsfile/live/1032_1.m3u8
+寵物頻道,http://pachongbo.site:8080/tsfile/live/1040_1.m3u8
+緯來育樂HD,http://pachongbo.site:8080/tsfile/live/1045_1.m3u8
+緯來體育HD,http://pachongbo.site:8080/tsfile/live/1011_1.m3u8
+博斯運動一,http://pachongbo.site:8080/tsfile/live/1678_1.m3u8
+momo綜合台,http://pachongbo.site:8080/tsfile/live/1225_1.m3u8
+DAZN 1,http://pachongbo.site:8080/tsfile/live/1069_1.m3u8
+DAZN 2,http://pachongbo.site:8080/tsfile/live/1072_1.m3u8
+廈門衛視,http://pachongbo.site:8080/tsfile/live/1033_1.m3u8
+CCTV4-中央衛視,http://pachongbo.site:8080/tsfile/live/1034_1.m3u8
+海峽衛視,http://pachongbo.site:8080/tsfile/live/1035_1.m3u8
+浙江衛視,http://pachongbo.site:8080/tsfile/live/1036_1.m3u8
+東方衛視,http://pachongbo.site:8080/tsfile/live/1037_1.m3u8
+湖南衛視,http://pachongbo.site:8080/tsfile/live/1038_1.m3u8
+鳯凰衛視資訊,http://pachongbo.site:8080/tsfile/live/1666_1.m3u8
+鳯凰衛視中文,http://pachongbo.site:8080/tsfile/live/1213_1.m3u8
+台灣酒店源,#genre#
+台視HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1047
+中視HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1048
+華視HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1049
+民視HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1050
+公視,http://simon-iptv.top/mkjd/mqlive.php?id=live1201
+人間衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1198
+大愛電視,http://simon-iptv.top/mkjd/mqlive.php?id=live1216
+好消息GOOD TV,http://simon-iptv.top/mkjd/mqlive.php?id=live1669
+Trace Sport Stars,http://simon-iptv.top/mkjd/mqlive.php?id=live1003
+DISCOVERY,http://simon-iptv.top/mkjd/mqlive.php?id=live1002
+旅遊生活,http://simon-iptv.top/mkjd/mqlive.php?id=live1005
+動物星球,http://simon-iptv.top/mkjd/mqlive.php?id=live1004
+亞洲旅遊,http://simon-iptv.top/mkjd/mqlive.php?id=live1219
+MOMO親子台,http://simon-iptv.top/mkjd/mqlive.php?id=live1007
+東森幼幼HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1008
+龍華卡通台,http://simon-iptv.top/mkjd/mqlive.php?id=live1670
+緯來綜合HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1044
+八大第一HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1043
+八大綜合HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1019
+三立台灣HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1021
+三立都會HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1020
+韓國娛樂台,http://simon-iptv.top/mkjd/mqlive.php?id=live1024
+東森綜合HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1041
+超視HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1180
+中天綜合HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1022
+中天娛樂HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1023
+東風衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1195
+MUCH TV,http://simon-iptv.top/mkjd/mqlive.php?id=live1189
+東森戲劇HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1042
+八大戲劇HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1057
+TVBS歡樂HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1018
+緯來戲劇,http://simon-iptv.top/mkjd/mqlive.php?id=live1186
+龍華戲劇台,http://simon-iptv.top/mkjd/mqlive.php?id=live1671
+龍華日韓劇,http://simon-iptv.top/mkjd/mqlive.php?id=live1672
+龍華偶像劇,http://simon-iptv.top/mkjd/mqlive.php?id=live1673
+緯來日本HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1026
+Taiwan Plus,http://simon-iptv.top/mkjd/mqlive.php?id=live1674
+年代新聞,http://simon-iptv.top/mkjd/mqlive.php?id=live1192
+東森新聞HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1014
+中天新聞,http://simon-iptv.top/mkjd/mqlive.php?id=live1675
+民視新聞,http://simon-iptv.top/mkjd/mqlive.php?id=live1204
+三立新聞HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1016
+TVBS新聞HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1052
+TVBS HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1668
+非凡新聞HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1013
+非凡商業HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1012
+東森財經HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1017
+寰宇新聞,http://simon-iptv.top/mkjd/mqlive.php?id=live1222
+壹新聞,http://simon-iptv.top/mkjd/mqlive.php?id=live1676
+Bloomberg News,http://simon-iptv.top/mkjd/mqlive.php?id=live1066
+NHK世界HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1027
+鏡電視新聞台,http://simon-iptv.top/mkjd/mqlive.php?id=live1031
+好萊塢電影HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1025
+緯來電影HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1183
+龍華電影台,http://simon-iptv.top/mkjd/mqlive.php?id=live1677
+HBO,http://simon-iptv.top/mkjd/mqlive.php?id=live1029
+AXN,http://simon-iptv.top/mkjd/mqlive.php?id=live1054
+CINEMAX HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1030
+AMC 電影台,http://simon-iptv.top/mkjd/mqlive.php?id=live1032
+寵物頻道,http://simon-iptv.top/mkjd/mqlive.php?id=live1040
+緯來育樂HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1045
+緯來體育HD,http://simon-iptv.top/mkjd/mqlive.php?id=live1011
+博斯運動一,http://simon-iptv.top/mkjd/mqlive.php?id=live1678
+momo綜合台,http://simon-iptv.top/mkjd/mqlive.php?id=live1225
+DAZN 1,http://simon-iptv.top/mkjd/mqlive.php?id=live1069
+DAZN 2,http://simon-iptv.top/mkjd/mqlive.php?id=live1072
+廈門衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1033
+CCTV4-中央衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1034
+海峽衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1035
+浙江衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1036
+東方衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1037
+湖南衛視,http://simon-iptv.top/mkjd/mqlive.php?id=live1038
+鳯凰衛視資訊,http://simon-iptv.top/mkjd/mqlive.php?id=live1666
+鳯凰衛視中文,http://simon-iptv.top/mkjd/mqlive.php?id=live1213
