@@ -21,7 +21,8 @@
 			{"name":"YanG(18+)｜訂閱","type":0,"url":"https://tv.iill.top/m3u/Adult","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},
 			{"name":"小武哥(18+)｜訂閱","type":0,"url":"https://qu.ax/PEHy.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},
 			
-			{"name":"小雲｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/ueen.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"小雲｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/ueen2.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"全球｜測試","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/wouldtv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"stream｜要翻牆","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"安博｜失效(z88)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/anber-z88.txt","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"安博｜失效(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
