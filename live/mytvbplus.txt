@@ -1,0 +1,1734 @@
+Taiwan,#genre#
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
+ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+DW,http://61.221.215.25:8800/hls/1/index.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻台,http://live.lordstreams.co:8080//832396166/1982148236/659605
+亚洲新闻台,http://iptvtree.net:8080//F18819/6eb39c7d/157524
+亚洲新闻台,http://mohdtv.com:8880//voby3837/28337929/71065
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
+三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+民视台湾台,http://tw.ts138.top/4g/?id=4gtv-4gtv001
+民视,http://tw.ts138.top/4g/?id=4gtv-4gtv002
+民视第一台,http://tw.ts138.top/4g/?id=4gtv-4gtv003
+民视综艺,http://tw.ts138.top/4g/?id=4gtv-4gtv004
+猪哥亮歌厅秀,http://tw.ts138.top/4g/?id=4gtv-4gtv006
+中天新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv009
+非凡新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv010
+影迷數位電影台,http://tw.ts138.top/4g/?id=4gtv-4gtv011
+視納華仁紀實頻道,http://tw.ts138.top/4g/?id=4gtv-4gtv013
+时尚运动X,http://tw.ts138.top/4g/?id=4gtv-4gtv014
+GLOBETROTTER,http://tw.ts138.top/4g/?id=4gtv-4gtv016
+amc电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv017
+达文西频道,http://tw.ts138.top/4g/?id=4gtv-4gtv018
+八大精彩台,http://tw.ts138.top/4g/?id=4gtv-4gtv034
+八大综艺台,http://tw.ts138.top/4g/?id=4gtv-4gtv039
+中视,http://tw.ts138.top/4g/?id=4gtv-4gtv040
+华视,http://tw.ts138.top/4g/?id=4gtv-4gtv041
+公视戏剧,http://tw.ts138.top/4g/?id=4gtv-4gtv042
+客家电视台,http://tw.ts138.top/4g/?id=4gtv-4gtv043
+靖天卡通台,http://tw.ts138.top/4g/?id=4gtv-4gtv044
+靖洋戏剧台,http://tw.ts138.top/4g/?id=4gtv-4gtv045
+靖天综合台,http://tw.ts138.top/4g/?id=4gtv-4gtv046
+靖天日本台,http://tw.ts138.top/4g/?id=4gtv-4gtv047
+非凡商业,http://tw.ts138.top/4g/?id=4gtv-4gtv048
+采昌影剧,http://tw.ts138.top/4g/?id=4gtv-4gtv049
+台视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv051
+华视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv052
+GinxTV,http://tw.ts138.top/4g/?id=4gtv-4gtv053
+靖天欢乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv054
+靖天映画,http://tw.ts138.top/4g/?id=4gtv-4gtv055
+台视财经,http://tw.ts138.top/4g/?id=4gtv-4gtv056
+靖洋卡通台,http://tw.ts138.top/4g/?id=4gtv-4gtv057
+靖天戏剧台,http://tw.ts138.top/4g/?id=4gtv-4gtv058
+古典音乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv059
+靖天电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv061
+靖天育乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv062
+靖天国际台,http://tw.ts138.top/4g/?id=4gtv-4gtv063
+中视菁采,http://tw.ts138.top/4g/?id=4gtv-4gtv064
+靖天资讯台,http://tw.ts138.top/4g/?id=4gtv-4gtv065
+台视,http://tw.ts138.top/4g/?id=4gtv-4gtv066
+tvbs精采台,http://tw.ts138.top/4g/?id=4gtv-4gtv067
+tvbs欢乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv068
+爱尔达娱乐,http://tw.ts138.top/4g/?id=4gtv-4gtv070
+tvbs新闻台,http://tw.ts138.top/4g/?id=4gtv-4gtv072
+tvbs,http://tw.ts138.top/4g/?id=4gtv-4gtv073
+中视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv074
+镜新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv075
+CATCHPLAY电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv076
+TRACE SPORTS STARS,http://tw.ts138.top/4g/?id=4gtv-4gtv077
+阿里郎,http://tw.ts138.top/4g/?id=4gtv-4gtv079
+中视经典,http://tw.ts138.top/4g/?id=4gtv-4gtv080
+TRACE URBAN,http://tw.ts138.top/4g/?id=4gtv-4gtv082
+MEZZO LIVE,http://tw.ts138.top/4g/?id=4gtv-4gtv083
+国会频道1,http://tw.ts138.top/4g/?id=4gtv-4gtv084
+国会频道2,http://tw.ts138.top/4g/?id=4gtv-4gtv085
+智林体育台,http://tw.ts138.top/4g/?id=4gtv-4gtv101
+国际财经,http://tw.ts138.top/4g/?id=4gtv-4gtv104
+第1商業台,http://tw.ts138.top/4g/?id=4gtv-4gtv109
+东森新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv152
+东森财经新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv153
+民视,http://tw.ts138.top/4g/?id=4gtv-4gtv155
+民视台湾台,http://tw.ts138.top/4g/?id=4gtv-4gtv156
+美国之音,http://tw.ts138.top/4g/?id=litv-ftv03
+民视旅游,http://tw.ts138.top/4g/?id=litv-ftv07
+民视影剧,http://tw.ts138.top/4g/?id=litv-ftv09
+半岛新闻,http://tw.ts138.top/4g/?id=litv-ftv10
+民视新闻台,http://tw.ts138.top/4g/?id=litv-ftv13
+爱放动漫,http://tw.ts138.top/4g/?id=litv-ftv15
+好消息,http://tw.ts138.top/4g/?id=litv-ftv16
+好消息2台,http://tw.ts138.top/4g/?id=litv-ftv17
+龙华卡通,http://tw.ts138.top/4g/?id=litv-longturn01
+龙华电影,http://tw.ts138.top/4g/?id=litv-longturn03
+博斯魅力,http://tw.ts138.top/4g/?id=litv-longturn04
+博斯高球1,http://tw.ts138.top/4g/?id=litv-longturn05
+博斯高球2,http://tw.ts138.top/4g/?id=litv-longturn06
+博斯运动1,http://tw.ts138.top/4g/?id=litv-longturn07
+博斯运动2,http://tw.ts138.top/4g/?id=litv-longturn08
+博斯网球,http://tw.ts138.top/4g/?id=litv-longturn09
+博斯无限,http://tw.ts138.top/4g/?id=litv-longturn10
+龙华日韩,http://tw.ts138.top/4g/?id=litv-longturn11
+龙华偶像,http://tw.ts138.top/4g/?id=litv-longturn12
+博斯无限2,http://tw.ts138.top/4g/?id=litv-longturn13
+寰宇新闻台,http://tw.ts138.top/4g/?id=litv-longturn14
+寰宇新闻台湾台,http://tw.ts138.top/4g/?id=litv-longturn15
+亚洲旅游台,http://tw.ts138.top/4g/?id=litv-longturn17
+龙华戏剧,http://tw.ts138.top/4g/?id=litv-longturn18
+Smart知识台,http://tw.ts138.top/4g/?id=litv-longturn19
+生活英语台,http://tw.ts138.top/4g/?id=litv-longturn20
+龙华经典,http://tw.ts138.top/4g/?id=litv-longturn21
+台湾戏剧台,http://tw.ts138.top/4g/?id=litv-longturn22
+民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
+猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
+影迷數位電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+視納華仁紀實頻道,https://litv.zapi.us.kg/?id=4gtv-4gtv013
+时尚运动X,https://litv.zapi.us.kg/?id=4gtv-4gtv014
+GLOBETROTTER,https://litv.zapi.us.kg/?id=4gtv-4gtv016
+amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+达文西频道,https://litv.zapi.us.kg/?id=4gtv-4gtv018
+八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv039
+中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
+公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+客家电视台,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
+非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+采昌影剧,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+GinxTV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
+靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
+台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
+靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+古典音乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
+靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
+中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+靖天资讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
+台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+tvbs精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+tvbs欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+爱尔达娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
+tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRACE SPORTS STARS,https://litv.zapi.us.kg/?id=4gtv-4gtv077
+阿里郎,https://litv.zapi.us.kg/?id=4gtv-4gtv079
+中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
+TRACE URBAN,https://litv.zapi.us.kg/?id=4gtv-4gtv082
+MEZZO LIVE,https://litv.zapi.us.kg/?id=4gtv-4gtv083
+国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085
+智林体育台,https://litv.zapi.us.kg/?id=4gtv-4gtv101
+国际财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
+第1商業台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
+东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv156
+美国之音,https://litv.zapi.us.kg/?id=litv-ftv03
+民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07
+民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
+半岛新闻,https://litv.zapi.us.kg/?id=litv-ftv10
+民视新闻台,https://litv.zapi.us.kg/?id=litv-ftv13
+爱放动漫,https://litv.zapi.us.kg/?id=litv-ftv15
+好消息,https://litv.zapi.us.kg/?id=litv-ftv16
+好消息2台,https://litv.zapi.us.kg/?id=litv-ftv17
+龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
+龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
+博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限,https://litv.zapi.us.kg/?id=litv-longturn10
+龙华日韩,https://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,https://litv.zapi.us.kg/?id=litv-longturn12
+博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
+寰宇新闻台,https://litv.zapi.us.kg/?id=litv-longturn14
+寰宇新闻台湾台,https://litv.zapi.us.kg/?id=litv-longturn15
+亚洲旅游台,https://litv.zapi.us.kg/?id=litv-longturn17
+龙华戏剧,https://litv.zapi.us.kg/?id=litv-longturn18
+Smart知识台,https://litv.zapi.us.kg/?id=litv-longturn19
+生活英语台,https://litv.zapi.us.kg/?id=litv-longturn20
+龙华经典,https://litv.zapi.us.kg/?id=litv-longturn21
+台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
+民视第一台,http://95.179.139.113:5566/4gtv/1
+民视台湾台,http://95.179.139.113:5566/4gtv/2
+中视,http://95.179.139.113:5566/4gtv/4
+华视,http://95.179.139.113:5566/4gtv/6
+公视戏剧,http://95.179.139.113:5566/4gtv/7
+好消息2台,http://95.179.139.113:5566/4gtv/8
+好消息,http://95.179.139.113:5566/4gtv/9
+达文西频道,http://95.179.139.113:5566/4gtv/11
+靖天卡通台,http://95.179.139.113:5566/4gtv/15
+民视综艺台,http://95.179.139.113:5566/4gtv/16
+爱尔达娱乐台,http://95.179.139.113:5566/4gtv/19
+靖天综合台,http://95.179.139.113:5566/4gtv/21
+靖天日本台,http://95.179.139.113:5566/4gtv/22
+龙华戏剧台,http://95.179.139.113:5566/4gtv/23
+民视影剧台,http://95.179.139.113:5566/4gtv/24
+龙华日韩台,http://95.179.139.113:5566/4gtv/28
+中天新闻台,http://95.179.139.113:5566/4gtv/30
+民视新闻台,http://95.179.139.113:5566/4gtv/31
+中视新闻,http://95.179.139.113:5566/4gtv/33
+华视新闻,http://95.179.139.113:5566/4gtv/34
+寰宇新闻台,http://95.179.139.113:5566/4gtv/36
+视纳华仁纪实频道,http://95.179.139.113:5566/4gtv/38
+amc电影台,http://95.179.139.113:5566/4gtv/39
+影迷数位电影台,http://95.179.139.113:5566/4gtv/40
+靖天映画,http://95.179.139.113:5566/4gtv/42
+博斯高球台,http://95.179.139.113:5566/4gtv/48
+博斯运动一台,http://95.179.139.113:5566/4gtv/50
+博斯无限台,http://95.179.139.113:5566/4gtv/51
+博斯网球台,http://95.179.139.113:5566/4gtv/52
+TRACE Sport Stars,http://95.179.139.113:5566/4gtv/57
+智林体育台,http://95.179.139.113:5566/4gtv/58
+靖洋卡通Nice Bingo,http://95.179.139.113:5566/4gtv/59
+i-Fun动漫台,http://95.179.139.113:5566/4gtv/60
+民视旅游台,http://95.179.139.113:5566/4gtv/61
+时尚运动X,http://95.179.139.113:5566/4gtv/69
+TRACE Urban,http://95.179.139.113:5566/4gtv/78
+Mezzo Live HD,http://95.179.139.113:5566/4gtv/79
+CLASSICA 古典乐,http://95.179.139.113:5566/4gtv/80
+靖天电影台,http://95.179.139.113:5566/4gtv/82
+靖天育乐台,http://95.179.139.113:5566/4gtv/83
+KLT-靖天国际台,http://95.179.139.113:5566/4gtv/84
+半岛国际新闻台,http://95.179.139.113:5566/4gtv/85
+VOA美国之音,http://95.179.139.113:5566/4gtv/86
+靖天资讯台,http://95.179.139.113:5566/4gtv/88
+凤梨直击台,http://95.179.139.113:5566/4gtv/93
+香蕉直击台,http://95.179.139.113:5566/4gtv/94
+ELTV生活英语台,http://95.179.139.113:5566/4gtv/106
+客家电视台,http://95.179.139.113:5566/4gtv/107
+猪哥亮歌厅秀,http://95.179.139.113:5566/4gtv/113
+八大综艺台,http://95.179.139.113:5566/4gtv/114
+靖天戏剧台,http://95.179.139.113:5566/4gtv/116
+靖洋戏剧台,http://95.179.139.113:5566/4gtv/118
+Nice TV 靖天欢乐,http://95.179.139.113:5566/4gtv/119
+龙华电影台,http://95.179.139.113:5566/4gtv/121
+中视菁采台,http://95.179.139.113:5566/4gtv/123
+中视经典台,http://95.179.139.113:5566/4gtv/124
+Love Nature,http://95.179.139.113:5566/4gtv/139
+车迷TV,http://95.179.139.113:5566/4gtv/160
+幸福空间居家台,http://95.179.139.113:5566/4gtv/168
+三立综合台,http://95.179.139.113:5566/4gtv/169
+国会频道1,http://95.179.139.113:5566/4gtv/170
+国会频道2,http://95.179.139.113:5566/4gtv/171
+八大精彩台,http://95.179.139.113:5566/4gtv/172
+东森购物一台,http://95.179.139.113:5566/4gtv/173
+东森购物二台,http://95.179.139.113:5566/4gtv/174
+LUXE TV Channel,http://95.179.139.113:5566/4gtv/175
+My Cinema Europe HD 我的欧洲电,http://95.179.139.113:5566/4gtv/176
+TV5MONDE STYLE HD 生活时尚,http://95.179.139.113:5566/4gtv/178
+GINX Esports TV,http://95.179.139.113:5566/4gtv/179
+ROCK Action,http://95.179.139.113:5566/4gtv/180
+TechStorm,http://95.179.139.113:5566/4gtv/181
+Pet Club TV,http://95.179.139.113:5566/4gtv/182
+TVBS,http://95.179.139.113:5566/4gtv/183
+TVBS欢乐台,http://95.179.139.113:5566/4gtv/184
+尼克儿童频道,http://95.179.139.113:5566/4gtv/185
+HITS频道,http://95.179.139.113:5566/4gtv/186
+LiveABC互动英语频道,http://95.179.139.113:5566/4gtv/188
+ARIRANG阿里郎频道,http://95.179.139.113:5566/4gtv/189
+经典电影台,http://95.179.139.113:5566/4gtv/201
+经典卡通台,http://95.179.139.113:5566/4gtv/202
+精选动漫台,http://95.179.139.113:5566/4gtv/204
+大爱电视,http://95.179.139.113:5566/4gtv/209
+人间卫视,http://95.179.139.113:5566/4gtv/210
+影迷数位纪实台,http://95.179.139.113:5566/4gtv/212
+MTV Live HD 音乐频道,http://95.179.139.113:5566/4gtv/213
+History 历史频道,http://95.179.139.113:5566/4gtv/214
+CI 罪案侦查频道,http://95.179.139.113:5566/4gtv/215
+Lifetime 娱乐频道,http://95.179.139.113:5566/4gtv/217
+电影原声台CMusic,http://95.179.139.113:5566/4gtv/218
+Nick Jr.儿童频道,http://95.179.139.113:5566/4gtv/219
+XTR亚太台,http://95.179.139.113:5566/4gtv/223
+SBN全球财经台,http://95.179.139.113:5566/4gtv/224
+CinemaWorld,http://95.179.139.113:5566/4gtv/225
+DW德国之声,http://95.179.139.113:5566/4gtv/226
+TVBS精采台,http://95.179.139.113:5566/4gtv/227
+三立新闻iNEWS,http://95.179.139.113:5566/4gtv/229
+大爱二台,http://95.179.139.113:5566/4gtv/230
+MOMO亲子台,http://95.179.139.113:5566/4gtv/231
+CNBC Asia 财经台,http://95.179.139.113:5566/4gtv/235
+金光布袋戏,http://95.179.139.113:5566/4gtv/236
+爱尔达生活旅游,http://95.179.139.113:5566/4gtv/237
+戏剧免费看 2台,http://95.179.139.113:5566/4gtv/244
+电影免费看 2台,http://95.179.139.113:5566/4gtv/245
+民视,http://95.179.139.113:5566/4gtv/246
+滚动力rollor,http://95.179.139.113:5566/4gtv/249
+亚洲旅游台,http://95.179.139.113:5566/4gtv/250
+Global Trekker,http://95.179.139.113:5566/4gtv/252
+民视第一台,http://95.179.139.113:5566/4gtv/254
+民视台湾台,http://95.179.139.113:5566/4gtv/255
+华视新闻,http://95.179.139.113:5566/4gtv/256
+民视新闻台,http://95.179.139.113:5566/4gtv/257
+中视新闻,http://95.179.139.113:5566/4gtv/258
+中天新闻台,http://95.179.139.113:5566/4gtv/260
+亚洲旅游台,http://95.179.139.113:5566/4gtv/261
+镜电视新闻台,http://95.179.139.113:5566/4gtv/268
+儿童卡通台,http://95.179.139.113:5566/4gtv/269
+戏剧免费看 1台,http://95.179.139.113:5566/4gtv/270
+原住民族电视台,http://95.179.139.113:5566/4gtv/273
+fun探索娱乐台,http://95.179.139.113:5566/4gtv/274
+ROCK Entertainment,http://95.179.139.113:5566/4gtv/275
+时尚运动X,http://95.179.139.113:5566/4gtv/277
+超人力霸王整套看,http://95.179.139.113:5566/4gtv/278
+花系列 经典剧场,http://95.179.139.113:5566/4gtv/279
+寰宇新闻台湾台,http://95.179.139.113:5566/4gtv/280
+寰宇财经台,http://95.179.139.113:5566/4gtv/281
+DreamWorks 梦工厂动画,http://95.179.139.113:5566/4gtv/282
+Bloomberg TV,http://95.179.139.113:5566/4gtv/283
+TVBS综艺台,http://95.179.139.113:5566/4gtv/284
+TVBS台剧台,http://95.179.139.113:5566/4gtv/285
+东森购物四台,http://95.179.139.113:5566/4gtv/286
+东森购物三台,http://95.179.139.113:5566/4gtv/287
+Globetrotter 环游旅行家,http://95.179.139.113:5566/4gtv/288
+TVBS新闻台,http://95.179.139.113:5566/4gtv/291
+东森新闻台,http://95.179.139.113:5566/4gtv/292
+东森财经新闻台,http://95.179.139.113:5566/4gtv/293
+民视第一台,http://95.179.139.113:5566/4gtv/1
+民视台湾台,http://95.179.139.113:5566/4gtv/2
+中视,http://95.179.139.113:5566/4gtv/4
+华视,http://95.179.139.113:5566/4gtv/6
+公视戏剧,http://95.179.139.113:5566/4gtv/7
+好消息2台,http://95.179.139.113:5566/4gtv/8
+好消息,http://95.179.139.113:5566/4gtv/9
+达文西频道,http://95.179.139.113:5566/4gtv/11
+靖天卡通台,http://95.179.139.113:5566/4gtv/15
+民视综艺台,http://95.179.139.113:5566/4gtv/16
+爱尔达娱乐台,http://95.179.139.113:5566/4gtv/19
+靖天综合台,http://95.179.139.113:5566/4gtv/21
+靖天日本台,http://95.179.139.113:5566/4gtv/22
+龙华戏剧台,http://95.179.139.113:5566/4gtv/23
+民视影剧台,http://95.179.139.113:5566/4gtv/24
+龙华日韩台,http://95.179.139.113:5566/4gtv/28
+中天新闻台,http://95.179.139.113:5566/4gtv/30
+民视新闻台,http://95.179.139.113:5566/4gtv/31
+中视新闻,http://95.179.139.113:5566/4gtv/33
+华视新闻,http://95.179.139.113:5566/4gtv/34
+寰宇新闻台,http://95.179.139.113:5566/4gtv/36
+视纳华仁纪实频道,http://95.179.139.113:5566/4gtv/38
+amc电影台,http://95.179.139.113:5566/4gtv/39
+影迷数位电影台,http://95.179.139.113:5566/4gtv/40
+靖天映画,http://95.179.139.113:5566/4gtv/42
+博斯高球台,http://95.179.139.113:5566/4gtv/48
+博斯运动一台,http://95.179.139.113:5566/4gtv/50
+博斯无限台,http://95.179.139.113:5566/4gtv/51
+博斯网球台,http://95.179.139.113:5566/4gtv/52
+TRACE Sport Stars,http://95.179.139.113:5566/4gtv/57
+智林体育台,http://95.179.139.113:5566/4gtv/58
+靖洋卡通Nice Bingo,http://95.179.139.113:5566/4gtv/59
+i-Fun动漫台,http://95.179.139.113:5566/4gtv/60
+民视旅游台,http://95.179.139.113:5566/4gtv/61
+时尚运动X,http://95.179.139.113:5566/4gtv/69
+TRACE Urban,http://95.179.139.113:5566/4gtv/78
+Mezzo Live HD,http://95.179.139.113:5566/4gtv/79
+CLASSICA 古典乐,http://95.179.139.113:5566/4gtv/80
+靖天电影台,http://95.179.139.113:5566/4gtv/82
+靖天育乐台,http://95.179.139.113:5566/4gtv/83
+KLT-靖天国际台,http://95.179.139.113:5566/4gtv/84
+半岛国际新闻台,http://95.179.139.113:5566/4gtv/85
+VOA美国之音,http://95.179.139.113:5566/4gtv/86
+靖天资讯台,http://95.179.139.113:5566/4gtv/88
+凤梨直击台,http://95.179.139.113:5566/4gtv/93
+香蕉直击台,http://95.179.139.113:5566/4gtv/94
+ELTV生活英语台,http://95.179.139.113:5566/4gtv/106
+客家电视台,http://95.179.139.113:5566/4gtv/107
+猪哥亮歌厅秀,http://95.179.139.113:5566/4gtv/113
+八大综艺台,http://95.179.139.113:5566/4gtv/114
+靖天戏剧台,http://95.179.139.113:5566/4gtv/116
+靖洋戏剧台,http://95.179.139.113:5566/4gtv/118
+Nice TV 靖天欢乐,http://95.179.139.113:5566/4gtv/119
+龙华电影台,http://95.179.139.113:5566/4gtv/121
+中视菁采台,http://95.179.139.113:5566/4gtv/123
+中视经典台,http://95.179.139.113:5566/4gtv/124
+Love Nature,http://95.179.139.113:5566/4gtv/139
+车迷TV,http://95.179.139.113:5566/4gtv/160
+幸福空间居家台,http://95.179.139.113:5566/4gtv/168
+三立综合台,http://95.179.139.113:5566/4gtv/169
+国会频道1,http://95.179.139.113:5566/4gtv/170
+国会频道2,http://95.179.139.113:5566/4gtv/171
+八大精彩台,http://95.179.139.113:5566/4gtv/172
+东森购物一台,http://95.179.139.113:5566/4gtv/173
+东森购物二台,http://95.179.139.113:5566/4gtv/174
+LUXE TV Channel,http://95.179.139.113:5566/4gtv/175
+My Cinema Europe HD 我的欧洲电,http://95.179.139.113:5566/4gtv/176
+TV5MONDE STYLE HD 生活时尚,http://95.179.139.113:5566/4gtv/178
+GINX Esports TV,http://95.179.139.113:5566/4gtv/179
+ROCK Action,http://95.179.139.113:5566/4gtv/180
+TechStorm,http://95.179.139.113:5566/4gtv/181
+Pet Club TV,http://95.179.139.113:5566/4gtv/182
+TVBS,http://95.179.139.113:5566/4gtv/183
+TVBS欢乐台,http://95.179.139.113:5566/4gtv/184
+尼克儿童频道,http://95.179.139.113:5566/4gtv/185
+HITS频道,http://95.179.139.113:5566/4gtv/186
+LiveABC互动英语频道,http://95.179.139.113:5566/4gtv/188
+ARIRANG阿里郎频道,http://95.179.139.113:5566/4gtv/189
+经典电影台,http://95.179.139.113:5566/4gtv/201
+经典卡通台,http://95.179.139.113:5566/4gtv/202
+精选动漫台,http://95.179.139.113:5566/4gtv/204
+大爱电视,http://95.179.139.113:5566/4gtv/209
+人间卫视,http://95.179.139.113:5566/4gtv/210
+影迷数位纪实台,http://95.179.139.113:5566/4gtv/212
+MTV Live HD 音乐频道,http://95.179.139.113:5566/4gtv/213
+History 历史频道,http://95.179.139.113:5566/4gtv/214
+CI 罪案侦查频道,http://95.179.139.113:5566/4gtv/215
+Lifetime 娱乐频道,http://95.179.139.113:5566/4gtv/217
+电影原声台CMusic,http://95.179.139.113:5566/4gtv/218
+Nick Jr.儿童频道,http://95.179.139.113:5566/4gtv/219
+XTR亚太台,http://95.179.139.113:5566/4gtv/223
+SBN全球财经台,http://95.179.139.113:5566/4gtv/224
+CinemaWorld,http://95.179.139.113:5566/4gtv/225
+DW德国之声,http://95.179.139.113:5566/4gtv/226
+TVBS精采台,http://95.179.139.113:5566/4gtv/227
+三立新闻iNEWS,http://95.179.139.113:5566/4gtv/229
+大爱二台,http://95.179.139.113:5566/4gtv/230
+MOMO亲子台,http://95.179.139.113:5566/4gtv/231
+CNBC Asia 财经台,http://95.179.139.113:5566/4gtv/235
+金光布袋戏,http://95.179.139.113:5566/4gtv/236
+爱尔达生活旅游,http://95.179.139.113:5566/4gtv/237
+戏剧免费看 2台,http://95.179.139.113:5566/4gtv/244
+电影免费看 2台,http://95.179.139.113:5566/4gtv/245
+民视,http://95.179.139.113:5566/4gtv/246
+滚动力rollor,http://95.179.139.113:5566/4gtv/249
+亚洲旅游台,http://95.179.139.113:5566/4gtv/250
+Global Trekker,http://95.179.139.113:5566/4gtv/252
+民视第一台,http://95.179.139.113:5566/4gtv/254
+民视台湾台,http://95.179.139.113:5566/4gtv/255
+华视新闻,http://95.179.139.113:5566/4gtv/256
+民视新闻台,http://95.179.139.113:5566/4gtv/257
+中视新闻,http://95.179.139.113:5566/4gtv/258
+中天新闻台,http://95.179.139.113:5566/4gtv/260
+亚洲旅游台,http://95.179.139.113:5566/4gtv/261
+镜电视新闻台,http://95.179.139.113:5566/4gtv/268
+儿童卡通台,http://95.179.139.113:5566/4gtv/269
+戏剧免费看 1台,http://95.179.139.113:5566/4gtv/270
+原住民族电视台,http://95.179.139.113:5566/4gtv/273
+fun探索娱乐台,http://95.179.139.113:5566/4gtv/274
+ROCK Entertainment,http://95.179.139.113:5566/4gtv/275
+时尚运动X,http://95.179.139.113:5566/4gtv/277
+超人力霸王整套看,http://95.179.139.113:5566/4gtv/278
+花系列 经典剧场,http://95.179.139.113:5566/4gtv/279
+寰宇新闻台湾台,http://95.179.139.113:5566/4gtv/280
+寰宇财经台,http://95.179.139.113:5566/4gtv/281
+DreamWorks 梦工厂动画,http://95.179.139.113:5566/4gtv/282
+Bloomberg TV,http://95.179.139.113:5566/4gtv/283
+TVBS综艺台,http://95.179.139.113:5566/4gtv/284
+TVBS台剧台,http://95.179.139.113:5566/4gtv/285
+东森购物四台,http://95.179.139.113:5566/4gtv/286
+东森购物三台,http://95.179.139.113:5566/4gtv/287
+Globetrotter 环游旅行家,http://95.179.139.113:5566/4gtv/288
+TVBS新闻台,http://95.179.139.113:5566/4gtv/291
+东森新闻台,http://95.179.139.113:5566/4gtv/292
+东森财经新闻台,http://95.179.139.113:5566/4gtv/293
+BADMINTON,#genre#
+CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.net
+814 Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+BWF,https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+Mediacorp SG,#genre#
+Channel 5,https://d10snd9om7537l.cloudfront.net/out/v1/113b04e639a64217b7cfb1352f7aef1e/manifest.mpd
+Channel 8,https://d10snd9om7537l.cloudfront.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+Channel U,https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+Suria,https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+oktolidays,https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+Singapore Channel,#genre#
+ANIMAX (SGP),https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+GLOBAL TREKKER (SGP),https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
+ANIMAX (SGP),https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+ROCK ACTION (SGP),https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+ROCK ENTERTAINMENT (SGP),https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+GLOBAL TREKKER (SGP),https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
+Animax HD,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+GLOBAL TREKKER (SGP),https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
+ROCK Entertainment,https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+ROCK Action,https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+HBO (Sg),https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+HBO Hits (Sg),https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+HBO Family (Sg),https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+HBO Signature (Sg),https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+Cinemax (Sg),https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+MWAG1,https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
+MWAG3,https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
+MWAG5,https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd
+MWAG6,https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
+AstroGO,#genre#
+Celestial Movies HD CH309,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
+TVB Jade CH310,https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+CTI Asia HD CH316,https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default.mpd
+TVB Entertainment News CH317,https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default.mpd
+TVB Xing He CH319,https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default.mpd
+TVBS Asia HD CH320,https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default.mpd
+Phoenix Info News HD CH326,https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default.mpd
+Astro Hua Hee Dai HD CH333,https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
+CCTV4 HD CH335,https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default.mpd
+KBS World HD CH392,https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
+ONE HD CH393,https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
+tvN HD CH395,https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
+K-Plus HD CH396,https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+NHK World Premium CH398,https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
+BOO CH404,https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+HBO CH411,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+CINEMAX HD CH412,https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+Showcase Movies CH413,https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+HBO Family CH414,https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+HBO Hits HD CH415,https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+tvN Movies HD CH416,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+Astro Awani HD CH501,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+BERNAMA CH502,https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+CGTN CH503,https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default.mpd
+CNN HD CH511,https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default.mpd
+BBC World News HD CH513,https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
+Al Jazeera English HD CH513,https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default.mpd
+Sky News HD CH514,https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default.mpd
+CNA HD CH515,https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default.mpd
+CNBC Asia CH516,https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default.mpd
+Bloomberg TV HD CH517,https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default.mpd
+ABC Australia CH518,https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default.mpd
+DW English CH521,https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default.mpd
+France24 CH522,https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
+Love Nature 4K CH549,https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default.mpd
+Discovery Channel CH552,https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+Discovery Asia CH553,https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
+BBC Earth HD CH554,https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+History HD CH555,https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
+Animal Planet CH556,https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+Love Nature CH558,https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+Global Trekker CH559,https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+Cartoon Network HD CH615,https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
+Nickelodeon CH616,https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+Nickelodeon Junior CH617,https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+Moonbug Kids CH618,https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+DreamWorks CH622,https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+AXN HD CH701,https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+Lifetime HD CH703,https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+HITS HD CH706,https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
+TLC HD CH707,https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+Food Network HD CH708,https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
+Asian Food Network HD CH709,https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
+Warner TV HD CH712,https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+Crime &amp; Investigation CH714,https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd
+HGTV CH715,https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
+DMAX HD CH716,https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
+BBC Lifestyle HD CH717,https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+MTV Asia HD CH718,https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+IQIYI HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+TVB Classic,https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+Celestial Movies HD CH309,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
+TVB Jade CH310,https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+PopC,http://108.181.15.59:50000/mytvsuper/POPC
+Phoenix Chinese Channel HD CH325,https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default.mpd
+CTI Asia HD CH316,https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default.mpd
+TVB Entertainment News CH317,https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default.mpd
+TVB Xing He CH319,https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default.mpd
+TVBS Asia HD CH320,https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default.mpd
+Celestial Classic Movies CH321,https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
+Phoenix Chinese Channel HD CH325,https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default.mpd
+Phoenix Info News HD CH326,https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default.mpd
+Astro Hua Hee Dai HD CH333,https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
+CCTV4 HD CH335,https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default.mpd
+KBS World HD CH392,https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
+ONE HD CH393,https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
+tvN HD CH395,https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
+K-Plus HD CH396,https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+NHK World Premium CH398,https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
+Hits Movies CH401,https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+BOO CH404,https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+HBO CH411,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+CINEMAX HD CH412,https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+Showcase Movies CH413,https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+HBO Family CH414,https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+HBO Hits HD CH415,https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+tvN Movies HD CH416,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+Astro Awani HD CH501,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+BERNAMA CH502,https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+CGTN CH503,https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default.mpd
+CNN HD CH511,https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default.mpd
+BBC World News HD CH513,https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
+Al Jazeera English HD CH513,https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default.mpd
+Sky News HD CH514,https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default.mpd
+CNA HD CH515,https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default.mpd
+CNBC Asia CH516,https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default.mpd
+Bloomberg TV HD CH517,https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default.mpd
+ABC Australia CH518,https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default.mpd
+DW English CH521,https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default.mpd
+France24 CH522,https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
+Love Nature 4K CH549,https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default.mpd
+Discovery Channel CH552,https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+Discovery Asia CH553,https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
+BBC Earth HD CH554,https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+History HD CH555,https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
+Animal Planet CH556,https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+Love Nature CH558,https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+Global Trekker CH559,https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+Cartoon Network HD CH615,https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
+Nickelodeon CH616,https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+Nickelodeon Junior CH617,https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+Moonbug Kids CH618,https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+DreamWorks CH622,https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+AXN HD CH701,https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+Lifetime HD CH703,https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+PRIMEtime HD CH704,https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
+HITS HD CH706,https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
+TLC HD CH707,https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+Food Network HD CH708,https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
+Asian Food Network HD CH709,https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
+Warner TV HD CH712,https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+Crime &amp; Investigation CH714,https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd
+HGTV CH715,https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
+DMAX HD CH716,https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
+BBC Lifestyle HD CH717,https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+MTV Asia HD CH718,https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+ASTRO CERIA HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+Dreamworks,https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
+TV3,https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+Al-Hijrah,http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+TV Okey,https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+TVS,http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+Awesome TV,https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+DRAMA SANGAT,https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+ASTRO OASIS HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+Astro Premier,https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+Astro Tutor TV SMK HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+AstroGO | SPORTS,#genre#
+ASTRO ARENA 2,http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+Astro Arena HD CH801,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+Astro Supersport 4 HD CH814,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+W-Sport CH815,https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd
+SPOTV CH816,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+beIN Sports HD CH818,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+beIN Sport 2 CH817,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+beIN Sport 3 HD CH819,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+Eurosport HD CH820,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
+WWE Network CH821,http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+Golf Channel HD CH822,https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd
+Premier Sports CH823,https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+Astro Cricket CH824,https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+W-Sport,https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+ASTRO SUPERSPORT HD,http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:11&amp;stream=918986&amp;extension=ts&amp;play_token=rLydneZ3T2&amp;sn2=
+ASTRO SUPERSPORT 2 HD,http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:11&amp;stream=1016545&amp;extension=ts&amp;play_token=2tavTXcSCh&amp;sn2=
+ASTRO SUPERSPORT 3 HD,http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:11&amp;stream=918984&amp;extension=ts&amp;play_token=cYZbfjfHaK&amp;sn2=
+ASTRO SUPERSPORT 4 HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+Malaysia,#genre#
+TV1,https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+TV2,https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+TV Okey,https://linear08-playback.sooka.my/CH2/masterCH2.mpd
+DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+FILEM MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+LAWAK SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+DRAMA HOTSPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+TRAVEL &amp; TASTE,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+One HD,https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+KBS World,https://linear03-playback.sooka.my/CH1/masterCH1.mpd
+K-Plus,https://linear08-playback.sooka.my/CH5/masterCH5.mpd
+tvN,https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+tvN Movies,https://linear08-playback.sooka.my/CH4/masterCH4.mpd
+Hit Now,https://linear05-playback.sooka.my/CH3/masterCH3.mpd
+beIN Sports,https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
+Astro VOD,https://d277c08tzca9og.cloudfront.net/CH5/masterCH5.mpd
+8TV CH148,https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+Astro AEC,https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+410 ASTRO PREMIER,https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+112 ASTRO RANIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+113 ASTRO AURA,https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+404 BOO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+411 HBO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+414 HBO FAMILY,https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+415 HBO HITS,https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+412 CINEMAX,https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+413 SHOWCASE,https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+111 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+552 DISCOVERY CHANNEL,https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+553 DISCOVERY ASIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+554 BBC EARTH,https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+555 HISTORY,https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+556 ANIMAL PLANET,https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+601 TUTOR TV SK,https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_ott.mpd
+603 TUTOR TV SMK,https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+612 DREAMWORKS,https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
+615 CARTOON NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+616 NICKELEDEON,https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+617 NICK JR,https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+ANIMAX,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+MOONBUG KID,https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5067/default_ott.mpd
+701 AXN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+703 LIFETIME,https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+707 TLC,https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+708 FOOD NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+709 ASIAN FOOD NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+712 WARNER TV,http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+714 CRIME &amp; INVESTIGATION,https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+715 HGTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+716 DMAX,https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+718 MTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+101 TV1 (server 1),https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+101 TV1 (server 2),https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+101 TV1 (server 3),https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+102 TV2 (server 1),https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+102 TV2 (server 2),https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+103 TV3 (server 1),https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+103 TV3 (server 2),https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+103 TV3 (server 3),https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+122 TVS,https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+147 TV7,https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+149  TV9 (server 1),https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+149 TV9 (server 2),https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+501 ASTRO AWANI,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+501 ASTRO AWANI 2,https://linear03-playback.sooka.my/CH5/masterCH5.mpd
+106 ASTRO OASIS,https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+611 Astro Ceria,https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+114 TV Alhijrah (server 2),http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+146 Okey,https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+107 ASTRO SENSASI,https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+Malaysia 12K,#genre#
+TV1(a) TV 1 my2,http://iptv12k.com:35461/test163/123456011/13652
+TV1(b) TV 1 my2,http://iptv12k.com:35461/test163/123456011/13651
+TV1(c) TV 1 my2,http://iptv12k.com:35461/test163/123456011/13650
+TV2(a) my2,http://iptv12k.com:35461/test163/123456011/13649
+TV2(b) my2,http://iptv12k.com:35461/test163/123456011/13648
+TV3(d) my2,http://iptv12k.com:35461/test163/123456011/13647
+TV3(a) my2,http://iptv12k.com:35461/test163/123456011/13646
+TV3(b) my2,http://iptv12k.com:35461/test163/123456011/13645
+TV3(c) my2 backup,http://iptv12k.com:35461/test163/123456011/13644
+TV3(e) my2,http://iptv12k.com:35461/test163/123456011/13643
+TV6 MY2,http://iptv12k.com:35461/test163/123456011/14321
+NTV7(a) my2,http://iptv12k.com:35461/test163/123456011/13642
+NTV7(b) my2,http://iptv12k.com:35461/test163/123456011/13641
+8TV(a) my2,http://iptv12k.com:35461/test163/123456011/13640
+8TV(b) my2,http://iptv12k.com:35461/test163/123456011/13639
+TV9(a) my2,http://iptv12k.com:35461/test163/123456011/13638
+tv9(b) my2,http://iptv12k.com:35461/test163/123456011/13637
+ASTRO Ria(a) my2,http://iptv12k.com:35461/test163/123456011/13636
+ASTRO Ria(b) my2,http://iptv12k.com:35461/test163/123456011/13635
+ASTRO RIA(c) my2 backup,http://iptv12k.com:35461/test163/123456011/13634
+Ria(d)ASTRO my2,http://iptv12k.com:35461/test163/123456011/13633
+ASTRO Prima (a)  my2,http://iptv12k.com:35461/test163/123456011/13632
+Astro prima(B) my2,http://iptv12k.com:35461/test163/123456011/13631
+Astro prima(C) my2,http://iptv12k.com:35461/test163/123456011/13630
+WARNA(a) my2,http://iptv12k.com:35461/test163/123456011/13629
+WARNA(b) my2,http://iptv12k.com:35461/test163/123456011/13628
+ASTRO Warna(c) my2,http://iptv12k.com:35461/test163/123456011/13627
+Warna(d) my2,http://iptv12k.com:35461/test163/123456011/13626
+Warna(e) my2,http://iptv12k.com:35461/test163/123456011/13625
+Warna(f) my2,http://iptv12k.com:35461/test163/123456011/13624
+ASTRO Oasis (a) my2,http://iptv12k.com:35461/test163/123456011/13623
+ASTRO Ceria HD Reparing my2,http://iptv12k.com:35461/test163/123456011/13622
+ASTRO Rania HD my2,http://iptv12k.com:35461/test163/123456011/13621
+TVS my2,http://iptv12k.com:35461/test163/123456011/13620
+AWESOME(b) my2,http://iptv12k.com:35461/test163/123456011/13618
+Awesome TV my2,http://iptv12k.com:35461/test163/123456011/13617
+[SG] OKEY my2,http://iptv12k.com:35461/test163/123456011/13616
+TV-AlHijrah my2,http://iptv12k.com:35461/test163/123456011/13615
+Aljazeera my2,http://iptv12k.com:35461/test163/123456011/13614
+ASTRO Awani HD my2,http://iptv12k.com:35461/test163/123456011/13613
+Bernama News my2,http://iptv12k.com:35461/test163/123456011/13612
+BOO my2,http://iptv12k.com:35461/test163/123456011/13611
+ASTRO Citra (B) my2,http://iptv12k.com:35461/test163/123456011/13610
+ASTRO Aura HD Malaysia my2,http://iptv12k.com:35461/test163/123456011/13609
+ASTRO Tutor TV PT3 my2,http://iptv12k.com:35461/test163/123456011/13605
+ASTRO Tutor TV UPSR my2,http://iptv12k.com:35461/test163/123456011/13604
+ASTRO Tutor TV SPM my2,http://iptv12k.com:35461/test163/123456011/13603
+tvN Movies my2,http://iptv12k.com:35461/test163/123456011/13602
+tvN HD my2,http://iptv12k.com:35461/test163/123456011/13601
+KBS World HD my2,http://iptv12k.com:35461/test163/123456011/13600
+One HD  my2,http://iptv12k.com:35461/test163/123456011/13599
+ASTRO Quan Jia HD my2,http://iptv12k.com:35461/test163/123456011/13598
+AEC(b)ASTRO,http://iptv12k.com:35461/test163/123456011/709
+AEC ASTRO(a) my2 tou,http://iptv12k.com:35461/test163/123456011/13597
+ASTRO iQIYI HD my2,http://iptv12k.com:35461/test163/123456011/13596
+ASTRO Hua Hee Dai HD my2,http://iptv12k.com:35461/test163/123456011/13595
+ASTRO Shuang Xing HD双星  my2,http://iptv12k.com:35461/test163/123456011/13594
+双星 Shuang Xing(b)Astro my2,http://iptv12k.com:35461/test163/123456011/13593
+ASTRO AOD 351 HD my2,http://iptv12k.com:35461/test163/123456011/13592
+ASTRO AOD 352 HD my2,http://iptv12k.com:35461/test163/123456011/13591
+ASTRO AOD 353 HD my2,http://iptv12k.com:35461/test163/123456011/13590
+ASTRO AOD 354 HD my2,http://iptv12k.com:35461/test163/123456011/13589
+ASTRO AOD 355 HD my2,http://iptv12k.com:35461/test163/123456011/13588
+ASTRO Xiao Tai Yang HD my2,http://iptv12k.com:35461/test163/123456011/13587
+TVB Classic my2,http://iptv12k.com:35461/test163/123456011/13586
+TVB Jade HD my2,http://iptv12k.com:35461/test163/123456011/13585
+TVB E-News my2,http://iptv12k.com:35461/test163/123456011/13584
+TVB Xing He HD my2,http://iptv12k.com:35461/test163/123456011/13583
+TVBS Asia my2,http://iptv12k.com:35461/test163/123456011/13582
+CTI Asia 中天亚洲 my2,http://iptv12k.com:35461/test163/123456011/13581
+CCM my2,http://iptv12k.com:35461/test163/123456011/13580
+Celestial Movies HD my2,http://iptv12k.com:35461/test163/123456011/13579
+Kix HD ind my2,http://iptv12k.com:35461/test163/123456011/13577
+Rugby Pass TV my2,http://iptv12k.com:35461/test163/123456011/13576
+Aniplus HD my2,http://iptv12k.com:35461/test163/123456011/13575
+BollyOne HD my2,http://iptv12k.com:35461/test163/123456011/13574
+ASTRO Cricket my2,http://iptv12k.com:35461/test163/123456011/13573
+Comedy Central my2,http://iptv12k.com:35461/test163/123456011/13572
+ASTRO Vaanavil HD my2,http://iptv12k.com:35461/test163/123456011/13571
+ASTRO VINMEEN my2,http://iptv12k.com:35461/test163/123456011/13570
+Makkal TV my2,http://iptv12k.com:35461/test163/123456011/13569
+ASTRO Star Vijay HD my2,http://iptv12k.com:35461/test163/123456011/13568
+Sun TV HD MY my2,http://iptv12k.com:35461/test163/123456011/13567
+Sun Music my2,http://iptv12k.com:35461/test163/123456011/13566
+Sony SetMAX my2,http://iptv12k.com:35461/test163/123456011/13565
+Sony SAB my2,http://iptv12k.com:35461/test163/123456011/13564
+Zee Cinema my2,http://iptv12k.com:35461/test163/123456011/13563
+Zee TV HD my2,http://iptv12k.com:35461/test163/123456011/13562
+ASTRO Colors Tamil my2,http://iptv12k.com:35461/test163/123456011/13561
+Colors Cineplex  my2,http://iptv12k.com:35461/test163/123456011/13560
+Polimer news  my2,http://iptv12k.com:35461/test163/123456011/13559
+Raj TV my2,http://iptv12k.com:35461/test163/123456011/13558
+Jaya Max my2,http://iptv12k.com:35461/test163/123456011/13557
+Jaya TV my2,http://iptv12k.com:35461/test163/123456011/13556
+ASTRO Adithya  my2,http://iptv12k.com:35461/test163/123456011/13555
+Chutti TV my2,http://iptv12k.com:35461/test163/123456011/13554
+UTV movies my2,http://iptv12k.com:35461/test163/123456011/13553
+ASSP1(a) Astro Supersports Premier League 1  my2.,http://iptv12k.com:35461/test163/123456011/13552
+ASSP2(e) Astro Supersports Premier League 2 my2,http://iptv12k.com:35461/test163/123456011/13551
+ASSP3(g)Astro Supersports Premier League 3 my2,http://iptv12k.com:35461/test163/123456011/13550
+ASSP4(e)Astro Supersports Premier 4 my2,http://iptv12k.com:35461/test163/123456011/13549
+WWE Network my2,http://iptv12k.com:35461/test163/123456011/13546
+Eurosport HD my2,http://iptv12k.com:35461/test163/123456011/13545
+HGTV HD my2,http://iptv12k.com:35461/test163/123456011/13544
+AFC AFN my2,http://iptv12k.com:35461/test163/123456011/13543
+TLC HD my2,http://iptv12k.com:35461/test163/123456011/13542
+Asia Food Network my2,http://iptv12k.com:35461/test163/123456011/13541
+E! HD my2,http://iptv12k.com:35461/test163/123456011/13540
+DMAX HD my2,http://iptv12k.com:35461/test163/123456011/13539
+Travel Channel HD my2,http://iptv12k.com:35461/test163/123456011/13538
+Crime Investigation my2,http://iptv12k.com:35461/test163/123456011/13537
+Animal Planet HD my2,http://iptv12k.com:35461/test163/123456011/13536
+NatGeo HD National Geographic my my2,http://iptv12k.com:35461/test163/123456011/13535
+NatGeo Wild HD my2,http://iptv12k.com:35461/test163/123456011/13534
+History HD my2,http://iptv12k.com:35461/test163/123456011/13533
+Discovery Science HD my2,http://iptv12k.com:35461/test163/123456011/13532
+Discovery HD my2,http://iptv12k.com:35461/test163/123456011/13531
+Disney XD HD my2,http://iptv12k.com:35461/test163/123456011/13530
+BBC Lifestyle my my2,http://iptv12k.com:35461/test163/123456011/13529
+BBC Earth HD my my2,http://iptv12k.com:35461/test163/123456011/13528
+BBC News HD my2,http://iptv12k.com:35461/test163/123456011/13527
+DW HD my2,http://iptv12k.com:35461/test163/123456011/13526
+Love Nature HD my2,http://iptv12k.com:35461/test163/123456011/13483
+Nick Jr my2,http://iptv12k.com:35461/test163/123456011/13482
+Cartoon Network HD my2,http://iptv12k.com:35461/test163/123456011/13481
+Nickelodeon HD my2,http://iptv12k.com:35461/test163/123456011/13480
+Baby First my2,http://iptv12k.com:35461/test163/123456011/13479
+Cbeebies my2,http://iptv12k.com:35461/test163/123456011/13478
+Boomerang HD my2,http://iptv12k.com:35461/test163/123456011/13477
+FOX Action Movies my2,http://iptv12k.com:35461/test163/123456011/13475
+FOX HD my2,http://iptv12k.com:35461/test163/123456011/13473
+AXN HD TW my2,http://iptv12k.com:35461/test163/123456011/13472
+AXN HD my2,http://iptv12k.com:35461/test163/123456011/13471
+[TW] CINEMAX HD my2,http://iptv12k.com:35461/test163/123456011/13470
+Cinemax HD my2,http://iptv12k.com:35461/test163/123456011/13469
+Cinema World HD my2,http://iptv12k.com:35461/test163/123456011/13468
+SIN-Animax my2,http://iptv12k.com:35461/test163/123456011/13467
+Animax my2,http://iptv12k.com:35461/test163/123456011/13466
+[TW] Warner TV my2,http://iptv12k.com:35461/test163/123456011/13465
+Warner TV my2,http://iptv12k.com:35461/test163/123456011/13464
+Hits HD my2,http://iptv12k.com:35461/test163/123456011/13463
+Hits Movies HD my2,http://iptv12k.com:35461/test163/123456011/13462
+Blue Ant Extreme my2,http://iptv12k.com:35461/test163/123456011/13461
+Blue Ant Entertainment HD my2,http://iptv12k.com:35461/test163/123456011/13460
+SIN-HBO my2,http://iptv12k.com:35461/test163/123456011/13459
+HBO HD my2,http://iptv12k.com:35461/test163/123456011/13458
+SIN-HBO Hits my2,http://iptv12k.com:35461/test163/123456011/13457
+HBO Hits MY my2,http://iptv12k.com:35461/test163/123456011/13456
+SIN-HBO Family my2,http://iptv12k.com:35461/test163/123456011/13455
+HBO Family my my2,http://iptv12k.com:35461/test163/123456011/13454
+SIN-HBO Signature my2,http://iptv12k.com:35461/test163/123456011/13453
+HBO Signature my my2,http://iptv12k.com:35461/test163/123456011/13452
+Indosiar my2,http://iptv12k.com:35461/test163/123456011/13451
+CNN HD my2,http://iptv12k.com:35461/test163/123456011/13450
+CNBC my2,http://iptv12k.com:35461/test163/123456011/13449
+ABC Australia my2,http://iptv12k.com:35461/test163/123456011/13448
+Sky News HD my2,http://iptv12k.com:35461/test163/123456011/13447
+Bloomberg TV my2,http://iptv12k.com:35461/test163/123456011/13446
+France 24 HD my2,http://iptv12k.com:35461/test163/123456011/13445
+Euro news my my2,http://iptv12k.com:35461/test163/123456011/13444
+FOX NEWS my2,http://iptv12k.com:35461/test163/123456011/13443
+MTV Live my2,http://iptv12k.com:35461/test163/123456011/13442
+[ID] NHK World Premium my2,http://iptv12k.com:35461/test163/123456011/13441
+OUTDOOR my2,http://iptv12k.com:35461/test163/123456011/13440
+Celestial Movies my2,http://iptv12k.com:35461/test163/123456011/13439
+DRAMA SANGAT,http://iptv12k.com:35461/test163/123456011/5997
+DRAMA SANGAT my2,http://iptv12k.com:35461/test163/123456011/13438
+My-Showcase Movies my2,http://iptv12k.com:35461/test163/123456011/13437
+My-Paramount Channel my2,http://iptv12k.com:35461/test163/123456011/13436
+My-Phoenix Chinese Channel my2,http://iptv12k.com:35461/test163/123456011/13435
+My-TVB Entertainment News my2,http://iptv12k.com:35461/test163/123456011/13434
+ASTRO Prima (a)  TL,http://iptv12k.com:35461/test163/123456011/13411
+ASTRO Tutor TV PT3 TL,http://iptv12k.com:35461/test163/123456011/13383
+ASTRO Tutor TV SPM TL,http://iptv12k.com:35461/test163/123456011/13381
+ASTRO iQIYI HD TL,http://iptv12k.com:35461/test163/123456011/13374
+AEC ASTRO Shuang Xing HD双星  TL Astro QJ,http://iptv12k.com:35461/test163/123456011/13372
+AEC 双星 Shuang Xing(b)Astro TL,http://iptv12k.com:35461/test163/123456011/13371
+ASTRO AOD 351  311 HD TL,http://iptv12k.com:35461/test163/123456011/13370
+ASTRO AOD 352 HD TL,http://iptv12k.com:35461/test163/123456011/13369
+ASTRO AOD 353 HD TL,http://iptv12k.com:35461/test163/123456011/13368
+ASTRO AOD 354 HD TL,http://iptv12k.com:35461/test163/123456011/13367
+ASTRO AOD 355 HD TL,http://iptv12k.com:35461/test163/123456011/13366
+TVB Jade HD TL,http://iptv12k.com:35461/test163/123456011/13363
+TVB Xing He HD TL,http://iptv12k.com:35461/test163/123456011/13361
+CTI Asia 中天亚洲 TL,http://iptv12k.com:35461/test163/123456011/13359
+CCM MYTL,http://iptv12k.com:35461/test163/123456011/13358
+Celestial Movies HD TL,http://iptv12k.com:35461/test163/123456011/13357
+Rugby Pass TV TL,http://iptv12k.com:35461/test163/123456011/13353
+BollyOne HD TL,http://iptv12k.com:35461/test163/123456011/13351
+Comedy Central TL,http://iptv12k.com:35461/test163/123456011/13349
+Makkal TV TL,http://iptv12k.com:35461/test163/123456011/13346
+Sun TV HD MY TL,http://iptv12k.com:35461/test163/123456011/13344
+Sun Music TL,http://iptv12k.com:35461/test163/123456011/13343
+Sony SetMAX TL,http://iptv12k.com:35461/test163/123456011/13342
+Sony SAB TL,http://iptv12k.com:35461/test163/123456011/13341
+Zee TV HD TL,http://iptv12k.com:35461/test163/123456011/13339
+ASTRO Colors Tamil TL,http://iptv12k.com:35461/test163/123456011/13338
+Colors Cineplex  TL,http://iptv12k.com:35461/test163/123456011/13337
+Raj TV TL,http://iptv12k.com:35461/test163/123456011/13335
+Jaya Max TL,http://iptv12k.com:35461/test163/123456011/13334
+Chutti TV TL,http://iptv12k.com:35461/test163/123456011/13331
+UTV movies TL,http://iptv12k.com:35461/test163/123456011/13330
+ASSP2(e) Astro Supersports Premier League 2 TL,http://iptv12k.com:35461/test163/123456011/13328
+WWE Network TL,http://iptv12k.com:35461/test163/123456011/13325
+HGTV HD TL,http://iptv12k.com:35461/test163/123456011/13323
+AFC AFN TL,http://iptv12k.com:35461/test163/123456011/13322
+TLC HD TL,http://iptv12k.com:35461/test163/123456011/13321
+E! HD TL,http://iptv12k.com:35461/test163/123456011/13319
+Travel Channel HD TL,http://iptv12k.com:35461/test163/123456011/13317
+Crime Investigation TL,http://iptv12k.com:35461/test163/123456011/13316
+Animal Planet HD TL,http://iptv12k.com:35461/test163/123456011/13315
+NatGeo Wild HD TL,http://iptv12k.com:35461/test163/123456011/13313
+History HD TL,http://iptv12k.com:35461/test163/123456011/13312
+Discovery Science HD TL,http://iptv12k.com:35461/test163/123456011/13311
+Discovery HD TL,http://iptv12k.com:35461/test163/123456011/13310
+Disney XD HD TL,http://iptv12k.com:35461/test163/123456011/13309
+BBC Lifestyle my TL,http://iptv12k.com:35461/test163/123456011/13308
+BBC Earth HD my TL,http://iptv12k.com:35461/test163/123456011/13307
+BBC News HD TL,http://iptv12k.com:35461/test163/123456011/13306
+TV1(a) TV 1,http://iptv12k.com:35461/test163/123456011/6505
+TV1(b) TV 1,http://iptv12k.com:35461/test163/123456011/742
+TV1(cc) TV 1,http://iptv12k.com:35461/test163/123456011/10015
+TV2(a),http://iptv12k.com:35461/test163/123456011/10014
+TV2(b),http://iptv12k.com:35461/test163/123456011/741
+TV3(a),http://iptv12k.com:35461/test163/123456011/5072
+TV3(b),http://iptv12k.com:35461/test163/123456011/8267
+TV3(c),http://iptv12k.com:35461/test163/123456011/5073
+TV3(d),http://iptv12k.com:35461/test163/123456011/334
+TV3(e),http://iptv12k.com:35461/test163/123456011/740
+TV6 MY,http://iptv12k.com:35461/test163/123456011/4142
+NTV7,http://iptv12k.com:35461/test163/123456011/739
+NTV7(b),http://iptv12k.com:35461/test163/123456011/23835
+8TV(a),http://iptv12k.com:35461/test163/123456011/738
+8TV(b),http://iptv12k.com:35461/test163/123456011/10992
+8TV(my),http://iptv12k.com:35461/test163/123456011/19800
+TV9(a),http://iptv12k.com:35461/test163/123456011/737
+tv9(my),http://iptv12k.com:35461/test163/123456011/10210
+Awesome TV,http://iptv12k.com:35461/test163/123456011/743
+AWESOME(b),http://iptv12k.com:35461/test163/123456011/10353
+TVS,http://iptv12k.com:35461/test163/123456011/745
+ASTRO Ria(a),http://iptv12k.com:35461/test163/123456011/735
+ASTRO Ria(b),http://iptv12k.com:35461/test163/123456011/4354
+ASTRO RIA(c),http://iptv12k.com:35461/test163/123456011/4353
+ASTRO Ria(d),http://iptv12k.com:35461/test163/123456011/10838
+ASTRO Prima (A),http://iptv12k.com:35461/test163/123456011/734
+Astro prima(B),http://iptv12k.com:35461/test163/123456011/5959
+Astro prima(C),http://iptv12k.com:35461/test163/123456011/5958
+WARNA(a),http://iptv12k.com:35461/test163/123456011/5075
+WARNA(b),http://iptv12k.com:35461/test163/123456011/5074
+ASTRO Warna(c),http://iptv12k.com:35461/test163/123456011/733
+Warna(d),http://iptv12k.com:35461/test163/123456011/212
+Warna(e),http://iptv12k.com:35461/test163/123456011/9169
+Warna(f),http://iptv12k.com:35461/test163/123456011/4313
+AEC ASTRO(a),http://iptv12k.com:35461/test163/123456011/4341
+ASTRO Quan Jia HD,http://iptv12k.com:35461/test163/123456011/710
+Hong Kong 12K,#genre#
+Now Sports 英超4Keng HK,http://iptv12k.com:35461/test163/123456011/30979
+Now Sports 英超1eng  HK,http://iptv12k.com:35461/test163/123456011/30978
+Now Sports 英超4k1(粤语) HK hub3,http://iptv12k.com:35461/test163/123456011/30977
+Now Sports 英超1(粤语) HK,http://iptv12k.com:35461/test163/123456011/30976
+Now Sports 4,http://iptv12k.com:35461/test163/123456011/21724
+Now Sports 5,http://iptv12k.com:35461/test163/123456011/21722
+Now Sports 6,http://iptv12k.com:35461/test163/123456011/21720
+Now Sports 7,http://iptv12k.com:35461/test163/123456011/21718
+TVB戲曲台戏曲台,http://iptv12k.com:35461/test163/123456011/21690
+Now 体育3 Sports 3,http://iptv12k.com:35461/test163/123456011/21688
+Now 体育2 Sports 2,http://iptv12k.com:35461/test163/123456011/21686
+Now Sports 1,http://iptv12k.com:35461/test163/123456011/21684
+TVB 黃金翡翠台,http://iptv12k.com:35461/test163/123456011/20948
+TVB華語劇台,http://iptv12k.com:35461/test163/123456011/21682
+TVB粵語片台,http://iptv12k.com:35461/test163/123456011/21680
+TVB 功夫台,http://iptv12k.com:35461/test163/123456011/20827
+無線新聞台 (b)HK,http://iptv12k.com:35461/test163/123456011/20813
+[HK] 有線603HK,http://iptv12k.com:35461/test163/123456011/13259
+[HK] 有線 18 台HK,http://iptv12k.com:35461/test163/123456011/13258
+[HK] 翡翠台(b)HK No Sub,http://iptv12k.com:35461/test163/123456011/13257
+翡翠台(a)TVB JadeHK,http://iptv12k.com:35461/test163/123456011/13256
+翡翠台 MYHK,http://iptv12k.com:35461/test163/123456011/13255
+[HK] 明珠台HK,http://iptv12k.com:35461/test163/123456011/13254
+[HK] 有線新聞台 有线新闻台HK,http://iptv12k.com:35461/test163/123456011/13253
+[HK] 有線體育台HK,http://iptv12k.com:35461/test163/123456011/13252
+[HK] 耀才财经HK,http://iptv12k.com:35461/test163/123456011/13251
+[HK] NOW 直播台HK,http://iptv12k.com:35461/test163/123456011/13250
+NOW 新闻台,http://iptv12k.com:35461/test163/123456011/20588
+[HK] NOW 体育台HK,http://iptv12k.com:35461/test163/123456011/13249
+[HK] 香港開電視HK,http://iptv12k.com:35461/test163/123456011/13248
+[HK] 無線新聞台HK,http://iptv12k.com:35461/test163/123456011/13247
+[HK] 無線財經台HK,http://iptv12k.com:35461/test163/123456011/13246
+[HK] 電影一台HK,http://iptv12k.com:35461/test163/123456011/13245
+[HK] HITSHK,http://iptv12k.com:35461/test163/123456011/13244
+[HK] VIU TVHK,http://iptv12k.com:35461/test163/123456011/13243
+[HK] VIU sixHK,http://iptv12k.com:35461/test163/123456011/13242
+[HK] TVB J2HK,http://iptv12k.com:35461/test163/123456011/13241
+[HK] RHK 32HK,http://iptv12k.com:35461/test163/123456011/13240
+[HK] RHK 31HK,http://iptv12k.com:35461/test163/123456011/13239
+[HK] TVB_CLASSICHK,http://iptv12k.com:35461/test163/123456011/13238
+[HK] NOW财经台HK,http://iptv12k.com:35461/test163/123456011/13237
+[HK] TVB_E-NEWSHK,http://iptv12k.com:35461/test163/123456011/13236
+[HK] TVB星河粤语TVB XING HEHK,http://iptv12k.com:35461/test163/123456011/13235
+[HK] 凤凰香港台HK,http://iptv12k.com:35461/test163/123456011/13234
+[HK] 凤凰资讯HK,http://iptv12k.com:35461/test163/123456011/13233
+[HK] 凤凰中文HK,http://iptv12k.com:35461/test163/123456011/13232
+[HK] 澳亚卫视HK,http://iptv12k.com:35461/test163/123456011/13231
+SPORTS,#genre#
+701 Unifi Sports,https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;tenantId=6003&amp;from=5&amp;ocs=2_1.9.62.168_80&amp;hms_devid=1785&amp;mag_hms=1785,1793,1786,1788&amp;it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+Astro Arena Bola,http://ali.hlspull.yximgs.com/live/389f38a01e3a168f0617ba3b3b5670af.flv
+111 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+816 SPOTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+801 Astro Arena,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+802 Astro Arena 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+814 Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+820 Eurosport,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+809 Spotv,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+809 Astro Box Office,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
+818 BeINSports,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+817 beINSports 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+819 beINSports 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+Astro Arena Bola 2,https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+111 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+816 SPOTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+801 Astro Arena,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+802 Astro Arena 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+814 Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+820 Eurosport,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+809 Spotv,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+809 Astro Box Office,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
+818 BeINSports,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+817 beINSports 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+819 beINSports 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+BEIN 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+BEIN 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+BEIN 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+BEIN 4,https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv&amp;zoneoffset=0&amp;servicetype=2&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=V%2B5TlG5zAAAe3XE8YHHQk1bRXr%2FeSM9LS0lyp4GeYao1q7iIFFz1kaSxy9Uiipe8UKyw03LDAhIti5x0wdAZ1PHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20220902114518%3AUTC%2C1001767138%2C210.186.211.75%2C20220902114518%2Curn:Huawei:liveTV:XTV57682031%2C1001767138%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C1612403%2C0%2C517698%2C3133383759%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;tenantId=6001&amp;from=5&amp;hms_devid=1798&amp;mag_hms=1798,1792&amp;mount=1000002&amp;targetdev=1798&amp;it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUZwOpwdPRdBFglXX-KafIrhJugb9-1gE3d_nXSs4PB8NDEEjn5QHJXomlQ5eDs6B9Jq70CNp-LTFCOIg57REW_zO7uPh0THKKOcdFZJc990pQzT8W9rXPGH9sxHrlhwa3wLdoFGIsWKENZWFXjK8bzX_kg8NLFhpmQAAAA
+BEIN SPORT RUGBY,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
+816 SPOTV 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+810 SPOTV 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+820 EURO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+821 WWE NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+822 ASTRO GOLF,https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+823 PREMIER,https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+824 ASTRO CRICKET,https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+Premier Football 1,https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+Premier Football 2,https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+Premier Football 3,https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+Premier Football 4,https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+Premier Football 5,https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+DAZN DE 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+DAZN DE 2,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+DAZN ES 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+DAZN ES 2,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+DAZN LALIGA,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+DAZN F1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+MOVIES,#genre#
+321 Celestial Classic Movies,https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+ROCK Action (SG),https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
+200 Astro First,https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
+413 Showcase Movies,http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+706 Hits,https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+401 HITS Movies,https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+713 Paramount Network,https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
+411 HBO HD (SG),https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+415 HBO Hits (MY),https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+415 HBO Hits (SG),https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+414 HBO Family (MY),https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+416 HBO Signature,https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+412 Cinemax (MY),https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+412 Cinemax (SG),https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+Action Movies 1,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=rokuChannel&amp;deviceMake=rokuChannel&amp;deviceDNT=1&amp;advertisingId=channel&amp;embedPartner=rokuChannel&amp;appName=rokuchannel&amp;is_lat=1&amp;bmodel=bm1&amp;content=channel&amp;platform=web&amp;tags=ROKU_CONTENT_TAGS&amp;coppa=false&amp;content_type=livefeed&amp;rdid=channel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;studio_id=viacom&amp;channel_id=channel
+Action Movies 2,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=rokuChannel&amp;deviceMake=rokuChannel&amp;deviceDNT=1&amp;advertisingId=channel&amp;embedPartner=rokuChannel&amp;appName=rokuchannel&amp;is_lat=1&amp;bmodel=bm1&amp;content=channel&amp;platform=web&amp;tags=ROKU_CONTENT_TAGS&amp;coppa=false&amp;content_type=livefeed&amp;rdid=channel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;studio_id=viacom&amp;channel_id=channel
+HBO HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+SPORTS (ASTRO GO),#genre#
+Astro GO Live Event 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+Astro GO Live Event 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+Astro Go Live Event 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+Astro Go Live Event 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+SPORT LIVE EVENTS🔰,#genre#
+Setanta Sports Event 1,https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
+Setanta Sports Event 2,https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
+SPORTS(ASTRO GO),#genre#
+Setanta Sports Event 3,https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
+Setanta Sports Event 4,https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
+Setanta Sports Event 5,https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
+Setanta Sports Event 6,https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
+Setanta Sports Event 7,https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
+Setanta Sports Event 8,https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
+Setanta Sports Event 9,https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
+Setanta Sports Event 10,https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
+Setanta Sports Event 11,https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
+Setanta Sports Event 12,https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
+Setanta Sports Event 13,https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
+Setanta Sports Event 14,https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
+Setanta Sports Event 15,https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
+TV DOCUMENTARY,#genre#
+708 Food Network,http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+709 Asian Food Network (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+556 Animal Planet (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+552 Discovery Channel (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+553 Discovery Asia,https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+555 History (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+714 Crime &amp; Investigation (MY),https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+554 BBC Earth (MY),https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+BBC Lifestyle (MY),https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+550 Love Nature,https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+Wild Earth,https://wildearth-roku.amagi.tv/masterR1080p.m3u8
+551 Global Trekker,https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+Outdoor Channel,https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
+NHK World Japan,https://live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+NHK World Premium,https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+716 Dmax,https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+715 HGTV (MY),https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+715 HGTV (ID),https://live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+707 TLC (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+707 TLC (ID),https://live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+Nature TV,https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+Naturescape,https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+Nature Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+TV KOREAN,#genre#
+416 tvN Movies (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+416 tvN Movies (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+416 tvN Movies (ID),https://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+395 tvN,https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+ONE (MY),https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+•韩国「KO」,#genre#
+tvN Movies,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+395 tvN,https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+K-Plus,https://linear08-playback.sooka.my/CH5/masterCH5.mpd
+KBS World,https://linear03-playback.sooka.my/CH1/masterCH1.mpd
+ONE HD,https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+KBS World,http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+TJB,http://1.245.74.5:1935/live/tv/.m3u8
+Job Plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBS 1,https://tv.iill.top/kbs/11&amp;p=0
+KBS 2,https://tv.iill.top/kbs/12&amp;p=0
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+CTS 基督教기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+Job Plus tv,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+MALAYSIA,#genre#
+ASTRO PRIMA HD,https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+ASTRO RANIA HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+ASTRO AURA HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
+BOO HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+Astro Hua Hee Dai HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
+Astro AEC HD,http://yesimes.oknirvana.club:8880/live/D12m2083/das2321sa452/1723.ts
+TV1 HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+TV2 HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+8TV,https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+TV9,https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+DIDIK TV KPM,https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
+NEWS,#genre#
+501 Astro Awani,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+501 Astro Awani,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+CNN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+Al Jazeera English,https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+•myTV SUPER「TiviMate」,#genre#
+翡翠台 4K,https://tv.iill.top/MyTV/JUHD
+翡翠台,https://tv.iill.top/MyTV/J
+TVB Plus,https://tv.iill.top/MyTV/B
+明珠台,https://tv.iill.top/MyTV/P
+myTV SUPER FREE,https://tv.iill.top/MyTV/CWIN
+黃金翡翠台,https://tv.iill.top/MyTV/TVG
+無綫新聞台,https://tv.iill.top/MyTV/C
+娛樂新聞台,https://tv.iill.top/MyTV/CTVE
+鳳凰衛視·中文,https://tv.iill.top/MyTV/PCC
+鳳凰衛視·資訊,https://tv.iill.top/MyTV/PIN
+鳳凰衛視·香港,https://tv.iill.top/MyTV/PHK
+中央電視台綜合頻道 (RTHK33),https://tv.iill.top/MyTV/CC1
+創世電視,https://tv.iill.top/MyTV/CRE
+INDIAN (ASTRO GO),#genre#
+Colors Tamil HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
+Zee Tamil HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+ABO Movies Thangathirai HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+Colors Hindi HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+Astro Vaanavil HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+SUN TV,https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+Sun Music HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+Chutti TV,https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
+Adithya,https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+Star Vijay HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+Astro Vellithirai,https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default.mpd
+TV CHINESE,#genre#
+300 IQIYI,https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+305 TVB CLASSIC,https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+309 CELESTIAL,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+310 TVB JADE,https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+319 TVB XING HE,https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+320 TVBS ASIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+325 PHOENIX,https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+333 ASTRO HUA HEE DAI,https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+300 IQIYI,https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+305 TVB CLASSIC,https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+Astro AEC,https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+Astro AOD,https://linear07-playback.sooka.my/CH5/masterCH5.mpd
+309 CELESTIAL MOVIES,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+310 TVB JADE,https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+319 TVB XING HE,https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+320 TVBS ASIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+321 CELESTIAL CLASSIC MOVIES,https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+325 PHOENIX,https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+333 ASTRO HUA HEE DAI,https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+中国,#genre#
+CCTV 1 综合,https://tv.iill.top/migu/cctv1
+CCTV 2 财经,https://tv.iill.top/migu/cctv2
+CCTV 3 综艺,https://tv.iill.top/migu/cctv3
+CCTV 4 中文国际,https://tv.iill.top/migu/cctv4
+CCTV 4 中文国际·美洲,https://tv.iill.top/migu/cctv4m
+CCTV 4 中文国际·欧洲,https://tv.iill.top/migu/cctv4o
+CCTV 5 体育,https://tv.iill.top/migu/cctv5
+CCTV 5+ 体育赛事,https://tv.iill.top/migu/cctv5p
+CCTV 6 电影,https://tv.iill.top/migu/cctv6
+CCTV 7 国防军事,https://tv.iill.top/migu/cctv7
+CCTV 8 电视剧,https://tv.iill.top/migu/cctv8
+CCTV 9 纪录,https://tv.iill.top/migu/cctv9
+CCTV 10 科教,https://tv.iill.top/migu/cctv10
+CCTV 11 戏曲,https://tv.iill.top/migu/cctv11
+CCTV 12 社会与法,https://tv.iill.top/migu/cctv12
+CCTV 13 新闻,https://tv.iill.top/migu/cctv13
+CCTV 14 少儿,https://tv.iill.top/migu/cctv14
+CCTV 15 音乐,https://tv.iill.top/migu/cctv15
+CCTV 17 农村农业,https://tv.iill.top/migu/cctv17
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+广东卫视,https://tv.iill.top/migu/gdws
+江苏卫视,https://tv.iill.top/migu/jsws
+陕西卫视,https://tv.iill.top/migu/sxws
+江西卫视,https://tv.iill.top/migu/jxws
+海峡卫视,https://tv.iill.top/migu/hxws
+湖北卫视,https://tv.iill.top/migu/hubws
+纪实人文,https://tv.iill.top/migu/shjs
+七彩戏剧,https://tv.iill.top/migu/qcxj
+东方影视,https://tv.iill.top/migu/shys
+CHC 家庭影院,https://tv.iill.top/migu/jtyy
+欢笑剧场,https://tv.iill.top/migu/hxjc
+劲爆体育,https://tv.iill.top/migu/jbty
+魅力足球,https://tv.iill.top/migu/mlzq
+游戏风云,https://tv.iill.top/migu/yxfy
+四海钓鱼,https://tv.iill.top/migu/shdy
+经典香港电影,https://tv.iill.top/migu/xgdy
+新片放映厅,https://tv.iill.top/migu/xpdy
+英雄联盟赛事,https://tv.iill.top/migu/lol
+咪咕24小时体育台,https://tv.iill.top/migu/mgty
+掼蛋精英赛,https://tv.iill.top/migu/dds
+NBA经典,https://tv.iill.top/migu/nba
+CBA经典,https://tv.iill.top/migu/cba
+五大联赛经典,https://tv.iill.top/migu/lsjd
+中国风云足球,https://tv.iill.top/migu/fyzq
+UFC格斗精选,https://tv.iill.top/migu/ufc
+全民乒乓,https://tv.iill.top/migu/qmpp
+4K频道,http://home.js001.com:7777/stream/channelid/746745884?profile=pass
+C1 凤凰卫视,http://home.js001.com:7777/stream/channelid/327340771?profile=pass
+C2 凤凰咨询,http://home.js001.com:7777/stream/channelid/1347243459?profile=pass
+CCTV 01 综合 HD,http://home.js001.com:7777/stream/channelid/2047244483?profile=pass
+CCTV 02 财经 HD,http://home.js001.com:7777/stream/channelid/1181369424?profile=pass
+CCTV 03 综艺 HD,http://home.js001.com:7777/stream/channelid/1708718087?profile=pass
+CCTV 04 中文国际 HD,http://home.js001.com:7777/stream/channelid/110915426?profile=pass
+CCTV 05 体育 HD,http://home.js001.com:7777/stream/channelid/1005016003?profile=pass
+CCTV 05+ 体育赛事 HD,http://home.js001.com:7777/stream/channelid/376950284?profile=pass
+CCTV 06 电影 HD,http://home.js001.com:7777/stream/channelid/1531555713?profile=pass
+CCTV 07 国防军事 HD,http://home.js001.com:7777/stream/channelid/1337252658?profile=pass
+CCTV 08 电视剧 HD,http://home.js001.com:7777/stream/channelid/841425397?profile=pass
+CCTV 09 记录 HD,http://home.js001.com:7777/stream/channelid/349290233?profile=pass
+CCTV 10 科教 HD,http://home.js001.com:7777/stream/channelid/1857941135?profile=pass
+CCTV 11 戏曲 HD,http://home.js001.com:7777/stream/channelid/1584887484?profile=pass
+CCTV 12 社会与法 HD,http://home.js001.com:7777/stream/channelid/604912287?profile=pass
+CCTV 13 新闻 HD,http://home.js001.com:7777/stream/channelid/2133997348?profile=pass
+CCTV 14 青少 HD,http://home.js001.com:7777/stream/channelid/328826133?profile=pass
+CCTV 15 音乐 HD,http://home.js001.com:7777/stream/channelid/1502316774?profile=pass
+CCTV 16 奥林匹克  HD,http://home.js001.com:7777/stream/channelid/43205297?profile=pass
+CCTV 16 奥林匹克 4K,http://home.js001.com:7777/stream/channelid/1661554041?profile=pass
+CCTV 17 农村农业 HD,http://home.js001.com:7777/stream/channelid/800428881?profile=pass
+CCTV 4K,http://home.js001.com:7777/stream/channelid/1788242048?profile=pass
+CCTV 世界地理 HD,http://home.js001.com:7777/stream/channelid/169829115?profile=pass
+CCTV 兵器科技 HD,http://home.js001.com:7777/stream/channelid/1209763785?profile=pass
+CCTV 女性时尚 靓妆 HD,http://home.js001.com:7777/stream/channelid/790182847?profile=pass
+CCTV 第一剧场 HD,http://home.js001.com:7777/stream/channelid/450800508?profile=pass
+CCTV风云足球 HD,http://home.js001.com:7777/stream/channelid/1069494532?profile=pass
+CCTV高尔夫网球,http://home.js001.com:7777/stream/channelid/1329489557?profile=pass
+CHC动作电影 HD,http://home.js001.com:7777/stream/channelid/1524691456?profile=pass
+CHC家庭影院,http://home.js001.com:7777/stream/channelid/569319485?profile=pass
+CHC高清电影,http://home.js001.com:7777/stream/channelid/138818596?profile=pass
+T01 电影CINEMAX,http://home.js001.com:7777/stream/channelid/354815841?profile=pass
+T02 体育Star Sports,http://home.js001.com:7777/stream/channelid/284416174?profile=pass
+T03 电影HBO,http://home.js001.com:7777/stream/channelid/2040560853?profile=pass
+T04 卫视电影Star Sports,http://home.js001.com:7777/stream/channelid/1787158087?profile=pass
+T05 国家地理,http://home.js001.com:7777/stream/channelid/510605985?profile=pass
+T06 凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+T07 KBS,http://home.js001.com:7777/stream/channelid/1926215694?profile=pass
+T08 NHK,http://home.js001.com:7777/stream/channelid/2121161686?profile=pass
+三沙卫视 HD,http://home.js001.com:7777/stream/channelid/1976493232?profile=pass
+上海东方卫视 HD,http://home.js001.com:7777/stream/channelid/935157586?profile=pass
+上海东方财经,http://home.js001.com:7777/stream/channelid/1652786925?profile=pass
+上海五星体育 HD,http://home.js001.com:7777/stream/channelid/1857949992?profile=pass
+上海新闻综合,http://home.js001.com:7777/stream/channelid/320946772?profile=pass
+上海都市 HD,http://home.js001.com:7777/stream/channelid/952861138?profile=pass
+东南卫视 HD,http://home.js001.com:7777/stream/channelid/549977164?profile=pass
+中广一套,http://home.js001.com:7777/stream/channelid/1875473557?profile=pass
+中教四套,http://home.js001.com:7777/stream/channelid/1231127989?profile=pass
+中视购物,http://home.js001.com:7777/stream/channelid/1995207589?profile=pass
+优优宝贝,http://home.js001.com:7777/stream/channelid/717228422?profile=pass
+优漫卡通,http://home.js001.com:7777/stream/channelid/426373495?profile=pass
+优购物,http://home.js001.com:7777/stream/channelid/1968086739?profile=pass
+兵团卫视,http://home.js001.com:7777/stream/channelid/51705982?profile=pass
+动漫秀场,http://home.js001.com:7777/stream/channelid/330049056?profile=pass
+北京卫视 HD,http://home.js001.com:7777/stream/channelid/831085837?profile=pass
+华数服务 HD,http://home.js001.com:7777/stream/channelid/1790061063?profile=pass
+卡酷少儿 HD,http://home.js001.com:7777/stream/channelid/91454755?profile=pass
+卫生健康,http://home.js001.com:7777/stream/channelid/442051654?profile=pass
+吉林卫视 HD,http://home.js001.com:7777/stream/channelid/238665852?profile=pass
+嘉兴交通频率,http://home.js001.com:7777/stream/channelid/1209591448?profile=pass
+嘉兴公共频道 HD,http://home.js001.com:7777/stream/channelid/1435343713?profile=pass
+嘉兴城乡生活频率,http://home.js001.com:7777/stream/channelid/2062007852?profile=pass
+嘉兴文化影视 HD,http://home.js001.com:7777/stream/channelid/1263382402?profile=pass
+嘉兴新闻综合 HD,http://home.js001.com:7777/stream/channelid/1035045269?profile=pass
+嘉兴新闻综合频率,http://home.js001.com:7777/stream/channelid/1402856041?profile=pass
+嘉善人民广播,http://home.js001.com:7777/stream/channelid/1049079733?profile=pass
+嘉善公共应急,http://home.js001.com:7777/stream/channelid/1668315536?profile=pass
+嘉善善文化 HD,http://home.js001.com:7777/stream/channelid/1091151380?profile=pass
+嘉善新闻综合 HD,http://home.js001.com:7777/stream/channelid/1331784265?profile=pass
+嘉善资讯服务,http://home.js001.com:7777/stream/channelid/1801677461?profile=pass
+四川卫视 HD,http://home.js001.com:7777/stream/channelid/1262785849?profile=pass
+四海钓鱼,http://home.js001.com:7777/stream/channelid/2128083959?profile=pass
+天元围棋,http://home.js001.com:7777/stream/channelid/480300023?profile=pass
+天津卫视 HD,http://home.js001.com:7777/stream/channelid/1014315020?profile=pass
+好享购物,http://home.js001.com:7777/stream/channelid/636214770?profile=pass
+好易购,http://home.js001.com:7777/stream/channelid/496604052?profile=pass
+安徽卫视 HD,http://home.js001.com:7777/stream/channelid/1327176965?profile=pass
+山东卫视 HD,http://home.js001.com:7777/stream/channelid/381149734?profile=pass
+广东卫视 HD,http://home.js001.com:7777/stream/channelid/1971098978?profile=pass
+摄影频道,http://home.js001.com:7777/stream/channelid/2097601758?profile=pass
+教育台1,http://home.js001.com:7777/stream/channelid/1544111536?profile=pass
+数码时代,http://home.js001.com:7777/stream/channelid/174148467?profile=pass
+新疆卫视,http://home.js001.com:7777/stream/channelid/65208443?profile=pass
+梨园频道,http://home.js001.com:7777/stream/channelid/782734182?profile=pass
+求索纪录,http://home.js001.com:7777/stream/channelid/1549571705?profile=pass
+求索纪录 HD,http://home.js001.com:7777/stream/channelid/1311034607?profile=pass
+江苏卫视 HD,http://home.js001.com:7777/stream/channelid/31605677?profile=pass
+江西卫视 HD,http://home.js001.com:7777/stream/channelid/445567678?profile=pass
+汽摩,http://home.js001.com:7777/stream/channelid/438631218?profile=pass
+河南卫视,http://home.js001.com:7777/stream/channelid/848366056?profile=pass
+浙江之江纪录 HD,http://home.js001.com:7777/stream/channelid/1537837782?profile=pass
+浙江交通之声频率,http://home.js001.com:7777/stream/channelid/26624205?profile=pass
+浙江卫视 HD,http://home.js001.com:7777/stream/channelid/44909195?profile=pass
+浙江少儿 HD,http://home.js001.com:7777/stream/channelid/1275522912?profile=pass
+浙江教科影视 HD,http://home.js001.com:7777/stream/channelid/816055334?profile=pass
+浙江新闻 HD,http://home.js001.com:7777/stream/channelid/2115184593?profile=pass
+浙江新闻综合频率,http://home.js001.com:7777/stream/channelid/776728137?profile=pass
+浙江旅游之声,http://home.js001.com:7777/stream/channelid/1183338144?profile=pass
+浙江民生休闲 HD,http://home.js001.com:7777/stream/channelid/1558808462?profile=pass
+浙江经视 HD,http://home.js001.com:7777/stream/channelid/1952681679?profile=pass
+浙江钱江 HD,http://home.js001.com:7777/stream/channelid/782193856?profile=pass
+深圳卫视 HD,http://home.js001.com:7777/stream/channelid/1755670741?profile=pass
+游戏竞技,http://home.js001.com:7777/stream/channelid/1434079374?profile=pass
+湖北卫视 HD,http://home.js001.com:7777/stream/channelid/1098503860?profile=pass
+湖南卫视 HD,http://home.js001.com:7777/stream/channelid/1057814870?profile=pass
+湖南快乐垂钓 HD,http://home.js001.com:7777/stream/channelid/678058210?profile=pass
+环球俄语,http://home.js001.com:7777/stream/channelid/1347904945?profile=pass
+环球旅游,http://home.js001.com:7777/stream/channelid/414909248?profile=pass
+环球法语,http://home.js001.com:7777/stream/channelid/1316535466?profile=pass
+环球英语新闻,http://home.js001.com:7777/stream/channelid/338351661?profile=pass
+环球西班牙语,http://home.js001.com:7777/stream/channelid/1897642906?profile=pass
+环球阿拉伯语,http://home.js001.com:7777/stream/channelid/526294677?profile=pass
+精彩影视,http://home.js001.com:7777/stream/channelid/685272731?profile=pass
+纪实科教 HD,http://home.js001.com:7777/stream/channelid/58712203?profile=pass
+聚鲨环球精选,http://home.js001.com:7777/stream/channelid/2135978220?profile=pass
+节目导航,http://home.js001.com:7777/stream/channelid/149270857?profile=pass
+西藏卫视,http://home.js001.com:7777/stream/channelid/1949800378?profile=pass
+辽宁卫视 HD,http://home.js001.com:7777/stream/channelid/800530619?profile=pass
+重庆卫视 HD,http://home.js001.com:7777/stream/channelid/133021347?profile=pass
+金鹰卡通 HD,http://home.js001.com:7777/stream/channelid/1333065964?profile=pass
+青海卫视,http://home.js001.com:7777/stream/channelid/684036725?profile=pass
+风尚购物,http://home.js001.com:7777/stream/channelid/2116423133?profile=pass
+黑龙江卫视 HD,http://home.js001.com:7777/stream/channelid/1480797258?profile=pass
+
+EPL 英超,#genre#
+Peacock,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+Moji,https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+OPTUS 1 Australia,http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+OPTUS 3 Australia,http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+OPTUS 4 Australia,http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+OPTUS 5 Australia,http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+OPTUS 6 Australia,http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+USA Network (a),https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+USA Network (b),https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+NBC Sport Peacock,https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+Peacock,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+Peacock,https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+SPORT ARENA,https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+TNT 1,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+Astro Supersport 1,https://stream1.freetv.fun/assp-3.ctv
+Astro Supersport 2,https://stream1.freetv.fun/assp2-5.ctv
+Astro Supersport 3,https://stream1.freetv.fun/assp3-7.ctv
+Astro Supersport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+SPORT ARENA,https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+TNT Sports 1 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=1546251&amp;extension=ts&amp;play_token=YuUle32JPm
+beIN Sports HD,http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+beIN Sports 2 HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+beIN Sports 3 HD,http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+Hub Sport Premier 1,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&amp;stream=1379231&amp;extension=ts&amp;play_token=NMvEuK1nJl&amp;sn2=
+Hub Sport Premier 2,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&amp;stream=1379232&amp;extension=ts&amp;play_token=hoOf7hVRhN&amp;sn2=
+Hub Sport Premier 3,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&amp;stream=1379233&amp;extension=ts&amp;play_token=Y8meGP6N7B&amp;sn2=
+ASTRO SUPERSPORT HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=918986&amp;extension=ts&amp;play_token=7j5xbe63uw
+ASTRO SUPERSPORT 2 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=1016545&amp;extension=ts&amp;play_token=HyVGRHCuFt
+ASTRO SUPERSPORT 3 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=918984&amp;extension=ts&amp;play_token=q51govdR89
+ASTRO SUPERSPORT 4 HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+CCTV 5,http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=cctv5
+Now SPORTS PREMIER LEAGUE HD 1,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&amp;stream=1032487&amp;extension=ts&amp;play_token=41L2kpDNhO&amp;sn2=
+Now SPORTS PREMIER LEAGUE HD 2,https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
+SUPER SPORTS PREMIER LEAGUE HD 1,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&amp;stream=239078&amp;extension=ts&amp;play_token=9rEGfvJk6q&amp;sn2=
+NOW PREMIER SPORTS 1,https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
+SKY SPORTS MAIN EVENTS,http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2184.ts
+SKY SPORTS PREMIER LEAGUE HD,http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&amp;stream=1894&amp;extension=ts&amp;play_token=ujFiDlaB9A#http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2181.ts#http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2182.ts
+USA NETWORK,http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3767.ts
+USA NETWORK,http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3694.ts
+Premier League TV - Peacock,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+USA Network (West),https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+NBC USA,https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+TNT Sports 1 FHD,https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+TNT Sports 2 FHD,https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+TNT Sports 3 FHD,https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+TNT Sports 4 FHD,https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+TNT 1,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+TNT 2,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+TNT 3,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+TNT 4,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+TNT 5,https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+🇪🇸 DAZN 1,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+🇪🇸 DAZN 2,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+🇪🇸 DAZN 3,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+🇪🇸 DAZN 4,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+🇪🇸 DAZN LaLiga,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+🇪🇸 LaLiga TV Hypermotion,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+🇪🇸 LaLiga TV Hypermotion 2,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+🇪🇸 LaLiga TV Hypermotion 3,https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+SUPERSPORT PREMIER LEAGUE,http://yesimes.oknirvana.club:8880/live/D12m2083/das2321sa452/60799.ts
+Now Sports Plus,https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
+Now Sports 英超1,https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
+Now Sports 英超2,https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
+Now Sports 英超3,https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
+Now Sports 英超4,https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
+Now Sports 英超5,https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
+Now Sports 英超6,https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
+Now Sports  4K,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&amp;stream=1032487&amp;extension=ts&amp;play_token=41L2kpDNhO&amp;sn2=
+myTV SUPER 直播足球3台,https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&amp;p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+myTV SUPER 直播足球4台,https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&amp;p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+myTV SUPER 直播足球5台,https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&amp;p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+myTV SUPER 直播足球6台,https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&amp;p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+UK: Sky Sports Premier League FHD 1,http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
+UK: Sky Sports Premier League FHD 2,http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+NO: VIASAT SPORTS 1 FHD,http://extraott.com//7795309038/1092686646/63953
+NO: VIASAT SPORTS 2 FHD,http://extraott.com//7795309038/1092686646/63951
+PPV| HUB PREMIER 2 FHD,http://extraott.com//7795309038/1092686646/9060
+Hub Premier 2 4K,http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+Astro SuperSport 4K,http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
+BeIN Sport Arabic 4K,http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
+UK: Sky Sports Main Event 4K,http://doubleclicktv.live/70376812/52663544/620667
+Hong Kong (mag),#genre#
+PHOENIX INFONEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=156407&amp;extension=ts&amp;play_token=9nYIJzPB5G
+PHOENIX NEWS (NA),http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=156408&amp;extension=ts&amp;play_token=YiFj9GT7qF
+NOW PREMIER SPORTS 1 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=554953&amp;extension=ts&amp;play_token=TNN3CEm4iS
+PHOENIX HK CHANNEL,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153402&amp;extension=ts&amp;play_token=jykujVr6VX
+TVB XING HE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153506&amp;extension=ts&amp;play_token=VS3YCa8fKq
+TVBS ASIA,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153507&amp;extension=ts&amp;play_token=aZJIx5ZeiX
+TVB JADE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153505&amp;extension=ts&amp;play_token=DA37hB3G79#http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153505&amp;extension=ts&amp;play_token=DA37hB3G79
+TVB E NEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153504&amp;extension=ts&amp;play_token=gLF3r6wdvB
+TVB CLASSIC,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153503&amp;extension=ts&amp;play_token=pxVdT6sxs3
+TVB CHINESE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153401&amp;extension=ts&amp;play_token=j4AJp2Fx4e
+TVBE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153398&amp;extension=ts&amp;play_token=9h9V9Hs10c
+TVB2,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153397&amp;extension=ts&amp;play_token=aLfH5tU8rJ
+TVB1,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153396&amp;extension=ts&amp;play_token=YwMZQ0bMJy
+TVB HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=153395&amp;extension=ts&amp;play_token=EgRA0a48mx
+FAIRCHILD 2 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=90352&amp;extension=ts&amp;play_token=c99vayWfP2
+FAIRCHILD WEST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=90351&amp;extension=ts&amp;play_token=uFOGmKCL3J
+FAIRCHILD EAST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:B0:EE&amp;stream=90350&amp;extension=ts&amp;play_token=VH7SQE5Zza
+PHOENIX INFONEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=156407&amp;extension=ts&amp;play_token=9nYIJzPB5G
+PHOENIX NEWS (NA),http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=156408&amp;extension=ts&amp;play_token=YiFj9GT7qF
+NOW PREMIER SPORTS 1 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=554953&amp;extension=ts&amp;play_token=TNN3CEm4iS
+PHOENIX HK CHANNEL,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153402&amp;extension=ts&amp;play_token=jykujVr6VX
+TVB XING HE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153506&amp;extension=ts&amp;play_token=VS3YCa8fKq
+TVBS ASIA,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153507&amp;extension=ts&amp;play_token=aZJIx5ZeiX
+TVB JADE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153505&amp;extension=ts&amp;play_token=DA37hB3G79
+TVB E NEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153504&amp;extension=ts&amp;play_token=gLF3r6wdvB
+TVB CLASSIC,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153503&amp;extension=ts&amp;play_token=pxVdT6sxs3
+TVB CHINESE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153401&amp;extension=ts&amp;play_token=j4AJp2Fx4e
+TVBE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153398&amp;extension=ts&amp;play_token=9h9V9Hs10c
+TVB2,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153397&amp;extension=ts&amp;play_token=aLfH5tU8rJ
+TVB1,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153396&amp;extension=ts&amp;play_token=YwMZQ0bMJy
+TVB HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153395&amp;extension=ts&amp;play_token=EgRA0a48mx
+FAIRCHILD 2 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=90352&amp;extension=ts&amp;play_token=c99vayWfP2
+FAIRCHILD WEST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=90351&amp;extension=ts&amp;play_token=uFOGmKCL3J
+FAIRCHILD EAST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=90350&amp;extension=ts&amp;play_token=VH7SQE5Zza
+PHOENIX INFONEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=156407&amp;extension=ts&amp;play_token=9nYIJzPB5G
+PHOENIX NEWS (NA),http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=156408&amp;extension=ts&amp;play_token=YiFj9GT7qF
+NOW PREMIER SPORTS 1 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=554953&amp;extension=ts&amp;play_token=TNN3CEm4iS
+PHOENIX HK CHANNEL,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153402&amp;extension=ts&amp;play_token=jykujVr6VX
+TVB XING HE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153506&amp;extension=ts&amp;play_token=VS3YCa8fKq
+TVBS ASIA,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153507&amp;extension=ts&amp;play_token=aZJIx5ZeiX
+TVB JADE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153505&amp;extension=ts&amp;play_token=DA37hB3G79#http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153505&amp;extension=ts&amp;play_token=DA37hB3G79
+TVB E NEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153504&amp;extension=ts&amp;play_token=gLF3r6wdvB
+TVB CLASSIC,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153503&amp;extension=ts&amp;play_token=pxVdT6sxs3
+TVB CHINESE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153401&amp;extension=ts&amp;play_token=j4AJp2Fx4e
+TVBE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153398&amp;extension=ts&amp;play_token=9h9V9Hs10c
+TVB2,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153397&amp;extension=ts&amp;play_token=aLfH5tU8rJ
+TVB1,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153396&amp;extension=ts&amp;play_token=YwMZQ0bMJy
+TVB HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=153395&amp;extension=ts&amp;play_token=EgRA0a48mx
+FAIRCHILD 2 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=90352&amp;extension=ts&amp;play_token=c99vayWfP2
+FAIRCHILD WEST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=90351&amp;extension=ts&amp;play_token=uFOGmKCL3J
+FAIRCHILD EAST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:AD:F5&amp;stream=90350&amp;extension=ts&amp;play_token=VH7SQE5Zza
+PHOENIX INFONEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=156407&amp;extension=ts&amp;play_token=9nYIJzPB5G
+PHOENIX NEWS (NA),http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=156408&amp;extension=ts&amp;play_token=YiFj9GT7qF
+NOW PREMIER SPORTS 1 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=554953&amp;extension=ts&amp;play_token=TNN3CEm4iS
+PHOENIX HK CHANNEL,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153402&amp;extension=ts&amp;play_token=jykujVr6VX
+TVB XING HE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153506&amp;extension=ts&amp;play_token=VS3YCa8fKq
+TVBS ASIA,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153507&amp;extension=ts&amp;play_token=aZJIx5ZeiX
+TVB JADE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153505&amp;extension=ts&amp;play_token=DA37hB3G79
+TVB E NEWS,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153504&amp;extension=ts&amp;play_token=gLF3r6wdvB
+TVB CLASSIC,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153503&amp;extension=ts&amp;play_token=pxVdT6sxs3
+TVB CHINESE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153401&amp;extension=ts&amp;play_token=j4AJp2Fx4e
+TVBE,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153398&amp;extension=ts&amp;play_token=9h9V9Hs10c
+TVB2,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153397&amp;extension=ts&amp;play_token=aLfH5tU8rJ
+TVB1,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153396&amp;extension=ts&amp;play_token=YwMZQ0bMJy
+TVB HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=153395&amp;extension=ts&amp;play_token=EgRA0a48mx
+FAIRCHILD 2 HD,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=90352&amp;extension=ts&amp;play_token=c99vayWfP2
+FAIRCHILD WEST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=90351&amp;extension=ts&amp;play_token=uFOGmKCL3J
+FAIRCHILD EAST,http://mag.greatott.me:80/play/live.php?mac=00:1A:79:01:17:AF&amp;stream=90350&amp;extension=ts&amp;play_token=VH7SQE5Zza
+PHOENIX INFONEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=156407&amp;extension=ts&amp;play_token=eos8Vottby
+PHOENIX NEWS (NA),http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=156408&amp;extension=ts&amp;play_token=SKgVNFln5O
+HK| PHOENIX CHINESE,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=114695&amp;extension=ts&amp;play_token=OW6mzwiMCI#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=114695&amp;extension=ts&amp;play_token=jLtyyN1yHg#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=114695&amp;extension=ts&amp;play_token=4h9RDgtpka
+HK| PHOENIX HK CHANNEL,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153402&amp;extension=ts&amp;play_token=Va2HtR9jUD#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153402&amp;extension=ts&amp;play_token=vBulb9w1pg#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153402&amp;extension=ts&amp;play_token=v43osRykOm
+HK| TVB XING HE,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153506&amp;extension=ts&amp;play_token=7livGuQBaD#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153506&amp;extension=ts&amp;play_token=wyB6qEnZAe#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153506&amp;extension=ts&amp;play_token=fLGDAlFJ46
+HK| TVBS ASIA,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153507&amp;extension=ts&amp;play_token=OeXTndPBsR#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153507&amp;extension=ts&amp;play_token=XLcs7b9PLI#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153507&amp;extension=ts&amp;play_token=pslPlEkJDJ
+HK| TVB JADE,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153505&amp;extension=ts&amp;play_token=fBhtVghfRR#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153505&amp;extension=ts&amp;play_token=KiAMrmNLoN#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153505&amp;extension=ts&amp;play_token=d7hZTgp8Pu
+HK| TVB E NEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153504&amp;extension=ts&amp;play_token=GEk4V6gVs1#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153504&amp;extension=ts&amp;play_token=aBYX414lpB#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153504&amp;extension=ts&amp;play_token=CqaDFvaX8F
+HK| TVB CLASSIC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153503&amp;extension=ts&amp;play_token=wvngVkiBai#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153503&amp;extension=ts&amp;play_token=OJshSWnJUt#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153503&amp;extension=ts&amp;play_token=8ZkVehSdCw
+HK| TVB CHINESE,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153401&amp;extension=ts&amp;play_token=KzSpwHv2K0#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153401&amp;extension=ts&amp;play_token=og1Vyfg6Bz#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153401&amp;extension=ts&amp;play_token=ikVE5MfuRb
+HK| TVBE,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153398&amp;extension=ts&amp;play_token=4GoSJW2hPg#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153398&amp;extension=ts&amp;play_token=FIIZSBC0fL#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153398&amp;extension=ts&amp;play_token=vBQ1Vm6KaH
+HK| TVB PEARL,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153399&amp;extension=ts&amp;play_token=8FxkufGboL#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153399&amp;extension=ts&amp;play_token=RvsQvyG9fT#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153399&amp;extension=ts&amp;play_token=ilFdcRTwF9
+HK| TVB DRAMA,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153400&amp;extension=ts&amp;play_token=sJ9EtES7rC#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153400&amp;extension=ts&amp;play_token=i9XT1uz3NL#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153400&amp;extension=ts&amp;play_token=4niLaZXKJK
+HK| TVB2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153397&amp;extension=ts&amp;play_token=0oztYQGkLG#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153397&amp;extension=ts&amp;play_token=4qYsDgvwLt#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153397&amp;extension=ts&amp;play_token=igZRyMjgun
+HK| TVB1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=153395&amp;extension=ts&amp;play_token=h4dCHjIwxJ#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153396&amp;extension=ts&amp;play_token=PyznYd25kU#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153396&amp;extension=ts&amp;play_token=MInQmjLT0z
+HK| TVB HD,http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=153395&amp;extension=ts&amp;play_token=GSeS2kPBfo#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=153395&amp;extension=ts&amp;play_token=q7ZWhW5oIC
+HK| FAIRCHILD 2 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=90352&amp;extension=ts&amp;play_token=F0sRjNrAWV#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=90352&amp;extension=ts&amp;play_token=4NOK7OMfDd#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=90352&amp;extension=ts&amp;play_token=GJugYier0k
+HK| FAIRCHILD WEST,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=90351&amp;extension=ts&amp;play_token=mblUFmGu4l#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=90351&amp;extension=ts&amp;play_token=tbN35GH5vk#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=90351&amp;extension=ts&amp;play_token=TLlge336cV
+HK| FAIRCHILD EAST,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=90350&amp;extension=ts&amp;play_token=YCVSDhHVvK#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&amp;stream=90350&amp;extension=ts&amp;play_token=AzJcNFiKhS#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&amp;stream=90350&amp;extension=ts&amp;play_token=yB8E7qZC4v
+HK| NOW SPORTS 2 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=554948&amp;extension=ts&amp;play_token=DwOOybag8Q
+HK| NOW SPORTS 3 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=554947&amp;extension=ts&amp;play_token=iu8FzQ2uII
+HK| NOW PREMIER SPORTS 1 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:6C:18:22&amp;stream=554953&amp;extension=ts&amp;play_token=lAtRB9T7GT
+NBA(itv41),#genre#
+CA-NBA TV,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/22995
+Sports Fanatic's ,#genre#
+CA Sportsnet East (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/41836
+CA Sportsnet One (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/10247
+CA TSN 4 HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/16130
+KIDS ZONE,#genre#
+CA YTV East,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/63850
+CA Cartoon Network,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57380
+CA Cartoon Network (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57356
+CA Disney Junior,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57349
+CA Disney XD (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57420
+US Discovery Family,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57347
+CA: Family Jr HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57346
+CANADA,#genre#
+CA: A&amp;E,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57476
+CA A&amp;E,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57264
+CA: ABC SPARK,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57375
+CA: AMC,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57376
+CA: Animal Planet,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57377
+CA: BNN Bloomberg HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57358
+CA: Bravo,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57379
+CA CBC NEWS NETWORK (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57304
+CA CBC Calgary HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57381
+CA CBC Charlottetown HD (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57382
+CA: CBC Edmonton,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57384
+CA CBC Halifax HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57385
+CA CBC Montreal HD (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57387
+CA: CBC OTTAWA,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57305
+CA CBC Toronto,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57260
+CA: CBC TORONTO,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57306
+CA: CBC Vancouver,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57391
+CA CHCH (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57393
+CA CHCH (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57259
+CA: CHRGD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/75653
+CA CITY TV CALGARY (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/75652
+CA City TV Toronto (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57394
+CA: CITY TV TORONTO HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57307
+CA CITY TV VANCOUVER (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57395
+CA CMT,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57258
+CA: CNN,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57398
+CA CNN,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47213
+CA Cottage Life HD (B),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47217
+CA CP24 News HD (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57357
+CA CP24 News HD (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57401
+CA CP24 HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57345
+CA: CP24 FHD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47218
+CA: CP24 HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57257
+CA: CPAC,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57402
+CA: CPAC English,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57352
+CA CPAC HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57351
+CA: CRAVE 1 HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57309
+CA: CRAVE 2 HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57310
+CA: CRAVE 3,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57322
+CA: CRAVE 4 HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57311
+CA: CRIME &amp; INVESTIGATION,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57256
+CA CTV Two Atlantic,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/79547
+CA CTV CALGARY (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57964
+CA CTV Comedy Channel,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57408
+CA CTV Drama Channel (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57254
+CA CTV Edmonton Alberta HD (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/58725
+CA CTV Halifax Nova Scotia HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57410
+CA CTV Kitchener,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/58557
+CA CTV 2 London HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/58546
+CA CTV Montreal HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47234
+CA: CTV NEWS CHANNEL HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57350
+CA: CTV OTTAWA,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47237
+CA CTV Regina Saskatchewan HD (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/66381
+CA CTV Saskatoon Saskatchewan HD (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/66382
+CA CTV Sci-Fi Channel (B),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57253
+CA CTV Toronto HD (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47296
+CA: CTV2 Vancouver,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57316
+CA CTV2 Windsor HD (B),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/77165
+CA CTV Barrie Ontario HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57373
+CA Discovery Channel,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57252
+CA: Discovery Science,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57418
+CA: DIY NETWORK FHD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47258
+CA: DTOUR HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57250
+CA E! (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57422
+CA: E! CANADA HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57249
+CA Food Network,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57247
+CA FOX NEWS,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47281
+CA: FX HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57268
+CA FXX (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57429
+CA Game Show Network HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57430
+CA: Ginx esports TV,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57431
+CA Global News Kingston (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57432
+CA Global Edmonton News (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/58724
+CA: Global Halifax News,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57434
+CA Global News Regina (D),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/66384
+CA Global Saskatoon (B),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/66383
+CA GLOBAL TORONTO,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435
+CA: GLOBAL TORONTO,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57302
+CA: Global Vancouver,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57436
+CA: Golf Channel HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57362
+CA: HBO 1,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57437
+CA HBO 2 (R),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57438
+CA HGTV,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57273
+CA HISTORY,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47302
+CA HISTORY (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57272
+CA: HLN,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57441
+CA Investigation Discovery HD (E),http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57442
+CA Lifetime,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57271
+CA: Lifetime Movie Network,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57444
+CA Love Nature HD,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47324
+CA: MAKEFUL,http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57270
