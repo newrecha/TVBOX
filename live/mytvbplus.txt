@@ -494,7 +494,6 @@ Globetrotter 环游旅行家,http://95.179.139.113:5566/4gtv/288
 TVBS新闻台,http://95.179.139.113:5566/4gtv/291
 东森新闻台,http://95.179.139.113:5566/4gtv/292
 东森财经新闻台,http://95.179.139.113:5566/4gtv/293
-BADMINTON,#genre#
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.net
 814 Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 BWF,https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
@@ -504,6 +503,17 @@ Channel 8,https://d10snd9om7537l.cloudfront.net/out/v1/423fa206c4ea458ebe83d6edd
 Channel U,https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 Suria,https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 oktolidays,https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+创世电视,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=e02646a9122b6b62413c86d798d89e76&ext_start_limit=1728236842&int_start_limit=1728236842&ts=1728236842&c=241564436
+SUPER Kids Channel,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=d5784d4db1a8d040514c53c3abcca7e9&ext_start_limit=1728236843&int_start_limit=1728236843&ts=1728236843&c=241564436
+ZooMoo,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=3cace54caf2c6b609cc868e51a51452f&ext_start_limit=1728236846&int_start_limit=1728236846&ts=1728236846&c=241564436
+Nick Jr.,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=2ce745754426ab6b1a78637313304593&ext_start_limit=1728236908&int_start_limit=1728236908&ts=1728236908&c=241564436
+Love Nature HD,http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=274828ccda02c3bf688cc8f8942ea3f6&ext_start_limit=1728236914&int_start_limit=1728236914&ts=1728236914&c=241564436
+Love Nature 4K,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=ad42b409ed509afd714837588f88ffa7&ext_start_limit=1728236920&int_start_limit=1728236920&ts=1728236920&c=241564436
+Global Trekker,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=8c91bc4650fc0129555bcf16f93c497c&ext_start_limit=1728236924&int_start_limit=1728236924&ts=1728236924&c=241564436
+AXN,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=a2f8995090d4c37806d3f1d9a3b2a3df&ext_start_limit=1728236926&int_start_limit=1728236926&ts=1728236926&c=241564436
+FashionBox,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=72700c9e5b4907c616b69b45db8a326a&ext_start_limit=1728236928&int_start_limit=1728236928&ts=1728236928&c=241564436
+Mezzo Live HD,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=f95d944137bc2ae6b38f2eab8cbab881&ext_start_limit=1728236929&int_start_limit=1728236929&ts=1728236929&c=241564436
+
 Singapore Channel,#genre#
 ANIMAX (SGP),https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 GLOBAL TREKKER (SGP),https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
@@ -524,6 +534,7 @@ MWAG1,https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/man
 MWAG3,https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
 MWAG5,https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd
 MWAG6,https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
+
 AstroGO,#genre#
 Celestial Movies HD CH309,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 TVB Jade CH310,https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default.mpd
@@ -662,6 +673,7 @@ DRAMA SANGAT,https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 ASTRO OASIS HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 Astro Premier,https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 Astro Tutor TV SMK HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+
 AstroGO | SPORTS,#genre#
 ASTRO ARENA 2,http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 Astro Arena HD CH801,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
@@ -681,6 +693,27 @@ ASTRO SUPERSPORT HD,http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:11
 ASTRO SUPERSPORT 2 HD,http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:11&amp;stream=1016545&amp;extension=ts&amp;play_token=2tavTXcSCh&amp;sn2=
 ASTRO SUPERSPORT 3 HD,http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:00:00:11&amp;stream=918984&amp;extension=ts&amp;play_token=cYZbfjfHaK&amp;sn2=
 ASTRO SUPERSPORT 4 HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+Astro GO Live Event 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+Astro GO Live Event 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+Astro Go Live Event 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+Astro Go Live Event 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+Setanta Sports Event 1,https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
+Setanta Sports Event 2,https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
+Setanta Sports Event 3,https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
+Setanta Sports Event 4,https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
+Setanta Sports Event 5,https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
+Setanta Sports Event 6,https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
+Setanta Sports Event 7,https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
+Setanta Sports Event 8,https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
+Setanta Sports Event 9,https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
+Setanta Sports Event 10,https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
+Setanta Sports Event 11,https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
+Setanta Sports Event 12,https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
+Setanta Sports Event 13,https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
+Setanta Sports Event 14,https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
+Setanta Sports Event 15,https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
+
+
 Malaysia,#genre#
 TV1,https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 TV2,https://linear08-playback.sooka.my/CH1/masterCH1.mpd
@@ -700,58 +733,59 @@ beIN Sports,https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
 Astro VOD,https://d277c08tzca9og.cloudfront.net/CH5/masterCH5.mpd
 8TV CH148,https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 Astro AEC,https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
-410 ASTRO PREMIER,https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
-112 ASTRO RANIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-113 ASTRO AURA,https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-404 BOO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-411 HBO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
-414 HBO FAMILY,https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
-415 HBO HITS,https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
-412 CINEMAX,https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
-413 SHOWCASE,https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-111 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-552 DISCOVERY CHANNEL,https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-553 DISCOVERY ASIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
-554 BBC EARTH,https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-555 HISTORY,https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-556 ANIMAL PLANET,https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
-601 TUTOR TV SK,https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_ott.mpd
-603 TUTOR TV SMK,https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
-612 DREAMWORKS,https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
-615 CARTOON NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
-616 NICKELEDEON,https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
-617 NICK JR,https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+ASTRO PREMIER,https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+ASTRO RANIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+ASTRO AURA,https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+BOO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+HBO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+HBO FAMILY,https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+HBO HITS,https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+CINEMAX,https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+SHOWCASE,https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+DISCOVERY CHANNEL,https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+DISCOVERY ASIA,https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+BBC EARTH,https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+HISTORY,https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+ANIMAL PLANET,https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+TUTOR TV SK,https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_ott.mpd
+TUTOR TV SMK,https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+DREAMWORKS,https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
+CARTOON NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+NICKELEDEON,https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+NICK JR,https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 ANIMAX,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 MOONBUG KID,https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5067/default_ott.mpd
-701 AXN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
-703 LIFETIME,https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
-707 TLC,https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
-708 FOOD NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
-709 ASIAN FOOD NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
-712 WARNER TV,http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
-714 CRIME &amp; INVESTIGATION,https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-715 HGTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
-716 DMAX,https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
-718 MTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-101 TV1 (server 1),https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
-101 TV1 (server 2),https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-101 TV1 (server 3),https://linear08-playback.sooka.my/CH3/masterCH3.mpd
-102 TV2 (server 1),https://linear08-playback.sooka.my/CH1/masterCH1.mpd
-102 TV2 (server 2),https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-103 TV3 (server 1),https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
-103 TV3 (server 2),https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
-103 TV3 (server 3),https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-122 TVS,https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
-147 TV7,https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
-149  TV9 (server 1),https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-149 TV9 (server 2),https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
-501 ASTRO AWANI,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
-501 ASTRO AWANI 2,https://linear03-playback.sooka.my/CH5/masterCH5.mpd
-106 ASTRO OASIS,https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-611 Astro Ceria,https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-114 TV Alhijrah (server 2),http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
-146 Okey,https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
-107 ASTRO SENSASI,https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+AXN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+LIFETIME,https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+TLC,https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+FOOD NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+ASIAN FOOD NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+WARNER TV,http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+CRIME &amp; INVESTIGATION,https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+HGTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+DMAX,https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+MTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+TV1 (server 1),https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+TV1 (server 2),https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+TV1 (server 3),https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+TV2 (server 1),https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+TV2 (server 2),https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+TV3 (server 1),https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+TV3 (server 2),https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+TV3 (server 3),https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+TVS,https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+TV7,https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+TV9 (server 1),https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+TV9 (server 2),https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+ASTRO AWANI,https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+ASTRO AWANI 2,https://linear03-playback.sooka.my/CH5/masterCH5.mpd
+ASTRO OASIS,https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+Astro Ceria,https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+TV Alhijrah (server 2),http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+Okey,https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+ASTRO SENSASI,https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+
 Malaysia 12K,#genre#
 TV1(a) TV 1 my2,http://iptv12k.com:35461/test163/123456011/13652
 TV1(b) TV 1 my2,http://iptv12k.com:35461/test163/123456011/13651
@@ -1008,6 +1042,7 @@ Warna(e),http://iptv12k.com:35461/test163/123456011/9169
 Warna(f),http://iptv12k.com:35461/test163/123456011/4313
 AEC ASTRO(a),http://iptv12k.com:35461/test163/123456011/4341
 ASTRO Quan Jia HD,http://iptv12k.com:35461/test163/123456011/710
+
 Hong Kong 12K,#genre#
 Now Sports 英超4Keng HK,http://iptv12k.com:35461/test163/123456011/30979
 Now Sports 英超1eng  HK,http://iptv12k.com:35461/test163/123456011/30978
@@ -1056,55 +1091,51 @@ NOW 新闻台,http://iptv12k.com:35461/test163/123456011/20588
 [HK] 凤凰资讯HK,http://iptv12k.com:35461/test163/123456011/13233
 [HK] 凤凰中文HK,http://iptv12k.com:35461/test163/123456011/13232
 [HK] 澳亚卫视HK,http://iptv12k.com:35461/test163/123456011/13231
+
 SPORTS,#genre#
-701 Unifi Sports,https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;tenantId=6003&amp;from=5&amp;ocs=2_1.9.62.168_80&amp;hms_devid=1785&amp;mag_hms=1785,1793,1786,1788&amp;it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
-Astro Arena Bola,http://ali.hlspull.yximgs.com/live/389f38a01e3a168f0617ba3b3b5670af.flv
-111 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-816 SPOTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-801 Astro Arena,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-802 Astro Arena 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-814 Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-820 Eurosport,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-809 Spotv,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-809 Astro Box Office,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
-818 BeINSports,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-817 beINSports 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
-819 beINSports 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+Unifi Sports,https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;tenantId=6003&amp;from=5&amp;ocs=2_1.9.62.168_80&amp;hms_devid=1785&amp;mag_hms=1785,1793,1786,1788&amp;it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+Astro Arena,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+Astro Arena 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+Astro Box Office,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
+Spotv,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+SPOTV 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+SPOTV 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+SPOTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+beINSports 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+beINSports 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+beINSports 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+EURO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+Eurosport,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+WWE NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+ASTRO GOLF,https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+REMIER,https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+ASTRO CRICKET,https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 Astro Arena Bola 2,https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-111 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-816 SPOTV,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-801 Astro Arena,https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-802 Astro Arena 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-814 Astro SuperSport 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-820 Eurosport,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-809 Spotv,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-809 Astro Box Office,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
-818 BeINSports,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-817 beINSports 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
-819 beINSports 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+Astro Arena Bola,http://ali.hlspull.yximgs.com/live/389f38a01e3a168f0617ba3b3b5670af.flv
 BEIN 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 BEIN 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 BEIN 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 BEIN 4,https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv&amp;zoneoffset=0&amp;servicetype=2&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=V%2B5TlG5zAAAe3XE8YHHQk1bRXr%2FeSM9LS0lyp4GeYao1q7iIFFz1kaSxy9Uiipe8UKyw03LDAhIti5x0wdAZ1PHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20220902114518%3AUTC%2C1001767138%2C210.186.211.75%2C20220902114518%2Curn:Huawei:liveTV:XTV57682031%2C1001767138%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C1612403%2C0%2C517698%2C3133383759%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;tenantId=6001&amp;from=5&amp;hms_devid=1798&amp;mag_hms=1798,1792&amp;mount=1000002&amp;targetdev=1798&amp;it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUZwOpwdPRdBFglXX-KafIrhJugb9-1gE3d_nXSs4PB8NDEEjn5QHJXomlQ5eDs6B9Jq70CNp-LTFCOIg57REW_zO7uPh0THKKOcdFZJc990pQzT8W9rXPGH9sxHrlhwa3wLdoFGIsWKENZWFXjK8bzX_kg8NLFhpmQAAAA
 BEIN SPORT RUGBY,https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
-816 SPOTV 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
-810 SPOTV 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
-820 EURO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
-821 WWE NETWORK,https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
-822 ASTRO GOLF,https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
-823 PREMIER,https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
-824 ASTRO CRICKET,https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+DAZN DE 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+DAZN DE 2,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+DAZN ES 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+DAZN ES 2,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+DAZN F1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+DAZN LALIGA,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+MytvSuper 足球直播3,http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=ed134b0f9d63699e4f1cb1b20d468205&ext_start_limit=1728236931&int_start_limit=1728236931&ts=1728236931&c=241564436
+MytvSuper 足球直播4,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=9b50193dc57e009c36a43dec7d37a2d4&ext_start_limit=1728236933&int_start_limit=1728236933&ts=1728236933&c=241564436
+MytvSuper 足球直播5,http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=bdfcfa6ff8f68ea2b9ec8c1c245f0416&ext_start_limit=1728236934&int_start_limit=1728236934&ts=1728236934&c=241564436
+MytvSuper 足球直播6,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=9b5af7c25f61d064afc8163ebe736557&ext_start_limit=1728236937&int_start_limit=1728236937&ts=1728236937&c=241564436
 Premier Football 1,https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 Premier Football 2,https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 Premier Football 3,https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 Premier Football 4,https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 Premier Football 5,https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-DAZN DE 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
-DAZN DE 2,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
-DAZN ES 1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-DAZN ES 2,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
-DAZN LALIGA,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-DAZN F1,https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+
 MOVIES,#genre#
 321 Celestial Classic Movies,https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 ROCK Action (SG),https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
@@ -1123,28 +1154,7 @@ ROCK Action (SG),https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 Action Movies 1,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=rokuChannel&amp;deviceMake=rokuChannel&amp;deviceDNT=1&amp;advertisingId=channel&amp;embedPartner=rokuChannel&amp;appName=rokuchannel&amp;is_lat=1&amp;bmodel=bm1&amp;content=channel&amp;platform=web&amp;tags=ROKU_CONTENT_TAGS&amp;coppa=false&amp;content_type=livefeed&amp;rdid=channel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;studio_id=viacom&amp;channel_id=channel
 Action Movies 2,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=rokuChannel&amp;deviceMake=rokuChannel&amp;deviceDNT=1&amp;advertisingId=channel&amp;embedPartner=rokuChannel&amp;appName=rokuchannel&amp;is_lat=1&amp;bmodel=bm1&amp;content=channel&amp;platform=web&amp;tags=ROKU_CONTENT_TAGS&amp;coppa=false&amp;content_type=livefeed&amp;rdid=channel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;studio_id=viacom&amp;channel_id=channel
 HBO HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
-SPORTS (ASTRO GO),#genre#
-Astro GO Live Event 1,https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-Astro GO Live Event 2,https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
-Astro Go Live Event 3,https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-Astro Go Live Event 4,https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
-SPORT LIVE EVENTS🔰,#genre#
-Setanta Sports Event 1,https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
-Setanta Sports Event 2,https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
-SPORTS(ASTRO GO),#genre#
-Setanta Sports Event 3,https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
-Setanta Sports Event 4,https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
-Setanta Sports Event 5,https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
-Setanta Sports Event 6,https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
-Setanta Sports Event 7,https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
-Setanta Sports Event 8,https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
-Setanta Sports Event 9,https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
-Setanta Sports Event 10,https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
-Setanta Sports Event 11,https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
-Setanta Sports Event 12,https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
-Setanta Sports Event 13,https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
-Setanta Sports Event 14,https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
-Setanta Sports Event 15,https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
+
 TV DOCUMENTARY,#genre#
 708 Food Network,http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 709 Asian Food Network (MY),http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
