@@ -4228,6 +4228,7 @@
 			"name": "🧲｜迅雷吧",
 			"type": 3,
 			"api": "csp_Xunlei8",
+			"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
