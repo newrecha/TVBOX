@@ -13,6 +13,99 @@
 		"changeable": 0
 	  },
 	  {
+		"key": "丘丘影视",
+		"name": "丘丘｜APP",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://111.173.115.204:2211/api.php/app/"
+	},
+	{
+		"key": "啾啾影视",
+		"name": "啾啾｜影视",
+		"type": 3,
+		"api": "csp_Jiohub",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+	{
+		"key": "笙歌影视",
+		"name": "笙歌｜APP",
+		"type": 3,
+		"api": "csp_AppYY",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	},
+	{
+		"key": "饺子影视",
+		"name": "饺子｜影视",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"type": 3,
+		"api": "csp_Jiaozi",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+	{
+		"key": "全网影视",
+		"name": "全网｜影视",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"type": 3,
+		"api": "csp_Quanwk",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://fm666.qkw1.cc"
+	},
+	{
+		"key": "看客影视",
+		"name": "看客｜影视",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"type": 3,
+		"api": "csp_Kanke",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+	{
+		"key": "瓜子｜影视",
+		"name": "瓜子｜影视",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"type": 3,
+		"api": "csp_Gz360",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+	{
+		"key": "疯狗影视",
+		"name": "疯狗｜影视",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"type": 3,
+		"api": "csp_FengGo",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+	{
+		"key": "看看影视",
+		"name": "看看｜影视",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"type": 3,
+		"api": "csp_WebIV",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	},
+	
+	  {
 		"key": "來源",
 		"name": "彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長、忐忑......還有好多好多github上面分享的前輩"
 	  },  
@@ -3634,7 +3727,7 @@
         "name": "📺｜无忧短剧",
         "type": 3,
         "api": "csp_Duanj",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
         "searchable": 1,
         "changeable": 0,
         "style": {
@@ -3643,11 +3736,52 @@
         }
       },
 	  {
+		"key": "天堂短剧",
+		"name": "📺｜天堂短剧",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/天堂短剧.js"
+	},
+	{
+		"key": "爱你短剧",
+		"name": "📺｜爱你短剧",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/爱你短剧.json"
+	},
+	{
+		"key": "河马短剧",
+		"name": "📺｜河马短剧",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/河马短剧.json"
+	},
+	{
+		"key": "短剧屋",
+		"name": "📺｜短剧屋",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/短剧屋.json"
+	},
+	  {
         "key": "在线短剧",
         "name": "📺｜在线短剧",
         "type": 3,
         "api": "csp_Duanju",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
         "searchable": 1,
         "changeable": 0,
         "style": {
