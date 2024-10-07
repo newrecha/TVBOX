@@ -21,7 +21,7 @@
 		"name": "Youtube、網盤、彈幕配置",
 		"type": 3,
 		"api": "csp_Config",
-		"searchable": 0,
+		"searchable": 1,
 		"changeable": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
 		"style": {"type": "rect", "ratio": 1.5}
@@ -32,7 +32,7 @@
 		"type": 3,
 		"api": "csp_Youtube",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"changeable": 0,
 		"timeout": 240,
 		"ext": {
@@ -105,7 +105,7 @@
 		"type": 4,
 		"api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"filterable": 0,
 		"changeable": 0
 	  },
@@ -240,7 +240,7 @@
 		"type": 3,
 		"api": "csp_Web608",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"filterable": 0,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/1_spider.jar",
 		"ext": "https://www.6080yy4.com"
@@ -731,8 +731,8 @@
 		"name": "🎥｜飞鱼｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/飞鱼影视.js"
@@ -840,8 +840,8 @@
 		"api": "csp_Kekys",
 		"timeout": 15,
 		"playerType": 2,
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
 	  },
@@ -862,7 +862,7 @@
 		"type": 4,
 		"api": "https://json.doube.eu.org/app/index.php?site=webfeifanziyuan",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"filterable": 0,
 		"changeable": 0
 	  },
@@ -2125,8 +2125,8 @@
 		"name": "🎥｜电影牛",
 		"type": 3,
 		"api": "csp_XYQHiker",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQH.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/电影牛.json"
@@ -2161,8 +2161,8 @@
 		"name": "🎥｜蛋蛋赞",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/蛋蛋赞.js"
 	  },
 	  {
@@ -2181,8 +2181,8 @@
 		"name": "🎥｜KUBO",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/KUBO影视[飞].js"
 	  },
 	  {
@@ -2844,8 +2844,8 @@
 		"type": 3,
 		"api": "csp_XYQHikerAL",
 		"playerType": 1,
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/4KHDR.json",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
@@ -2868,7 +2868,7 @@
 		"key": "drpy_js_哔哩直播",
 		"name": "🎥｜哔哩直播",
 		"type": 3,
-		"searchable": 0,
+		"searchable": 1,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
 		"style": {"type": "rect", "ratio": 1.597},
 		"changeable": 0,
@@ -2878,7 +2878,7 @@
 		"key": "drpy_js_哔哩影视",
 		"name": "🎥｜哔哩影视",
 		"type": 3,
-		"searchable": 0,
+		"searchable": 1,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
 		"style": {"type": "rect", "ratio": 1.597},
 		"changeable": 0,
@@ -2900,8 +2900,8 @@
 		"name": "🎥｜奇珍异兽｜無推薦",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
@@ -2956,8 +2956,8 @@
 		"name": "🎥｜畅梦｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/畅梦影视[优].js"
@@ -3000,8 +3000,8 @@
 		"name": "🎥｜即看｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/即看影视.js"
@@ -3110,8 +3110,8 @@
 		"name": "🎥｜七新｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/七新电影网.js"
@@ -3154,8 +3154,8 @@
 		"name": "🎥｜时光｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/时光影院.js"
@@ -3341,8 +3341,8 @@
 		"name": "🎥｜掌心｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
@@ -3352,8 +3352,8 @@
 		"name": "🎥｜bilfun｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/bilfun(自动).js"
@@ -3418,8 +3418,8 @@
 		"name": "🎥｜iFun｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/iFun.js"
@@ -3429,8 +3429,8 @@
 		"name": "🎥｜OmoFun",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/OmoFun[漫].js"
@@ -3440,8 +3440,8 @@
 		"name": "🎥｜金鹰",
 		"type": 1,
 		"api": "https://jyzyapi.com/provide/vod/",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"categories": [
 		  "电视剧" , "电影"  , "欧美剧" , "香港剧" , "韩剧"  , "日剧"  , "马泰剧" , "动作片" , "爱情片" ,
 		  "喜剧片" , "恐怖片" , "战争片" , "纪录片" , "科幻片" , "剧情片" , "动画片" , "动漫"  , "内地剧" ,
@@ -3467,8 +3467,8 @@
 		"type": 1,
 		"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 		"playUrl": "",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"categories": [
 		  "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "国产剧" , "欧美剧" ,
@@ -3568,8 +3568,8 @@
 		"name": "🎥｜1080资源库(切)",
 		"type": 1,
 		"api": "https://api.1080zyku.com/inc/api_mac10.php",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"categories": [
 		  "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "国产剧" , "台湾剧" ,
 		  "韩国剧" , "欧美剧" , "香港剧" , "泰国剧" , "日本剧" , "动画片" , "纪录片" , "海外剧" , "大陆综艺",
@@ -3642,8 +3642,8 @@
 		"name": "弹幕｜机器人",
 		"type": 3,
 		"api": "csp_Ikanbot",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": {"danmu": true},
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
@@ -3767,7 +3767,7 @@
 		"type": 3,
 		"api": "csp_AppXY",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"filterable": 0,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/woniu.jar"
 	  },
@@ -3804,8 +3804,8 @@
 		"name": "官源｜优酷",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/优酷.js"
 	  },
 	  {
@@ -3862,7 +3862,7 @@
 		"name": "动漫｜魔都",
 		"type": 0,
 		"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
-		"searchable": 0,
+		"searchable": 1,
 		"changeable": 0,
 		"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
 	  },
@@ -3948,8 +3948,8 @@
 		"name": "动漫｜异世界",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/异世界.js"
 	  },
 	  {
@@ -4182,7 +4182,7 @@
 		"type": 1,
 		"api": "https://www.huyaapi.com/api.php/provide/vod/",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"filterable": 1,
 		"categories": [
 		  "电影"  , "电视剧" , "马秦剧" , "欧美剧" , "日剧"  , "韩剧"  , "香港剧" , "台湾剧" , "记录片" ,
@@ -4196,7 +4196,7 @@
 		"type": 1,
 		"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
 		"searchable": 1,
-		"quickSearch": 0,
+		"quickSearch": 1,
 		"filterable": 1,
 		"categories": [
 		  "综艺"  , "动漫"  , "体育赛事", "动作片" , "动漫电影", "喜剧片" , "爱情片" , "科幻片" , "恐怖片" ,
@@ -4243,8 +4243,8 @@
 		"type": 1,
 		"api": "http://json.heimuer.xyz/api.php/provide/vod/",
 		"playurl": "https://hoplayer.com/index.html?url=",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"categories": [
 		  "剧情片"  , "动作片"  , "冒险片"  , "同性片"  , "喜剧片"  , "奇幻片"  , "恐怖片"  , "悬疑片"  ,
 		  "惊悚片"  , "灾难片"  , "爱情片"  , "犯罪片"  , "科幻片"  , "歌舞片"  , "战争片"  , "经典片"  ,
@@ -4360,8 +4360,8 @@
 		"api": "csp_Bili",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
 		"style": {"type": "rect", "ratio": 1.597},
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 0,
 		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
 	  },
@@ -4373,8 +4373,8 @@
 		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
 		"playerType": 2,
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 0
 	  },
 	  {
@@ -4383,8 +4383,8 @@
 		"type": 3,
 		"api": "csp_KsLive",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"style": {"type": "rect", "ratio": 1.433},
 		"timeout": 10
@@ -4397,8 +4397,8 @@
 		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
 		"style": {"type": "rect", "ratio": 1.755},
 		"playerType": "1",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 0,
 		"jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php"
 	  },
@@ -4410,8 +4410,8 @@
 		"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
 		"style": {"type": "rect", "ratio": 1.755},
 		"playerType": "1",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 0,
 		"jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php"
 	  },
@@ -4468,8 +4468,8 @@
 		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
 		"playerType": "3",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/有声小说吧.js"
 	  },
