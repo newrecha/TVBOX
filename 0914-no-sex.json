@@ -236,7 +236,7 @@
 	  },
 	  {
 		"key": "997",
-		"name": "10.05新增｜997",
+		"name": "🎥｜997",
 		"type": 3,
 		"api": "csp_Web608",
 		"searchable": 1,
@@ -247,28 +247,11 @@
 	},
 	{
 		"key": "csp_J",
-		"name": "10.05新增｜饺子",
+		"name": "🎥｜饺子",
 		"type": 3,
 		"api": "csp_Jiaozi",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar",
 		"playerType": 2
-	  },
-	  {
-		"key": "新视觉",
-		"name": "10.05新增｜视觉",
-		"type": 3,
-		"api": "csp_Xinsj",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://www.3ayy.com"
-	  },
-	  {
-		"key": "csp_Quanwk",
-		"name": "🗺️️┃全网┃影视",
-		"type": 3,
-		"api": "csp_Quanwk"
 	  },
 		{
 		  "key": "木叶",
