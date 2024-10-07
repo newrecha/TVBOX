@@ -16,6 +16,13 @@
 		"key": "來源",
 		"name": "彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長、忐忑......還有好多好多github上面分享的前輩"
 	  },
+
+	  
+	    {"key":"JOJO弹幕","name":"💘里里┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://xn--s6wu47g.u.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"},
+		{"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂家庭1.js","searchable":1,"changeable":1},    
+		{"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂家庭1.js","searchable":1,"changeable":1},
+
+
 	  {
 		"key": "网盘配置",
 		"name": "Youtube、網盤、彈幕配置",
