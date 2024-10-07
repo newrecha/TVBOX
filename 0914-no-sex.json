@@ -15,25 +15,7 @@
 	  {
 		"key": "來源",
 		"name": "彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長、忐忑......還有好多好多github上面分享的前輩"
-	  },
-
-
-	  {"key":"韩小圈","name":"💡韩小｜影视","type":3,"api":"csp_HanXiaoQuan","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1},
-	  {"key":"视频库","name":"💡视频｜影视","type":3,"api":"csp_WebVidHub","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
-	  {"key":"junjun","name":"💡君君┃影视","type":3,"searchable":1,"quickSearch":1,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/appys.js","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]}},
-	  {"key":"追剧影视","name":"💡追剧｜影视","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
-	  {"key":"米米","name":"💡米米┃影视","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","api":"csp_XBPQ","ext":{"请求头":"User-Agent$okhttp/4.1.0","分类url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v","搜索模式":"1","搜索url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}","数组二次截取":"","数组":"{\"v&&}","图片":"vod_pic\":\"&&\"","标题":"vod_name\":\"&&\"","副标题":"vod_remarks\":\"&&\"","链接":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,","影片类型":"vod_class\"*\"&&\"","影片年代":"vod_year\"*\"&&\"","影片地区":"vod_area\"*\"&&\"","导演":"vod_director\"*\"&&\"","主演":"vod_actor\"*\"&&\"","简介":"vod_remarks\"*\"&&\"+vod_content\"*\"&&\"","线路二次截取":"","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放二次截取":"","播放数组":"vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]","播放列表":":&&,","播放标题":"\"&&$","跳转解析":"默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=","播放链接":"解析+$&&\"","跳转播放链接":"url\"*\"&&\""}},
-	  {"key":"三米","name":"💡三米┃影视","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XBPQ","ext":{"简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]","分类":"电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"}},	
-	  {"key":"白嫖者","name":"💡白嫖┃影视","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-texttext-right\"&&</span>","简介":"️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"}},
-	  {"key":"an","name":"🐞爱你｜短剧","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/an.json"},
-	  {"key":"hm","name":"🐞河马｜短剧","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/hm.json"},
-	  {"key":"dj","name":"🐞短剧｜短剧","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/dj.json"},
-	  {"key":"csp_XBPQ_红果短剧","name":"🐞红果┃短剧","type":3,"api":"csp_XBPQ","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.jinyanw.com/type/{cateId}-{catePg}.html","分类":"有声动漫$youshengdongman#女频恋爱$nvpinlianai#翻转爽剧$fanzhuanshuangju#古装仙侠$guzhuangxianxia#年代穿越$niandaichuanyue#脑洞悬疑$naodongxuanyi#现代都市$xiandaidushi"}},
-	  {"key":"剧集","name":"🐞剧集┃短剧","type":3,"api":"csp_XBPQ","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","ext":{"简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","搜索url":"https://wap.ijujitv.cc/search/-------------.html?wd=","分类url":"https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类":"短剧$9"}},
-	  
-
-
-
+	  },  
 	  {
 		"key": "网盘配置",
 		"name": "Youtube、網盤、彈幕配置",
@@ -477,6 +459,9 @@
 		  "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
 		}
 	  },
+	  {"key":"韩小圈","name":"🎥｜韩小","type":3,"api":"csp_HanXiaoQuan","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1},
+	  {"key":"junjun","name":"🎥｜君君","type":3,"searchable":1,"quickSearch":1,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/appys.js","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]}},
+	  {"key":"三米","name":"🎥｜三米","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XBPQ","ext":{"简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]","分类":"电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"}},	 
 	  {
 		"key": "神马影视",
 		"name": "🎥｜神马",
@@ -3687,8 +3672,11 @@
           "ratio": 1.433
         }
       },
-	  {"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/游魂家庭1.js","searchable":1,"changeable":1},    
-	  {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/游魂家庭1.js","searchable":1,"changeable":1},
+	  {"key":"良品短剧","name":"📺｜良品短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/游魂家庭1.js","searchable":1,"changeable":1},    
+	  {"key":"精品短剧","name":"📺｜精品短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/游魂家庭1.js","searchable":1,"changeable":1},
+	  {"key":"an","name":"📺｜爱你短剧","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/an.json"},
+	  {"key":"dj","name":"📺｜短剧短剧","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/dj.json"},
+	  {"key":"csp_XBPQ_红果短剧","name":"📺｜红果短剧","type":3,"api":"csp_XBPQ","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.jinyanw.com/type/{cateId}-{catePg}.html","分类":"有声动漫$youshengdongman#女频恋爱$nvpinlianai#翻转爽剧$fanzhuanshuangju#古装仙侠$guzhuangxianxia#年代穿越$niandaichuanyue#脑洞悬疑$naodongxuanyi#现代都市$xiandaidushi"}},
 	  {
 		"key":"星芽短剧",
 		"name":"📺｜星芽短剧",
