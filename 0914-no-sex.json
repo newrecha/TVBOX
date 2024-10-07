@@ -3765,7 +3765,7 @@
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/去看吧.js"
 	  },
-	  {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
+	  {"key": "魔都","name": "动漫｜魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
 	  {
 		"key": "hipy_js_大米动漫[漫]",
 		"name": "动漫｜大米",
@@ -4228,7 +4228,6 @@
 			"name": "🧲｜迅雷吧",
 			"type": 3,
 			"api": "csp_Xunlei8",
-			"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PG.jar;md5;5edde1c2215026c7ce9a4a149d7e37e2",
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
