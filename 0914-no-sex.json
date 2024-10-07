@@ -4249,7 +4249,7 @@
 //		"filterable": 1,
 //		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XYQ1.jar;md5;56be033d13e13803dc999d881437d1f6"
 //	  },
-	  {
+	  ,{
 		"key": "ksxjj",
 		"name": "🎵｜KTV",
 		"type": 4,
