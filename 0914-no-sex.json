@@ -18,9 +18,7 @@
 	  },
 
 	  
-	    {"key":"JOJO弹幕","name":"💘里里┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://xn--s6wu47g.u.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"},
-		{"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂家庭1.js","searchable":1,"changeable":1},    
-		{"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/游魂家庭1.js","searchable":1,"changeable":1},
+
 
 
 	  {
@@ -3676,6 +3674,8 @@
           "ratio": 1.433
         }
       },
+	  {"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/游魂家庭1.js","searchable":1,"changeable":1},    
+	  {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/游魂家庭1.js","searchable":1,"changeable":1},
 	  {
 		"key":"星芽短剧",
 		"name":"📺｜星芽短剧",
