@@ -17,7 +17,8 @@
             {"url":"http://itvbox.cc/云星日记","name":"云星日记接口"},
             {"url":"https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"南風接口"},
             {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/88d96f8003c84e49d2d7bc18e0286b9f0f53c381/biliext/io/%E6%B8%B8%E9%AD%82%E5%AE%B6%E5%BA%AD1.txt","name":"遊魂接口"}
-            
+            {"url":"https://github.com/newrecha/pizazzGY/blob/main/api.json","name":"瀟灑哥接口"}
 
+            
            ]
     }
