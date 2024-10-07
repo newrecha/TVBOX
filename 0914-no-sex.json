@@ -13,6 +13,15 @@
 		"changeable": 0
 	  },
 	  {
+		"name": "春盈-爱尚-有台标-exo",
+		"type": 0,
+        "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8Bds60.css?ref=master",
+		"ua": "okhttp/3.15",
+		"playerType": 2,
+	    "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+	    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	  },
+	  {
 		"key": "來源",
 		"name": "彙整接口包括：RobYang、飯太硬、OKjack、唐三、茄子庫、肥貓、PG佬、qist、高山流水、歐歌、道長、忐忑......還有好多好多github上面分享的前輩"
 	  },
