@@ -3827,7 +3827,6 @@
 		"name": "📺｜短剧新天堂",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/YSC.jar",
 		"ext": {
 		  "简介": "醉卧东风祝您观影愉快",
 		  "搜索url": "https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
