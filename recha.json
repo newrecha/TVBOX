@@ -1,6 +1,7 @@
 {
 	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;5edde1c2215026c7ce9a4a149d7e37e2",
 	"logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
+  "wallpaper": "http://www.饭太硬.com/深色壁纸/api.php",
 	"sites": [
 	  {
 		"key": "drpy_js_豆瓣",
@@ -46,10 +47,6 @@
 		},
 		"style": {"type": "rect", "ratio": 1.77}
 	  },
-
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706376905295/fan.txt",
-  "wallpaper": "http://www.饭太硬.com/深色壁纸/api.php",
-  "sites": [
     {
       "key": "豆豆",
       "name": "爱国敬业，诚信友善",
@@ -58,22 +55,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }=
-
-    {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
+
+
     {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -85,6 +75,7 @@
       "name": "👓视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -95,6 +86,7 @@
       "name": "☀南坊┃App",
       "type": 3,
       "api": "csp_AppMao",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -105,6 +97,7 @@
       "name": "🎀九六┃直连",
       "type": 3,
       "api": "csp_Cs1369",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -115,6 +108,7 @@
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -125,6 +119,7 @@
       "name": "👒七七┃App",
       "type": 3,
       "api": "csp_Kunyu77",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -134,6 +129,7 @@
       "name": "🍊小柚┃App",
       "type": 3,
       "api": "csp_AppSK",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -144,6 +140,7 @@
       "name": "👀萌米┃App",
       "type": 3,
       "api": "csp_AppMao",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -154,6 +151,7 @@
       "name": "💡嘿嘿┃App",
       "type": 3,
       "api": "csp_AppMao",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -164,6 +162,7 @@
       "name": "🍓毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -174,6 +173,7 @@
       "name": "💥星奇┃App",
       "type": 3,
       "api": "csp_AppMao",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -185,6 +185,7 @@
       "name": "🗽电影┃App",
       "type": 3,
       "api": "csp_AppSK",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -194,6 +195,7 @@
       "key": "一起看",
       "name": "🎉一起┃App",
       "type": 3,
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
@@ -204,6 +206,7 @@
       "name": "⏮️低端┃直连",
       "type": 3,
       "api": "csp_Ddrk",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -214,6 +217,7 @@
       "name": "🍄比特┃直连",
       "type": 3,
       "api": "csp_Bttwoo",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -223,6 +227,7 @@
       "name": "🌟利播┃直连",
       "type": 3,
       "api": "csp_Libvio",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -233,6 +238,7 @@
       "name": "🌾农民┃直连",
       "type": 3,
       "api": "csp_Nmys",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -244,6 +250,7 @@
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://haozhansou.com/"
@@ -253,6 +260,7 @@
       "name": "📺三三┃解析",
       "type": 3,
       "api": "csp_SP33",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -267,110 +275,15 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "🚌动漫┃巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Ying",
-      "name": "💮樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "🎀异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "88js",
-      "name": "⚽看球┃在线",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Jrsjs",
-      "name": "⚽Jrs┃球迷",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "310js",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "企鹅体育xp",
-      "name": "🐧企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
     },
     {
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
@@ -385,6 +298,7 @@
       "name": "🎧明星┃MV",
       "type": 3,
       "api": "csp_Bili",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -399,6 +313,7 @@
       "name": "🌈短剧┃在线",
       "type": 3,
       "api": "csp_Duanju",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -409,6 +324,7 @@
       "name": "📽️网红┃直播",
       "type": 3,
       "api": "csp_Yj1211",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 0
@@ -418,6 +334,7 @@
       "name": "🐯虎牙┃直播",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
       "style": {
         "type": "rect",
@@ -432,6 +349,7 @@
       "name": "🐟斗鱼┃直播",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -446,6 +364,7 @@
       "name": "📽️聚短┃视频",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -456,6 +375,7 @@
       "name": "🎧有声┃小说",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -465,181 +385,25 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
+
     {
       "key": "七夜",
       "name": "😾七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
-    },
+
     {
       "key": "Nbys",
       "name": "🛫泥巴┃飞",
       "type": 3,
       "api": "csp_NiNi",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -649,30 +413,11 @@
       "name": "🛫唐人街┃飞",
       "type": 3,
       "api": "csp_Tangrenjie",
+      "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "fan",
-      "name": "导航",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    }
-  ],
-
 	  {
 		"key": "push_agent",
 		"name": "推送",
@@ -1151,7 +896,7 @@
 	  }
 	],
 
-	  }
+
 	"ads": [
 	  "mimg.0c1q0l.cn"          ,
 	  "www.googletagmanager.com",
