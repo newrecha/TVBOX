@@ -253,23 +253,7 @@
 		},
 		"changeable": 1
 	  },
-	  {
-		"key": "Jav_emby",
-		"name": "🍏 Jav┃Emby",
-		"type": 3,
-		"api": "https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "server": "http://jav.creativeinfo.org:8096",
-		  "username": "atest",
-		  "password": "atest123",
-		  "thread": 0,
-		  "proxy": ""
-		},
-		"changeable": 1
-	  },
+
 	  {
 		"key": "ISO_emby",
 		"name": "🍏 ISO┃Emby",
@@ -463,7 +447,7 @@
 		"key": "hipy_js_旋风视频",
 		"name": "旋风",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -543,7 +527,7 @@
 	  },
 	  {
 		"key": "快乐影视",
-		"name": "🎥｜阿婆秒播",
+		"name": "🎥｜阿婆",
 		"type": 3,
 		"api": "csp_AppMr",
 		"searchable": 1,
@@ -651,15 +635,6 @@
 		  "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
 		  "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
 		}
-	  },
-	  {
-		"key": "墨白影视",
-		"name": "優質｜墨白(失效)",
-		"type": 1,
-		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1
 	  },
 	  {
 		"key": "997",
@@ -1093,31 +1068,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
 	  },
 	  {
-		"key": "hipy_js_宝片视频",
-		"name": "🎥｜宝片视频｜T3",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/宝片视频.js"
-	  },
-	  {
-		"key": "drpy_js_美视网",
-		"name": "🎥｜美视网",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/美视网.js"
-	  },
-	  {
-		"key": "drpy_js_飞兔影视",
-		"name": "🎥｜飞兔",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/飞兔影视.js"
-	  },
-	  {
 		"key": "hipy_js_飞鱼影视",
 		"name": "🎥｜飞鱼｜T3",
 		"type": 3,
@@ -1173,21 +1123,6 @@
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/华乐影院.json",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a;md5;18d03edba7efd521b0e27025cce5127a"
-	  },
-	  {
-		"key": "drpy_js_小宝影院[飞]",
-		"name": "🎥｜小宝",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/小宝影院[飞].js",
-		"User-Agent": "Mozilla/5.0(Linux;Android11;M2101K9CBuild/RKQ1.201112.002;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/76.0.3809.89MobileSafari/537.36T7/12.16SearchCraft/3.9.1(Baidu;P111)"
-	  },
-	  {
-		"key": "drpy_js_139影视",
-		"name": "🎥｜139",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/139影视.js"
 	  },
 	  {
 		"key": "cc_热播之家",
@@ -1290,20 +1225,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/七新影视.json"
 	  },
 	  {
-		"key": "drpy_js_骚火电影",
-		"name": "🎥｜骚火",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/骚火电影.js"
-	  },
-	  {
-		"key": "drpy_js_量子资源",
-		"name": "🎥｜量子",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/量子资源.js"
-	  },
-	  {
 		"key": "csp_威士",
 		"name": "🎥｜威士",
 		"type": 3,
@@ -1338,15 +1259,6 @@
 		"changeable": 1
 	  },
 	  {
-		"key": "低端影视",
-		"name": "🎥｜低端",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"searchable": 1,
-		"changeable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/ddys.js"
-	  },
-	  {
 		"key": "csp_超前",
 		"name": "🎥｜超前",
 		"type": 3,
@@ -1358,20 +1270,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/超前B站.json"
 	  },
 	  {
-		"key": "drpy_js_悠久影院",
-		"name": "🎥｜悠久",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/悠久影院.js"
-	  },
-	  {
-		"key": "drpy_js_凌云影视",
-		"name": "🎥｜凌云",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/凌云影视.js"
-	  },
-	  {
 		"key": "csp_Free",
 		"name": "🎥｜Free",
 		"type": 3,
@@ -1381,13 +1279,6 @@
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/Free影视.json",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/0606.jar;md5;dd42498b23f9c619b272804ff8f26529"
-	  },
-	  {
-		"key": "网飞影视",
-		"name": "🎥｜网飞",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/wf.js"
 	  },
 	  {
 		"key": "csp_AppYsV2_五一影视",
@@ -1687,20 +1578,6 @@
 		  "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
 		  "分类url": "https://www.dyyz1.app/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#动画片$31#B站$41#短剧$49#电影解说$32"
-		}
-	  },
-	  {
-		"key": "小熊影视",
-		"name": "🎥｜小熊",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-		  "分类": "动作片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动漫片$12#纪录片$20#喜剧片$21#其他片$22#中国剧$13#欧美剧$14#日韩剧$15#港台剧$16#其他剧$23#动漫$3#综艺$4#伦理片$5"
 		}
 	  },
 	  {
@@ -5005,6 +4882,99 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/有声小说吧.js"
+	  },
+	  {
+		"key": "网飞影视",
+		"name": "🎥｜网飞｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/wf.js"
+	  },
+	  {
+		"key": "drpy_js_悠久影院",
+		"name": "🎥｜悠久｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/悠久影院.js"
+	  },
+	  {
+		"key": "drpy_js_凌云影视",
+		"name": "🎥｜凌云｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/凌云影视.js"
+	  },
+	  {
+		"key": "低端影视",
+		"name": "🎥｜低端｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"changeable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/ddys.js"
+	  },
+	  {
+		"key": "drpy_js_骚火电影",
+		"name": "🎥｜骚火｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/骚火电影.js"
+	  },
+	  {
+		"key": "drpy_js_量子资源",
+		"name": "🎥｜量子｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/量子资源.js"
+	  },
+	  {
+		"key": "drpy_js_小宝影院[飞]",
+		"name": "🎥｜小宝｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/小宝影院[飞].js",
+		"User-Agent": "Mozilla/5.0(Linux;Android11;M2101K9CBuild/RKQ1.201112.002;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/76.0.3809.89MobileSafari/537.36T7/12.16SearchCraft/3.9.1(Baidu;P111)"
+	  },
+	  {
+		"key": "drpy_js_139影视",
+		"name": "🎥｜139｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/139影视.js"
+	  },
+	  {
+		"key": "drpy_js_美视网",
+		"name": "🎥｜美视网｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/美视网.js"
+	  },
+	  {
+		"key": "drpy_js_飞兔影视",
+		"name": "🎥｜飞兔｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/飞兔影视.js"
+	  },
+	  {
+		"key": "hipy_js_宝片视频",
+		"name": "🎥｜宝片视频｜(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/宝片视频.js"
+	  },
+	  {
+		"key": "墨白影视",
+		"name": "優質｜墨白(失效)",
+		"type": 1,
+		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1
 	  },
 	  {
 		"key": "push_agent",
