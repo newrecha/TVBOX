@@ -2430,7 +2430,7 @@
 	  },
 	  {
 		"key": "爱看",
-		"name": "🎥｜爱看1",
+		"name": "🎥｜爱看",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
@@ -2449,28 +2449,6 @@
 		  "分类url": "https://www.aikanhd.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
 		  "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
 		}
-	  },
-	  {
-		"key": "csp_XYQHiker_爱看剧",
-		"name": "🎥｜爱看2",
-		"type": 3,
-		"api": "csp_XYQHiker",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/爱看剧.json",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
-	  },
-	  {
-		"key": "csp_AppYsV2_爱看剧",
-		"name": "🎥｜爱看3",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://www.ikanju.cc/mogai_api.php/v1.vod",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/144.jar;md5;409069d9ab72176bd95aa8b06e36512e"
 	  },
 	  {
 		"key": "csp_AppYsV2_1080影视",
