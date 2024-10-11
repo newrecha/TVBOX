@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;5edde1c2215026c7ce9a4a149d7e37e2",
+	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;f320ab7bf3182f08ab93098e2540e2de",
 	"logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
 	"sites": [
 	  {
@@ -7,7 +7,7 @@
 		"name": "👊【老王彙整，請勿廣為外流】👊",
 		"type": 3,
 		"api": "csp_Douban",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/douban.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/douban.json",
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 0
