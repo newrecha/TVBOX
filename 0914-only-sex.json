@@ -588,6 +588,25 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
       },
       {
+        "key": "MiMei",
+        "name": "🔞迷妹",
+        "type": 3,
+        "api": "csp_MiMei",
+        "searchable": 1,
+        "filterable": 1,
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar"
+
+      },
+      {
+        "key": "pwd_袜子",
+        "name": "🔞袜子",
+        "type": 0,
+        "api": "https://www.msnii.com/api/xml.php",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar",
+        "searchable": 0,
+        "quickSearch": 0
+      },
+      {
         "key": "51黑料福利社",
         "name": "🔞51黑料福利社",
         "type": 3,
