@@ -131,6 +131,20 @@
         }
       },
       {
+        "key": "py_mrjav",
+        "name": "MrJav(翻)(T4)",
+        "type": 4,
+        "api": "https://py.doube.eu.org/api?site=mrjav",
+        "searchable": 1,
+        "quickSearch": 0,
+        "filterable": 0,
+        "changeable": 0,
+        "style": {
+          "type": "rect",
+          "ratio": 1.5
+        }
+      },
+      {
         "key": "农夫与少妇",
         "name": "🔞农夫与少妇",
         "type": 3,
