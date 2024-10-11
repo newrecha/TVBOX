@@ -161,18 +161,6 @@
       "style": {"type": "rect", "ratio": 1.5}
     },
     {
-      "key": "农夫与少妇",
-      "name": "🔞农夫与少妇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-      "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nfsf.json"
-    },
-    {
       "key": "jable",
       "name": "🔞jable-HL版",
       "type": 3,
@@ -506,6 +494,7 @@
       "name": "🔞春水堂",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2394,22 +2383,20 @@
       }
     },
     {
-      "key": "llzxcj.com",
-      "name": "🔞利來",
-      "type": 0,
+      "key": "农夫与少妇",
+      "name": "🔞农夫与少妇｜失效",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
+      "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "recordable": 0,
-      "style": {"type": "rect", "ratio": 1.33},
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nfsf.json"
     },
     {
       "key": "AvTime",
-      "name": "AvTime｜故障中",
+      "name": "AvTime｜失效",
       "type": 3,
       "api": "csp_AvTime",
       "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
@@ -2418,7 +2405,7 @@
     },
     {
       "key": "top888",
-      "name": "🔞top888｜故障中",
+      "name": "🔞top888｜失效",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
