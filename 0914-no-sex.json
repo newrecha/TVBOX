@@ -119,16 +119,17 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "https://auete.pro/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
-		"key": "墨白影视",
-		"name": "優質｜墨白",
-		"type": 1,
-		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+		"key": "素白白影视",
+		"name": "優質｜素白",
+		"type": 3,
+		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
 		"searchable": 1,
-		"quickSearch": 1
+		"changeable": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
 	  },
 	  {
 		"key": "T4-heimuer",
@@ -171,15 +172,9 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
-	  {
-		"key": "drpy_js_素白白",
-		"name": "優質｜素白白",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/素白白.js"
-	  },
+
 	  {
 		"key": "T4-安博",
 		"name": "優質｜安博",
@@ -195,23 +190,12 @@
 		"name": "優質｜苹果(飯)",
 		"type": 3,
 		"api": "csp_LiteApple",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
-	  },
-	  {
-		"key": "小苹果弹幕",
-		"name": "優質｜苹果(弹幕)",
-		"type": 3,
-		"api": "csp_Xpg",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
 	  },
 	  {
 		"key": "苹果忐忑",
@@ -234,6 +218,75 @@
 		  "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
 		}
 	  },
+	  {
+		"key": "csp_wanou",
+		"name": "♦️奇迹云♦️圣龟4k",
+		"api": "csp_Wogg",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"type": 3,
+		"searchable": 1,
+		"playerType": 2,
+		"timeout": 30,
+		"changeable": 0,
+		"ext": {
+			"site_urls": [
+				"https://wogg.xxooo.cf/",
+				"https://www.wogg.bf/",
+				"https://www.wogg.net/"
+			]
+		}
+	},
+	{
+		"key": "csp_zhizhen",
+		"name": "♦️奇迹云♦️神龍4k",
+		"type": 3,
+		"api": "csp_Duopan",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"changeable": 0,
+		"filterable": 1,
+		"ext": {
+			"site_urls": [
+				"http://mpanso.com",
+				"http://mihdr.top"
+				
+				
+			]
+		}
+},
+{
+	"key": "极速电影",
+	"name": "🎥｜極速電影",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": {
+	  "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+	  "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
+	}
+  },
+  {
+	"key": "三米ys",
+	"name": "🎥｜三米",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+	"ext": {
+		"分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+		"分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+	}
+},
+{
+	"key": "墨白影视",
+	"name": "優質｜墨白(失效)",
+	"type": 1,
+	"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+	"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+	"searchable": 1,
+	"quickSearch": 1
+  },
 	  {
 		"key": "997",
 		"name": "🎥｜997",
@@ -354,8 +407,8 @@
 		"name": "🎥｜立播",
 		"type": 3,
 		"api": "csp_Libvio",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -382,20 +435,6 @@
 		  "线路标题": "蓝光专线",
 		  "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
 		  "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
-		}
-	  },
-	  {
-		"key": "极速电影",
-		"name": "🎥｜極速電影",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-		  "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
 		}
 	  },
 	  {
@@ -464,16 +503,6 @@
 		}
 	  },
 	  {
-		"key": "韩小圈",
-		"name": "🎥｜韩小",
-		"type": 3,
-		"api": "csp_HanXiaoQuan",
-		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	  },
-	  {
 		"key": "junjun",
 		"name": "🎥｜君君",
 		"type": 3,
@@ -484,18 +513,6 @@
 		"ext": {
 		  "host": "http://122.228.85.203:1000/api.php/app/",
 		  "*": ["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]
-		}
-	  },
-	  {
-		"key": "三米",
-		"name": "🎥｜三米",
-		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": {
-		  "简介": "⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-		  "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
-		  "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
 		}
 	  },
 	  {
@@ -517,8 +534,8 @@
 		"name": "🎥｜糯米",
 		"type": 3,
 		"api": "csp_Nmyswv",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"timeout": 15,
 		"searchable": 1,
@@ -530,8 +547,8 @@
 		"name": "🎥｜原创",
 		"type": 3,
 		"api": "csp_YCyz",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"timeout": 15,
 		"searchable": 1,
@@ -543,8 +560,8 @@
 		"name": "🎥｜萌米",
 		"type": 3,
 		"api": "csp_AppTT",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"timeout": 15,
 		"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
@@ -552,8 +569,8 @@
 	  {
 		"key": "贱贱",
 		"name": "🎥｜贱贱",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"type": 3,
 		"searchable": 1,
@@ -567,8 +584,8 @@
 		"name": "🎥｜比特",
 		"type": 3,
 		"api": "csp_Bttwoo",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -831,7 +848,7 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
 		"key": "可可",
@@ -843,7 +860,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
 		"key": "csp_nkvlog",
@@ -874,7 +891,7 @@
 		"timeout": 15,
 		"playerType": 1,
 		"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
 		"key": "hipy_js_思古影视[V2]",
@@ -939,8 +956,8 @@
 		"name": "🎥｜低端(飯)",
 		"type": 3,
 		"api": "csp_Ddrk",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -1161,16 +1178,6 @@
 		"searchable": 1,
 		"changeable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/好影快看.json"
-	  },
-	  {
-		"key": "素白白影视",
-		"name": "🎥｜素白(直連)",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"changeable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
 	  },
 	  {
 		"key": "Freeok影视",
@@ -2501,7 +2508,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
 		"key": "hipy_js_黑狐影院",
@@ -2546,7 +2553,7 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"ext": "https://www.zxzja.com/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113"
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
 		"key": "qimaoys",
@@ -2633,7 +2640,7 @@
 		"name": "🎥｜南瓜",
 		"type": 3,
 		"api": "csp_NanGua",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -3672,6 +3679,16 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
 	  },
 	  {
+		"key": "韩小圈",
+		"name": "📺｜韩小圈",
+		"type": 3,
+		"api": "csp_HanXiaoQuan",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+	  {
 		"key": "短剧",
 		"name": "📺｜上头短劇",
 		"type": 3,
@@ -4079,7 +4096,7 @@
 		"name": "动漫｜异界",
 		"type": 3,
 		"api": "csp_Ysj",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -4120,7 +4137,7 @@
 		"name": "动漫｜巴士(飯)",
 		"type": 3,
 		"api": "csp_Dm84",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -4156,7 +4173,7 @@
 		"name": "动漫｜日本",
 		"type": 3,
 		"api": "csp_Anime1",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
@@ -4512,8 +4529,8 @@
 		"name": "㊙︎｜各種直播",
 		"type": 3,
 		"api": "csp_Alllive",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
 		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
