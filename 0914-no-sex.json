@@ -209,6 +209,23 @@
 		"changeable": 1
 	  },
 	  {
+		"key": "凯奇影视",
+		"name": "優質｜凯奇",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+		  "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
+		  "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
+		  "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
+		}
+	  },
+	  {
 		"key": "zj",
 		"name": "優質｜8K影院",
 		"type": 3,
@@ -445,7 +462,7 @@
 	  },
 	  {
 		"key": "hipy_js_旋风视频",
-		"name": "旋风",
+		"name": "🎥｜旋风",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -1557,23 +1574,6 @@
 		  "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
 		  "分类url": "https://www.dyyz1.app/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#动画片$31#B站$41#短剧$49#电影解说$32"
-		}
-	  },
-	  {
-		"key": "凯奇影视",
-		"name": "🎥｜凯奇",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-		  "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
-		  "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-		  "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
 		}
 	  },
 	  {
