@@ -3461,17 +3461,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/游子视频.js"
 	  },
 	  {
-		"key": "hipy_js_掌心世界",
-		"name": "🎥｜掌心｜T3",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
-	  },
-	  {
 		"key": "hipy_js_bilfun(自动)",
 		"name": "🎥｜bilfun｜T3",
 		"type": 3,
@@ -3597,6 +3586,7 @@
 		"name": "🎥｜GO｜T2",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -4764,6 +4754,17 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/有声小说吧.js"
+	  },
+	  {
+		"key": "hipy_js_掌心世界",
+		"name": "🎥｜掌心｜T3(失效)",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//drpy_lib/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
 	  },
 	  {
 		"key": "drpy_js_悠久影院",
