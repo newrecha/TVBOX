@@ -262,6 +262,85 @@
       "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
     },
     {
+			"key": "hipy_js_爱爱影院[密]",
+			"name": "🔞爱爱影院)",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱爱影院[密].js"
+		},
+    {
+			"key": "hipy_js_地瓜视频[密]",
+			"name": "🔞地瓜视频)",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/地瓜视频[密].js"
+		},
+    {
+			"key": "hipy_js_黑料不打烊-z",
+			"name": "🔞黑料不打烊-z",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/黑料不打烊-z.js"
+		},
+    {
+			"key": "hipy_js_绿色仓库[密]",
+			"name": "🔞绿色仓库",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/绿色仓库[密].js"
+		},
+    {
+			"key": "hipy_js_小女18[密]",
+			"name": "🔞小女18",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/小女18[密].js"
+		},
+    {
+			"key": "hipy_js_一点视频[密]",
+			"name": "🔞一点视频",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/一点视频[密].js"
+		},
+    {
+			"key": "hipy_js_UAA[密]",
+			"name": "🔞UAA)",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/UAA[密].js"
+		},
+    {
       "key": "13AV",
       "name": "🔞13AV",
       "type": 3,
@@ -371,6 +450,18 @@
         "分类": "中文字幕$11#国产视频$4#91精选$33#无码视频$8#欧美视频$5#动漫视频$30#伦理视频$9#精品AV$34#黑料吃瓜$35#AV解说$26#素人搭讪$7#JAV字幕$29#JAV丝袜$28#国产色情$39#高清日本$53#高清国产$54#高清传媒$55#情趣综艺$57#在线短剧$58#精选福利$87"
       }
     },
+    {
+			"key": "hipy_js_29片库[密]",
+			"name": "29片库[密](drpy_t3)",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/29片库[密].js"
+		},
     {
       "key": "csp_XBPQ_癢癢",
       "name": "🔞癢癢",
