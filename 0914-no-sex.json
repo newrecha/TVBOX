@@ -3616,17 +3616,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱优影视[自动].js"
 	  },
 	  {
-		"key": "hipy_js_次元城动漫[漫]",
-		"name": "次元城动漫[漫]｜T3",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/次元城动漫[漫].js"
-	  },
-	  {
 		"key": "hipy_js_刺猬影视",
 		"name": "🎥｜刺猬影视｜T3",
 		"type": 3,
@@ -5079,7 +5068,7 @@
 	  },
 	  {
 		"key": "hipy_js_大米动漫[漫]",
-		"name": "大米动漫",
+		"name": "动漫｜大米动漫",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -5156,6 +5145,17 @@
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米动漫[漫].js"
+	  },
+	  {
+		"key": "hipy_js_次元城动漫[漫]",
+		"name": "动漫｜次元城｜T3",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/次元城动漫[漫].js"
 	  },
 	  {
 		"key": "hipy_js_七色番[漫]",
