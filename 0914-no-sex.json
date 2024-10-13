@@ -3861,14 +3861,15 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
 	  },
 	  {
-		"key": "荐片弹幕",
-		"name": "弹幕｜薦片",
+		"key": "hipy_js_荐片[优]",
+		"name": "荐片[优](drpy_t3)",
 		"type": 3,
-		"api": "csp_Jianpian",
-		"playerType": 1,
+		"api": "./drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/drpy_js/荐片[优].js",
 		"ext": {"danmu": true},
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
 	  },
@@ -3973,15 +3974,16 @@
 		"changeable": 1
 	  },
 	  {
-		"key": "星芽短剧",
-		"name": "📺｜星芽短剧",
+		"key": "hipy_js_🤡星芽短剧[🤡]",
+		"name": "📺｜星芽短剧｜T3",
 		"type": 3,
-		"api": "csp_AppXY",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/woniu.jar"
-	  },
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/🤡星芽短剧[🤡].js"
+	},
 	  {
 		"key": "夜猫短剧",
 		"name": "📺｜夜猫短剧",
@@ -4129,28 +4131,28 @@
 		"name": "官源｜360",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视.js"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
 	  },
 	  {
 		"key": "drpy_js_百忙无果",
 		"name": "官源｜芒果",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果.js"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
 	  },
 	  {
 		"key": "drpy_js_腾云驾雾",
 		"name": "官源｜腾讯",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾.js"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
 	  },
 	  {
 		"key": "drpy_js_菜狗",
 		"name": "官源｜搜狗",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗.js"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
 	  },
 	  {
 		"key": "drpy_js_优酷",
@@ -4159,7 +4161,7 @@
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷.js"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
 	  },
 	  {
 		"key": "drpy_js_58动漫",
