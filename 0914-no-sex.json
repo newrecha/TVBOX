@@ -3806,13 +3806,11 @@
 		]
 	  },
 	  {"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-	  {"key":"厂长弹幕","name":"弹幕｜厂长","type":3,"api":"csp_Czzy","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	  {"key":"天天弹幕","name":"弹幕｜天天","type":3,"api": "csp_TianTian","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	  {"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	  {"key":"小苹果弹幕","name":"弹幕｜苹果","type":3,"api":"csp_Xpg","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	  {"key":"文才弹幕","name":"弹幕｜文才","type":3,"api":"csp_Jpys","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	  {"key":"机器人弹幕","name":"弹幕｜机机","type":3,"api":"csp_Ikanbot","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-	  {"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	  {"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 
 	  {
