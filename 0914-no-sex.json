@@ -4116,7 +4116,7 @@
 		"key": "hipy_短剧天堂",
 		"name": "📺｜短剧天堂",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//drpy_libs/drpy2.min.js",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main//lib/drpy2.min.js",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/YSC.jar",
 		"searchable": 1,
 		"quickSearch": 1,
