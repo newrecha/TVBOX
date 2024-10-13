@@ -3064,17 +3064,6 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/4K-AV.js"
 	  },
 	  {
-		"key": "hipy_js_奇珍异兽[官]",
-		"name": "🎥｜奇珍异兽｜無推薦｜T3",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
-	  },
-	  {
 		"key": "drpy_js_voflix",
 		"name": "🎥｜voflix｜T3",
 		"type": 3,
@@ -3816,63 +3805,16 @@
 		  "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"
 		]
 	  },
-	  {
-		"key": "天天弹幕",
-		"name": "弹幕｜天天",
-		"type": 3,
-		"api": "csp_TianTian",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "三六零弹幕",
-		"name": "弹幕｜三六零",
-		"type": 3,
-		"api": "csp_Sp360",
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "机器人弹幕",
-		"name": "弹幕｜机器人",
-		"type": 3,
-		"api": "csp_Ikanbot",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "小苹果弹幕",
-		"name": "弹幕｜小苹果",
-		"type": 3,
-		"api": "csp_Xpg",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "hipy_js_荐片[优]",
-		"name": "荐片[优](drpy_t3)",
-		"type": 3,
-		"api": "./drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/drpy_js/荐片[优].js",
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
+	  {"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"厂长弹幕","name":"弹幕｜厂长","type":3,"api":"csp_Czzy","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"天天弹幕","name":"弹幕｜天天","type":3,"api": "csp_TianTian","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"小苹果弹幕","name":"弹幕｜苹果","type":3,"api":"csp_Xpg","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"文才弹幕","name":"弹幕｜文才","type":3,"api":"csp_Jpys","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"机器人弹幕","name":"弹幕｜机机","type":3,"api":"csp_Ikanbot","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+	  {"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+
 	  {
 		"key": "韩小圈",
 		"name": "📺｜韩小圈",
@@ -3974,16 +3916,15 @@
 		"changeable": 1
 	  },
 	  {
-		"key": "hipy_js_🤡星芽短剧[🤡]",
-		"name": "📺｜星芽短剧｜T3",
+		"key": "星芽短剧",
+		"name": "📺｜星芽短剧",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"api": "csp_AppXY",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/🤡星芽短剧[🤡].js"
-	},
+		"filterable": 0,
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/woniu.jar"
+	  },
 	  {
 		"key": "夜猫短剧",
 		"name": "📺｜夜猫短剧",
@@ -4132,6 +4073,17 @@
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
+	  },
+	  {
+		"key": "hipy_js_奇珍异兽[官]",
+		"name": "🎥｜愛奇异｜T3",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
 	  },
 	  {
 		"key": "drpy_js_百忙无果",
