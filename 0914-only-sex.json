@@ -2254,7 +2254,7 @@
       "changeable": 1,
       "timeout": 60,
       "style": {"type": "rect", "ratio": 1.5},
-      "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/theporn.js"
+      "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/theporn.js"
     },
     {
       "key": "沙咖影院",
