@@ -4818,13 +4818,13 @@
 		"key": "有声小说吧",
 		"name": "㊙︎｜有声小说",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/libs/drpy2.min.js",
 		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
 		"playerType": "3",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/有声小说吧[听].js"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/有声小说吧.js"
 	  },
 	  {
 		"key": "drpy_js_悠久影院",
