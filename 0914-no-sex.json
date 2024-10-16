@@ -230,7 +230,7 @@
 	  },
 	  {
 		"key": "hipy_js_小宝影院",
-		"name": "优质｜小宝｜T3",
+		"name": "优质｜小宝｜HIPY",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -435,11 +435,20 @@
 	  },
 	  {
 		"key": "drpy_js_小宝影院[飞]",
-		"name": "🎥｜小宝｜T3",
+		"name": "🎥｜小宝[V1]｜T3",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/小宝影院[飞].js",
 		"User-Agent": "Mozilla/5.0(Linux;Android11;M2101K9CBuild/RKQ1.201112.002;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/76.0.3809.89MobileSafari/537.36T7/12.16SearchCraft/3.9.1(Baidu;P111)"
+	  },
+	  {
+		"key": "小宝影视",
+		"name": "🎥｜小宝[V2]",
+		"type": 1,
+		"api": "http://www.xiaobao168.com/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1
 	  },
 	  {
 		"key": "drpy_js_两个BT",
@@ -460,26 +469,16 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/4K-AV.js"
 	  },
 	  {
-		"key": "小宝影视",
-		"name": "🎥｜小宝",
-		"type": 1,
-		"api": "http://www.xiaobao168.com/api.php/provide/vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1
-	  },
-	  {
-		"key": "低端",
-		"name": "🎥｜低端(饭)",
+		"key": "hipy_js_低端",
+		"name": "🎥｜低端｜HIPY",
 		"type": 3,
-		"api": "csp_Ddrk",
-		"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-		"playerType": 2,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
-		"changeable": 1
-	  },
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/低端.js"
+	},
 	  {
 		"key": "低端影视",
 		"name": "🎥｜低端｜T3",
@@ -489,6 +488,39 @@
 		"changeable": 1,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/ddys.js"
 	  },
+	  {
+		"key": "hipy_js_厂长资源",
+		"name": "🎥｜厂长资源｜HIPY",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/厂长资源.js"
+	},
+	{
+		"key": "hipy_js_毒蛇电影[优]",
+		"name": "🎥｜毒蛇电影｜HIPY",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/毒蛇电影[优].js"
+	},
+	{
+		"key": "hipy_js_荐片[优]",
+		"name": "🎥｜荐片｜HIPY",
+		"type": 3,
+		"api": "./drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "./drpy_js/荐片[优].js"
+	},
 	  {
 		"key": "420kvm",
 		"name": "🎥｜420",
@@ -1215,7 +1247,7 @@
 	  },
 	  {
 		"key": "hipy_js_GO影视",
-		"name": "🎥｜GO｜失效",
+		"name": "🎥｜GO｜HIPV",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -1225,7 +1257,7 @@
 	  },
 	  {
 		"key": "hipy_js_HBOTV[优]",
-		"name": "🎥｜HBOTV｜失效",
+		"name": "🎥｜HBOTV｜HIPV",
 		"type": 3,
 		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
