@@ -220,14 +220,14 @@
       "name": "🔞Jable(海外)",
       "type": 3,
       "api": "csp_Jable",
-      "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+      "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "127.0.0.1:10072$$$null$$$1",
       "style": {"type": "rect", "ratio": 1.77},
       "timeout": 60,
-      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+      "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar"
     },
     {
       "key": "csp_Netflav",

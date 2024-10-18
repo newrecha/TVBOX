@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;f320ab7bf3182f08ab93098e2540e2de",
+	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;733c1f92be365eddf38a5bae8d2a405e",
 	"logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
 	"wallpaper": "https://picsum.photos/1080/",
 	"warningText": "请勿外流，内部使用。",
@@ -4728,7 +4728,7 @@
 		"name": "㊙︎｜YOUTUBE",
 		"type": 4,
 		"api": "https://api.paoyun.eu.org/yt/yt001.php",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a63f461455a69ff20c63b8edf415ae88",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a812e6d7f82fcba684ff862a1430463e",
 		"searchable": 1,
 		"changeable": 1,
 		"ext": "海贼王#最新歌曲#动漫#新闻#卡提诺#追剧#爆笑#喜剧#新闻#旅游#播放清单#财神爷我的歌单"
@@ -4738,7 +4738,7 @@
 		"name": "㊙︎｜油管播放列表",
 		"type": 4,
 		"api": "https://api.paoyun.eu.org/ytlb.php",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a63f461455a69ff20c63b8edf415ae88",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a812e6d7f82fcba684ff862a1430463e",
 		"searchable": 1,
 		"changeable": 1
 	  },
