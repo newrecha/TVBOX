@@ -5,11 +5,11 @@
 	"warningText": "请勿外流，内部使用。",
 	"sites": [
 	  {
-		"key": "dr_豆瓣",
+		"key": "豆瓣",
 		"name": "👊【老王汇整，请勿广为外流】👊",
 		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/douban.js",
+		"api": "csp_Douban",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/douban.json",
 		"searchable": 1,
 		"quickSearch": 0,
 		"changeable": 0
@@ -28,6 +28,15 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
 		"style": {"type": "rect", "ratio": 1.5}
 	  },
+	  {
+		"key": "獨播",
+		"name": "獨播 | 海外",
+		"type": 3,
+		"api": "csp_XPathMacFilter",
+		"searchable": 1,
+		"changeable": 0,
+		"ext": "./lib/duboku.json"
+	},
 	  {
 		"key": "Youtube",
 		"name": "Youtube",
