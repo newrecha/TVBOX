@@ -31,7 +31,7 @@
 			{"name":"安博｜失效(api代理)","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/api-anber.txt","ua":"okhttp/4.12.0"},
 			{"name":"安博｜失效(cookie代理)","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/cookie-ublive.txt","ua":"okhttp/4.12.0"},
 			{"name":"潘迪｜失效","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/pendy.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-			{"name":"---------下方為PG新保測試區--------","type":0,"url":"","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+			{"name":"---下方為PG新保測試區---","type":0,"url":"","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{
 				"name": "肥羊国内直播",
 				"type": 0,
