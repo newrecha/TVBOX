@@ -29,15 +29,6 @@
 		"style": {"type": "rect", "ratio": 1.5}
 	  },
 	  {
-		"key": "獨播",
-		"name": "獨播 | 海外",
-		"type": 3,
-		"api": "csp_XPathMacFilter",
-		"searchable": 1,
-		"changeable": 0,
-		"ext": "./lib/duboku.json"
-	},
-	  {
 		"key": "Youtube",
 		"name": "Youtube",
 		"type": 3,
@@ -5381,6 +5372,15 @@
 		"changeable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
+	  {
+		"key": "獨播",
+		"name": "獨播 ｜(失效)",
+		"type": 3,
+		"api": "csp_XPathMacFilter",
+		"searchable": 1,
+		"changeable": 0,
+		"ext": "./lib/duboku.json"
+	},
 	  {
 		"key": "hipy_js_掌心世界",
 		"name": "🎥｜掌心｜(失效)",
