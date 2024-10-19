@@ -6,9 +6,9 @@
 
 
 			{"name":"四季TV｜優質","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/4G-tw.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},		
-            {"name":"LITV｜優質","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/666-live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+			{"name":"四季TV-pixman｜優質","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/pixman-4gtv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},		
+			{"name":"LITV｜優質","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/666-live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"173線路｜優質","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
-			{"name":"169線路｜優質","url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/169.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 			{"name":"君赢天下｜優質","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/king.txt","playerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"smart｜普通","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/smart.json","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"好事多｜普通","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/hlspull.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
