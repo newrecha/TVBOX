@@ -296,6 +296,15 @@
 		]
 	  },
 	  {
+		"key": "墨白影视",
+		"name": "优质｜墨白",
+		"type": 1,
+		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
 		"key": "Net_emby",
 		"name": "🍏 Net┃Emby",
 		"type": 3,
@@ -5391,15 +5400,6 @@
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
-	  },
-	  {
-		"key": "墨白影视",
-		"name": "优质｜墨白(失效)",
-		"type": 1,
-		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1
 	  },
 	  {
 		"key": "push_agent",
