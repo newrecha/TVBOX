@@ -5379,7 +5379,7 @@
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
 		"changeable": 0,
-		"ext": "./lib/duboku.json"
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/duboku.json"
 	},
 	  {
 		"key": "hipy_js_掌心世界",

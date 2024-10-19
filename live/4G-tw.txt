@@ -177,6 +177,261 @@ SBN 全球财经台,https://kaytse4gtv.koyeb.app/4gtv/224
 第1商业台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv104
 国会频道1,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv084
 国会频道2,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv085
+民视新闻台,https://klxtx.koyeb.app/litv/litv-ftv13
+中视新闻台,https://klxtx.koyeb.app/litv/4gtv-4gtv074
+中天新闻台,https://klxtx.koyeb.app/litv/4gtv-4gtv009
+华视新闻,https://klxtx.koyeb.app/litv/4gtv-4gtv052
+靖天资讯台,https://klxtx.koyeb.app/litv/4gtv-4gtv065
+寰宇新闻台,https://klxtx.koyeb.app/litv/litv-longturn14
+寰宇新闻台湾台,https://klxtx.koyeb.app/litv/litv-longturn15
+寰宇财经台,https://klxtx.koyeb.app/litv/litv-longturn23
+TVBS 新闻台,https://klxtx.koyeb.app/litv/4gtv-4gtv072
+三立 iNEWS,https://klxtx.koyeb.app/4gtv/229
+台视新闻台,https://klxtx.koyeb.app/litv/4gtv-4gtv051
+台视财经台,https://klxtx.koyeb.app/litv/4gtv-4gtv056
+东森新闻,https://klxtx.koyeb.app/litv/4gtv-4gtv152
+东森财经新闻,https://klxtx.koyeb.app/litv/4gtv-4gtv153
+非凡新闻台,https://klxtx.koyeb.app/litv/4gtv-4gtv010
+非凡商业台,https://klxtx.koyeb.app/litv/4gtv-4gtv048
+镜电视新闻台,https://klxtx.koyeb.app/litv/4gtv-4gtv075
+CNBC Asia 财经台,https://klxtx.koyeb.app/4gtv/235
+VOA 美国之音,https://klxtx.koyeb.app/litv/litv-ftv03
+DW德国之声,https://klxtx.koyeb.app/4gtv/226
+SBN 全球财经台,https://klxtx.koyeb.app/4gtv/224
+半岛国际新闻台,https://klxtx.koyeb.app/litv/litv-ftv10
+第1商业台,https://klxtx.koyeb.app/litv/4gtv-4gtv104
+
+电影戏剧,#genre#
+民视影剧台,https://klxtx.koyeb.app/litv/litv-ftv09
+中视经典台,https://klxtx.koyeb.app/litv/4gtv-4gtv080
+靖天戏剧台,https://klxtx.koyeb.app/litv/4gtv-4gtv058
+靖天电影台,https://klxtx.koyeb.app/litv/4gtv-4gtv061
+龙华偶像台,https://klxtx.koyeb.app/litv/litv-longturn12
+龙华戏剧台,https://klxtx.koyeb.app/litv/litv-longturn18
+龙华经典台,https://klxtx.koyeb.app/litv/litv-longturn21
+龙华电影台,https://klxtx.koyeb.app/litv/litv-longturn03
+靖洋戏剧台,https://klxtx.koyeb.app/litv/4gtv-4gtv045
+TVBS 台剧台,https://klxtx.koyeb.app/4gtv/285
+影迷数位纪实台,https://klxtx.koyeb.app/4gtv/212
+影迷数位电影台,https://klxtx.koyeb.app/litv/4gtv-4gtv011
+AMC 电影台,https://klxtx.koyeb.app/litv/4gtv-4gtv017
+CatchPlay 电影台,https://klxtx.koyeb.app/litv/4gtv-4gtv076
+My Cinema Europe HD 我的欧洲电影,https://klxtx.koyeb.app/4gtv/176
+公视戏剧台,https://klxtx.koyeb.app/litv/4gtv-4gtv042
+采昌影剧台,https://klxtx.koyeb.app/litv/4gtv-4gtv049
+台湾戏剧台,https://klxtx.koyeb.app/litv/litv-longturn22
+戏剧免费看 1台,https://klxtx.koyeb.app/4gtv/270
+戏剧免费看 2台,https://klxtx.koyeb.app/4gtv/244
+经典电影台,https://klxtx.koyeb.app/4gtv/201
+电影免费看 2台,https://klxtx.koyeb.app/4gtv/245
+电影原声台 CMusic,https://klxtx.koyeb.app/4gtv/218
+花系列 经典剧场,https://klxtx.koyeb.app/4gtv/279
+CinemaWorld,https://klxtx.koyeb.app/4gtv/225
+HITS 频道,https://klxtx.koyeb.app/4gtv/186
+Rock Action,https://klxtx.koyeb.app/4gtv/180
+Rock Entertainment,https://klxtx.koyeb.app/4gtv/275
+金光布袋戏,https://klxtx.koyeb.app/4gtv/236
+霹雳布袋戏,https://klxtx.koyeb.app/4gtv/301
+TVBS,https://klxtx.koyeb.app/litv/4gtv-4gtv073
+History 历史频道,https://klxtx.koyeb.app/4gtv/214
+CI 罪案侦查频道,https://klxtx.koyeb.app/4gtv/215
+Smart 知识台,https://klxtx.koyeb.app/litv/litv-longturn19
+AMC 电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv017
+CatchPlay 电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv076
+My Cinema Europe HD 我的欧洲电影,https://kaytse4gtv.koyeb.app/4gtv/176
+公视戏剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv042
+采昌影剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv049
+台湾戏剧台,https://kaytse4gtv.koyeb.app/litv/litv-longturn22
+戏剧免费看 1台,https://kaytse4gtv.koyeb.app/4gtv/270
+戏剧免费看 2台,https://kaytse4gtv.koyeb.app/4gtv/244
+龙华电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn03
+影迷数位纪实台,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/212
+影迷数位电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv011
+影迷数位电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv011
+影迷数位电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv011
+GLOBETROTTER,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
+amc电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
+靖天电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv061
+龙华电影,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn03
+CATCHPLAY电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv076
+龙华电影,http://A/ku9/js/litvk9.js?id=litv-longturn03
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC 最爱电影,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv017
+CatchPlay 电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv076
+My Cinema Europe HD 我的欧洲电影,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/176
+CinemaWorld,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/225
+AMC 电影台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv017
+My Cinema Europe HD 我的欧洲电影,https://4gtv.livednow.us.kg/4gtv/176\
+电影免费看 2台,https://4gtv.livednow.us.kg/4gtv/245
+影迷数位纪实台,https://4gtv.livednow.us.kg/4gtv/212
+影迷数位电影台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv011
+龙华经典台,https://4gtv.livednow.us.kg/litv/litv-longturn21
+龙华电影台,https://4gtv.livednow.us.kg/litv/litv-longturn03
+靖天电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv061
+龙华偶像台,https://kaytse4gtv.koyeb.app/litv/litv-longturn12
+龙华戏剧台,https://kaytse4gtv.koyeb.app/litv/litv-longturn18
+龙华经典台,https://kaytse4gtv.koyeb.app/litv/litv-longturn21
+龙华电影台,https://kaytse4gtv.koyeb.app/litv/litv-longturn03
+靖洋戏剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv045
+TVBS 台剧台,https://kaytse4gtv.koyeb.app/4gtv/285
+影迷数位纪实台,https://kaytse4gtv.koyeb.app/4gtv/212
+影迷数位电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv011
+经典电影台,https://kaytse4gtv.koyeb.app/4gtv/201
+电影免费看 2台,https://kaytse4gtv.koyeb.app/4gtv/245
+电影原声台 CMusic,https://kaytse4gtv.koyeb.app/4gtv/218
+amc电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv017#https://litv.zapi.us.kg/?id=4gtv-4gtv017#http://61.221.215.25:8800/hls/43/index.m3u8
+CATCHPLAY电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv076#,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+龙华电影台,https://litv.zapi.us.kg/?id=litv-longturn03
+靖天电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv061#https://litv.zapi.us.kg/?id=4gtv-4gtv061
+影迷数位电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv011#https://litv.zapi.us.kg/?id=4gtv-4gtv011
+龙华电影,http://tw.ts138.top/4g/?id=litv-longturn03
+HBO 1,https://tv.iill.top/beesport/HBO_Live_TV
+HBO 2,https://tv.iill.top/beesport/HBO_2_Live_TV
+Cinemax West,https://tv.iill.top/beesport/Cinemax_West_Live_TV
+Great Movies,https://tv.iill.top/beesport/UK_Great_Movies_Live_TV
+Sky Cinema Comedy,https://tv.iill.top/beesport/UK_Sky_Cinema_Comedy_Live_TV
+Sky Cinema Family,https://tv.iill.top/beesport/UK_Sky_Cinema_Family_Live_TV
+龙华电影台,https://tv.iill.top/litv/litv-longturn03
+AMC 最爱电影,https://tv.iill.top/litv/4gtv-4gtv017
+CI 罪案侦查频道,https://tv.iill.top/4gtv/215
+CatchPlay 电影台,https://tv.iill.top/litv/4gtv-4gtv076
+CinemaWorld,https://tv.iill.top/4gtv/225
+影迷数位纪实台,https://tv.iill.top/4gtv/212
+影迷数位电影台,https://tv.iill.top/litv/4gtv-4gtv011
+戏剧免费看 1台,https://tv.iill.top/4gtv/270
+戏剧免费看 2台,https://tv.iill.top/4gtv/244
+电影免费看 2台,https://tv.iill.top/4gtv/245
+经典电影台,https://tv.iill.top/4gtv/201
+视纳华仁纪实频道,https://tv.iill.top/litv/4gtv-4gtv013
+采昌影剧台,https://tv.iill.top/litv/4gtv-4gtv049
+电影原声台 CMusic,https://tv.iill.top/4gtv/218
+视纳华仁纪实频道,https://klxtx.koyeb.app/litv/4gtv-4gtv013
+amc电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv017
+龙华日韩台,https://4gtv.livednow.us.kg/litv/litv-longturn11
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+GTV八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8 
+GTV八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8 
+GTV八大综合台HD,http://61.221.215.25:8800/hls/56/index.m3u8 
+纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+龙华日韩台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn11
+TVBS 综艺台,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/284
+TVBS 欢乐台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv068
+TVBS 精采台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv067
+八大精彩台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv034
+八大综艺台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv039
+龙华日韩,http://tw.ts138.top/4g/?id=litv-longturn11
+ELTA 娱乐台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv070
+民视影剧,http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv09
+龙华日韩,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn11
+八大精彩台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv034
+TVBS 精采台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv067
+TVBS 综艺台,https://4gtv.livednow.us.kg/4gtv/284
+TVBS 欢乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv068
+TVBS 综艺台,https://4gtv.livednow.us.kg/4gtv/284
+TVBS 欢乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv068
+TVBS 精采台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv067
+八大精彩台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv034
+八大综艺台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv039
+TVBS 欢乐台,https://tv.iill.top/litv/4gtv-4gtv068
+TVBS 精采台,https://tv.iill.top/litv/4gtv-4gtv067
+TVBS 综艺台,https://tv.iill.top/4gtv/284
+靖天欢乐台,https://tv.iill.top/litv/4gtv-4gtv054
+靖天综合台,https://tv.iill.top/litv/4gtv-4gtv046
+靖天育乐台,https://tv.iill.top/litv/4gtv-4gtv062
+八大精彩台,https://tv.iill.top/litv/4gtv-4gtv034
+民视综艺台,https://tv.iill.top/litv/4gtv-4gtv004
+民视综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv004
+靖天育乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv062
+靖天欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv054
+龙华日韩台,https://kaytse4gtv.koyeb.app/litv/litv-longturn11
+TVBS 综艺台,https://kaytse4gtv.koyeb.app/4gtv/284
+TVBS 欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv068
+TVBS 精采台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv067
+八大精彩台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv034
+八大综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv039
+ELTA 娱乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv070
+龙华日韩台,https://kaytse4gtv.koyeb.app/litv/litv-longturn11
+TVBS 综艺台,https://kaytse4gtv.koyeb.app/4gtv/284
+TVBS 欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv068
+TVBS 精采台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv067
+八大精彩台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv034
+八大综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv039
+韩国娱乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv016
+民视影剧台,https://kaytse4gtv.koyeb.app/litv/litv-ftv09
+中视经典台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv080
+靖天戏剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv058
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大综艺台,http://tw.ts138.top/4g/?id=4gtv-4gtv039
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+公视戏剧,http://tw.ts138.top/4g/?id=4gtv-4gtv042
+台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
+民视影剧,http://tw.ts138.top/4g/?id=litv-ftv09
+公视戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+龙华戏剧台,https://litv.zapi.us.kg/?id=litv-longturn18
+采昌影剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+采昌影剧,http://tw.ts138.top/4g/?id=4gtv-4gtv049
+靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天戏剧台,http://tw.ts138.top/4g/?id=4gtv-4gtv058
+靖洋戏剧台,http://tw.ts138.top/4g/?id=4gtv-4gtv045#https://litv.zapi.us.kg/?id=4gtv-4gtv045
+台湾戏剧台,http://tw.ts138.top/4g/?id=litv-longturn22
+龙华戏剧,http://tw.ts138.top/4g/?id=litv-longturn18
+非凡商业,http://A/ku9/js/litvk9.js?id=4gtv-4gtv048
+台湾戏剧台,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn22
+靖洋戏剧台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv045
+采昌影剧,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv049
+龙华日韩,http://A/ku9/js/litvk9.js?id=litv-longturn11
+民视影剧,http://A/ku9/js/litvk9.js?id=litv-ftv09
+龙华偶像,http://A/ku9/js/litvk9.js?id=litv-longturn12
+龙华戏剧,http://A/ku9/js/litvk9.js?id=litv-longturn18
+台湾戏剧台,http://A/ku9/js/litvk9.js?id=litv-longturn22
+靖天戏剧台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv058
+采昌影剧,http://A/ku9/js/litvk9.js?id=4gtv-4gtv049
+八大综艺台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv039
+公视戏剧,http://A/ku9/js/litvk9.js?id=4gtv-4gtv042
+靖洋戏剧台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv045
+公视戏剧,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv042
+靖天戏剧台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv058
+龙华偶像台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn12
+龙华偶像,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn12
+无线香港台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+民视影剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-ftv09
+公视戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv042
+采昌影剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv049
+台湾戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn22
+公视戏剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv042
+台湾戏剧台,https://4gtv.livednow.us.kg/litv/litv-longturn22
+民视影剧台,https://4gtv.livednow.us.kg/litv/litv-ftv09
+采昌影剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv049
+靖天戏剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv058
+靖洋戏剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv045
+龙华戏剧台,https://4gtv.livednow.us.kg/litv/litv-longturn18
+龙华日韩台,https://4gtv.livednow.us.kg/litv/litv-longturn11
+龙华偶像台,https://4gtv.livednow.us.kg/litv/litv-longturn12
+TVBS 台剧台,https://4gtv.livednow.us.kg/4gtv/285
+靖天戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv058
+龙华戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn18
+靖洋戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv045
+TVBS 台剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/285
+TVBS 台剧台,https://tv.iill.top/4gtv/285
+三立综合台,https://tv.iill.top/4gtv/169
+靖天戏剧台,https://tv.iill.top/litv/4gtv-4gtv058
+靖天电影台,https://tv.iill.top/litv/4gtv-4gtv061
+靖洋戏剧台,https://tv.iill.top/litv/4gtv-4gtv045
+龙华戏剧台,https://tv.iill.top/litv/litv-longturn18
+龙华日韩台,https://tv.iill.top/litv/litv-longturn11
+八大综艺台,https://tv.iill.top/litv/4gtv-4gtv039
+公视戏剧台,https://tv.iill.top/litv/4gtv-4gtv042
+台湾戏剧台,https://tv.iill.top/litv/litv-longturn22
+民视影剧台,https://tv.iill.top/litv/litv-ftv09
+龙华日韩台,https://klxtx.koyeb.app/litv/litv-longturn11
+TVBS 综艺台,https://klxtx.koyeb.app/4gtv/284
+TVBS 欢乐台,https://klxtx.koyeb.app/litv/4gtv-4gtv068
+TVBS 精采台,https://klxtx.koyeb.app/litv/4gtv-4gtv067
+八大精彩台,https://klxtx.koyeb.app/litv/4gtv-4gtv034
+八大综艺台,https://klxtx.koyeb.app/litv/4gtv-4gtv039
 
 体育频道,#genre#
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
@@ -363,6 +618,20 @@ TechStorm,https://kaytse4gtv.koyeb.app/4gtv/181
 时尚运动X,https://kaytse4gtv.koyeb.app/4gtv/277
 智林体育台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv101
 TraceSports,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv077
+博斯运动一台,https://klxtx.koyeb.app/litv/litv-longturn07
+博斯运动二台,https://klxtx.koyeb.app/litv/litv-longturn08
+博斯无限台,https://klxtx.koyeb.app/litv/litv-longturn10
+博斯无限二台,https://klxtx.koyeb.app/litv/litv-longturn13
+博斯网球台,https://klxtx.koyeb.app/litv/litv-longturn09
+博斯高球台,https://klxtx.koyeb.app/litv/litv-longturn05
+博斯高球二台,https://klxtx.koyeb.app/litv/litv-longturn06
+博斯魅力台,https://klxtx.koyeb.app/litv/litv-longturn04
+GINX Esports TV,https://klxtx.koyeb.app/litv/4gtv-4gtv053
+TechStorm,https://klxtx.koyeb.app/4gtv/181
+时尚运动X,https://klxtx.koyeb.app/4gtv/277
+智林体育台,https://klxtx.koyeb.app/litv/4gtv-4gtv101
+TraceSports,https://klxtx.koyeb.app/litv/4gtv-4gtv077
+
 
 知识频道,#genre#
 达文西频道,http://tw.ts138.top/4g/?id=4gtv-4gtv018#https://litv.zapi.us.kg/?id=4gtv-4gtv018
@@ -459,6 +728,19 @@ Smart 知识台,https://kaytse4gtv.koyeb.app/litv/litv-longturn19
 大爱电视,https://kaytse4gtv.koyeb.app/4gtv/209
 大爱电视2,https://kaytse4gtv.koyeb.app/4gtv/230
 人间卫视,https://kaytse4gtv.koyeb.app/4gtv/210
+民视旅游台,https://klxtx.koyeb.app/litv/litv-ftv07
+ELTA 生活旅游,https://klxtx.koyeb.app/4gtv/237
+ELTV 生活英语,https://klxtx.koyeb.app/litv/litv-longturn20
+亚洲旅游台,https://klxtx.koyeb.app/litv/litv-longturn17
+Global Trekker,https://klxtx.koyeb.app/4gtv/252
+LUXE TV,https://klxtx.koyeb.app/4gtv/175
+Pet Club TV,https://klxtx.koyeb.app/4gtv/182
+TV5MONDE Style,https://klxtx.koyeb.app/4gtv/178
+车迷 TV,https://klxtx.koyeb.app/4gtv/160
+Love Nature,https://klxtx.koyeb.app/4gtv/139
+Fun 探索娱乐台,https://klxtx.koyeb.app/4gtv/274
+幸福空间居家台,https://klxtx.koyeb.app/4gtv/168
+
 
 卡通频道,#genre#
 靖天卡通台,http://tw.ts138.top/4g/?id=4gtv-4gtv044#https://litv.zapi.us.kg/?id=4gtv-4gtv044
@@ -553,8 +835,24 @@ i-Fun 动漫台,https://kaytse4gtv.koyeb.app/litv/litv-ftv15
 超人力霸王整套看,https://kaytse4gtv.koyeb.app/4gtv/278
 MOMO 亲子台,https://kaytse4gtv.koyeb.app/4gtv/231
 LiveABC 互动英语台,https://kaytse4gtv.koyeb.app/4gtv/188
+靖天映画台,https://klxtx.koyeb.app/litv/4gtv-4gtv055
+靖天卡通台,https://klxtx.koyeb.app/litv/4gtv-4gtv044
+龙华卡通台,https://klxtx.koyeb.app/litv/litv-longturn01
+靖洋卡通 Nice Bingo,https://klxtx.koyeb.app/litv/4gtv-4gtv057
+DreamWorks 梦工厂动画,https://klxtx.koyeb.app/4gtv/282
+Nickelodeon,https://klxtx.koyeb.app/4gtv/185
+Nick Jr. 儿童频道,https://klxtx.koyeb.app/4gtv/219
+i-Fun 动漫台,https://klxtx.koyeb.app/litv/litv-ftv15
+儿童卡通台,https://klxtx.koyeb.app/4gtv/269
+精选动漫台,https://klxtx.koyeb.app/4gtv/204
+经典卡通台,https://klxtx.koyeb.app/4gtv/202
+达文西频道,https://klxtx.koyeb.app/litv/4gtv-4gtv018
+超人力霸王整套看,https://klxtx.koyeb.app/4gtv/278
+MOMO 亲子台,https://klxtx.koyeb.app/4gtv/231
+LiveABC 互动英语台,https://klxtx.koyeb.app/4gtv/188
 
-电影综艺,#genre#
+
+综艺,#genre#
 民视综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv004
 中视菁采,http://tw.ts138.top/4g/?id=4gtv-4gtv064#https://litv.zapi.us.kg/?id=4gtv-4gtv064
 中视经典,http://tw.ts138.top/4g/?id=4gtv-4gtv080
@@ -580,7 +878,6 @@ TVBS欢乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv068#https://litv.zapi.us.kg/?i
 靖天资讯台,http://tw.ts138.top/4g/?id=4gtv-4gtv065#https://litv.zapi.us.kg/?id=4gtv-4gtv065
 靖天综合台,http://tw.ts138.top/4g/?id=4gtv-4gtv046
 靖天欢乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv054
-龙华日韩,http://tw.ts138.top/4g/?id=litv-longturn11
 龙华经典,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn21
 古典音乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv059#https://litv.zapi.us.kg/?id=4gtv-4gtv059
 生活英语台,http://tw.ts138.top/4g/?id=litv-longturn20#https://litv.zapi.us.kg/?id=litv-longturn20
@@ -589,9 +886,6 @@ TVBS欢乐台,http://tw.ts138.top/4g/?id=4gtv-4gtv068#https://litv.zapi.us.kg/?i
 客家电视台,http://tw.ts138.top/4g/?id=4gtv-4gtv043#https://litv.zapi.us.kg/?id=4gtv-4gtv043
 爱放动漫,http://tw.ts138.top/4g/?id=litv-ftv15
 民视综艺,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv004
-影迷数位电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv011
-GLOBETROTTER,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
-amc电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
 达文西频道,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv018
 八大精彩台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv034
 八大综艺台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv039
@@ -601,7 +895,6 @@ amc电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
 GinxTV,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv053
 靖天欢乐台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv054
 古典音乐台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv059
-靖天电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv061
 靖天育乐台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv062
 靖天国际台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv063
 中视菁采,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv064
@@ -617,29 +910,16 @@ CATCHPLAY电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv076
 靖天育乐台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv062
 靖天欢乐台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv054
 靖天映画,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv055
-龙华日韩台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn11
-TVBS 综艺台,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/284
-TVBS 欢乐台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv068
-TVBS 精采台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv067
-八大精彩台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv034
-八大综艺台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv039
-ELTA 娱乐台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv070
-民视影剧,http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv09
 爱放动漫,http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv15
 好消息,http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv16
 好消息2台,http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv17
-龙华电影,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn03
-龙华日韩,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn11
 民视台湾台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv001
 民视第一台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv003
 民视综艺,http://A/ku9/js/litvk9.js?id=4gtv-4gtv004
-影迷数位电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv011
 视纳华仁纪实频道,http://A/ku9/js/litvk9.js?id=4gtv-4gtv013
 时尚运动X,http://A/ku9/js/litvk9.js?id=4gtv-4gtv014
 GLOBETROTTER,http://A/ku9/js/litvk9.js?id=4gtv-4gtv016
-amc电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv017
 达文西频道,http://A/ku9/js/litvk9.js?id=4gtv-4gtv018
-八大精彩台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv034
 客家电视台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv043
 靖天综合台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv046
 靖天日本台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv047
@@ -653,13 +933,11 @@ GinxTV,http://A/ku9/js/litvk9.js?id=4gtv-4gtv053
 tvbs精采台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv067
 tvbs欢乐台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv068
 爱尔达娱乐,http://A/ku9/js/litvk9.js?id=4gtv-4gtv070
-CATCHPLAY电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv076
 阿里郎,http://A/ku9/js/litvk9.js?id=4gtv-4gtv079
 中视经典,http://A/ku9/js/litvk9.js?id=4gtv-4gtv080
 爱放动漫,http://A/ku9/js/litvk9.js?id=litv-ftv15
 好消息,http://A/ku9/js/litvk9.js?id=litv-ftv16
 好消息2台,http://A/ku9/js/litvk9.js?id=litv-ftv17
-龙华电影,http://A/ku9/js/litvk9.js?id=litv-longturn03
 龙华经典,http://A/ku9/js/litvk9.js?id=litv-longturn21
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 澳视葡语,http://61.244.22.5/ch2/ch2.live/index.m3u8
@@ -667,7 +945,6 @@ CATCHPLAY电影台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv076
 澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -676,12 +953,6 @@ RTHK33 频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stre
 RTHK34 频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35 频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-GTV八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8 
-GTV八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8 
-GTV八大综合台HD,http://61.221.215.25:8800/hls/56/index.m3u8 
-纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -700,13 +971,6 @@ DW德国之声,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/226
 中视经典台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv080
 靖天电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv061
 龙华经典台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn21
-龙华电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn03
-影迷数位纪实台,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/212
-影迷数位电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv011
-AMC 最爱电影,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv017
-CatchPlay 电影台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv076
-My Cinema Europe HD 我的欧洲电影,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/176
-CinemaWorld,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/225
 HITS 频道,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/186
 Rock Action,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/180
 Rock Entertainment,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/275
@@ -721,16 +985,11 @@ CI 罪案侦查频道,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/215
 大爱电视,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/209
 大爱电视2,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/230
 人间卫视,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/210
-AMC 电影台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv017
 Arirang TV,https://4gtv.livednow.us.kg/litv/4gtv-4gtv079
 Bloomberg TV,https://4gtv.livednow.us.kg/4gtv/283
 CatchPlay 电影台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv076
 CI 罪案侦查频道,https://4gtv.livednow.us.kg/4gtv/215
 Lifetime 娱乐频道,https://4gtv.livednow.us.kg/4gtv/217
-My Cinema Europe HD 我的欧洲电影,https://4gtv.livednow.us.kg/4gtv/176\
-TVBS 精采台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv067
-TVBS 综艺台,https://4gtv.livednow.us.kg/4gtv/284
-TVBS 欢乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv068
 TVBS,https://4gtv.livednow.us.kg/litv/4gtv-4gtv073
 VOA 美国之音,https://4gtv.livednow.us.kg/litv/litv-ftv03
 人间卫视,https://4gtv.livednow.us.kg/4gtv/210
@@ -751,7 +1010,6 @@ VOA 美国之音,https://4gtv.livednow.us.kg/litv/litv-ftv03
 金光布袋戏,https://4gtv.livednow.us.kg/4gtv/236
 原住民族电视台,https://4gtv.livednow.us.kg/4gtv/273
 达文西频道,https://4gtv.livednow.us.kg/litv/4gtv-4gtv018
-电影免费看 2台,https://4gtv.livednow.us.kg/4gtv/245
 电影原声台 CMusic,https://4gtv.livednow.us.kg/4gtv/218
 靖天日本台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv047
 靖天育乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv062
@@ -761,20 +1019,10 @@ VOA 美国之音,https://4gtv.livednow.us.kg/litv/litv-ftv03
 靖天综合台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv046
 靖天欢乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv054
 滚动力 Rollor,https://4gtv.livednow.us.kg/4gtv/249
-影迷数位纪实台,https://4gtv.livednow.us.kg/4gtv/212
-影迷数位电影台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv011
-龙华经典台,https://4gtv.livednow.us.kg/litv/litv-longturn21
-龙华电影台,https://4gtv.livednow.us.kg/litv/litv-longturn03
 霹雳布袋戏,https://4gtv.livednow.us.kg/4gtv/301
 民视综艺台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv004
 靖天育乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv062
 靖天欢乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv054
-龙华日韩台,https://4gtv.livednow.us.kg/litv/litv-longturn11
-TVBS 综艺台,https://4gtv.livednow.us.kg/4gtv/284
-TVBS 欢乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv068
-TVBS 精采台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv067
-八大精彩台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv034
-八大综艺台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv039
 ELTA 娱乐台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv070
 Classica 古典乐,https://4gtv.livednow.us.kg/litv/4gtv-4gtv059
 Lifetime 娱乐频道,https://4gtv.livednow.us.kg/4gtv/217
@@ -782,14 +1030,6 @@ MTV Live HD 音乐频道,https://4gtv.livednow.us.kg/4gtv/213
 Mezzo Live,https://4gtv.livednow.us.kg/litv/4gtv-4gtv083
 猪哥亮歌厅秀,https://4gtv.livednow.us.kg/litv/4gtv-4gtv006
 Trace Urban,https://4gtv.livednow.us.kg/litv/4gtv-4gtv082
-TVBS 欢乐台,https://tv.iill.top/litv/4gtv-4gtv068
-TVBS 精采台,https://tv.iill.top/litv/4gtv-4gtv067
-TVBS 综艺台,https://tv.iill.top/4gtv/284
-靖天欢乐台,https://tv.iill.top/litv/4gtv-4gtv054
-靖天综合台,https://tv.iill.top/litv/4gtv-4gtv046
-靖天育乐台,https://tv.iill.top/litv/4gtv-4gtv062
-八大精彩台,https://tv.iill.top/litv/4gtv-4gtv034
-民视综艺台,https://tv.iill.top/litv/4gtv-4gtv004
 Classica 古典乐,https://tv.iill.top/litv/4gtv-4gtv059
 DW德国之声,https://tv.iill.top/4gtv/226
 ELTA 娱乐台,https://tv.iill.top/litv/4gtv-4gtv070
@@ -797,16 +1037,6 @@ Lifetime 娱乐频道,https://tv.iill.top/4gtv/217
 MTV Live HD 音乐频道,https://tv.iill.top/4gtv/213
 Rock Action,https://tv.iill.top/4gtv/180
 VOA 美国之音,https://tv.iill.top/litv/litv-ftv03
-民视综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv004
-靖天育乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv062
-靖天欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv054
-龙华日韩台,https://kaytse4gtv.koyeb.app/litv/litv-longturn11
-TVBS 综艺台,https://kaytse4gtv.koyeb.app/4gtv/284
-TVBS 欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv068
-TVBS 精采台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv067
-八大精彩台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv034
-八大综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv039
-ELTA 娱乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv070
 Classica 古典乐,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv059
 Lifetime 娱乐频道,https://kaytse4gtv.koyeb.app/4gtv/217
 MTV Live HD 音乐频道,https://kaytse4gtv.koyeb.app/4gtv/213
@@ -831,12 +1061,6 @@ Bloomberg TV,https://kaytse4gtv.koyeb.app/4gtv/283
 民视综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv004
 靖天育乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv062
 靖天欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv054
-龙华日韩台,https://kaytse4gtv.koyeb.app/litv/litv-longturn11
-TVBS 综艺台,https://kaytse4gtv.koyeb.app/4gtv/284
-TVBS 欢乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv068
-TVBS 精采台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv067
-八大精彩台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv034
-八大综艺台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv039
 ELTA 娱乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv070
 Classica 古典乐,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv059
 Lifetime 娱乐频道,https://kaytse4gtv.koyeb.app/4gtv/217
@@ -844,30 +1068,6 @@ MTV Live HD 音乐频道,https://kaytse4gtv.koyeb.app/4gtv/213
 Mezzo Live,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv083
 猪哥亮歌厅秀,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv006
 Trace Urban,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv082
-韩国娱乐台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv016
-民视影剧台,https://kaytse4gtv.koyeb.app/litv/litv-ftv09
-中视经典台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv080
-靖天戏剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv058
-靖天电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv061
-龙华偶像台,https://kaytse4gtv.koyeb.app/litv/litv-longturn12
-龙华戏剧台,https://kaytse4gtv.koyeb.app/litv/litv-longturn18
-龙华经典台,https://kaytse4gtv.koyeb.app/litv/litv-longturn21
-龙华电影台,https://kaytse4gtv.koyeb.app/litv/litv-longturn03
-靖洋戏剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv045
-TVBS 台剧台,https://kaytse4gtv.koyeb.app/4gtv/285
-影迷数位纪实台,https://kaytse4gtv.koyeb.app/4gtv/212
-影迷数位电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv011
-AMC 电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv017
-CatchPlay 电影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv076
-My Cinema Europe HD 我的欧洲电影,https://kaytse4gtv.koyeb.app/4gtv/176
-公视戏剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv042
-采昌影剧台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv049
-台湾戏剧台,https://kaytse4gtv.koyeb.app/litv/litv-longturn22
-戏剧免费看 1台,https://kaytse4gtv.koyeb.app/4gtv/270
-戏剧免费看 2台,https://kaytse4gtv.koyeb.app/4gtv/244
-经典电影台,https://kaytse4gtv.koyeb.app/4gtv/201
-电影免费看 2台,https://kaytse4gtv.koyeb.app/4gtv/245
-电影原声台 CMusic,https://kaytse4gtv.koyeb.app/4gtv/218
 花系列 经典剧场,https://kaytse4gtv.koyeb.app/4gtv/279
 CinemaWorld,https://kaytse4gtv.koyeb.app/4gtv/225
 HITS 频道,https://kaytse4gtv.koyeb.app/4gtv/186
@@ -875,98 +1075,46 @@ Rock Action,https://kaytse4gtv.koyeb.app/4gtv/180
 Rock Entertainment,https://kaytse4gtv.koyeb.app/4gtv/275
 金光布袋戏,https://kaytse4gtv.koyeb.app/4gtv/236
 霹雳布袋戏,https://kaytse4gtv.koyeb.app/4gtv/301
-amc电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv017#https://litv.zapi.us.kg/?id=4gtv-4gtv017#http://61.221.215.25:8800/hls/43/index.m3u8
-CATCHPLAY电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv076#,https://litv.zapi.us.kg/?id=4gtv-4gtv076
-龙华电影台,https://litv.zapi.us.kg/?id=litv-longturn03
-靖天电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv061#https://litv.zapi.us.kg/?id=4gtv-4gtv061
-影迷数位电影台,http://tw.ts138.top/4g/?id=4gtv-4gtv011#https://litv.zapi.us.kg/?id=4gtv-4gtv011
-龙华电影,http://tw.ts138.top/4g/?id=litv-longturn03
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大综艺台,http://tw.ts138.top/4g/?id=4gtv-4gtv039
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-公视戏剧,http://tw.ts138.top/4g/?id=4gtv-4gtv042
-台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
-民视影剧,http://tw.ts138.top/4g/?id=litv-ftv09
-公视戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv042
-龙华戏剧台,https://litv.zapi.us.kg/?id=litv-longturn18
-采昌影剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
-采昌影剧,http://tw.ts138.top/4g/?id=4gtv-4gtv049
-靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
-靖天戏剧台,http://tw.ts138.top/4g/?id=4gtv-4gtv058
-靖洋戏剧台,http://tw.ts138.top/4g/?id=4gtv-4gtv045#https://litv.zapi.us.kg/?id=4gtv-4gtv045
-台湾戏剧台,http://tw.ts138.top/4g/?id=litv-longturn22
-龙华戏剧,http://tw.ts138.top/4g/?id=litv-longturn18
-非凡商业,http://A/ku9/js/litvk9.js?id=4gtv-4gtv048
-台湾戏剧台,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn22
-靖洋戏剧台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv045
-采昌影剧,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv049
-龙华日韩,http://A/ku9/js/litvk9.js?id=litv-longturn11
-民视影剧,http://A/ku9/js/litvk9.js?id=litv-ftv09
-龙华偶像,http://A/ku9/js/litvk9.js?id=litv-longturn12
-龙华戏剧,http://A/ku9/js/litvk9.js?id=litv-longturn18
-台湾戏剧台,http://A/ku9/js/litvk9.js?id=litv-longturn22
-靖天戏剧台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv058
-采昌影剧,http://A/ku9/js/litvk9.js?id=4gtv-4gtv049
-八大综艺台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv039
-公视戏剧,http://A/ku9/js/litvk9.js?id=4gtv-4gtv042
-靖洋戏剧台,http://A/ku9/js/litvk9.js?id=4gtv-4gtv045
-公视戏剧,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv042
-靖天戏剧台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv058
-龙华偶像台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn12
-龙华偶像,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn12
-无线香港台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-民视影剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-ftv09
-公视戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv042
-采昌影剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv049
-台湾戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn22
-公视戏剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv042
-台湾戏剧台,https://4gtv.livednow.us.kg/litv/litv-longturn22
-民视影剧台,https://4gtv.livednow.us.kg/litv/litv-ftv09
-采昌影剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv049
-靖天戏剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv058
-靖洋戏剧台,https://4gtv.livednow.us.kg/litv/4gtv-4gtv045
-龙华戏剧台,https://4gtv.livednow.us.kg/litv/litv-longturn18
-龙华日韩台,https://4gtv.livednow.us.kg/litv/litv-longturn11
-龙华偶像台,https://4gtv.livednow.us.kg/litv/litv-longturn12
-TVBS 台剧台,https://4gtv.livednow.us.kg/4gtv/285
-靖天戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv058
-龙华戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn18
-靖洋戏剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/4gtv-4gtv045
-TVBS 台剧台,http://45.145.229.220:8080/http:/127.0.0.1:5000/4gtv/285
-HBO 1,https://tv.iill.top/beesport/HBO_Live_TV
-HBO 2,https://tv.iill.top/beesport/HBO_2_Live_TV
-Cinemax West,https://tv.iill.top/beesport/Cinemax_West_Live_TV
-Great Movies,https://tv.iill.top/beesport/UK_Great_Movies_Live_TV
-Sky Cinema Comedy,https://tv.iill.top/beesport/UK_Sky_Cinema_Comedy_Live_TV
-Sky Cinema Family,https://tv.iill.top/beesport/UK_Sky_Cinema_Family_Live_TV
 ITV 1,https://tv.iill.top/beesport/ITV_1
 ITV 2,https://tv.iill.top/beesport/ITV_2
 ITV 3,https://tv.iill.top/beesport/ITV_3
 ITV 4,https://tv.iill.top/beesport/ITV_4
-TVBS 台剧台,https://tv.iill.top/4gtv/285
-三立综合台,https://tv.iill.top/4gtv/169
-靖天戏剧台,https://tv.iill.top/litv/4gtv-4gtv058
-靖天电影台,https://tv.iill.top/litv/4gtv-4gtv061
-靖洋戏剧台,https://tv.iill.top/litv/4gtv-4gtv045
-龙华戏剧台,https://tv.iill.top/litv/litv-longturn18
-龙华日韩台,https://tv.iill.top/litv/litv-longturn11
-龙华电影台,https://tv.iill.top/litv/litv-longturn03
-八大综艺台,https://tv.iill.top/litv/4gtv-4gtv039
-公视戏剧台,https://tv.iill.top/litv/4gtv-4gtv042
-台湾戏剧台,https://tv.iill.top/litv/litv-longturn22
-民视影剧台,https://tv.iill.top/litv/litv-ftv09
-AMC 最爱电影,https://tv.iill.top/litv/4gtv-4gtv017
-CI 罪案侦查频道,https://tv.iill.top/4gtv/215
-CatchPlay 电影台,https://tv.iill.top/litv/4gtv-4gtv076
-CinemaWorld,https://tv.iill.top/4gtv/225
-影迷数位纪实台,https://tv.iill.top/4gtv/212
-影迷数位电影台,https://tv.iill.top/litv/4gtv-4gtv011
-戏剧免费看 1台,https://tv.iill.top/4gtv/270
-戏剧免费看 2台,https://tv.iill.top/4gtv/244
-电影免费看 2台,https://tv.iill.top/4gtv/245
-经典电影台,https://tv.iill.top/4gtv/201
-视纳华仁纪实频道,https://tv.iill.top/litv/4gtv-4gtv013
-采昌影剧台,https://tv.iill.top/litv/4gtv-4gtv049
-电影原声台 CMusic,https://tv.iill.top/4gtv/218
+原住民族电视台,https://klxtx.koyeb.app/4gtv/273
+客家电视台,https://klxtx.koyeb.app/litv/4gtv-4gtv043
+滚动力 Rollor,https://klxtx.koyeb.app/4gtv/249
+好消息,https://klxtx.koyeb.app/litv/litv-ftv16
+好消息2台,https://klxtx.koyeb.app/litv/litv-ftv17
+大爱电视,https://klxtx.koyeb.app/4gtv/209
+大爱电视2,https://klxtx.koyeb.app/4gtv/230
+人间卫视,https://klxtx.koyeb.app/4gtv/210
+国会频道1,https://klxtx.koyeb.app/litv/4gtv-4gtv084
+国会频道2,https://klxtx.koyeb.app/litv/4gtv-4gtv085
+东森购物一台,https://klxtx.koyeb.app/4gtv/173
+东森购物二台,https://klxtx.koyeb.app/4gtv/174
+东森购物三台,https://klxtx.koyeb.app/4gtv/287
+东森购物四台,https://klxtx.koyeb.app/4gtv/286
+民视综艺台,https://klxtx.koyeb.app/litv/4gtv-4gtv004
+靖天育乐台,https://klxtx.koyeb.app/litv/4gtv-4gtv062
+靖天欢乐台,https://klxtx.koyeb.app/litv/4gtv-4gtv054
+ELTA 娱乐台,https://klxtx.koyeb.app/litv/4gtv-4gtv070
+Classica 古典乐,https://klxtx.koyeb.app/litv/4gtv-4gtv059
+Lifetime 娱乐频道,https://klxtx.koyeb.app/4gtv/217
+MTV Live HD 音乐频道,https://klxtx.koyeb.app/4gtv/213
+Mezzo Live,https://klxtx.koyeb.app/litv/4gtv-4gtv083
+猪哥亮歌厅秀,https://klxtx.koyeb.app/litv/4gtv-4gtv006
+Trace Urban,https://klxtx.koyeb.app/litv/4gtv-4gtv082
+韩国娱乐台,https://klxtx.koyeb.app/litv/4gtv-4gtv016
+民视,https://klxtx.koyeb.app/litv/4gtv-4gtv002
+民视第一台,https://klxtx.koyeb.app/litv/4gtv-4gtv003
+民视台湾台,https://klxtx.koyeb.app/litv/4gtv-4gtv001
+中视,https://klxtx.koyeb.app/litv/4gtv-4gtv040
+中视菁采台,https://klxtx.koyeb.app/litv/4gtv-4gtv064
+中天亚洲台,https://klxtx.koyeb.app/litv/4gtv-4gtv109
+华视,https://klxtx.koyeb.app/litv/4gtv-4gtv041
+靖天综合台,https://klxtx.koyeb.app/litv/4gtv-4gtv046
+靖天国际台,https://klxtx.koyeb.app/litv/4gtv-4gtv063
+靖天日本台,https://klxtx.koyeb.app/litv/4gtv-4gtv047
+三立综合台,https://klxtx.koyeb.app/4gtv/169
+台视,https://klxtx.koyeb.app/litv/4gtv-4gtv066
+Arirang TV,https://klxtx.koyeb.app/litv/4gtv-4gtv079
+Bloomberg TV,https://klxtx.koyeb.app/4gtv/283
