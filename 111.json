@@ -1,34 +1,24 @@
-	  {
-		"name": "👊【老王汇整，请勿广为外流】👊",
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/douban.json",
-	  },
-	  {
-		"key": "nyys",
+[
+{
 		"name": "优质｜纽约",
-		"type": 3,
-		"api": "csp_XPathFilter",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/ys.json",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/csny.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/ys.json"
 	  },
 	  {
 		"name": "优质｜黑木耳｜无广",
-		"api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+		"api": "https://json.doube.eu.org/app/index.php?site=webheimuer"
 		
 	  },
 	  {
 		"name": "优质｜TwoBT｜T4沐辰",
-		"api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
+		"api": "https://json.doube.eu.org/app/index.php?site=bttwoo"
 		 },
 	  {
 		"name": "优质｜欧乐｜T4沐辰",
-		"api": "https://py.doube.eu.org/api?site=OleVod",
+		"api": "https://py.doube.eu.org/api?site=OleVod"
 		  },
 	  {
 		"name": "优质｜奥特｜无广",
-				"api": "https://auete.pro/",
+				"api": "https://auete.pro/"
 	  },
 	  {
 		"key": "素白白影视",
@@ -38,21 +28,21 @@
 	  },
 	  {
 		"name": "优质｜黑木耳(T4)",
-		"api": "https://tang.hz.cz/power/hme?token=647c28ca",
+		"api": "https://tang.hz.cz/power/hme?token=647c28ca"
 		
 	  },
 	  {
 		"name": "优质｜黑木耳｜直连",
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/api黑木耳.json",
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/api黑木耳.json"
 	  },
 	  {
 		"name": "优质｜欧乐｜T4唐三",
-		"api": "https://tang.hz.cz/power/olelive?token=647c28ca",
+		"api": "https://tang.hz.cz/power/olelive?token=647c28ca"
 		
 	  },
 	  {
 		"name": "优质｜安博｜T4唐三",
-		"api": "https://tang.hz.cz/power/ub18?token=647c28ca",
+		"api": "https://tang.hz.cz/power/ub18?token=647c28ca"
 		
 	  },
 	  {
@@ -63,6 +53,7 @@
 
 	  {
 		"name": "优质｜8K影院",
-		"api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+		"api": "https://xsd.sdzyapi.com/api.php/provide/vod/"
 		
-	  },
+	  }
+	  ]
