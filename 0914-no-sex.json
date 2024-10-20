@@ -49,6 +49,18 @@
 		"style": {"type": "rect", "ratio": 1.77}
 	  },
 	  {
+		"key": "lf_live10_min",
+		"name": " 路飞丨Live",
+		"type": 3,
+		"searchable": 0,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/lf_live10_min-output.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/lf_live.json",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412"
+	  },
+	  {
 		"key": "nyys",
 		"name": "优质｜纽约",
 		"type": 3,
@@ -4728,7 +4740,7 @@
 		"name": "㊙︎｜YOUTUBE",
 		"type": 4,
 		"api": "https://api.paoyun.eu.org/yt/yt001.php",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a812e6d7f82fcba684ff862a1430463e",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
 		"searchable": 1,
 		"changeable": 1,
 		"ext": "海贼王#最新歌曲#动漫#新闻#卡提诺#追剧#爆笑#喜剧#新闻#旅游#播放清单#财神爷我的歌单"
@@ -4738,7 +4750,7 @@
 		"name": "㊙︎｜油管播放列表",
 		"type": 4,
 		"api": "https://api.paoyun.eu.org/ytlb.php",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;a812e6d7f82fcba684ff862a1430463e",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
 		"searchable": 1,
 		"changeable": 1
 	  },

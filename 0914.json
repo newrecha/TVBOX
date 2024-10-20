@@ -31,61 +31,53 @@
 			{"name":"潘迪｜失效","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/pendy.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"--PG新包測試區--","type":0,"url":"","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{
-				"name": "肥羊国内直播",
+				"name": "肥羊.allinone",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u",
+				"url": "http://127.0.0.1:35455/tv.m3u",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "肥羊TPTV",
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			  },
+			  {
+				"name": "肥羊.tptv",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tptv.m3u",
+				"url": "http://127.0.0.1:35455/tptv.m3u",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "肥羊B站直播",
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			  },
+			  {
+				"name": "肥羊.b站直播",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/bililive.m3u",
+				"url": "http://127.0.0.1:35455/bililive.m3u",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "肥羊虎牙一起看",
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			  },
+			  {
+				"name": "肥羊.虎牙直播",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/huyayqk.m3u",
+				"url": "http://127.0.0.1:35455/huyayqk.m3u",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "肥羊斗鱼一起看",
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			  },
+			  {
+				"name": "肥羊.鬥魚直播",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/douyuyqk.m3u",
+				"url": "http://127.0.0.1:35455/douyuyqk.m3u",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "肥羊YY轮播",
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			  },
+			  {
+				"name": "肥羊.yy直播",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/yylunbo.m3u",
+				"url": "http://127.0.0.1:35455/yylunbo.m3u",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "肥羊广东联通",
-				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/gdcucc.m3u",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			  },
 			{
 				"name": "zouming.ipv6",
 				"type": 0,
