@@ -1,7 +1,6 @@
 {
 	"spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;a2caecf3cb7c9cdee3106033668024aa",
 	"logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
-	"wallpaper": "https://picsum.photos/1080/",
 	"sites": [
 	  {
 		"key": "豆瓣",
@@ -12,93 +11,6 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"changeable": 0
-	  },
-	  {
-		"key": "来源",
-		"name": "汇整接口包括：RobYang、饭太硬、OKjack、唐三、茄子库、肥猫、PG佬、qist、高山流水、欧歌、道长、忐忑......还有好多好多github上面分享的前辈"
-	  },
-	  {
-		"key": "网盘配置",
-		"name": "Youtube、网盘、弹幕配置",
-		"type": 3,
-		"api": "csp_Config",
-		"searchable": 1,
-		"changeable": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
-		"style": {"type": "rect", "ratio": 1.5}
-	  },
-	  {
-		"key": "Youtube",
-		"name": "Youtube",
-		"type": 3,
-		"api": "csp_Youtube",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 0,
-		"timeout": 240,
-		"ext": {
-		  "token": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
-		  "json": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/youtube.json",
-		  "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-		  "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-		  "codecs": "",
-		  "proxy": "",
-		  "danmu": true
-		},
-		"style": {"type": "rect", "ratio": 1.77}
-	  },
-	  {
-		"key": "nyys",
-		"name": "优质｜纽约",
-		"type": 3,
-		"api": "csp_XPathFilter",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/ys.json",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/csny.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-	  },
-	  {
-		"key": "金牌影视",
-		"name": "优质｜金牌",
-		"type": 3,
-		"api": "csp_Jpys",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
-	  },
-	  {
-		"key": "文采影视",
-		"name": "优质｜界影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-		"ext": {
-		  "主页url": "https://www.hkybqufgh.com/",
-		  "简介": "</label>&&</div>",
-		  "嗅探词": "m3u8",
-		  "影片类型": "tags\">&&director\">",
-		  "影片状态": "bottom\">&&</div>",
-		  "二次截取": "videoList\":\\[&&\\]",
-		  "数组": "{&&}[不包含:伦理剧]",
-		  "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-		  "标题": "vodName\":\"&&\"",
-		  "副标题": "vodRemarks\":\"&&\"",
-		  "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
-		  "导演": "导演:</div>&&主演",
-		  "主演": "主演:</div>&&别名",
-		  "线路标题": "文采秒播",
-		  "播放数组": "listitem\">&&info\">",
-		  "播放列表": "<a&&</a>",
-		  "倒序": "否",
-		  "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-		  "搜索副标题": "class=\"boottom\"*<div>&&</div",
-		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-		  "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-		}
 	  },
 	  {
 		"key": "push_agent",
