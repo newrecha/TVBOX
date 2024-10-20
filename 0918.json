@@ -42,7 +42,7 @@
 			{"name": "肥羊.b站直播","type": 0,"url": "http://127.0.0.1:35455/bililive.m3u","ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 			{"name": "肥羊.虎牙直播","type": 0,"url": "http://127.0.0.1:35455/huyayqk.m3u","ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 			{"name": "肥羊.鬥魚直播","type": 0,"url": "http://127.0.0.1:35455/douyuyqk.m3u","ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-			{"name": "肥羊.yy直播","type": 0,"url": "http://127.0.0.1:35455/yylunbo.m3u","ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+			{"name": "肥羊.yy直播","type": 0,"url": "http://127.0.0.1:35455/yylunbo.m3u","ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 			
 		],
 		"rules": [
