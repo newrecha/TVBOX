@@ -15,10 +15,6 @@
 		"changeable": 0
 	  },
 	  {
-		"key": "来源",
-		"name": "汇整接口包括：RobYang、饭太硬、OKjack、唐三、茄子库、肥猫、PG佬、qist、高山流水、欧歌、道长、忐忑......还有好多好多github上面分享的前辈"
-	  },
-	  {
 		"key": "网盘配置",
 		"name": "Youtube、网盘、弹幕配置",
 		"type": 3,
