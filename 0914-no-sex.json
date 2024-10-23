@@ -56,19 +56,8 @@
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/csny.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
 	  },
 	  {
-		"key": "金牌影视",
-		"name": "优质｜金牌影院",
-		"type": 3,
-		"api": "csp_Jpys",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
-	  },
-	  {
 		"key": "金牌資源",
-		"name": "优质｜金牌資源",
+		"name": "优质｜金牌影院",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
@@ -94,6 +83,17 @@
 			"分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
 		}
 	},
+	{
+		"key": "金牌影视",
+		"name": "优质｜銀牌影院",
+		"type": 3,
+		"api": "csp_Jpys",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	  },
 	  {
 		"key": "文采影视",
 		"name": "优质｜文采影视",
