@@ -57,7 +57,7 @@
 	  },
 	  {
 		"key": "金牌影视",
-		"name": "优质｜金牌",
+		"name": "优质｜金牌影院",
 		"type": 3,
 		"api": "csp_Jpys",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fanou.txt;md5;13835ee67f338283565ce7f76078be2e",
@@ -67,14 +67,42 @@
 		"changeable": 1
 	  },
 	  {
+		"key": "金牌資源",
+		"name": "优质｜金牌資源",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+		"ext": {
+			"主页url": "https://www.cfkj86.com/",
+			"简介": "</label>&&</div>",
+			"影片类型": "tags\">&&director\">",
+			"影片状态": "bottom\">&&</div>",
+			"二次截取": "videoList\":\\[&&\\]",
+			"数组": "{&&}[不包含:伦理剧]",
+			"图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+			"标题": "vodName\":\"&&\"",
+			"副标题": "vodRemarks\":\"&&\"",
+			"链接": "https://www.cfkj86.com/detail/+vodId\":&&,",
+			"导演": "导演:</div>&&主演",
+			"主演": "主演:</div>&&别名",
+			"线路标题": "寶寳",
+			"播放数组": "listitem\">&&info\">",
+			"播放列表": "<a&&</a>",
+			"倒序": "否",
+			"搜索url": "https://www.cfkj86.com/vod/search/{wd}",
+			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+			"分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+		}
+	},
+	  {
 		"key": "文采影视",
-		"name": "优质｜界影视",
+		"name": "优质｜文采影视",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"changeable": 0,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 		"ext": {
-		  "主页url": "https://www.hkybqufgh.com/",
+		  "主页url": "https://www.cfkj86.com/",
 		  "简介": "</label>&&</div>",
 		  "嗅探词": "m3u8",
 		  "影片类型": "tags\">&&director\">",
@@ -84,17 +112,17 @@
 		  "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
 		  "标题": "vodName\":\"&&\"",
 		  "副标题": "vodRemarks\":\"&&\"",
-		  "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
+		  "链接": "https://www.cfkj86.com/detail/+vodId\":&&,",
 		  "导演": "导演:</div>&&主演",
 		  "主演": "主演:</div>&&别名",
 		  "线路标题": "文采秒播",
 		  "播放数组": "listitem\">&&info\">",
 		  "播放列表": "<a&&</a>",
 		  "倒序": "否",
-		  "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+		  "搜索url": "https://www.cfkj86.com/vod/search/{wd}",
 		  "搜索副标题": "class=\"boottom\"*<div>&&</div",
 		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-		  "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+		  "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
 		}
 	  },
 	  {
@@ -4390,6 +4418,17 @@
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/异世界.js"
 	  },
 	  {
+		"key": "Ysj",
+		"name": "动漫｜异世界(飯源)",
+		"type": 3,
+		"api": "csp_Ysj",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1
+	  },
+	  {
 		"key": "drpy_js_58动漫",
 		"name": "动漫｜58动漫",
 		"type": 3,
@@ -4600,17 +4639,6 @@
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/嗷呜动漫.js"
-	  },
-	  {
-		"key": "Ysj",
-		"name": "动漫｜异界",
-		"type": 3,
-		"api": "csp_Ysj",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
 	  },
 	  {
 		"key": "大米动漫",
