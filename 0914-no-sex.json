@@ -240,6 +240,35 @@
         "quickSearch": 1
       },
       {
+        "key": "凯奇影视",
+        "name": "优质｜卡曲",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+          "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
+          "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
+          "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
+        }
+      },
+      {
+        "key": "凯奇追剧",
+        "name": "优质｜凯奇(暫時失效)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
+        "ext": {
+          "简介": "+hl-content-text\">&&</span>",
+          "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
+        }
+      },
+      {
         "key": "zy_闪电资源",
         "name": "优质｜闪电资源",
         "type": 1,
@@ -481,6 +510,17 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "./drpy_js/荐片[优].js"
+      },
+      {
+        "key": "hipy_js_APPV2[模板]1",
+        "name": "🎥｜大米星球｜(失效)",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 1,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/APPV2[模板].js?type=url&params=https://dmz8k4.wiki"
       },
       {
         "key": "420kvm",
@@ -788,6 +828,17 @@
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/圣城影视.json",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
+      },
+      {
+        "key": "hipy_js_宇航影视",
+        "name": "🎥｜宇航影视",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/宇航影视.js"
       },
       {
         "key": "csp_XYQHiker_乐万家影院",
@@ -1831,6 +1882,17 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱优影视[自动].js"
+      },
+      {
+        "key": "997",
+        "name": "🎥｜新視覺｜直連",
+        "type": 3,
+        "api": "csp_Web608",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/1_spider.jar;md5;4effb785314110a70f725b6ba633e6bd",
+        "ext": "https://www.6080yy4.com"
       },
       {
         "key": "hipy_js_新视觉",
@@ -5264,35 +5326,6 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
       },
       {
-        "key": "凯奇影视",
-        "name": "优质｜卡曲(暫時失效)",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-          "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
-          "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-          "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-        }
-      },
-      {
-        "key": "凯奇追剧",
-        "name": "优质｜凯奇(暫時失效)",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-        "ext": {
-          "简介": "+hl-content-text\">&&</span>",
-          "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
-        }
-      },
-      {
         "key": "海纳TV",
         "name": "优质｜海纳(跑不出來)",
         "type": 3,
@@ -5326,17 +5359,6 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
       },
       {
-        "key": "hipy_js_宇航影视",
-        "name": "🎥｜宇航影视｜(失效)",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/宇航影视.js"
-      },
-      {
         "key": "hipy_js_北川影视",
         "name": "🎥｜北川｜(失效)",
         "type": 3,
@@ -5360,7 +5382,7 @@
       },
       {
         "key": "hipy_js_freeok",
-        "name": "🎥｜freeok｜(失效)",
+        "name": "🎥｜freeok｜(壞了)",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
@@ -5368,17 +5390,6 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/freeok.js"
-      },
-      {
-        "key": "hipy_js_APPV2[模板]1",
-        "name": "🎥｜大米星球｜(失效)",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/APPV2[模板].js?type=url&params=https://dmz8k4.wiki"
       },
       {
         "key": "hipy_js_大米星球",
@@ -5454,17 +5465,6 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1
-      },
-      {
-        "key": "997",
-        "name": "🎥｜新視覺｜(失效)",
-        "type": 3,
-        "api": "csp_Web608",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/1_spider.jar;md5;4effb785314110a70f725b6ba633e6bd",
-        "ext": "https://www.6080yy4.com"
       },
       {
         "key": "獨播",
