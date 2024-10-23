@@ -284,6 +284,122 @@
 		  "港台综艺", "日韩综艺", "欧美综艺"
 		]
 	  },
+      {
+		"key": "Net_emby",
+		"name": "🍏 Net┃Emby",
+		"type": 3,
+		"api": "https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "server": "http://net.creativeinfo.org:8096",
+		  "username": "ntest",
+		  "password": "ntest123",
+		  "thread": 0,
+		  "proxy": ""
+		},
+		"changeable": 1
+	  },
+	  {
+		"key": "San_emby",
+		"name": "🍏 San┃Emby",
+		"type": 3,
+		"api": "https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "server": "http://san.creativeinfo.org:8096",
+		  "username": "san",
+		  "password": "san123",
+		  "thread": 0,
+		  "proxy": ""
+		},
+		"changeable": 1
+	  },
+	  {
+		"key": "ISO_emby",
+		"name": "🍏 ISO┃Emby",
+		"type": 3,
+		"api": "https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "server": "http://iso.creativeinfo.org:8096",
+		  "username": "itest",
+		  "password": "itest123",
+		  "thread": 0,
+		  "proxy": ""
+		},
+		"changeable": 1
+	  },
+	  {
+		"key": "HKA_emby",
+		"name": "🍏 HKA┃Emby",
+		"type": 3,
+		"api": "https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "server": "http://hka-emby.aliz.work:8097",
+		  "username": "heqiao",
+		  "password": "601417",
+		  "thread": 0,
+		  "proxy": ""
+		},
+		"changeable": 1
+	  },
+	  {
+		"key": "drpy_js_360影视",
+		"name": "🎖︎｜360",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
+	  },
+	  {
+		"key": "hipy_js_奇珍异兽[官]",
+		"name": "🎖︎｜i奇异",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
+	  },
+	  {
+		"key": "drpy_js_百忙无果",
+		"name": "🎖︎｜M果",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
+	  },
+	  {
+		"key": "drpy_js_腾云驾雾",
+		"name": "🎖︎｜T讯",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
+	  },
+	  {
+		"key": "drpy_js_菜狗",
+		"name": "🎖︎｜S狗",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
+	  },
+	  {
+		"key": "drpy_js_优酷",
+		"name": "🎖︎｜U酷",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
+	  },
 	  {
 		"key": "push_agent",
 		"name": "推送",
