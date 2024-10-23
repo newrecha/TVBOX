@@ -273,6 +273,15 @@
 		}
 	  },
 	  {
+		"key": "墨白影视",
+		"name": "優質｜墨白",
+		"type": 1,
+		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+	  {
 		"key": "zy_闪电资源",
 		"name": "优质｜闪电资源",
 		"type": 1,
@@ -5352,57 +5361,6 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
-	  },
-	  {
-		"key": "hipy_js_文才[资]",
-		"name": "优质｜文才资源(跑不出來)",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才[资].js"
-	  },
-	  {
-		"key": "hipy_js_文才2[资]",
-		"name": "优质｜文采资源(跑不出來)",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
-	  },
-	  {
-		"key": "獨播",
-		"name": "🎥｜獨播 ｜(失效)",
-		"type": 3,
-		"api": "csp_XPathMacFilter",
-		"searchable": 1,
-		"changeable": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/duboku.json"
-	  },
-	  {
-		"key": "墨白影视",
-		"name": "優質｜墨白｜(失效)",
-		"type": 1,
-		"api": "https://nm.xxxc137.top/api.php/provide/vod/",
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1
-	  },
-	  {
-		"key": "hipy_js_掌心世界",
-		"name": "🎥｜掌心｜(失效)",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
 	  },
 	  {
 		"key": "push_agent",
