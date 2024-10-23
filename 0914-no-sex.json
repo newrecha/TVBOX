@@ -3730,6 +3730,34 @@
 		"ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"
 	  },
 	  {
+		"key": "界界影视",
+		"name": "🎥｜界界影视",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+		"ext": {
+			"主页url": "https://www.hkybqufgh.com/",
+			"简介": "</label>&&</div>",
+			"影片类型": "tags\">&&director\">",
+			"影片状态": "bottom\">&&</div>",
+			"二次截取": "videoList\":\\[&&\\]",
+			"数组": "{&&}[不包含:伦理剧]",
+			"图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+			"标题": "vodName\":\"&&\"",
+			"副标题": "vodRemarks\":\"&&\"",
+			"链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
+			"导演": "导演:</div>&&主演",
+			"主演": "主演:</div>&&别名",
+			"线路标题": "寶寳",
+			"播放数组": "listitem\">&&info\">",
+			"播放列表": "<a&&</a>",
+			"倒序": "否",
+			"搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+			"分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+		}
+	},
+	  {
 		"key": "酷云七七",
 		"name": "🎥｜酷云七七",
 		"type": 3,
