@@ -95,35 +95,37 @@
 		"changeable": 1
 	  },
 	  {
-		"key": "文采影视",
-		"name": "优质｜文采影视",
+		"key": "文采",
+		"name": "优质｜銅牌影院",
 		"type": 3,
-		"api": "csp_XBPQ",
-		"changeable": 0,
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-		"ext": {
-		  "主页url": "https://www.cfkj86.com/",
-		  "简介": "</label>&&</div>",
-		  "嗅探词": "m3u8",
-		  "影片类型": "tags\">&&director\">",
-		  "影片状态": "bottom\">&&</div>",
-		  "二次截取": "videoList\":\\[&&\\]",
-		  "数组": "{&&}[不包含:伦理剧]",
-		  "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-		  "标题": "vodName\":\"&&\"",
-		  "副标题": "vodRemarks\":\"&&\"",
-		  "链接": "https://www.cfkj86.com/detail/+vodId\":&&,",
-		  "导演": "导演:</div>&&主演",
-		  "主演": "主演:</div>&&别名",
-		  "线路标题": "文采秒播",
-		  "播放数组": "listitem\">&&info\">",
-		  "播放列表": "<a&&</a>",
-		  "倒序": "否",
-		  "搜索url": "https://www.cfkj86.com/vod/search/{wd}",
-		  "搜索副标题": "class=\"boottom\"*<div>&&</div",
-		  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-		  "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-		}
+		"api": "csp_Jpys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true},
+		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+	  },
+	  {
+		"key": "hipy_js_文才[资]",
+		"name": "优质｜文才资源",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才[资].js"
+	  },
+	  {
+		"key": "hipy_js_文才2[资]",
+		"name": "优质｜文采资源",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
 	  },
 	  {
 		"key": "php_heimuer",
@@ -169,7 +171,7 @@
 	  },
 	  {
 		"key": "素白白影视",
-		"name": "优质｜素白",
+		"name": "优质｜素白白",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
@@ -208,17 +210,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"changeable": 0
-	  },
-	  {
-		"key": "文采",
-		"name": "优质｜文采｜饭源",
-		"type": 3,
-		"api": "csp_Jpys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
 	  },
 	  {
 		"key": "T4-安博",
@@ -1510,28 +1501,6 @@
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/天龙影院.js"
-	  },
-	  {
-		"key": "hipy_js_文才[资]",
-		"name": "🎥｜文才[资]｜T3",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才[资].js"
-	  },
-	  {
-		"key": "hipy_js_文才2[资]",
-		"name": "🎥｜文才2[资]｜T3",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
 	  },
 	  {
 		"key": "hipy_js_木瓜影视",
