@@ -4,14 +4,15 @@
     "wallpaper": "https://picsum.photos/1080/",
     "sites": [
       {
-        "key": "豆瓣",
-        "name": "👊【奉行三民主義，反攻大陸，拯救同胞】👊",
+        "key": "hipy_js_荐片[优]",
+        "name": "👊【奉行三民主義，反攻大陸，拯救同胞】👊",    
         "type": 3,
-        "api": "csp_Douban",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/douban.json",
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
-        "quickSearch": 0,
-        "changeable": 0
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/荐片[优].js"
         },
       {
         "key": "网盘配置",
@@ -516,12 +517,12 @@
         "key": "hipy_js_荐片[优]",
         "name": "🎥｜荐片｜HIPY",
         "type": 3,
-        "api": "./drpy_libs/drpy2.min.js",
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "order_num": 0,
-        "ext": "./drpy_js/荐片[优].js"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/荐片[优].js"
       },
       {
         "key": "hipy_js_APPV2[模板]1",
@@ -2138,6 +2139,18 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/烧火影视[优].js"
       },
       {
+        "key": "hipy_js_4k剧院",
+        "name": "🎥｜4k剧院",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/4k剧院.js"
+      },
+      {
         "key": "hipy_js_飘花影院",
         "name": "🎥｜飘花影院｜T3",
         "type": 3,
@@ -2234,19 +2247,6 @@
         "ext": {
           "分类url": "https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
           "分类"   : "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"
-        }
-      },
-      {
-        "key": "junjun",
-        "name": "🎥｜君君",
-        "type": 3,
-        "searchable": 1,
-        "quickSearch": 1,
-        "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/drpy_js/appys.js",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "ext": {
-          "host": "http://122.228.85.203:1000/api.php/app/",
-          "*": ["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]
         }
       },
       {
@@ -2960,17 +2960,6 @@
           "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html;;d0",
           "分类": "电视剧$dianshiji#电影$dianying#动漫$dongmna#综艺$zongyi"
         }
-      },
-      {
-        "key": "旺旺影视",
-        "name": "🎥｜旺旺",
-        "type": 3,
-        "api": "csp_WexNmys",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "playerType": 1,
-        "jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/qdpdwjx/ziyuan/raw/JAR%2Fnmys.jar?ref=master"
       },
       {
         "key": "泥巴影院",
@@ -3958,73 +3947,6 @@
           "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
         }
-      },
-      {
-        "key": "天天弹幕",
-        "name": "弹幕｜天天",
-        "type": 3,
-        "api": "csp_TianTian",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {"danmu": true}
-      },
-      {
-        "key": "南瓜弹幕",
-        "name": "弹幕｜南瓜",
-        "type": 3,
-        "api": "csp_Nangua",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {"danmu": true}
-      },
-      {
-        "key": "文才弹幕",
-        "name": "弹幕｜文才",
-        "type": 3,
-        "api": "csp_Jpys",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {"danmu": true}
-      },
-      {
-        "key": "荐片弹幕",
-        "name": "弹幕｜荐片",
-        "type": 3,
-        "api": "csp_Jianpian",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "playerType": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {"danmu": true}
-      },
-      {
-        "key": "小苹果弹幕",
-        "name": "弹幕｜苹果",
-        "type": 3,
-        "api": "csp_Xpg",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {"danmu": true}
-      },
-      {
-        "key": "机器人弹幕",
-        "name": "弹幕｜机机",
-        "type": 3,
-        "api": "csp_Ikanbot",
-        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {"danmu": true}
       },
       {
         "key": "天堂短剧",
@@ -5394,7 +5316,7 @@
       },
       {
         "key": "hipy_js_大米星球",
-        "name": "🎥｜大米星球｜T3",
+        "name": "🎥｜大米星球｜(失效)",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
@@ -5405,7 +5327,7 @@
       },
       {
         "key": "hipy_js_大米星球[V2]",
-        "name": "🎥｜大米星球[V2]｜T3",
+        "name": "🎥｜大米星球[V2]｜(失效)",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
@@ -5424,18 +5346,6 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/eFuns.js"
-      },
-      {
-        "key": "hipy_js_4k剧院",
-        "name": "🎥｜4k剧院｜(失效)",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/4k剧院.js"
       },
       {
         "key": "drpy_js_免费看",
