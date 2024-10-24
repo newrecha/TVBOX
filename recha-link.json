@@ -1,8 +1,8 @@
 {
 "urls":[
-        {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex.json","name":"追劇專區"},
-        {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914.json","name":"直播專區"},
-        {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"},
+        {"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex.json","name":"追劇專區"},
+        {"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914.json","name":"直播專區"},
+        {"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"},
         {"url":"https://robyang.bsite.net/VodLive/jb8ffa","name":"蜂蜜接口"},
         {"url":"https://9280.kstore.space/wex.json","name":"唐三接口"},
         {"url":"https://raw.githubusercontent.com/805598571/77/f14e81d6a826e7127c36edd2f9dd989a3f1bb4b3/cs.json","name":"撿垃圾之神"}
