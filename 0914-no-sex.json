@@ -277,7 +277,7 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
         "ext": {
           "简介": "+hl-content-text\">&&</span>",
-          "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.kqyy.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
         }
       },
