@@ -270,6 +270,15 @@
         }
       },
       {
+        "key": "低端影视",
+        "name": "优质｜低端",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "changeable": 1,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/ddys.js"
+      },
+      {
         "key": "zy_闪电资源",
         "name": "优质｜闪电资源",
         "type": 1,
@@ -470,16 +479,6 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/低端.js"
       },
       {
-        "key": "低端影视",
-        "name": "🎥｜低端｜T3",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "changeable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/ddys.js"
-      },
-
-      {
         "key": "hipy_js_毒蛇电影[优]",
         "name": "🎥｜毒蛇电影｜HIPY",
         "type": 3,
@@ -503,7 +502,7 @@
       },
       {
         "key": "hipy_js_APPV2[模板]1",
-        "name": "🎥｜大米星球｜(失效)",
+        "name": "🎥｜大米星球",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
