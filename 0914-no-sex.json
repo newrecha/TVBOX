@@ -279,6 +279,16 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/ddys.js"
       },
       {
+        "key": "瓜子｜影视",
+        "name": "优质｜瓜子",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider_20241019.tms;md5;806274c3d65e528bd6479b5a81e04514",
+        "type": 3,
+        "api": "csp_Gz360",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+      },
+      {
         "key": "zy_闪电资源",
         "name": "优质｜闪电资源",
         "type": 1,
@@ -635,16 +645,6 @@
         "filterable": 1,
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
         },
-      {
-        "key": "瓜子｜影视",
-        "name": "🎥｜瓜子",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider_20241019.tms;md5;806274c3d65e528bd6479b5a81e04514",
-        "type": 3,
-        "api": "csp_Gz360",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-      },
       {
         "key": "热播",
         "name": "🎥｜热播",
