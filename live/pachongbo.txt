@@ -59,3 +59,9 @@ YAIWAN,http://211.72.65.236:8538/.m3u8
 大爱,http://211.72.65.236:8507/.m3u8
 HBO,http://211.72.65.236:8580/.m3u8
 AXN,http://211.72.65.236:8582/.m3u8
+肥羊allinone,http://35455.koyeb.app/tv.m3u
+tptv,http://35455.koyeb.app/tptv.m3u
+BiliBili,http://35455.koyeb.app/bililive.m3u
+虎牙一起看,http://35455.koyeb.app/huyayqk.m3u
+斗鱼一起看,http://35455.koyeb.app/douyuyqk.m3u
+YY轮播,http://35455.koyeb.app/yylunbo.m3u
