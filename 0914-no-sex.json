@@ -99,7 +99,6 @@
         "name": "优质｜銅牌影院",
         "type": 3,
         "api": "csp_Jpys",
-        "spider":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType":2,
         "searchable": 1,
         "quickSearch": 1,
