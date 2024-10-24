@@ -103,7 +103,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {"danmu": true},
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "php_heimuer",
@@ -157,7 +157,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://auete.pro/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "素白白影视",
@@ -204,8 +204,8 @@
         "name": "优质｜苹果(饭)",
         "type": 3,
         "api": "csp_LiteApple",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -286,7 +286,7 @@
         "name": "优质｜闪电资源",
         "type": 1,
         "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.jar;md5;2c42532410c381e1c8a5326f5a85e248",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.jar;md5;dc29a25f7393c2c3aa9187a57f708309",
         "searchable": 1,
         "quickSearch": 1,
         "playerType": 2,
@@ -2277,8 +2277,8 @@
         "name": "🎥｜立播",
         "type": 3,
         "api": "csp_Libvio",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -2469,7 +2469,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://www.zxzja.com/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "一个G",
@@ -2678,8 +2678,8 @@
         "name": "🎥｜比特",
         "type": 3,
         "api": "csp_Bttwoo",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -3247,7 +3247,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "唐人",
@@ -3350,7 +3350,7 @@
         "timeout": 15,
         "playerType": 1,
         "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "黑夜影视",
@@ -3791,7 +3791,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "热播之家",
@@ -3833,8 +3833,8 @@
       {
         "key": "贱贱",
         "name": "🎥｜贱贱",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "type": 3,
         "searchable": 1,
@@ -4274,7 +4274,7 @@
         "name": "动漫｜异世界(飯源)",
         "type": 3,
         "api": "csp_Ysj",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -4292,7 +4292,7 @@
         "name": "动漫｜巴士(饭)",
         "type": 3,
         "api": "csp_Dm84",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -4464,7 +4464,7 @@
         "name": "动漫｜日本",
         "type": 3,
         "api": "csp_Anime1",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -4574,8 +4574,8 @@
         "name": "㊙︎｜各种直播",
         "type": 3,
         "api": "csp_Alllive",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -4863,7 +4863,7 @@
         "name": "🧲｜南瓜",
         "type": 3,
         "api": "csp_NanGua",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -5257,7 +5257,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309"
       },
       {
         "key": "hipy_js_文才[资]",
