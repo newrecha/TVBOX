@@ -2376,6 +2376,18 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
       },
       {
+        "key": "csp_TTian_热播_QJ",
+        "name": "🎥｜热播",
+        "type": 3,
+        "api": "csp_TTian",
+        "playerType": 2,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://v.rbotv.cn",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
+      },
+      {
         "key": "XYQHiker_高清MP4",
         "name": "️🎥｜高清MP4",
         "type": 3,
@@ -2766,6 +2778,18 @@
         }
       },
       {
+        "key": "csp_TTian_天天_QJ",
+        "name": "🎥｜天天",
+        "type": 3,
+        "api": "csp_TTian",
+        "playerType": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://op.ysdqjs.cn",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
+      },
+      {
         "key": "好影快看",
         "name": "🎥｜好影",
         "type": 3,
@@ -2844,6 +2868,17 @@
           "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi",
           "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju#爽文短剧$shuangwenduanju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||篮球$lanqiu#足球$zuqiu"
         }
+      },
+      {
+        "key": "hipy_js_freeok",
+        "name": "🎥｜freeok",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/freeok.js"
       },
       {
         "key": "快看影视",
@@ -5251,41 +5286,6 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/干饭影视.js"
-      },
-      {
-        "key": "hipy_js_freeok",
-        "name": "🎥｜freeok｜(壞了)",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/freeok.js"
-      },
-      {
-        "key": "csp_TTian_天天_QJ",
-        "name": "🎥｜天天｜(失效)",
-        "type": 3,
-        "api": "csp_TTian",
-        "playerType": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://op.ysdqjs.cn",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
-      },
-      {
-        "key": "csp_TTian_热播_QJ",
-        "name": "🎥｜热播",
-        "type": 3,
-        "api": "csp_TTian",
-        "playerType": 2,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://v.rbotv.cn",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
       },
       {
         "key": "hipy_js_大米星球",
